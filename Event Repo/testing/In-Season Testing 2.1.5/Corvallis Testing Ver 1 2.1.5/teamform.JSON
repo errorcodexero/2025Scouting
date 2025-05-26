@@ -1,0 +1,185 @@
+{
+    "form": "team",
+    "sections": [
+      {
+        "name": "Start",
+        "items": [
+          {
+            "type": "text",
+            "tag": "team_scouter",
+            "name": "Pit Scouter:",
+            "maxlen": 32
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Swerve",
+              "West Coast",
+              "Mecanum",
+              "Tank",
+              "Other"
+            ],
+            "tag": "db_type",
+            "name": "Drive Base:"
+          }
+        ]
+      },
+      {
+        "name": "Collection",
+        "items": [ 
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_reef_remove",
+            "name": "Algae Reef Removal:"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "L2",
+              "L3",
+              "Both"
+            ],
+            "tag": "pit_reef_collect",
+            "name": "Algae Reef Collection:"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Can"
+            ],
+            "tag": "pit_intake",
+            "name": "Algae Ground Intake:"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Ground",
+              "Station",
+              "Both"
+            ],
+            "tag": "pit_coral_collect",
+            "name": "Coral Collection Method:"
+          }
+        ]
+      },
+      {
+        "name": "Scoring",
+        "items": [ 
+          {
+            "tag" : "a_algae",
+            "name" : "Auto Max Algae:",
+            "type" : "updown",
+            "minimum" : 0,
+            "maximum" : 40,
+            "prefix" : "Auto Max Algae:"
+          },
+          {
+            "tag" : "a_coral",
+            "name" : "Auto Max Coral:",
+            "type" : "updown",
+            "minimum" : 0,
+            "maximum" : 40,
+            "prefix" : "Auto Max Coral: "
+            },
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "L1",
+            "name": "L1:"
+          }, {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "L2",
+            "name": "L2:"
+          },{
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "L3",
+            "name": "L3:"
+          },{
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "L4",
+            "name": "L4:"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_processor",
+            "name": "Score Processor:"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_net",
+            "name": "Score Net:"
+          }
+        ]
+      },
+      {
+        "name": "End",
+        "items": [
+          {
+            "type": "choice",
+            "choices": [
+                 "None",
+                 "Shallow Climb",
+                 "Deep Climb",
+                 "Both Climbs"
+            ],
+            "tag": "pit_Endgame",
+            "name": "Climbs:"
+          },
+          {
+            "maxlen": 200,
+            "name": "Other Notes:",
+            "tag": "pit_Scout_Notes",
+            "type": "text",
+            "cols": 20,
+            "rows": 3
+        }
+        ]
+      }
+    ]
+  }
+  
+  

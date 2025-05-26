@@ -1,0 +1,990 @@
+{
+    "form": "match",
+    "sections": [
+        {
+            "name" : "PreMatch",
+                "items": [
+                    {
+                        "maxlen": 32,
+                        "name": "Scouter Name",
+                        "tag": "match_scouter",
+                        "type": "text"
+                    },
+                    {
+                        "choices": [
+                            "No Show",
+                            "Red Processor Wall",
+                            "Reef (Centerline)",
+                            "Blue Processor Wall"
+                        ],
+                        "name": "Starting Position",
+                        "tag": "start_pos",
+                        "type": "choice"
+                    }
+                ]
+            },
+            {
+            "name" : "Autonomous",
+                "image": "reef2025",
+                "items": [
+                    {
+                        "tag" : "leave",
+                        "name" : "Leave",
+                        "type" : "boolean",
+                        "label" : {
+                            "text" : "Leave",
+                            "x": 130,
+                            "y" : 530,
+                            "width" : 140,
+                            "height" : 40,
+                            "font" : "45px serif"
+                        },                        
+                        "colors" : {
+                            "true" : "green",
+                            "false" : "black"
+                        },
+                        "red" : {
+                            "position" : {
+                                "x" : 50,
+                                "y" : 500
+                            },
+                            "size" : {
+                                "width" : 30,
+                                "height" : 30
+                            }
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 50,
+                                "y" : 500
+                            },
+                            "size" : {
+                                "width" : 40,
+                                "height" : 40
+                            }
+                        }
+                    },
+                    {
+                        "tag" : "a_station",
+                        "name" : "Station Collect",
+                        "type" : "updown", 
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Station Collect: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 20,
+                                "y" : 410
+                            },
+                            "size" : {
+                                "width" : 40,
+                                "height" : 80
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 200,
+                                    "y" : 440
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "40px serif"
+                            } 
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 20,
+                                "y" : 410
+                            },
+                            "size" : {
+                                "width" : 40,
+                                "height" : 80
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 200,
+                                    "y" : 440
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "40px serif"
+                            } 
+                        }
+                    },
+                    {
+                        "tag" : "a_reef_algae",
+                        "name" : "Auto Algae Removed",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Algae Removed: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 590,
+                                "y" : 590
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 830,
+                                    "y" : 620
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 550,
+                                "y" : 590
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 780,
+                                    "y" : 620
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    },
+                    {
+                        "tag" : "auto_net",
+                        "name" : "net",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Net: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 590,
+                                "y" : 500
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 680,
+                                    "y" : 530
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 550,
+                                "y" : 500
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 610,
+                                    "y" : 530
+                                },
+                                "size" : {
+                                    "width" : 160,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    },
+                    {
+                        "tag" : "auto_proc",
+                        "name" : "algae",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Processor: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 590.0,
+                                "y" : 410
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 720,
+                                    "y" : 440
+                                },
+                                "size" : {
+                                    "width" : 210,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 550,
+                                "y" : 410
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 670,
+                                    "y" : 440
+                                },
+                                "size" : {
+                                    "width" : 210,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    },
+                    {
+                        "tag" : "a_l4score",
+                        "name" : "a_l4score",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "L4: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 360
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 390
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 360
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 390
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    },
+                    {
+                        "tag" : "a_l3score",
+                        "name" : "a_l3score",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "L3: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 270
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 300
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 270
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 300
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    },
+                    {
+                        "tag" : "a_l2score",
+                        "name" : "a_l2score",
+                        "type" : "updown",
+                        "prefix" : "L2: ",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "red" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 180
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 210
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 180
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 210
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    },
+                    {
+                        "tag" : "a_l1score",
+                        "name" : "a_l1score",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "L1: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 90
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 120
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 90
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 120
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    }
+                ]
+            },
+            {
+                "name" : "Teleop",
+                "image": "reef2025",
+                "items": [
+                    {
+                        "tag" : "defense",
+                        "name" : "Defense",
+                        "type" : "boolean",
+                        "label" : {
+                            "text" : "Defense",
+                            "x": 140,
+                            "y" : 610,
+                            "width" : 140,
+                            "height" : 40,
+                            "font" : "45px serif"
+                        },                        
+                        "colors" : {
+                            "true" : "green",
+                            "false" : "black"
+                        },
+                        "red" : {
+                            "position" : {
+                                "x" : 50,
+                                "y" : 580
+                            },
+                            "size" : {
+                                "width" : 30,
+                                "height" : 30
+                            }
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 50,
+                                "y" : 580
+                            },
+                            "size" : {
+                                "width" : 40,
+                                "height" : 40
+                            }
+                        }
+                    },
+                    {
+                        "tag" : "tipped",
+                        "name" : "Tipped",
+                        "type" : "boolean",
+                        "label" : {
+                            "text" : "Tipped",
+                            "x": 130,
+                            "y" : 530,
+                            "width" : 140,
+                            "height" : 40,
+                            "font" : "45px serif"
+                        },                        
+                        "colors" : {
+                            "true" : "green",
+                            "false" : "black"
+                        },
+                        "red" : {
+                            "position" : {
+                                "x" : 50,
+                                "y" : 500
+                            },
+                            "size" : {
+                                "width" : 30,
+                                "height" : 30
+                            }
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 50,
+                                "y" : 500
+                            },
+                            "size" : {
+                                "width" : 40,
+                                "height" : 40
+                            }
+                        }
+                    },
+                    {
+                        "tag" : "time_frozen",
+                        "name" : "time_frozen",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 150,
+                        "prefix" : "Sec Frozen: ",
+                        "red" : {
+                            "position" : {
+                                "x": 20,
+                                "y" : 410
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 200,
+                                    "y" : 440
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 20,
+                                "y" : 410
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 200,
+                                    "y" : 440
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    },
+                    {
+                        "tag" : "t_reef_algae",
+                        "name" : "Teleop Algae Removed",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Algae Removed: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 590,
+                                "y" : 590
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 830,
+                                    "y" : 620
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 550,
+                                "y" : 590
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 780,
+                                    "y" : 620
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    },
+                    {
+                        "tag" : "t_net",
+                        "name" : "Tele net",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Net: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 590,
+                                "y" : 500
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 680,
+                                    "y" : 530
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 550,
+                                "y" : 500
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 610,
+                                    "y" : 530
+                                },
+                                "size" : {
+                                    "width" : 160,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    },
+                    {
+                        "tag" : "t_proc",
+                        "name" : "Tele algae",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Processor: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 590.0,
+                                "y" : 410
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 720,
+                                    "y" : 440
+                                },
+                                "size" : {
+                                    "width" : 210,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 550,
+                                "y" : 410
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 670,
+                                    "y" : 440
+                                },
+                                "size" : {
+                                    "width" : 210,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    },
+                    {
+                        "tag" : "T_l4score",
+                        "name" : "T_l4score",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "L4: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 360
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 390
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 360
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 390
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    },
+                    {
+                        "tag" : "T_l3score",
+                        "name" : "T_l3score",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "L3: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 270
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 300
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 270
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 300
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    },
+                    {
+                        "tag" : "T_l2score",
+                        "name" : "T_l2score",
+                        "type" : "updown",
+                        "prefix" : "L2: ",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "red" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 180
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 210
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 180
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 210
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    },
+                    {
+                        "tag" : "T_l1score",
+                        "name" : "T_l1score",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "L1: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 90
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 120
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1060.0,
+                                "y" : 90
+                            },
+                            "size" : {
+                                "width" : 40.0,
+                                "height" : 80.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1130,
+                                    "y" : 120
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "45px serif"
+                            }                            
+                        }
+                    }
+                ]
+            },
+        {
+            "name": "Endgame",
+            "items": [
+                {
+                    "type": "choice",
+                    "choices": [
+                      "None",
+                      "Park",
+                      "Shallow Climb",
+                      "Deep Climb"
+                    ],
+                    "tag": "endgame_Position",
+                    "name": "End Position"
+                  },
+                {
+                    "maxlen": 200,
+                    "name": "Robot Auto Notes:",
+                    "tag": "auto_Notes",
+                    "type": "text",
+                    "cols": 20,
+                    "rows": 3
+                },
+                {
+                    "maxlen": 200,
+                    "name": "Robot Teleop Notes:",
+                    "tag": "t_Notes",
+                    "type": "text",
+                    "cols": 20,
+                    "rows": 3
+                },
+                {
+                    "maxlen": 200,
+                    "name": "Explain Breakdowns/Defense:",
+                    "tag": "d_break_Notes",
+                    "type": "text",
+                    "cols": 20,
+                    "rows": 3
+                }
+            ]
+        }
+    ]
+}

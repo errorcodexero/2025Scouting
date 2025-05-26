@@ -1,0 +1,209 @@
+{
+    "form": "team",
+    "sections": [
+      {
+        "name": "Game",
+        "items": [
+          {
+            "type": "text",
+            "tag": "team_scouter",
+            "name": "Scouter",
+            "maxlen": 32
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Swerve",
+              "West Coast",
+              "Mecanum",
+              "Tank",
+              "Other"
+            ],
+            "tag": "db_type",
+            "name": "Drive Base"
+          }
+        ]
+      },
+      {
+        "name": "Collection",
+        "items": [ 
+          {
+            "type": "choice",
+            "choices": [
+              "Neither",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_reef_remove",
+            "name": "Algae Reef Remove?"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Neither",
+              "L2",
+              "L3",
+              "Both"
+            ],
+            "tag": "pit_reef_collect",
+            "name": "   Where on Reef Can Algae Collect?"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Neither",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_intake",
+            "name": "Algae Ground Intake?"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Neither",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_ground_intake",
+            "name": "Coral Ground Intake?"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Neither",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_coral_source_collect",
+            "name": "Coral Station Collect?"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Neither",
+              "Left",
+              "Middle",
+              "Right"
+            ],
+            "tag": "pit_coral_source_pos",
+            "name": "Coral Station Collect Position?"
+          }
+        ]
+      },
+      {
+        "name": "Scoring",
+        "items": [ 
+          {
+          "tag" : "a_coral",
+          "name" : "Auto Max Coral",
+          "type" : "updown",
+          "minimum" : 0,
+          "maximum" : 40,
+          "prefix" : "Auto Max Coral: "
+          },
+          {
+            "tag" : "a_algae",
+            "name" : "Auto Max Algae",
+            "type" : "updown",
+            "minimum" : 0,
+            "maximum" : 40,
+            "prefix" : "Auto Max Algae "
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Neither",
+              "Auto",
+              "Tele",
+              "Both"
+            ],
+            "tag": "L1",
+            "name": "L1"
+          }, {
+            "type": "choice",
+            "choices": [
+              "Neither",
+              "Auto",
+              "Tele",
+              "Both"
+            ],
+            "tag": "L2",
+            "name": "L2"
+          },{
+            "type": "choice",
+            "choices": [
+              "Neither",
+              "Auto",
+              "Tele",
+              "Both"
+            ],
+            "tag": "L3",
+            "name": "L3"
+          },{
+            "type": "choice",
+            "choices": [
+              "Neither",
+              "Auto",
+              "Tele",
+              "Both"
+            ],
+            "tag": "L4",
+            "name": "L4"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Neither",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_processor",
+            "name": "Score Processor?"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Neither",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_net",
+            "name": "Score Net?"
+          }
+        ]
+      },
+      {
+        "name": "General",
+        "items": [
+          {
+            "type": "choice",
+            "choices": [
+                 "None",
+                 "Park",
+                 "Shallow Climb",
+                 "Deep Climb"
+            ],
+            "tag": "pit_Endgame",
+            "name": "Endgame"
+          },
+          {
+            "maxlen": 200,
+            "name": "Notes",
+            "tag": "pit_Scout_Notes",
+            "type": "text",
+            "cols": 20,
+            "rows": 3
+        }
+        ]
+      }
+    ]
+  }
+  
+  
