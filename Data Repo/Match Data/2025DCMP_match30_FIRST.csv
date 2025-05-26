@@ -1,0 +1,601 @@
+key,comp_level,set_number,match_number,team_key,a_Proc,start_Pos_5isBlue,a_reefAlgae,a_L1,t_Defense,t_timeFrozen,t_reefAlgae,t_Net,t_Proc,t_L4,t_L3,t_L2,t_L1,a_L3,end_Pos,a_L4,auto_Notes,tele_Notes,endgame_Notes,match_Scouter,a_L2,stuck_on_alg,a_Leave,a_Net,no_show,r1,b2,b3,ba_redscore,ba_bluescore,r2,r3,b1
+2025pncmp_qm1,qm,1,1,frc1778,0,4,0,0,0,0,3,3,0,3,3,2,3,0,None,2,great automode with two coral scored.,very well rounded and versatile robot in terms of scoring coral and algae. efficient elevator mechanism and capable of ground collect.,didn't park and kept on contributing to filling up the reef.,naman,0,0,1,0,0,frc1778,frc2412,frc9567,-1,-1,frc6831,frc2910,frc360
+2025pncmp_qm1,qm,1,1,frc6831,0,5,0,0,0,0,1,0,0,0,5,0,1,0,Park,0,Tried to remove algae but failed and missed one from the processor,"Very slow and unrelible intake and placment, but they move fast",continued scoring and parked,Aarush V,0,0,1,0,0,frc1778,frc2412,frc9567,-1,-1,frc6831,frc2910,frc360
+2025pncmp_qm1,qm,1,1,frc2910,0,5,0,0,0,0,0,0,2,3,4,7,2,2,Deep Climb,2,"Auto was really quick, initially placed one coral on l4, and ground collected 3 more coral that is in front of the driver station propping algae","Used extremely quick and efficient ground collect with quick placing cycles. Mostly placed on l2 (7), some on l3 (4), 3 on l4, 2 on l1, and has reliable algae grabbing, and scored 2 in the processor.","At the end (with around 7 seconds left), deep climbed, and extremely quick at the blink of an eye, literally.",Dev Sharma,0,0,1,0,0,frc1778,frc2412,frc9567,-1,-1,frc6831,frc2910,frc360
+2025pncmp_qm1,qm,1,1,frc360,0,4,0,0,0,0,0,0,0,2,0,2,2,0,Deep Climb,2,Jitters when placing in auto,"very inaccurate, missed over 5+ coral when try to place on L4, slow at collecting ",pretty good at deep climb,Cayden,0,0,1,0,0,frc1778,frc2412,frc9567,-1,-1,frc6831,frc2910,frc360
+2025pncmp_qm1,qm,1,1,frc2412,0,1,0,0,1,0,0,0,0,1,0,0,0,0,Deep Climb,0,For their auto they attempted to only score once on l4. But they missed and the coral did not fall out.,"they were innificent an did not adapt well. They scored once then a coral got stuck and they could not do any more coral, then they played some defense which was not that effective. Then they transitioned back. But their was a time where they were not doing anything. ",They were able to climb they had a lot of time to line up but only climbed last second.,Hendrix Day,0,40,1,0,0,frc1778,frc2412,frc9567,-1,-1,frc6831,frc2910,frc360
+2025pncmp_qm1,qm,1,1,frc9567,,,,,,,,,,,,,,,,,,,,,,,,,,frc1778,frc2412,frc9567,-1,-1,frc6831,frc2910,frc360
+2025pncmp_qm10,qm,1,10,frc1425,0,4,0,0,0,0,1,0,0,0,4,2,6,0,Deep Climb,1,somehow only got one coral because robot malfunctioned and drove back to station without even ejecting coral.,amazing and efficient coral cycles on all levels except l4 and we were a great contribution to the team. yaayyy!!,we deep climbed with great timing. not too early or late.,naman,0,0,1,0,0,frc1425,frc2471,frc9446,-1,-1,frc3663,frc2910,frc5937
+2025pncmp_qm10,qm,1,10,frc3663,0,4,0,0,0,0,3,5,0,1,2,3,1,0,Deep Climb,3,3 coral auto; almost placing the 4th,very fast and reliable coral and algae placement,"took the entire endgame to climb, but spared 9 sec",Aarush Vegesna,0,0,1,0,0,frc1425,frc2471,frc9446,-1,-1,frc3663,frc2910,frc5937
+2025pncmp_qm10,qm,1,10,frc2910,0,1,0,0,0,0,2,1,2,4,6,6,6,0,Deep Climb,2,"Auto was good, placed two coral on l4, but wasn't able to ground collect two coral for l3, due to moving algae.","Was really good, had extremely fast cycle time (3 seconds), got a total of 21 coral on the reef. Also removed 2 algae, put those two in the processor, and one algae in the net.",Deep climbed in literally one second.,Dev Sharma,0,0,1,0,0,frc1425,frc2471,frc9446,-1,-1,frc3663,frc2910,frc5937
+2025pncmp_qm10,qm,1,10,frc5937,0,3,1,1,0,0,3,7,2,0,0,0,0,0,Deep Climb,0,Only 1 barge with coral,algae only robot,Deep climb,cayden,0,0,1,1,0,frc1425,frc2471,frc9446,-1,-1,frc3663,frc2910,frc5937
+2025pncmp_qm10,qm,1,10,frc2471,0,4,1,0,0,0,1,0,0,1,4,4,0,1,Park,0,They removed an algae while scoring l3. Attempted station collected,"very fast l2 and l3.others are slower. Very good at removing alage. Slow on other levels. Sometimes inconsistent and volitaile, banging into things missing. Could ground collect pretty good"," parked did not climb, might have failed",Hendrix Day,0,0,1,0,0,frc1425,frc2471,frc9446,-1,-1,frc3663,frc2910,frc5937
+2025pncmp_qm10,qm,1,10,frc9446,0,2,0,0,0,0,0,0,0,3,0,0,2,0,Park,0,"Rewatch, I was not Able to see","had some trouble with accuracy, very close to tipping over because of height",Seemingly made an attempt to climb but ran out of Time,Ave,0,0,0,0,0,frc1425,frc2471,frc9446,-1,-1,frc3663,frc2910,frc5937
+2025pncmp_qm100,qm,1,100,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc4043,frc9036,frc2910,-1,-1,frc3574,frc4469,frc9023
+2025pncmp_qm100,qm,1,100,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc4043,frc9036,frc2910,-1,-1,frc3574,frc4469,frc9023
+2025pncmp_qm100,qm,1,100,frc4469,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc4043,frc9036,frc2910,-1,-1,frc3574,frc4469,frc9023
+2025pncmp_qm100,qm,1,100,frc9023,,,,,,,,,,,,,,,,,,,,,,,,,,frc4043,frc9036,frc2910,-1,-1,frc3574,frc4469,frc9023
+2025pncmp_qm100,qm,1,100,frc9036,,,,,,,,,,,,,,,,,,,,,,,,,,frc4043,frc9036,frc2910,-1,-1,frc3574,frc4469,frc9023
+2025pncmp_qm100,qm,1,100,frc2910,,,,,,,,,,,,,,,,,,,,,,,,,,frc4043,frc9036,frc2910,-1,-1,frc3574,frc4469,frc9023
+2025pncmp_qm11,qm,1,11,frc6831,0,4,0,1,0,0,1,0,0,0,3,0,1,0,Park,0,scored efficiently on two different levels,"decent robot with pretty fast cycles, although their intake mechanism is a little shaky with aligning with their placement system at the coral station making in tricky for the human player for timing coral feeding.",parked,naman,1,0,1,0,0,frc6831,frc7034,frc9036,-1,-1,frc3218,frc6443,frc4450
+2025pncmp_qm11,qm,1,11,frc3218,0,4,1,0,0,0,0,0,0,2,2,2,0,0,Deep Climb,1,missed one,reliable but not fast. ,very very fast,Aarush V,0,1,1,0,0,frc6831,frc7034,frc9036,-1,-1,frc3218,frc6443,frc4450
+2025pncmp_qm11,qm,1,11,frc6443,0,3,0,0,1,0,0,0,0,0,0,0,0,0,Deep Climb,0,Moved forward and missed coral place pretty badly. ,"Tried to collect and place coral, but couldn't even receive coral from station (high unreliability in station collect in general), and didn't place anything. Played defense at the end, wasn't very effective.","Deep climbed at the end, but took around 11 seconds ",Dev Sharma,0,0,1,0,0,frc6831,frc7034,frc9036,-1,-1,frc3218,frc6443,frc4450
+2025pncmp_qm11,qm,1,11,frc4450,0,3,2,1,0,0,2,2,0,0,4,3,0,0,None,0,"missed pre load L4, but made both algae","Very fast at removing the coral and placing in barge, kind of slow at placing coral",slow deep cage climb,cayden,0,0,1,2,0,frc6831,frc7034,frc9036,-1,-1,frc3218,frc6443,frc4450
+2025pncmp_qm11,qm,1,11,frc7034,0,4,0,0,0,0,1,0,0,6,0,3,1,0,Deep Climb,3,Were able to get 3 coral pretty fast and consistent ,"10 ish second cycle, good coral. Dealt with defense. Were not able to collect alage. No ground collect. ",Were able to deep climb in 12s,Hendrix day,0,0,1,0,0,frc6831,frc7034,frc9036,-1,-1,frc3218,frc6443,frc4450
+2025pncmp_qm11,qm,1,11,frc9036,0,1,0,1,0,0,0,0,0,1,5,0,1,0,None,0,"Went forward, placed preloaded coral",quite consistent with placing ,made no attempt to climb ,ave,0,0,1,0,0,frc6831,frc7034,frc9036,-1,-1,frc3218,frc6443,frc4450
+2025pncmp_qm12,qm,1,12,frc10416,0,3,0,0,0,0,3,0,0,1,5,0,0,0,Park,0,attempted l4 but coral landed in middle of the reef.,great contributor to coral scoring and also knocked off coral many times but the entire robot was in danger of tipping over on multiple occasions even with their elevator down.,managed to park.,naman,0,0,1,0,0,frc10416,frc488,frc6343,-1,-1,frc10079,frc360,frc3826
+2025pncmp_qm12,qm,1,12,frc10079,0,1,0,0,0,4,1,0,0,2,3,2,2,0,None,1,they missed one out of 2,"not the fastest, but really reliable ",kept scoring,Aarush V,0,1,1,0,0,frc10416,frc488,frc6343,-1,-1,frc10079,frc360,frc3826
+2025pncmp_qm12,qm,1,12,frc360,0,2,0,0,0,0,2,0,1,5,5,0,0,0,Deep Climb,2,"Auto was good, scored two coral on l4, collected two from station, but ran out of time to place the third coral on l4.","Cycled coral well, placed 5 each on l4 and l3, and removed two algae and put one into the processor. Placing was pretty good and so was algae removal.","Barely deep climbed, and probably didn't count as the robot still partly touched the ground.",Dev Sharma.,0,0,1,0,0,frc10416,frc488,frc6343,-1,-1,frc10079,frc360,frc3826
+2025pncmp_qm12,qm,1,12,frc3826,0,3,0,1,1,0,0,0,0,0,0,0,0,0,Park,0,left and placed L1,"descent at defense, good at pinning against wall","Looks like attached to cage but no climb, park",cayden,0,0,1,0,0,frc10416,frc488,frc6343,-1,-1,frc10079,frc360,frc3826
+2025pncmp_qm12,qm,1,12,frc488,0,5,0,0,0,0,3,0,0,4,5,6,0,0,None,2,they were able to score 2 and collect 2 pretty good. ,9 second cycles 6 for close 12 for far. They took some time to line up. They were pretty good at scoring coral. Were able to remove alage. Did not hae any defense or other robot's getting in the way,just kept on scoring really rushed 3 more in.,Hendrix Day,0,0,1,0,0,frc10416,frc488,frc6343,-1,-1,frc10079,frc360,frc3826
+2025pncmp_qm12,qm,1,12,frc6343,0,1,0,0,0,0,3,0,0,5,5,2,0,0,Park,2,seemed to tryto collect a third but ran out of time,"very accurate, a bit slow but accuracy makes up for it",attempted shallow climb but ran out of time,ave,0,0,1,0,0,frc10416,frc488,frc6343,-1,-1,frc10079,frc360,frc3826
+2025pncmp_qm13,qm,1,13,frc2147,0,3,2,0,0,0,2,2,1,2,3,0,0,0,None,1,scored on l4 and attempted barge but algae flew out of the robot.,"very versatile robot with a plethora of capabilities, those being: efficient barge scoring, can score in processor, and can efficiently score on the reef, however, they got stuck on algae for a bit but were rescued by a teammate.",kept scoring and ignored endgame signal,naman,0,0,1,0,0,frc2147,frc948,frc2976,-1,-1,frc1318,frc3674,frc492
+2025pncmp_qm13,qm,1,13,frc1318,0,1,0,0,0,0,1,0,0,3,2,3,5,0,Deep Climb,2,they missed one,they are very fast and reliable,very fast climb,Aarush V,0,0,1,0,0,frc2147,frc948,frc2976,-1,-1,frc1318,frc3674,frc492
+2025pncmp_qm13,qm,1,13,frc3674,0,4,0,0,0,0,1,0,0,2,5,3,1,0,Deep Climb,2,"Auto was good, swiftly placed coral on l4, then collected another one, placed on l4, and then ran out of time to place the third.","Cycled coral and removed one algae (removal was rolling it off), had a good 7 second cycle time, scoring a total of 11 coral, mostly on l3. Did knock another robot and get stuck on algae for a few seconds though.",Deep climbed in a good 5 seconds.,Dev Sharma,0,3,1,0,0,frc2147,frc948,frc2976,-1,-1,frc1318,frc3674,frc492
+2025pncmp_qm13,qm,1,13,frc492,0,2,0,0,0,0,1,0,0,2,4,2,0,0,Park,1,Missed a 2nd coral,"Missed a couple coral, very slow at removing algae",Trying to climb but not hooked on so park,cayden,0,2,1,0,0,frc2147,frc948,frc2976,-1,-1,frc1318,frc3674,frc492
+2025pncmp_qm13,qm,1,13,frc948,0,3,0,0,0,0,0,0,0,2,1,4,5,0,Deep Climb,0,Coral dropped out then they slamed into the wall.,They were only a coral bot. They were able to score okay with out defense on them. But could ground collect and score l1. They had a different section score for L1 and a different one for higher levels.,Were barely able to climb. But got it.,Hendrix Day,0,0,1,0,0,frc2147,frc948,frc2976,-1,-1,frc1318,frc3674,frc492
+2025pncmp_qm13,qm,1,13,frc2976,0,4,0,0,1,0,1,0,0,0,0,0,0,0,None,0,went forward lifted arm,"Was having troubles with collecting algae so went to the other side, got stuck on algae",Made no attempt just stopped,Aw,0,10,1,0,0,frc2147,frc948,frc2976,-1,-1,frc1318,frc3674,frc492
+2025pncmp_qm14,qm,1,14,frc4125,0,3,0,0,1,0,0,0,0,0,0,0,0,0,Park,0,simply left the start zone,played defense but not the best at it as teams easily weaved around them to feed coral,parked and kinda hovered over the opposing teams processor,naman,0,0,1,0,0,frc4125,frc2046,frc957,-1,-1,frc4469,frc9442,frc9567
+2025pncmp_qm14,qm,1,14,frc4469,0,5,1,1,0,0,1,0,0,3,3,4,0,0,None,0,1 out of 2,"they are slow and not as reliable, but they score well",they kept scoring,Aarush V,0,0,0,0,0,frc4125,frc2046,frc957,-1,-1,frc4469,frc9442,frc9567
+2025pncmp_qm14,qm,1,14,frc9442,0,4,0,0,0,0,4,3,0,3,7,3,0,0,Park,3,"Auto was pretty good, had ground collect and placed 3 coral on l4 quickly","Had a good 5 second cycle time, with a total of 13 coral, mostly on l3, in addition to reliably scoring algae into the net. Had good ground collect that doubled as its placing mechanism.","Parked just in time, speeded into the barge zone.",Dev Sharma,0,0,1,0,0,frc4125,frc2046,frc957,-1,-1,frc4469,frc9442,frc9567
+2025pncmp_qm14,qm,1,14,frc9567,0,3,1,1,0,0,0,0,6,0,0,0,0,0,None,0,they try to collect the algae they de reefed ,"slow but only processed, slow at processing, ",was at processer no park or climb ,cayden,0,0,1,0,0,frc4125,frc2046,frc957,-1,-1,frc4469,frc9442,frc9567
+2025pncmp_qm14,qm,1,14,frc2046,0,4,0,0,0,0,1,1,0,2,5,5,1,0,Park,3,,"Missed 8 coral, but had ground collect and very fast cycles. They missed because they do not have auto aim they do it manual. Very good coral bot also very fast.",kept scoring but zoomed in to park,Hendrix Day,0,0,1,0,0,frc4125,frc2046,frc957,-1,-1,frc4469,frc9442,frc9567
+2025pncmp_qm14,qm,1,14,frc957,0,2,0,0,0,0,0,0,0,5,2,0,0,0,Deep Climb,2,missed once and ran out of time,very consistent missed once while trying lime up  opposite of barge,Qyuite quick to line up ,Aw,0,1,1,0,0,frc4125,frc2046,frc957,-1,-1,frc4469,frc9442,frc9567
+2025pncmp_qm15,qm,1,15,frc2522,0,2,0,0,0,0,1,0,0,2,6,0,0,0,Deep Climb,3,capable of a three coral auto,very efficient robot with many coral scored and also have ground collect capabilities.,capable of deep climb without any shakiness.,naman,0,0,1,0,0,frc2522,frc1540,frc1778,-1,-1,frc3636,frc2557,frc4061
+2025pncmp_qm15,qm,1,15,frc3636,0,1,0,0,0,0,0,0,0,7,4,0,0,0,None,0,they moved forward and a stopped,"they are very fast, but missed one or two. fast cycle and placement ",they kept scoring,Aarush V,0,0,1,0,0,frc2522,frc1540,frc1778,-1,-1,frc3636,frc2557,frc4061
+2025pncmp_qm15,qm,1,15,frc2557,0,3,2,0,0,0,4,3,2,0,0,0,4,0,Park,0,"Removed two algae, and placed one into the net, pretty good auto.","Only cycled algae, and removed 4 algae, put two into the proccessor, and 3 into the net, pretty good algae bot.","Tried to deep climb, but robot fell down.",Dev Sharma,0,0,1,1,0,frc2522,frc1540,frc1778,-1,-1,frc3636,frc2557,frc4061
+2025pncmp_qm15,qm,1,15,frc4061,0,3,0,0,1,0,0,0,0,0,0,0,0,1,Park,0,L3 but did not de reef algae,not really great at defense ,parked ,cayden,0,0,1,0,0,frc2522,frc1540,frc1778,-1,-1,frc3636,frc2557,frc4061
+2025pncmp_qm15,qm,1,15,frc1540,0,4,0,0,0,0,3,3,0,2,4,5,0,0,Deep Climb,2,3 coral close to a 4th,very fast cycles. Missed a couple of times. Ground collected fast and scored fast. Were able to shoot coral to score I l2 which speed things up. Glow up,were able to climb kind of fast,Hendrix Day,0,0,1,0,0,frc2522,frc1540,frc1778,-1,-1,frc3636,frc2557,frc4061
+2025pncmp_qm15,qm,1,15,frc1778,0,3,0,0,0,0,2,1,1,2,6,2,4,1,None,0,"Was good, left placed preloaded coral",Very consistently placed,seemingly made no attempt to climb ,Aw,0,0,0,0,0,frc2522,frc1540,frc1778,-1,-1,frc3636,frc2557,frc4061
+2025pncmp_qm16,qm,1,16,frc4915,0,2,0,0,0,0,0,0,0,2,7,2,2,0,Park,2,almost had a three coral auto but missed by a few hundred milliseconds,versatile coral placement on all levels.,attempted to deep climb but failed.,naman,0,0,1,0,0,frc4915,frc2930,frc997,-1,-1,frc6696,frc9450,frc3574
+2025pncmp_qm16,qm,1,16,frc6696,0,2,1,0,0,0,1,1,0,0,3,5,1,0,Park,1,coral placed then put ,"really slow, lot of uncessary weight, but very reliable",park last second,Aarush,0,0,1,1,0,frc4915,frc2930,frc997,-1,-1,frc6696,frc9450,frc3574
+2025pncmp_qm16,qm,1,16,frc9450,0,4,0,0,0,0,0,3,0,3,0,1,3,0,Deep Climb,1,Wouldve been 3 L4 but two missed. Ground collects from lollipops in auto.,Fairly reliable scoring on L4 and otherv levels. Issue is with ground collector-- it must be lined up jut right or it will wind up losing grip of the gamepiece.,"Didn't seem rushed or stressed when going to climb, managed time well",Sam,0,0,1,0,0,frc4915,frc2930,frc997,-1,-1,frc6696,frc9450,frc3574
+2025pncmp_qm16,qm,1,16,frc3574,0,3,0,0,0,0,1,0,0,0,0,2,4,0,Park,1,just placed L4,"drops coral easy, slow at placement for coral, ",was attached on cage but still touching the ground,cayden,0,0,1,0,0,frc4915,frc2930,frc997,-1,-1,frc6696,frc9450,frc3574
+2025pncmp_qm16,qm,1,16,frc2930,0,2,0,0,0,0,1,0,0,5,5,2,1,0,Deep Climb,1,,Very fast coral 5-7 seconds has ground collect and fast mechanisms. Really struggled to score l1. Could remove alage.,Were able to deep climb decently fast 10-14 seconds to engage and lift.,Hendrix Day,0,0,1,0,0,frc4915,frc2930,frc997,-1,-1,frc6696,frc9450,frc3574
+2025pncmp_qm16,qm,1,16,frc997,0,4,0,0,0,0,0,0,0,1,0,4,0,0,None,0,went forward,quite quick but inaccurate with placing ,Waited till last few second to go over ran out of time,aw,0,0,1,0,0,frc4915,frc2930,frc997,-1,-1,frc6696,frc9450,frc3574
+2025pncmp_qm17,qm,1,17,frc4043,0,5,0,0,0,0,1,0,0,0,4,2,0,0,Deep Climb,2,very slow automode but accurate coral placement.,attempted net but missed twice and grabbed rebound both times and ultimately decided to eject. accurate coral placement tho,managed to deep climb pretty early and pretty comfortably.,naman,0,0,1,0,0,frc4043,frc955,frc6831,-1,-1,frc4512,frc360,frc4513
+2025pncmp_qm17,qm,1,17,frc4512,0,3,0,0,0,0,1,0,0,6,3,2,0,0,Park,1,The made one missed one,They were really fast but not reliable. They score super well,"They parked last minute, with coral posetion",Aarush V,0,0,1,0,0,frc4043,frc955,frc6831,-1,-1,frc4512,frc360,frc4513
+2025pncmp_qm17,qm,1,17,frc360,0,2,0,0,0,0,0,0,0,2,4,2,0,0,Park,2,Aligning for L4 is slow,"Seemed to prioritize lower levels other than L1. L4 scoring may not be reliable, is not fast.",Park only on corner,Sam,0,0,1,0,0,frc4043,frc955,frc6831,-1,-1,frc4512,frc360,frc4513
+2025pncmp_qm17,qm,1,17,frc4513,0,4,0,0,0,0,2,0,0,4,2,4,3,0,Deep Climb,1,missed L4,"missed 1 L4, kina accurate,",deep cage is kind of fast ,cayden,0,0,1,0,0,frc4043,frc955,frc6831,-1,-1,frc4512,frc360,frc4513
+2025pncmp_qm17,qm,1,17,frc955,0,3,1,0,0,5,0,0,0,3,0,2,2,0,Park,0,made one and a stoped,"very slow, and takes a while to align",Parked last second with coral possessions ,Aarush,0,0,1,0,0,frc4043,frc955,frc6831,-1,-1,frc4512,frc360,frc4513
+2025pncmp_qm17,qm,1,17,frc6831,0,2,0,2,0,0,1,0,0,0,4,1,0,0,Park,0,Slow but accurate ,quite consistent with placing ,Did not seem to attempt climb,Aw,0,0,1,0,0,frc4043,frc955,frc6831,-1,-1,frc4512,frc360,frc4513
+2025pncmp_qm18,qm,1,18,frc2976,0,4,0,0,1,0,0,0,0,0,0,0,0,0,None,0,attempted two coral but missed both,played decent defense but didn't affect the other team much,failed to park even tho they weren't preoccupied with anything.,naman,0,0,1,0,0,frc2976,frc4131,frc9036,-1,-1,frc9446,frc488,frc3663
+2025pncmp_qm18,qm,1,18,frc9446,0,1,0,0,0,0,0,0,0,1,0,3,1,0,None,0,tried to place and remove algae but missed both,really slow and unreliable. Basically just wilsonvilles robot but slower and unrliable. dnp,kept scoring,Aarush V,0,0,1,0,0,frc2976,frc4131,frc9036,-1,-1,frc9446,frc488,frc3663
+2025pncmp_qm18,qm,1,18,frc488,0,1,0,0,0,0,4,0,1,3,5,2,1,0,None,2,"Auto was relatively smooth, scored two coral on l4, collected one from station, almost scored 3 coral on l4.","Scored on all 4 levels, mostly l3, cycle time was relatively fast, at around 8 seconds, and placing seems more accurate than before. Also cycled some algae, removed 4 and put one into the processor pretty reliably.",Didn't climb or park as they were still attempting to place more coral on the reef.,Dev Sharma,0,0,1,0,0,frc2976,frc4131,frc9036,-1,-1,frc9446,frc488,frc3663
+2025pncmp_qm18,qm,1,18,frc3663,0,4,0,0,0,0,1,0,0,6,2,3,1,0,Deep Climb,0,missed all coral,"accurate at placing coral, missed 1-2 coral, can do L1 doesn't look reliable, ",easy at deep cage,cayden,0,0,1,0,0,frc2976,frc4131,frc9036,-1,-1,frc9446,frc488,frc3663
+2025pncmp_qm18,qm,1,18,frc4131,0,2,0,1,0,0,0,0,7,0,0,0,0,0,Deep Climb,0,Pushed a coral into L1 then stopped,just focused on alage. Could not get of reef or score in barge. Only alage ground collect into the processor. They scored in the wrong processor once.,were able to climb kind of fast ,Hendrix Day,0,0,1,0,0,frc2976,frc4131,frc9036,-1,-1,frc9446,frc488,frc3663
+2025pncmp_qm18,qm,1,18,frc9036,0,3,0,1,0,0,3,0,0,3,4,1,2,0,Park,0,Went forward place preloaded coral,Consistently placed missed a few times,attempt to shallow climb ran out of time,Aw,0,0,1,0,0,frc2976,frc4131,frc9036,-1,-1,frc9446,frc488,frc3663
+2025pncmp_qm19,qm,1,19,frc6343,0,5,0,0,0,0,1,0,0,1,5,2,0,0,Deep Climb,1,decent auto with only one coral and kinda slow ngl,efficient algae removal and accurate coral placement.,successfully deep climbed although they went to the barge at 25 seconds left so a little early but nevertheless they climbed.,naman,0,0,1,0,0,frc6343,frc2910,frc2046,-1,-1,frc7034,frc948,frc2412
+2025pncmp_qm19,qm,1,19,frc7034,0,5,0,0,0,0,1,0,0,2,4,1,1,0,Deep Climb,2,made 2 out of three due to alignment issues,fast but only 80% reliable. ,very fast climb,Aarush,0,0,1,0,0,frc6343,frc2910,frc2046,-1,-1,frc7034,frc948,frc2412
+2025pncmp_qm19,qm,1,19,frc948,0,3,0,0,0,0,0,0,0,3,0,3,5,0,Deep Climb,0,Just moved forward and didn't do anything else,"Cycled coral, was pretty quick and scored 11 coral in total. Had reliable l2 scoring, but slower l4 scoring. Human feeding/collection was also a little unreliable and had a lower success rate.","Was able to deep climb, but barely off the ground.",Dev Sharma,0,0,1,0,0,frc6343,frc2910,frc2046,-1,-1,frc7034,frc948,frc2412
+2025pncmp_qm19,qm,1,19,frc2412,0,5,0,0,0,0,0,0,0,2,2,3,1,0,Park,2,Only went for two coral auto,"Seemed to strategize well with partners(2910) to prioritize lower level scoring. Design of end affector means a failed score doesn't necessarily drop the coral, they can quickly reattempt ",Attempted climb but ran out of time?,Sam,0,0,1,0,0,frc6343,frc2910,frc2046,-1,-1,frc7034,frc948,frc2412
+2025pncmp_qm19,qm,1,19,frc2910,0,1,0,0,0,0,3,8,0,3,3,3,2,2,Deep Climb,2,Very good and fast. 4 coral takes ground coral with alage on top,"really good at alage, were able to collect and score in the barge consistently and fast. Also really good coral, fast ground collect, fast placing and fast transition. Or of the best bots in this comp",kept scoring and then got to climb 3 second climb,Hendrix Day,0,0,1,0,0,frc6343,frc2910,frc2046,-1,-1,frc7034,frc948,frc2412
+2025pncmp_qm19,qm,1,19,frc2046,0,2,0,0,0,0,1,3,1,3,3,2,3,0,Deep Climb,3,very accurate and quick,"incredibly consistent, quick, and accurate ",Very quick to line up and climb,aw,0,0,1,0,0,frc6343,frc2910,frc2046,-1,-1,frc7034,frc948,frc2412
+2025pncmp_qm2,qm,1,2,frc948,0,3,0,0,0,0,2,0,0,2,2,0,5,0,Park,0,nothing special with the automode,decent robot with good coral scoring capabilities and fast ground collect.,just parked nothin special. i believe the attempted to climb but ran out of time.,naman,0,0,1,0,0,frc948,frc3663,frc9442,-1,-1,frc5468,frc4043,frc3218
+2025pncmp_qm2,qm,1,2,frc5468,0,4,0,0,0,0,0,0,0,3,7,4,0,0,Deep Climb,3,really reliable and smooth,"fast and reliable, able to place everywhere really quickly. Only missed once",Climbed really fast and spent 7 sec in the air,Aarush V,0,0,1,0,0,frc948,frc3663,frc9442,-1,-1,frc5468,frc4043,frc3218
+2025pncmp_qm2,qm,1,2,frc4043,0,5,0,0,0,0,0,0,0,2,0,5,0,0,Deep Climb,2,"Auto was ok, robot moved slowly but smoothly, placed one coral on l4, collected one from the station, placed on l4, ran out of time to collect a third one.","Mainly focused on coral cycles on level 2 (5 coral), and 2 coral on l4. Placing cycles were somewhat slow, and station collect was unreliable, as it took on average, 3-4 tries to get the coral in the robot. However, placing accuracy was not bad.","Drove to barge early, as it took them around 12 seconds for them to position and deep climb.",Dev Sharma,0,0,1,0,0,frc948,frc3663,frc9442,-1,-1,frc5468,frc4043,frc3218
+2025pncmp_qm2,qm,1,2,frc3218,0,3,1,0,0,0,2,0,0,2,5,1,0,0,Deep Climb,1,looked try to remove 2nd algae ,"pretty fast at coral cycles, missed 1 L4, ","Very slow at deep cage, climbed at 25sec ",cayden,0,0,1,0,0,frc948,frc3663,frc9442,-1,-1,frc5468,frc4043,frc3218
+2025pncmp_qm2,qm,1,2,frc3663,0,2,0,0,0,0,2,5,0,3,1,1,4,0,Deep Climb,2,"They were very good and fast, the were able to score 2coral but missed one, they collected a 4th coral though.",they were able to do coral fast and score algae in the barge. Cycle times 4 to 6 seconds ifsmooth to near reef. Longer if they had to go around or another robot got in their way,"good, fast climb. Took less than ten seconds to climb",Hendrix DAY,0,0,1,0,0,frc948,frc3663,frc9442,-1,-1,frc5468,frc4043,frc3218
+2025pncmp_qm2,qm,1,2,frc9442,,,,,,,,,,,,,,,,,,,,,,,,,,frc948,frc3663,frc9442,-1,-1,frc5468,frc4043,frc3218
+2025pncmp_qm20,qm,1,20,frc5937,0,3,1,0,1,0,0,6,0,0,0,0,0,0,Deep Climb,0,missed l1 and removed an algae but dropped the algae as they attempted to shoot in net.,great shots into the net but other than that not much.,deep climb was super low so a little iffy.,naman,0,0,1,0,0,frc5937,frc4469,frc9023,-1,-1,frc2557,frc10079,frc9567
+2025pncmp_qm20,qm,1,20,frc2557,0,4,0,2,0,0,3,4,0,0,0,0,4,0,Deep Climb,0,"they scored 2, close to three","They are kinda slow, very reliable placement of coral and algae, but can only score l1","barely climbed, went in at 10 sec",Aarush V,0,0,1,0,0,frc5937,frc4469,frc9023,-1,-1,frc2557,frc10079,frc9567
+2025pncmp_qm20,qm,1,20,frc10079,0,4,0,0,0,7,0,0,0,6,5,0,0,0,None,3,"Auto was good, scored 3 coral on l4 pretty quick","Ran coral cycles, 6 on l4 and 5 on l3, placing was pretty reliable, and so was station collect. Missed 2-3 coral places however, but transition from collection into placing looked smooth. Solid coral bot.","Didn't climb or park as they were still placing, don't think they can climb.",Dev Sharma,0,0,1,0,0,frc5937,frc4469,frc9023,-1,-1,frc2557,frc10079,frc9567
+2025pncmp_qm20,qm,1,20,frc9567,0,3,1,1,0,0,0,0,3,0,0,0,0,0,Park,0,Only coral scored is the preloaded L1 coral. Nearly didn't get the algae it removed.,Processor algae only bot. Pretty slow.,No climber. Parked deep inside endgame zone.,Sam,0,0,1,0,0,frc5937,frc4469,frc9023,-1,-1,frc2557,frc10079,frc9567
+2025pncmp_qm20,qm,1,20,frc4469,0,4,0,0,0,0,2,1,0,5,4,1,0,0,None,1,Their auto was weird they only got one but they collected one more then stopped,the were able to do alage and coral. Ground collect but they were kind of slow at transitioning and placing. They can score on barge but it was inconsistent,they just kept scoring.,Hendrix Day,0,0,1,0,0,frc5937,frc4469,frc9023,-1,-1,frc2557,frc10079,frc9567
+2025pncmp_qm20,qm,1,20,frc9023,0,2,0,0,0,0,2,0,1,4,3,4,0,0,None,3,Very consistent and accurate ,very accurate and consistent with coral placing,made no attempt ,Aw,0,0,1,0,0,frc5937,frc4469,frc9023,-1,-1,frc2557,frc10079,frc9567
+2025pncmp_qm21,qm,1,21,frc2930,0,4,0,0,0,0,1,0,0,2,4,7,3,0,Deep Climb,2,great automode with two on l4 scored.,extremely fast and versatile with coral scored on all levels and an abundance of cycles completed,deep climbed with a few seconds to spare,naman,0,0,1,0,0,frc2930,frc4061,frc3636,-1,-1,frc492,frc3218,frc4125
+2025pncmp_qm21,qm,1,21,frc492,0,3,0,0,0,0,1,0,0,2,2,3,1,0,Deep Climb,1,placed one then a stoped,"removed in a second, but l1 is very unreliable. Overall a decent speed, but not the best",deep climbed with 3 seconds to spare,Aarush,0,0,1,0,0,frc2930,frc4061,frc3636,-1,-1,frc492,frc3218,frc4125
+2025pncmp_qm21,qm,1,21,frc3218,0,2,1,0,0,0,2,0,3,2,1,1,0,0,None,2,"Auto was good, placed two coral on l4 and removed an algae relatively quick.","Scored 4 coral on the reef, removed two from the reef, and ground collected algae and placed two in the processor. Seems well rounded. Placing time is somewhat slow though, leading for slower cycle times (around 8-9 seconds).","Tried to deep climb at first, but kept on having to reposition, and instead decided to put one more algae in the processor.",Dev Sharma,0,0,1,0,0,frc2930,frc4061,frc3636,-1,-1,frc492,frc3218,frc4125
+2025pncmp_qm21,qm,1,21,frc4125,0,3,0,0,1,0,0,1,0,0,0,0,0,0,None,0,Attempted a coral score but missed,"Defended reasonably well, then is last minute of game scored algae in barge. Barge scoring requires manual alignment is is neither fast nor reliable.",Attempted another barge algae and ran out of time to park.,Sam,0,0,1,0,0,frc2930,frc4061,frc3636,-1,-1,frc492,frc3218,frc4125
+2025pncmp_qm21,qm,1,21,frc4061,0,4,1,0,0,0,1,0,0,0,4,4,2,1,None,0,Their auto is okay they were able to remove an alage an score coral at the same time. They also collected one coral,"station collect, no alge collect only removal. They focused coral in this match. The were pretty good at it but focused l2 and l3. Were kind of fast but their cycles were around 15-20 seconds.",the just kept scoring,Hendrix Day,0,0,1,0,0,frc2930,frc4061,frc3636,-1,-1,frc492,frc3218,frc4125
+2025pncmp_qm21,qm,1,21,frc3636,0,4,0,0,0,0,0,1,0,10,0,2,1,0,None,2,almost made another but ran out of time,very consistent few misses,made no attempt ,aw,0,0,1,0,0,frc2930,frc4061,frc3636,-1,-1,frc492,frc3218,frc4125
+2025pncmp_qm22,qm,1,22,frc4915,0,4,0,0,0,0,1,0,0,4,4,4,0,0,Park,1,only got one coral on auto because it malfunctioned but i believe they're capable of three coral on auto,very versatile robot with great contributions made to the alliance,attempted deep climb but ran out of time.,naman,0,0,1,0,0,frc4915,frc1540,frc4450,-1,-1,frc997,frc2147,frc4512
+2025pncmp_qm22,qm,1,22,frc997,0,4,0,0,0,4,0,0,0,2,0,0,0,0,None,1,they placed one then a stop,They spent their time spinning in circlkes and aimlessly wandering,kept wandering,Aarush V,0,0,0,0,0,frc4915,frc1540,frc4450,-1,-1,frc997,frc2147,frc4512
+2025pncmp_qm22,qm,1,22,frc2147,0,3,1,0,0,0,2,0,2,0,3,0,1,0,None,1,"Placed one coral on l4, and removed one algae, but didn't do anything else, tried to put in barge but algae slipped out of robot.","Mostly removed algae(2), and put two algae in the processor, which looked pretty reliable.",Didn't have space to park or climb.,Dev Sharma,0,0,1,0,0,frc4915,frc1540,frc4450,-1,-1,frc997,frc2147,frc4512
+2025pncmp_qm22,qm,1,22,frc4512,0,1,0,0,0,0,1,1,0,2,2,4,0,0,Park,3,"really a 3.5 coral auto, they're fast",Prioritized lower level scoring,Ran out of time for climb,Sam,0,0,1,0,0,frc4915,frc1540,frc4450,-1,-1,frc997,frc2147,frc4512
+2025pncmp_qm22,qm,1,22,frc1540,0,4,0,0,0,0,1,0,0,4,4,4,1,0,Deep Climb,3,Their auto was great they scored 3 and were 1-2 seconds away from another.,just removed alagethis match. Their coral was pretty good they took 6-8 seconds on most cycles. They were slowed down a little bit because the coral were a little farther away from the reef.,8 second climb no complications.,Hendrix Day,0,0,1,0,0,frc4915,frc1540,frc4450,-1,-1,frc997,frc2147,frc4512
+2025pncmp_qm22,qm,1,22,frc4450,0,3,1,0,0,0,2,0,2,0,3,2,0,0,Park,1,attempted a 2nd algae but didn't pick up,very slow at coral cycles,"climbs at 30sec, and fails to get up, park",cayden,0,0,1,1,0,frc4915,frc1540,frc4450,-1,-1,frc997,frc2147,frc4512
+2025pncmp_qm23,qm,1,23,frc2471,0,2,1,0,0,0,1,0,0,4,4,1,1,0,Deep Climb,0,removed an algae,great coral placement on all levels and very versatile in that field along with algae removal,capable of deep climb fast,naman,0,0,1,0,0,frc2471,frc1318,frc955,-1,-1,frc5468,frc3826,frc6696
+2025pncmp_qm23,qm,1,23,frc5468,0,1,0,0,0,0,1,0,0,6,4,4,0,0,Deep Climb,3,"3 coral auto, very fast","very fast and reliable, did not miss",5 sec deep climb,Aarush V,0,0,1,0,0,frc2471,frc1318,frc955,-1,-1,frc5468,frc3826,frc6696
+2025pncmp_qm23,qm,1,23,frc3826,0,3,0,1,1,0,0,0,0,0,0,0,0,0,Park,0,Moved forward really slow and placed one coral on l1.,"Played defense- didn't play good defense as they were kind of moving around randomly, also had a bad reaction time and let most of the opponents score points.","Parked, and didn't try to climb.",Dev Sharma,0,0,1,0,0,frc2471,frc1318,frc955,-1,-1,frc5468,frc3826,frc6696
+2025pncmp_qm23,qm,1,23,frc6696,0,3,1,0,0,0,1,1,0,2,5,2,1,0,Park,1,place L4 than barge ,"Very accurate, a little slow at collecting, ",park,Cayden,0,0,1,1,0,frc2471,frc1318,frc955,-1,-1,frc5468,frc3826,frc6696
+2025pncmp_qm23,qm,1,23,frc1318,0,4,0,0,0,0,1,1,0,2,5,2,4,0,Deep Climb,2,Good auto almost scored 3 just ran out of time ,they were a solid bot. Were able to score in the net. 10 second cycles score on all levels good. Also consistent and did not miss.,were able to climb,,0,0,0,0,0,frc2471,frc1318,frc955,-1,-1,frc5468,frc3826,frc6696
+2025pncmp_qm23,qm,1,23,frc955,0,2,0,0,1,0,2,0,0,5,1,0,0,0,Park,1,Missed 2 ,intake broke so played d,,Aa,0,0,0,0,0,frc2471,frc1318,frc955,-1,-1,frc5468,frc3826,frc6696
+2025pncmp_qm24,qm,1,24,frc957,0,3,1,0,0,0,1,0,0,2,1,2,0,0,Park,0,I believe they malfunctioned during autonomous,they were frozen for a period of time but came back and did decent,just parked,naman,0,0,1,0,0,frc957,frc10416,frc2522,-1,-1,frc4043,frc1425,frc3574
+2025pncmp_qm24,qm,1,24,frc4043,0,1,0,0,0,0,1,0,0,2,3,4,1,0,Deep Climb,2,2 coral auto? I thought it was three,"fast and acurate, worth picking, didnt miss a single one","their area was bombareded with algea, but they cleared out and scored last minute",Aarush V,0,0,1,0,0,frc957,frc10416,frc2522,-1,-1,frc4043,frc1425,frc3574
+2025pncmp_qm24,qm,1,24,frc1425,0,1,0,0,0,0,1,0,0,3,2,3,5,0,None,2,"Scored two coral on l4, pretty quick, and almost placed a third.","Mostly cycled coral, started with consistent l1 placing, then moved up to l4 and l3, and some coral on l2. Had faster cycles at l2 and l3. Really good team with coral placing. Also removed one algae.",Didn't climb or park as they were still scoring coral.,Dev Sharma,0,0,1,0,0,frc957,frc10416,frc2522,-1,-1,frc4043,frc1425,frc3574
+2025pncmp_qm24,qm,1,24,frc3574,0,3,1,0,1,0,0,0,0,0,0,0,0,0,Deep Climb,0,coral missed and knocked out algae ,not the best defense ,Good timing for deep climb,Cayden ,0,0,1,0,0,frc957,frc10416,frc2522,-1,-1,frc4043,frc1425,frc3574
+2025pncmp_qm24,qm,1,24,frc10416,0,4,0,0,0,0,1,0,0,1,4,0,1,0,Park,1,They scored one coral then stoped ,"Good for a rookie 14-16 cycle time, but had a couple really slow cycles. Had ground collet but it was floopy and took a long time to transition the coral. Did not mess with alage",just went and parked no attempt to climb,Hendrix Day,0,0,1,0,0,frc957,frc10416,frc2522,-1,-1,frc4043,frc1425,frc3574
+2025pncmp_qm24,qm,1,24,frc2522,0,2,0,0,0,0,3,0,0,3,3,3,4,0,Shallow Climb,3,Accurate and quick,"able to take algae off and put coral on at the same time, accurate consistent and quick ",Does not take a long time to line up ,aw,0,0,1,0,0,frc957,frc10416,frc2522,-1,-1,frc4043,frc1425,frc3574
+2025pncmp_qm25,qm,1,25,frc1778,0,2,0,0,0,0,3,3,0,4,9,3,0,0,None,3,great auto mode as they comfortably scored the,extremely versatile robot with many coral scored on all levels,kept scoring,naman,0,0,1,0,0,frc1778,frc4513,frc3674,-1,-1,frc6443,frc9450,frc9442
+2025pncmp_qm25,qm,1,25,frc6443,0,3,0,0,1,0,0,0,0,0,0,0,0,0,Deep Climb,0,tried to remove algae and score l4 but missed both,"played really good defense, some of the best ive seen. defended 2 at once",climbed early on and spent 5 sec in air,Aarush V,0,0,1,0,0,frc1778,frc4513,frc3674,-1,-1,frc6443,frc9450,frc9442
+2025pncmp_qm25,qm,1,25,frc9450,0,4,0,0,0,0,2,2,0,2,3,3,5,0,Deep Climb,3,"Had a good 3 coral auto, placed fast with really good ground collect (3 coral on l4), as well as smooth transition.","Scored a total on 13 coral, with around a 6-7 second cycle time, had good ground collect and fast transitions/placing.","Quickly deep climbed reliably, and had a really good match. Strongly recommend.",Dev Sharma,0,0,1,0,0,frc1778,frc4513,frc3674,-1,-1,frc6443,frc9450,frc9442
+2025pncmp_qm25,qm,1,25,frc9442,0,4,0,0,0,0,4,4,0,4,5,6,0,0,None,2,Missed a lollypop,very accurate with both barge and coral placement ,by the reef no climb or park,cayden,0,0,1,0,0,frc1778,frc4513,frc3674,-1,-1,frc6443,frc9450,frc9442
+2025pncmp_qm25,qm,1,25,frc4513,0,3,0,0,0,17,0,0,0,1,4,1,2,0,Deep Climb,1,"Just went forward, scored than stoped","started the beginning of teleop frozen and also got stuck on an alage momentarily. No alage attempted. Good at coral  10-12 s cycles, good driving.",eere able to climb kind of fast under 12 seconds,Hendrix day,0,6,1,0,0,frc1778,frc4513,frc3674,-1,-1,frc6443,frc9450,frc9442
+2025pncmp_qm25,qm,1,25,frc3674,0,2,0,0,0,0,0,0,0,3,3,3,0,0,Shallow Climb,3,seemed like it tried to collect A forth but ran ouT of time ,"did quite well, Missed once, as well as rolled on top of an algae and Momentarly got stuck",Took a bit of time to line up,aw,0,7,1,0,0,frc1778,frc4513,frc3674,-1,-1,frc6443,frc9450,frc9442
+2025pncmp_qm26,qm,1,26,frc7034,0,4,2,0,0,30,3,3,2,0,0,0,0,0,None,0,2 out of three coral auto,"very fast and reliable, super fast cycle and they went super fast",Froze at the 30 sec mark,Aarush,0,0,1,1,0,frc7034,frc2930,frc2412,-1,-1,frc5937,frc488,frc9036
+2025pncmp_qm26,qm,1,26,frc5937,0,3,0,0,0,1,1,0,0,4,6,1,0,0,Deep Climb,3,"Removed an algae, and scored l4","focused on removing and placing algea, one of the best algae bots","the went in at the 30 sec mark, and barely climbed",Aarush V,0,0,1,0,0,frc7034,frc2930,frc2412,-1,-1,frc5937,frc488,frc9036
+2025pncmp_qm26,qm,1,26,frc488,0,5,0,0,0,0,0,0,0,5,5,0,3,0,Park,1,"Moved swiftly, but could only place one coral as its accuracy at placing on the reef and station collect this match was inaccurate during auto.","Had somewhat consistent coral placing and cycling, with a total of 13 coral, 5 on l4, 5 on l3, and 3 on l1. ","Was able to park, but pretty sure they can't climb as they didn't try to.",Dev Sharma,0,0,1,0,0,frc7034,frc2930,frc2412,-1,-1,frc5937,frc488,frc9036
+2025pncmp_qm26,qm,1,26,frc9036,0,3,0,1,0,0,0,0,0,3,3,0,2,0,Park,0,Just L1,"not fully reliable, losses coral easy, but OK at placing the coral","park, no attempt to climb ",cayden,0,0,1,0,0,frc7034,frc2930,frc2412,-1,-1,frc5937,frc488,frc9036
+2025pncmp_qm26,qm,1,26,frc2930,0,2,0,0,0,0,3,0,0,2,7,5,1,0,Deep Climb,2,Collected a second coral,"They were able to remove alage fast. Very fast coral 3-4 seconds to place, which could equal very fast cycles if the coral is close because they have a fast ground collect and movment. The ground collect is the opposite side of the coral placer.",Were able to climb In 10 seconds,Hendrix day,0,0,1,0,0,frc7034,frc2930,frc2412,-1,-1,frc5937,frc488,frc9036
+2025pncmp_qm26,qm,1,26,frc2412,0,5,0,0,0,0,2,0,2,4,0,5,0,0,Deep Climb,1,Not bad but quite slow,"takes a while to line up placing Coral, asides from that quite good",Took a long time to line up,aw,0,0,1,0,0,frc7034,frc2930,frc2412,-1,-1,frc5937,frc488,frc9036
+2025pncmp_qm27,qm,1,27,frc6831,0,1,0,1,0,0,1,0,0,0,5,2,1,0,None,0,l1 and potentially l2 auto,"can remove alg pretty fast. scoring is pretty good, but becuz of stat collect defense delayed them","parked, trying to score more",olivia,1,0,0,0,0,frc6831,frc4469,frc492,-1,-1,frc948,frc4915,frc4061
+2025pncmp_qm27,qm,1,27,frc948,0,3,0,0,0,0,0,0,0,5,3,2,0,0,Deep Climb,0,A STOPED IN 2 SEC,"they are really smooth, but a little slow but 100% reliable",They deep climbed,Aarush V,0,0,1,0,0,frc6831,frc4469,frc492,-1,-1,frc948,frc4915,frc4061
+2025pncmp_qm27,qm,1,27,frc4915,0,4,0,0,0,0,2,0,0,4,6,0,0,0,Deep Climb,1,"Auto was pretty good, but they missed their first l4 place as an alliance member bumped into to them, but human feeding/collection was good and was able to score on coral on l4. Would've scored at least 2 coral on l4.","Placing mechanism, collection, and transition is really smooth and good, consistent coral placing, but on a couple cycles took a lot of time deciding where to place their loaded coral.","Climbed pretty quick, deep climbed and was well over the ground.",Dev Sharma,0,0,1,0,0,frc6831,frc4469,frc492,-1,-1,frc948,frc4915,frc4061
+2025pncmp_qm27,qm,1,27,frc4061,0,3,0,0,0,0,0,0,0,0,3,4,0,0,None,0,preloaded score failed,"Fast scoring L2 and L3, less reliable with L3 though. L4 was moot",Parked only at last second,Sam,0,0,1,0,0,frc6831,frc4469,frc492,-1,-1,frc948,frc4915,frc4061
+2025pncmp_qm27,qm,1,27,frc4469,0,4,0,0,0,0,3,2,0,6,4,0,0,0,None,1,they could score 3 but they do not attempt to score one time and are just slow the next. Auto only scores one ,Undefended telop 6-8 seconds unless coral Is far away or something messes up. Can score alage in barge but slowly. Very fast coral though with fast transitions and a good ground collect.,kept scoring and ran out of time to park or climb,Hendrix Day,0,0,1,0,0,frc6831,frc4469,frc492,-1,-1,frc948,frc4915,frc4061
+2025pncmp_qm27,qm,1,27,frc492,0,2,0,0,1,0,0,0,0,2,0,0,0,0,Shallow Climb,0,was choppy and slow seemingly attempted but not well,had trouble intaking coral so moved to defense but was bad at defense,took quite a while to line up and climb,aw,0,0,1,0,0,frc6831,frc4469,frc492,-1,-1,frc948,frc4915,frc4061
+2025pncmp_qm28,qm,1,28,frc10079,0,2,0,0,0,86,0,0,0,1,1,0,1,0,Park,3,made all L4,Missed out on a few seconds of the match connection issue?,came back to life and parked,cayden,0,0,1,0,0,frc10079,frc4512,frc6696,-1,-1,frc4450,frc4125,frc2471
+2025pncmp_qm28,qm,1,28,frc4450,0,3,0,0,0,0,3,3,0,4,2,0,1,0,Deep Climb,2,they made all 2,they are fast and they are super reliable. Good for choseing if looking for an algae bot,climbed with 10 sec to spare,Aarush V,0,0,1,0,0,frc10079,frc4512,frc6696,-1,-1,frc4450,frc4125,frc2471
+2025pncmp_qm28,qm,1,28,frc4125,0,5,0,0,1,0,0,0,0,0,1,0,0,0,None,0,"Left, I think they a stopped.","Scored one coral on l3, and played defense. It wasn't very good, and got stuck on algae for the last minute of the match.",Didn't climb or park because they were stuck on algae.,Dev Sharma,0,40,1,0,0,frc10079,frc4512,frc6696,-1,-1,frc4450,frc4125,frc2471
+2025pncmp_qm28,qm,1,28,frc2471,0,4,1,0,0,0,0,0,0,0,9,1,1,0,None,0,Missed two coral,"Strong focus on lower levels, L3 especially","locked on late, started climbing but ran out of time",Sam,0,0,1,0,0,frc10079,frc4512,frc6696,-1,-1,frc4450,frc4125,frc2471
+2025pncmp_qm28,qm,1,28,frc4512,0,1,0,0,0,0,1,0,0,4,2,2,0,0,None,3,the scored three so top tier auto,coral of the bot is kind of fast with good cycles and movement. No ground collect. They struggled with L1 1/4 frequency. They also knocked down other coral on the reef three times. Good coral robot with a couple flaws,just kept scoring.,Hendrix Day,0,0,1,0,0,frc10079,frc4512,frc6696,-1,-1,frc4450,frc4125,frc2471
+2025pncmp_qm28,qm,1,28,frc6696,0,3,1,0,0,0,3,3,0,2,2,0,3,0,Park,1,"slow, accurate ",seemed to have lvl one aim troubles asides from that quite accurate ,made no attempt to climb,aw,0,0,1,1,0,frc10079,frc4512,frc6696,-1,-1,frc4450,frc4125,frc2471
+2025pncmp_qm29,qm,1,29,frc3826,0,1,0,0,1,0,0,0,2,0,0,0,0,0,Park,0,leave only,Not the best defense but better than some teams ,"scary moment when they got hit on the cage, park",cayden,0,0,1,0,0,frc3826,frc9567,frc3663,-1,-1,frc2147,frc10416,frc3574
+2025pncmp_qm29,qm,1,29,frc2147,0,3,2,0,0,0,0,0,0,7,2,2,0,0,Park,1,"They placed a coral and removed 2 algae to score, but missed both",They are really fast and are a great team to pick. only missed once,parked with 2 sec to spare,Aarush,0,0,1,0,0,frc3826,frc9567,frc3663,-1,-1,frc2147,frc10416,frc3574
+2025pncmp_qm29,qm,1,29,frc10416,0,4,1,0,0,0,1,0,0,3,4,1,0,0,Park,1,"Moved, placed on l4, and removed an algae, however stopped after that for some reason.","Mostly cycled coral, has really slow cycle times (around 15 seconds), scoring coral on mostly l3 and l4. Has ground collect, but it has a small catch and is really wobbly, as is the rest of the robot. Would not recommend at all.","Parked at the last second. Recklessly bumped into another alliance member robot that had already climbed, really reckless driving move there.",Dev Sharma.,0,0,1,0,0,frc3826,frc9567,frc3663,-1,-1,frc2147,frc10416,frc3574
+2025pncmp_qm29,qm,1,29,frc3574,0,3,0,0,0,0,1,0,0,0,0,5,1,0,Deep Climb,0,Had preloaded coral but didn't attempt to score it in auto.,"Slow and clunky, appears to have manual elevator control",Did successfully climb ,Sam,0,1,1,0,0,frc3826,frc9567,frc3663,-1,-1,frc2147,frc10416,frc3574
+2025pncmp_qm29,qm,1,29,frc9567,0,5,0,1,0,0,0,0,6,0,0,0,1,0,Park,0,Just scores L1,they can only do l1 and score in the processor. They are very slow and sometimes inconsistent. Would not be a good pick for our team,they just parked,Hendrix Day,0,0,1,0,0,frc3826,frc9567,frc3663,-1,-1,frc2147,frc10416,frc3574
+2025pncmp_qm29,qm,1,29,frc3663,0,2,0,0,0,0,2,0,0,2,6,3,1,0,Shallow Climb,3,"Very quick, accurate ",Very quick missed sometimes but not often ,did not take a long tike to line up and climb,Aw,0,0,1,0,0,frc3826,frc9567,frc3663,-1,-1,frc2147,frc10416,frc3574
+2025pncmp_qm3,qm,1,3,frc3674,0,1,0,0,0,0,0,0,0,4,4,2,0,0,Park,0,attempted level 4 but missed,fast cycle times and very similar to our robot in terms of placement and cycle time.,attempted to deep climb but I believe it was touching the bottom.,naman,0,0,1,0,0,frc3674,frc2976,frc7034,-1,-1,frc997,frc9450,frc1425
+2025pncmp_qm3,qm,1,3,frc997,0,3,0,0,0,0,0,0,0,1,2,4,0,0,None,0,didnt move,"really really really slow placement, but relatively fast movement",continued scoring,Aarush V,0,0,0,0,0,frc3674,frc2976,frc7034,-1,-1,frc997,frc9450,frc1425
+2025pncmp_qm3,qm,1,3,frc9450,0,4,0,0,0,0,4,4,0,6,3,0,0,0,Deep Climb,3,"Auto was good, 3 coral l4 auto, used ground collect and placed efficiently and quickly","At first cycled algae removal and put in net, did this reliably and fast (4 algae), and then cycled coral with great ground collect (6 on l4, 3 on l3). However, twice they knocked their own coral off the reef.","Deep climbed, and did it well within around 5-6 seconds.",Dev Sharma,0,0,1,0,0,frc3674,frc2976,frc7034,-1,-1,frc997,frc9450,frc1425
+2025pncmp_qm3,qm,1,3,frc1425,0,2,0,0,0,0,2,2,0,0,5,4,5,0,Deep Climb,2,Coral fell out on 3rd placement ,"very accurate, did hesitate on one when we collected coral",Fast deep cage,cayden,0,0,1,0,0,frc3674,frc2976,frc7034,-1,-1,frc997,frc9450,frc1425
+2025pncmp_qm3,qm,1,3,frc2976,0,3,0,0,1,66,0,0,0,0,0,0,0,0,Tipped Over,0,They just moved forward and did not score.,"they played defense, were able to mostly block of one coral station for half the time. The other half  they had an issue and could not move. Battery? Or ?",Were not ale to move. Climb possible? ,Hendrix Day,0,0,1,0,0,frc3674,frc2976,frc7034,-1,-1,frc997,frc9450,frc1425
+2025pncmp_qm3,qm,1,3,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc3674,frc2976,frc7034,-1,-1,frc997,frc9450,frc1425
+2025pncmp_qm30,qm,1,30,frc360,0,1,0,0,0,0,0,0,0,3,5,0,0,0,Deep Climb,2,ran out of time for last coral,"missed 5+ coral when placing,",deep cage,cayden,0,0,1,0,0,frc360,frc3674,frc4131,-1,-1,frc2557,frc4513,frc4043
+2025pncmp_qm30,qm,1,30,frc2557,0,3,1,0,0,0,3,0,3,0,0,0,4,0,Deep Climb,0,"tried to remove an algae and score twice, but it only worked once. ",Really good at scoring algae but it can only coral l1,Deep climbed quickly with 2 sec to spare,Aarush,0,0,1,1,0,frc360,frc3674,frc4131,-1,-1,frc2557,frc4513,frc4043
+2025pncmp_qm30,qm,1,30,frc4513,0,4,0,0,0,0,0,0,0,7,2,2,1,0,Deep Climb,0,"Left, and tried to place 3 coral on l4, but all missed terribly.","Had consistent coral placing, with a total of 12 coral, but cycle times weren't that quick, and placing wasn't super reliable, but somewhat reliable.","Deep climbed at the end, but barely got off the ground and I don't think it counted.",Dev Sharma,0,0,1,0,0,frc360,frc3674,frc4131,-1,-1,frc2557,frc4513,frc4043
+2025pncmp_qm30,qm,1,30,frc4043,0,5,0,0,0,0,3,0,0,3,4,2,0,0,Deep Climb,2,Could be faster in auto,Good all around scoring ability. Also did algae removal ,Climbed at last second as it missed grabbing the cage first time around ,Sam,0,0,1,0,0,frc360,frc3674,frc4131,-1,-1,frc2557,frc4513,frc4043
+2025pncmp_qm30,qm,1,30,frc3674,0,1,0,0,0,0,0,0,0,5,5,3,0,0,Deep Climb,3,,7-9 second cycles with a couple of delays some cycles. Are a good coral bot but no capacity for alage. were able to station collect move fast ad place smoothly,Were able to deep climb in under 14 seconds,Hendrix day,0,0,1,0,0,frc360,frc3674,frc4131,-1,-1,frc2557,frc4513,frc4043
+2025pncmp_qm30,qm,1,30,frc4131,0,3,0,0,0,0,0,0,7,0,0,0,0,0,Shallow Climb,1,Placed one made no other attempts ,focused entirely on processer even followed an algae that rolled to the other side,took about five seconds to line up,aw,0,0,1,0,0,frc360,frc3674,frc4131,-1,-1,frc2557,frc4513,frc4043
+2025pncmp_qm31,qm,1,31,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc1778,frc2046,-1,-1,frc997,frc957,frc6343
+2025pncmp_qm31,qm,1,31,frc997,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc1778,frc2046,-1,-1,frc997,frc957,frc6343
+2025pncmp_qm31,qm,1,31,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc1778,frc2046,-1,-1,frc997,frc957,frc6343
+2025pncmp_qm31,qm,1,31,frc6343,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc1778,frc2046,-1,-1,frc997,frc957,frc6343
+2025pncmp_qm31,qm,1,31,frc1778,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc1778,frc2046,-1,-1,frc997,frc957,frc6343
+2025pncmp_qm31,qm,1,31,frc2046,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc1778,frc2046,-1,-1,frc997,frc957,frc6343
+2025pncmp_qm32,qm,1,32,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc1318,frc3218,-1,-1,frc9442,frc2522,frc3636
+2025pncmp_qm32,qm,1,32,frc9442,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc1318,frc3218,-1,-1,frc9442,frc2522,frc3636
+2025pncmp_qm32,qm,1,32,frc2522,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc1318,frc3218,-1,-1,frc9442,frc2522,frc3636
+2025pncmp_qm32,qm,1,32,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc1318,frc3218,-1,-1,frc9442,frc2522,frc3636
+2025pncmp_qm32,qm,1,32,frc1318,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc1318,frc3218,-1,-1,frc9442,frc2522,frc3636
+2025pncmp_qm32,qm,1,32,frc3218,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc1318,frc3218,-1,-1,frc9442,frc2522,frc3636
+2025pncmp_qm33,qm,1,33,frc2910,,,,,,,,,,,,,,,,,,,,,,,,,,frc2910,frc5468,frc2976,-1,-1,frc1540,frc6443,frc955
+2025pncmp_qm33,qm,1,33,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc2910,frc5468,frc2976,-1,-1,frc1540,frc6443,frc955
+2025pncmp_qm33,qm,1,33,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc2910,frc5468,frc2976,-1,-1,frc1540,frc6443,frc955
+2025pncmp_qm33,qm,1,33,frc955,,,,,,,,,,,,,,,,,,,,,,,,,,frc2910,frc5468,frc2976,-1,-1,frc1540,frc6443,frc955
+2025pncmp_qm33,qm,1,33,frc5468,,,,,,,,,,,,,,,,,,,,,,,,,,frc2910,frc5468,frc2976,-1,-1,frc1540,frc6443,frc955
+2025pncmp_qm33,qm,1,33,frc2976,,,,,,,,,,,,,,,,,,,,,,,,,,frc2910,frc5468,frc2976,-1,-1,frc1540,frc6443,frc955
+2025pncmp_qm34,qm,1,34,frc9023,,,,,,,,,,,,,,,,,,,,,,,,,,frc9023,frc9450,frc2930,-1,-1,frc4450,frc2412,frc3663
+2025pncmp_qm34,qm,1,34,frc4450,,,,,,,,,,,,,,,,,,,,,,,,,,frc9023,frc9450,frc2930,-1,-1,frc4450,frc2412,frc3663
+2025pncmp_qm34,qm,1,34,frc2412,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc9023,frc9450,frc2930,-1,-1,frc4450,frc2412,frc3663
+2025pncmp_qm34,qm,1,34,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc9023,frc9450,frc2930,-1,-1,frc4450,frc2412,frc3663
+2025pncmp_qm34,qm,1,34,frc9450,,,,,,,,,,,,,,,,,,,,,,,,,,frc9023,frc9450,frc2930,-1,-1,frc4450,frc2412,frc3663
+2025pncmp_qm34,qm,1,34,frc2930,,,,,,,,,,,,,,,,,,,,,,,,,,frc9023,frc9450,frc2930,-1,-1,frc4450,frc2412,frc3663
+2025pncmp_qm35,qm,1,35,frc4061,,,,,,,,,,,,,,,,,,,,,,,,,,frc4061,frc3826,frc3574,-1,-1,frc4131,frc2557,frc3674
+2025pncmp_qm35,qm,1,35,frc4131,,,,,,,,,,,,,,,,,,,,,,,,,,frc4061,frc3826,frc3574,-1,-1,frc4131,frc2557,frc3674
+2025pncmp_qm35,qm,1,35,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc4061,frc3826,frc3574,-1,-1,frc4131,frc2557,frc3674
+2025pncmp_qm35,qm,1,35,frc3674,,,,,,,,,,,,,,,,,,,,,,,,,,frc4061,frc3826,frc3574,-1,-1,frc4131,frc2557,frc3674
+2025pncmp_qm35,qm,1,35,frc3826,,,,,,,,,,,,,,,,,,,,,,,,,,frc4061,frc3826,frc3574,-1,-1,frc4131,frc2557,frc3674
+2025pncmp_qm35,qm,1,35,frc3574,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc4061,frc3826,frc3574,-1,-1,frc4131,frc2557,frc3674
+2025pncmp_qm36,qm,1,36,frc488,,,,,,,,,,,,,,,,,,,,,,,,,,frc488,frc948,frc5937,-1,-1,frc6831,frc4512,frc957
+2025pncmp_qm36,qm,1,36,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc488,frc948,frc5937,-1,-1,frc6831,frc4512,frc957
+2025pncmp_qm36,qm,1,36,frc4512,,,,,,,,,,,,,,,,,,,,,,,,,,frc488,frc948,frc5937,-1,-1,frc6831,frc4512,frc957
+2025pncmp_qm36,qm,1,36,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc488,frc948,frc5937,-1,-1,frc6831,frc4512,frc957
+2025pncmp_qm36,qm,1,36,frc948,,,,,,,,,,,,,,,,,,,,,,,,,,frc488,frc948,frc5937,-1,-1,frc6831,frc4512,frc957
+2025pncmp_qm36,qm,1,36,frc5937,,,,,,,,,,,,,,,,,,,,,,,,,,frc488,frc948,frc5937,-1,-1,frc6831,frc4512,frc957
+2025pncmp_qm37,qm,1,37,frc360,,,,,,,,,,,,,,,,,,,,,,,,,,frc360,frc3636,frc1425,-1,-1,frc6343,frc6696,frc9036
+2025pncmp_qm37,qm,1,37,frc6343,,,,,,,,,,,,,,,,,,,,,,,,,,frc360,frc3636,frc1425,-1,-1,frc6343,frc6696,frc9036
+2025pncmp_qm37,qm,1,37,frc6696,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc360,frc3636,frc1425,-1,-1,frc6343,frc6696,frc9036
+2025pncmp_qm37,qm,1,37,frc9036,,,,,,,,,,,,,,,,,,,,,,,,,,frc360,frc3636,frc1425,-1,-1,frc6343,frc6696,frc9036
+2025pncmp_qm37,qm,1,37,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc360,frc3636,frc1425,-1,-1,frc6343,frc6696,frc9036
+2025pncmp_qm37,qm,1,37,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc360,frc3636,frc1425,-1,-1,frc6343,frc6696,frc9036
+2025pncmp_qm38,qm,1,38,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc2147,frc4043,-1,-1,frc5468,frc10079,frc1778
+2025pncmp_qm38,qm,1,38,frc5468,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc2147,frc4043,-1,-1,frc5468,frc10079,frc1778
+2025pncmp_qm38,qm,1,38,frc10079,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc7034,frc2147,frc4043,-1,-1,frc5468,frc10079,frc1778
+2025pncmp_qm38,qm,1,38,frc1778,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc2147,frc4043,-1,-1,frc5468,frc10079,frc1778
+2025pncmp_qm38,qm,1,38,frc2147,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc2147,frc4043,-1,-1,frc5468,frc10079,frc1778
+2025pncmp_qm38,qm,1,38,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc2147,frc4043,-1,-1,frc5468,frc10079,frc1778
+2025pncmp_qm39,qm,1,39,frc9442,,,,,,,,,,,,,,,,,,,,,,,,,,frc9442,frc10416,frc4125,-1,-1,frc4915,frc1540,frc2910
+2025pncmp_qm39,qm,1,39,frc4915,,,,,,,,,,,,,,,,,,,,,,,,,,frc9442,frc10416,frc4125,-1,-1,frc4915,frc1540,frc2910
+2025pncmp_qm39,qm,1,39,frc1540,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc9442,frc10416,frc4125,-1,-1,frc4915,frc1540,frc2910
+2025pncmp_qm39,qm,1,39,frc2910,,,,,,,,,,,,,,,,,,,,,,,,,,frc9442,frc10416,frc4125,-1,-1,frc4915,frc1540,frc2910
+2025pncmp_qm39,qm,1,39,frc10416,,,,,,,,,,,,,,,,,,,,,,,,,,frc9442,frc10416,frc4125,-1,-1,frc4915,frc1540,frc2910
+2025pncmp_qm39,qm,1,39,frc4125,,,,,,,,,,,,,,,,,,,,,,,,,,frc9442,frc10416,frc4125,-1,-1,frc4915,frc1540,frc2910
+2025pncmp_qm4,qm,1,4,frc9446,0,2,0,0,1,0,0,0,0,1,0,0,0,0,Park,0,simply left the start zone,played amazing defense and prevented blue alliance from doing much. could also score coral with one on level 4.,simply parked at the endgame zone,naman,0,0,1,0,0,frc9446,frc6443,frc6696,-1,-1,frc4131,frc9023,frc10416
+2025pncmp_qm4,qm,1,4,frc4131,0,3,0,0,0,0,0,0,7,0,0,0,0,0,Deep Climb,0,tried to score l1 but failed,only able to score l1 and processor. Scored in both processors. Would not recommend picking,"deep climbed, but it took a little bit of time to get off the ground",Aarush V,0,0,1,0,0,frc9446,frc6443,frc6696,-1,-1,frc4131,frc9023,frc10416
+2025pncmp_qm4,qm,1,4,frc9023,0,4,0,0,0,0,4,0,0,7,6,5,0,0,None,1,"Quickly placed one coral on l4, then went to ground collect a coral, but hesitated and stopped for some reason.","Cycled coral, scoring 18 coral in total/18 cycles, and had quick/great ground collect, and quick and smooth transition to placing coral. Also removed 4 algae in 2-3 seconds.","Didn't climb or park, and kept on placing coral (extra 1-2), and removed one extra algae. Would strongly recommend this team.",Dev Sharma,0,0,1,0,0,frc9446,frc6443,frc6696,-1,-1,frc4131,frc9023,frc10416
+2025pncmp_qm4,qm,1,4,frc10416,0,3,0,0,0,0,2,0,0,4,3,0,0,0,None,0,the auto tried to place on the carpet ,"slow at placing because they don't auto place, kind of slow at collecting it takes awhile to get in the coral Placer  ","didn't have time to park or climb, was doing one last cycle",cayden,0,0,1,0,0,frc9446,frc6443,frc6696,-1,-1,frc4131,frc9023,frc10416
+2025pncmp_qm4,qm,1,4,frc6443,0,4,0,0,1,0,0,0,0,0,0,0,0,0,Tipped Over,0,They missed one coral and the could not station collect,they could not collect because something went wrong. They then played defense till the got stuck on an algae. Were not able to defend that well against ground collect.,they were stuck. CA probably climb,Hendrix Day,0,40,1,0,0,frc9446,frc6443,frc6696,-1,-1,frc4131,frc9023,frc10416
+2025pncmp_qm4,qm,1,4,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc6443,frc6696,-1,-1,frc4131,frc9023,frc10416
+2025pncmp_qm40,qm,1,40,frc9567,,,,,,,,,,,,,,,,,,,,,,,,,,frc9567,frc2976,frc2046,-1,-1,frc955,frc6443,frc2522
+2025pncmp_qm40,qm,1,40,frc955,,,,,,,,,,,,,,,,,,,,,,,,,,frc9567,frc2976,frc2046,-1,-1,frc955,frc6443,frc2522
+2025pncmp_qm40,qm,1,40,frc6443,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc9567,frc2976,frc2046,-1,-1,frc955,frc6443,frc2522
+2025pncmp_qm40,qm,1,40,frc2522,,,,,,,,,,,,,,,,,,,,,,,,,,frc9567,frc2976,frc2046,-1,-1,frc955,frc6443,frc2522
+2025pncmp_qm40,qm,1,40,frc2976,,,,,,,,,,,,,,,,,,,,,,,,,,frc9567,frc2976,frc2046,-1,-1,frc955,frc6443,frc2522
+2025pncmp_qm40,qm,1,40,frc2046,,,,,,,,,,,,,,,,,,,,,,,,,,frc9567,frc2976,frc2046,-1,-1,frc955,frc6443,frc2522
+2025pncmp_qm41,qm,1,41,frc997,,,,,,,,,,,,,,,,,,,,,,,,,,frc997,frc492,frc4513,-1,-1,frc3218,frc9023,frc2471
+2025pncmp_qm41,qm,1,41,frc3218,,,,,,,,,,,,,,,,,,,,,,,,,,frc997,frc492,frc4513,-1,-1,frc3218,frc9023,frc2471
+2025pncmp_qm41,qm,1,41,frc9023,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc997,frc492,frc4513,-1,-1,frc3218,frc9023,frc2471
+2025pncmp_qm41,qm,1,41,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc997,frc492,frc4513,-1,-1,frc3218,frc9023,frc2471
+2025pncmp_qm41,qm,1,41,frc492,,,,,,,,,,,,,,,,,,,,,,,,,,frc997,frc492,frc4513,-1,-1,frc3218,frc9023,frc2471
+2025pncmp_qm41,qm,1,41,frc4513,,,,,,,,,,,,,,,,,,,,,,,,,,frc997,frc492,frc4513,-1,-1,frc3218,frc9023,frc2471
+2025pncmp_qm42,qm,1,42,frc1318,,,,,,,,,,,,,,,,,,,,,,,,,,frc1318,frc9450,frc6831,-1,-1,frc9446,frc3663,frc4469
+2025pncmp_qm42,qm,1,42,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc1318,frc9450,frc6831,-1,-1,frc9446,frc3663,frc4469
+2025pncmp_qm42,qm,1,42,frc3663,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc1318,frc9450,frc6831,-1,-1,frc9446,frc3663,frc4469
+2025pncmp_qm42,qm,1,42,frc4469,,,,,,,,,,,,,,,,,,,,,,,,,,frc1318,frc9450,frc6831,-1,-1,frc9446,frc3663,frc4469
+2025pncmp_qm42,qm,1,42,frc9450,,,,,,,,,,,,,,,,,,,,,,,,,,frc1318,frc9450,frc6831,-1,-1,frc9446,frc3663,frc4469
+2025pncmp_qm42,qm,1,42,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc1318,frc9450,frc6831,-1,-1,frc9446,frc3663,frc4469
+2025pncmp_qm43,qm,1,43,frc6343,,,,,,,,,,,,,,,,,,,,,,,,,,frc6343,frc4450,frc948,-1,-1,frc2557,frc9036,frc2147
+2025pncmp_qm43,qm,1,43,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc6343,frc4450,frc948,-1,-1,frc2557,frc9036,frc2147
+2025pncmp_qm43,qm,1,43,frc9036,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc6343,frc4450,frc948,-1,-1,frc2557,frc9036,frc2147
+2025pncmp_qm43,qm,1,43,frc2147,,,,,,,,,,,,,,,,,,,,,,,,,,frc6343,frc4450,frc948,-1,-1,frc2557,frc9036,frc2147
+2025pncmp_qm43,qm,1,43,frc4450,,,,,,,,,,,,,,,,,,,,,,,,,,frc6343,frc4450,frc948,-1,-1,frc2557,frc9036,frc2147
+2025pncmp_qm43,qm,1,43,frc948,,,,,,,,,,,,,,,,,,,,,,,,,,frc6343,frc4450,frc948,-1,-1,frc2557,frc9036,frc2147
+2025pncmp_qm44,qm,1,44,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc4043,frc4125,frc6696,-1,-1,frc488,frc2910,frc5468
+2025pncmp_qm44,qm,1,44,frc488,,,,,,,,,,,,,,,,,,,,,,,,,,frc4043,frc4125,frc6696,-1,-1,frc488,frc2910,frc5468
+2025pncmp_qm44,qm,1,44,frc2910,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc4043,frc4125,frc6696,-1,-1,frc488,frc2910,frc5468
+2025pncmp_qm44,qm,1,44,frc5468,,,,,,,,,,,,,,,,,,,,,,,,,,frc4043,frc4125,frc6696,-1,-1,frc488,frc2910,frc5468
+2025pncmp_qm44,qm,1,44,frc4125,,,,,,,,,,,,,,,,,,,,,,,,,,frc4043,frc4125,frc6696,-1,-1,frc488,frc2910,frc5468
+2025pncmp_qm44,qm,1,44,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc4043,frc4125,frc6696,-1,-1,frc488,frc2910,frc5468
+2025pncmp_qm45,qm,1,45,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc1425,frc4061,-1,-1,frc3826,frc957,frc3674
+2025pncmp_qm45,qm,1,45,frc3826,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc1425,frc4061,-1,-1,frc3826,frc957,frc3674
+2025pncmp_qm45,qm,1,45,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc1425,frc4061,-1,-1,frc3826,frc957,frc3674
+2025pncmp_qm45,qm,1,45,frc3674,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc1425,frc4061,-1,-1,frc3826,frc957,frc3674
+2025pncmp_qm45,qm,1,45,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc1425,frc4061,-1,-1,frc3826,frc957,frc3674
+2025pncmp_qm45,qm,1,45,frc4061,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc1425,frc4061,-1,-1,frc3826,frc957,frc3674
+2025pncmp_qm46,qm,1,46,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc9023,frc360,-1,-1,frc2471,frc2522,frc9442
+2025pncmp_qm46,qm,1,46,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc9023,frc360,-1,-1,frc2471,frc2522,frc9442
+2025pncmp_qm46,qm,1,46,frc2522,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc9023,frc360,-1,-1,frc2471,frc2522,frc9442
+2025pncmp_qm46,qm,1,46,frc9442,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc9023,frc360,-1,-1,frc2471,frc2522,frc9442
+2025pncmp_qm46,qm,1,46,frc9023,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc9023,frc360,-1,-1,frc2471,frc2522,frc9442
+2025pncmp_qm46,qm,1,46,frc360,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc9023,frc360,-1,-1,frc2471,frc2522,frc9442
+2025pncmp_qm47,qm,1,47,frc2930,,,,,,,,,,,,,,,,,,,,,,,,,,frc2930,frc2046,frc4469,-1,-1,frc2976,frc10416,frc4513
+2025pncmp_qm47,qm,1,47,frc2976,,,,,,,,,,,,,,,,,,,,,,,,,,frc2930,frc2046,frc4469,-1,-1,frc2976,frc10416,frc4513
+2025pncmp_qm47,qm,1,47,frc10416,,,,,,,,,,,,,,,,,,,,,,,,,,frc2930,frc2046,frc4469,-1,-1,frc2976,frc10416,frc4513
+2025pncmp_qm47,qm,1,47,frc4513,,,,,,,,,,,,,,,,,,,,,,,,,,frc2930,frc2046,frc4469,-1,-1,frc2976,frc10416,frc4513
+2025pncmp_qm47,qm,1,47,frc2046,,,,,,,,,,,,,,,,,,,,,,,,,,frc2930,frc2046,frc4469,-1,-1,frc2976,frc10416,frc4513
+2025pncmp_qm47,qm,1,47,frc4469,,,,,,,,,,,,,,,,,,,,,,,,,,frc2930,frc2046,frc4469,-1,-1,frc2976,frc10416,frc4513
+2025pncmp_qm48,qm,1,48,frc1778,,,,,,,,,,,,,,,,,,,,,,,,,,frc1778,frc4915,frc9446,-1,-1,frc9567,frc10079,frc3218
+2025pncmp_qm48,qm,1,48,frc9567,,,,,,,,,,,,,,,,,,,,,,,,,,frc1778,frc4915,frc9446,-1,-1,frc9567,frc10079,frc3218
+2025pncmp_qm48,qm,1,48,frc10079,,,,,,,,,,,,,,,,,,,,,,,,,,frc1778,frc4915,frc9446,-1,-1,frc9567,frc10079,frc3218
+2025pncmp_qm48,qm,1,48,frc3218,,,,,,,,,,,,,,,,,,,,,,,,,,frc1778,frc4915,frc9446,-1,-1,frc9567,frc10079,frc3218
+2025pncmp_qm48,qm,1,48,frc4915,,,,,,,,,,,,,,,,,,,,,,,,,,frc1778,frc4915,frc9446,-1,-1,frc9567,frc10079,frc3218
+2025pncmp_qm48,qm,1,48,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc1778,frc4915,frc9446,-1,-1,frc9567,frc10079,frc3218
+2025pncmp_qm49,qm,1,49,frc4131,,,,,,,,,,,,,,,,,,,,,,,,,,frc4131,frc5937,frc997,-1,-1,frc955,frc3636,frc1318
+2025pncmp_qm49,qm,1,49,frc955,,,,,,,,,,,,,,,,,,,,,,,,,,frc4131,frc5937,frc997,-1,-1,frc955,frc3636,frc1318
+2025pncmp_qm49,qm,1,49,frc3636,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc4131,frc5937,frc997,-1,-1,frc955,frc3636,frc1318
+2025pncmp_qm49,qm,1,49,frc1318,,,,,,,,,,,,,,,,,,,,,,,,,,frc4131,frc5937,frc997,-1,-1,frc955,frc3636,frc1318
+2025pncmp_qm49,qm,1,49,frc5937,,,,,,,,,,,,,,,,,,,,,,,,,,frc4131,frc5937,frc997,-1,-1,frc955,frc3636,frc1318
+2025pncmp_qm49,qm,1,49,frc997,,,,,,,,,,,,,,,,,,,,,,,,,,frc4131,frc5937,frc997,-1,-1,frc955,frc3636,frc1318
+2025pncmp_qm5,qm,1,5,frc4061,0,2,0,0,0,0,0,0,0,0,5,3,2,0,Park,0,just left start zone and got in position to score l2 but didn't actually eject coral,extremely efficient coral placement cycles.,parked at the last moment,naman,0,0,1,0,0,frc4061,frc2147,frc2471,-1,-1,frc5937,frc4513,frc4125
+2025pncmp_qm5,qm,1,5,frc5937,0,3,1,0,0,0,2,5,2,0,0,0,0,0,Deep Climb,0,"removed algea and scored net quickly, then a stoped","very good algea bot, unaware about their ability to place coral, they amazing at net",took 25 secs to barely off the ground,Aarush V,0,0,1,1,0,frc4061,frc2147,frc2471,-1,-1,frc5937,frc4513,frc4125
+2025pncmp_qm5,qm,1,5,frc4513,0,4,0,0,0,0,1,0,0,5,0,3,1,0,Park,2,"Auto was good, placed one coral on l4, collected from station, and placed another one.","Cycled coral, collected from station, and placed coral on l4, l2, and one coral on l1. l4-l2 placing was good and quick, but l1 placing was unreliable and missed 4 times. Removed one algae as well.","Tried to deep climb, but took a long time positioning and ended up parking. Something seemed to snap when it attempted to climb the first time.",Dev Sharma,0,0,1,0,0,frc4061,frc2147,frc2471,-1,-1,frc5937,frc4513,frc4125
+2025pncmp_qm5,qm,1,5,frc4125,0,1,0,0,0,0,0,1,2,0,0,0,0,0,None,0,"just left, maybe A stopped ","not fully accurate with algae, missed 2",not enough time to get parked or climbed ,cayden,0,0,1,0,0,frc4061,frc2147,frc2471,-1,-1,frc5937,frc4513,frc4125
+2025pncmp_qm5,qm,1,5,frc2147,0,3,1,0,0,0,0,0,0,7,0,2,0,0,Deep Climb,0,Missed a Coral and alage attepted to score on L4 and in the barge.,"they were a good Coral robot. Smooth station collect, 8-10 second cycle while no other robot's or objects in the way. But will  be slowed down if their is stuff in the way. Missed one coral",Good deep climb. Took less than 8 seconds to climb. Not to long to line it up with cage.,Hendrix Day,0,0,1,0,0,frc4061,frc2147,frc2471,-1,-1,frc5937,frc4513,frc4125
+2025pncmp_qm5,qm,1,5,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc4061,frc2147,frc2471,-1,-1,frc5937,frc4513,frc4125
+2025pncmp_qm50,qm,1,50,frc2412,,,,,,,,,,,,,,,,,,,,,,,,,,frc2412,frc3574,frc4512,-1,-1,frc9450,frc492,frc6443
+2025pncmp_qm50,qm,1,50,frc9450,,,,,,,,,,,,,,,,,,,,,,,,,,frc2412,frc3574,frc4512,-1,-1,frc9450,frc492,frc6443
+2025pncmp_qm50,qm,1,50,frc492,,,,,,,,,,,,,,,,,,,,,,,,,,frc2412,frc3574,frc4512,-1,-1,frc9450,frc492,frc6443
+2025pncmp_qm50,qm,1,50,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc2412,frc3574,frc4512,-1,-1,frc9450,frc492,frc6443
+2025pncmp_qm50,qm,1,50,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc2412,frc3574,frc4512,-1,-1,frc9450,frc492,frc6443
+2025pncmp_qm50,qm,1,50,frc4512,,,,,,,,,,,,,,,,,,,,,,,,,,frc2412,frc3574,frc4512,-1,-1,frc9450,frc492,frc6443
+2025pncmp_qm51,qm,1,51,frc4450,,,,,,,,,,,,,,,,,,,,,,,,,,frc4450,frc1425,frc2557,-1,-1,frc2910,frc4061,frc488
+2025pncmp_qm51,qm,1,51,frc2910,,,,,,,,,,,,,,,,,,,,,,,,,,frc4450,frc1425,frc2557,-1,-1,frc2910,frc4061,frc488
+2025pncmp_qm51,qm,1,51,frc4061,,,,,,,,,,,,,,,,,,,,,,,,,,frc4450,frc1425,frc2557,-1,-1,frc2910,frc4061,frc488
+2025pncmp_qm51,qm,1,51,frc488,,,,,,,,,,,,,,,,,,,,,,,,,,frc4450,frc1425,frc2557,-1,-1,frc2910,frc4061,frc488
+2025pncmp_qm51,qm,1,51,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc4450,frc1425,frc2557,-1,-1,frc2910,frc4061,frc488
+2025pncmp_qm51,qm,1,51,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc4450,frc1425,frc2557,-1,-1,frc2910,frc4061,frc488
+2025pncmp_qm52,qm,1,52,frc5468,,,,,,,,,,,,,,,,,,,,,,,,,,frc5468,frc4125,frc3826,-1,-1,frc4513,frc6343,frc6831
+2025pncmp_qm52,qm,1,52,frc4513,,,,,,,,,,,,,,,,,,,,,,,,,,frc5468,frc4125,frc3826,-1,-1,frc4513,frc6343,frc6831
+2025pncmp_qm52,qm,1,52,frc6343,,,,,,,,,,,,,,,,,,,,,,,,,,frc5468,frc4125,frc3826,-1,-1,frc4513,frc6343,frc6831
+2025pncmp_qm52,qm,1,52,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc5468,frc4125,frc3826,-1,-1,frc4513,frc6343,frc6831
+2025pncmp_qm52,qm,1,52,frc4125,,,,,,,,,,,,,,,,,,,,,,,,,,frc5468,frc4125,frc3826,-1,-1,frc4513,frc6343,frc6831
+2025pncmp_qm52,qm,1,52,frc3826,,,,,,,,,,,,,,,,,,,,,,,,,,frc5468,frc4125,frc3826,-1,-1,frc4513,frc6343,frc6831
+2025pncmp_qm53,qm,1,53,frc9036,,,,,,,,,,,,,,,,,,,,,,,,,,frc9036,frc9567,frc4915,-1,-1,frc3674,frc2471,frc10416
+2025pncmp_qm53,qm,1,53,frc3674,,,,,,,,,,,,,,,,,,,,,,,,,,frc9036,frc9567,frc4915,-1,-1,frc3674,frc2471,frc10416
+2025pncmp_qm53,qm,1,53,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc9036,frc9567,frc4915,-1,-1,frc3674,frc2471,frc10416
+2025pncmp_qm53,qm,1,53,frc10416,,,,,,,,,,,,,,,,,,,,,,,,,,frc9036,frc9567,frc4915,-1,-1,frc3674,frc2471,frc10416
+2025pncmp_qm53,qm,1,53,frc9567,,,,,,,,,,,,,,,,,,,,,,,,,,frc9036,frc9567,frc4915,-1,-1,frc3674,frc2471,frc10416
+2025pncmp_qm53,qm,1,53,frc4915,,,,,,,,,,,,,,,,,,,,,,,,,,frc9036,frc9567,frc4915,-1,-1,frc3674,frc2471,frc10416
+2025pncmp_qm54,qm,1,54,frc2930,,,,,,,,,,,,,,,,,,,,,,,,,,frc2930,frc3663,frc4043,-1,-1,frc1318,frc1778,frc1540
+2025pncmp_qm54,qm,1,54,frc1318,,,,,,,,,,,,,,,,,,,,,,,,,,frc2930,frc3663,frc4043,-1,-1,frc1318,frc1778,frc1540
+2025pncmp_qm54,qm,1,54,frc1778,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc2930,frc3663,frc4043,-1,-1,frc1318,frc1778,frc1540
+2025pncmp_qm54,qm,1,54,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc2930,frc3663,frc4043,-1,-1,frc1318,frc1778,frc1540
+2025pncmp_qm54,qm,1,54,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc2930,frc3663,frc4043,-1,-1,frc1318,frc1778,frc1540
+2025pncmp_qm54,qm,1,54,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc2930,frc3663,frc4043,-1,-1,frc1318,frc1778,frc1540
+2025pncmp_qm55,qm,1,55,frc2522,,,,,,,,,,,,,,,,,,,,,,,,,,frc2522,frc957,frc7034,-1,-1,frc6696,frc4131,frc4469
+2025pncmp_qm55,qm,1,55,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc2522,frc957,frc7034,-1,-1,frc6696,frc4131,frc4469
+2025pncmp_qm55,qm,1,55,frc4131,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc2522,frc957,frc7034,-1,-1,frc6696,frc4131,frc4469
+2025pncmp_qm55,qm,1,55,frc4469,,,,,,,,,,,,,,,,,,,,,,,,,,frc2522,frc957,frc7034,-1,-1,frc6696,frc4131,frc4469
+2025pncmp_qm55,qm,1,55,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc2522,frc957,frc7034,-1,-1,frc6696,frc4131,frc4469
+2025pncmp_qm55,qm,1,55,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc2522,frc957,frc7034,-1,-1,frc6696,frc4131,frc4469
+2025pncmp_qm56,qm,1,56,frc10079,,,,,,,,,,,,,,,,,,,,,,,,,,frc10079,frc9442,frc2412,-1,-1,frc955,frc997,frc948
+2025pncmp_qm56,qm,1,56,frc955,,,,,,,,,,,,,,,,,,,,,,,,,,frc10079,frc9442,frc2412,-1,-1,frc955,frc997,frc948
+2025pncmp_qm56,qm,1,56,frc997,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc10079,frc9442,frc2412,-1,-1,frc955,frc997,frc948
+2025pncmp_qm56,qm,1,56,frc948,,,,,,,,,,,,,,,,,,,,,,,,,,frc10079,frc9442,frc2412,-1,-1,frc955,frc997,frc948
+2025pncmp_qm56,qm,1,56,frc9442,,,,,,,,,,,,,,,,,,,,,,,,,,frc10079,frc9442,frc2412,-1,-1,frc955,frc997,frc948
+2025pncmp_qm56,qm,1,56,frc2412,,,,,,,,,,,,,,,,,,,,,,,,,,frc10079,frc9442,frc2412,-1,-1,frc955,frc997,frc948
+2025pncmp_qm57,qm,1,57,frc2976,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc3218,frc4512,-1,-1,frc3574,frc360,frc5937
+2025pncmp_qm57,qm,1,57,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc3218,frc4512,-1,-1,frc3574,frc360,frc5937
+2025pncmp_qm57,qm,1,57,frc360,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc3218,frc4512,-1,-1,frc3574,frc360,frc5937
+2025pncmp_qm57,qm,1,57,frc5937,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc3218,frc4512,-1,-1,frc3574,frc360,frc5937
+2025pncmp_qm57,qm,1,57,frc3218,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc3218,frc4512,-1,-1,frc3574,frc360,frc5937
+2025pncmp_qm57,qm,1,57,frc4512,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc3218,frc4512,-1,-1,frc3574,frc360,frc5937
+2025pncmp_qm58,qm,1,58,frc2046,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc3636,frc9023,-1,-1,frc9446,frc6443,frc2147
+2025pncmp_qm58,qm,1,58,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc3636,frc9023,-1,-1,frc9446,frc6443,frc2147
+2025pncmp_qm58,qm,1,58,frc6443,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc2046,frc3636,frc9023,-1,-1,frc9446,frc6443,frc2147
+2025pncmp_qm58,qm,1,58,frc2147,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc3636,frc9023,-1,-1,frc9446,frc6443,frc2147
+2025pncmp_qm58,qm,1,58,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc3636,frc9023,-1,-1,frc9446,frc6443,frc2147
+2025pncmp_qm58,qm,1,58,frc9023,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc3636,frc9023,-1,-1,frc9446,frc6443,frc2147
+2025pncmp_qm59,qm,1,59,frc492,,,,,,,,,,,,,,,,,,,,,,,,,,frc492,frc1425,frc5468,-1,-1,frc9036,frc9567,frc9450
+2025pncmp_qm59,qm,1,59,frc9036,,,,,,,,,,,,,,,,,,,,,,,,,,frc492,frc1425,frc5468,-1,-1,frc9036,frc9567,frc9450
+2025pncmp_qm59,qm,1,59,frc9567,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc492,frc1425,frc5468,-1,-1,frc9036,frc9567,frc9450
+2025pncmp_qm59,qm,1,59,frc9450,,,,,,,,,,,,,,,,,,,,,,,,,,frc492,frc1425,frc5468,-1,-1,frc9036,frc9567,frc9450
+2025pncmp_qm59,qm,1,59,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc492,frc1425,frc5468,-1,-1,frc9036,frc9567,frc9450
+2025pncmp_qm59,qm,1,59,frc5468,,,,,,,,,,,,,,,,,,,,,,,,,,frc492,frc1425,frc5468,-1,-1,frc9036,frc9567,frc9450
+2025pncmp_qm6,qm,1,6,frc10079,0,4,0,0,0,0,0,0,0,5,2,3,0,0,None,2,almost a 3 coral auto but their human player made a mistake on the last coral,got vigorous defense played on them but still managed to successfully complete many cycles.,was driving to barge zone but failed to make it in time,naman,0,0,1,0,0,frc10079,frc2522,frc3826,-1,-1,frc4469,frc9036,frc4450
+2025pncmp_qm6,qm,1,6,frc4469,0,4,0,0,1,0,3,1,0,0,0,0,0,0,Park,2,really fast pick up and placement of both algae and coral,"algea is 50% accurate, but that's all they do","tried to climb, just unable to go up",Aarush V,0,0,1,0,0,frc10079,frc2522,frc3826,-1,-1,frc4469,frc9036,frc4450
+2025pncmp_qm6,qm,1,6,frc9036,0,3,0,1,0,0,1,0,0,1,6,2,1,0,None,0,"Moved forward and placed coral on l1, didn't do anything else.","Cycled coral the whole time, had ground collect, and mostly placed on l3. Cycle times were somewhat slow though, and ground collect took time to grab just one coral. Removed one algae as well. Did pretty well otherwise.",Couldn't reach the barge in time.,Dev Sharma,0,0,1,0,0,frc10079,frc2522,frc3826,-1,-1,frc4469,frc9036,frc4450
+2025pncmp_qm6,qm,1,6,frc4450,0,3,1,1,0,0,2,2,1,0,0,0,0,0,None,0,missed L4 and tried to collect 2nd algae but didn't pick up,"good at barge and processing, coral didn't place Rewatch or keep eye on",Experience at deep climbing ,cayden,0,0,1,1,0,frc10079,frc2522,frc3826,-1,-1,frc4469,frc9036,frc4450
+2025pncmp_qm6,qm,1,6,frc2522,0,2,0,0,0,0,2,0,0,4,3,5,5,0,Deep Climb,3,they were able to score 3 coral. Great auto and did not miss,"they were able to ground Collect and score on all levels. Coral bot, fast cycles depending on how close the coral is. ",Took a long time to line up and climb. Were rushed with not that much delay.,Hendrix day,0,0,1,0,0,frc10079,frc2522,frc3826,-1,-1,frc4469,frc9036,frc4450
+2025pncmp_qm6,qm,1,6,frc3826,,,,,,,,,,,,,,,,,,,,,,,,,,frc10079,frc2522,frc3826,-1,-1,frc4469,frc9036,frc4450
+2025pncmp_qm60,qm,1,60,frc3826,,,,,,,,,,,,,,,,,,,,,,,,,,frc3826,frc2522,frc957,-1,-1,frc2930,frc4513,frc2910
+2025pncmp_qm60,qm,1,60,frc2930,,,,,,,,,,,,,,,,,,,,,,,,,,frc3826,frc2522,frc957,-1,-1,frc2930,frc4513,frc2910
+2025pncmp_qm60,qm,1,60,frc4513,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc3826,frc2522,frc957,-1,-1,frc2930,frc4513,frc2910
+2025pncmp_qm60,qm,1,60,frc2910,,,,,,,,,,,,,,,,,,,,,,,,,,frc3826,frc2522,frc957,-1,-1,frc2930,frc4513,frc2910
+2025pncmp_qm60,qm,1,60,frc2522,,,,,,,,,,,,,,,,,,,,,,,,,,frc3826,frc2522,frc957,-1,-1,frc2930,frc4513,frc2910
+2025pncmp_qm60,qm,1,60,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc3826,frc2522,frc957,-1,-1,frc2930,frc4513,frc2910
+2025pncmp_qm61,qm,1,61,frc4469,,,,,,,,,,,,,,,,,,,,,,,,,,frc4469,frc1778,frc3674,-1,-1,frc6696,frc4450,frc955
+2025pncmp_qm61,qm,1,61,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc4469,frc1778,frc3674,-1,-1,frc6696,frc4450,frc955
+2025pncmp_qm61,qm,1,61,frc4450,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc4469,frc1778,frc3674,-1,-1,frc6696,frc4450,frc955
+2025pncmp_qm61,qm,1,61,frc955,,,,,,,,,,,,,,,,,,,,,,,,,,frc4469,frc1778,frc3674,-1,-1,frc6696,frc4450,frc955
+2025pncmp_qm61,qm,1,61,frc1778,,,,,,,,,,,,,,,,,,,,,,,,,,frc4469,frc1778,frc3674,-1,-1,frc6696,frc4450,frc955
+2025pncmp_qm61,qm,1,61,frc3674,,,,,,,,,,,,,,,,,,,,,,,,,,frc4469,frc1778,frc3674,-1,-1,frc6696,frc4450,frc955
+2025pncmp_qm62,qm,1,62,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc10416,frc7034,-1,-1,frc4512,frc3663,frc3218
+2025pncmp_qm62,qm,1,62,frc4512,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc10416,frc7034,-1,-1,frc4512,frc3663,frc3218
+2025pncmp_qm62,qm,1,62,frc3663,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc2557,frc10416,frc7034,-1,-1,frc4512,frc3663,frc3218
+2025pncmp_qm62,qm,1,62,frc3218,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc10416,frc7034,-1,-1,frc4512,frc3663,frc3218
+2025pncmp_qm62,qm,1,62,frc10416,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc10416,frc7034,-1,-1,frc4512,frc3663,frc3218
+2025pncmp_qm62,qm,1,62,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc10416,frc7034,-1,-1,frc4512,frc3663,frc3218
+2025pncmp_qm63,qm,1,63,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc2976,frc997,-1,-1,frc2412,frc3574,frc4125
+2025pncmp_qm63,qm,1,63,frc2412,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc2976,frc997,-1,-1,frc2412,frc3574,frc4125
+2025pncmp_qm63,qm,1,63,frc3574,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc9446,frc2976,frc997,-1,-1,frc2412,frc3574,frc4125
+2025pncmp_qm63,qm,1,63,frc4125,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc2976,frc997,-1,-1,frc2412,frc3574,frc4125
+2025pncmp_qm63,qm,1,63,frc2976,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc2976,frc997,-1,-1,frc2412,frc3574,frc4125
+2025pncmp_qm63,qm,1,63,frc997,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc2976,frc997,-1,-1,frc2412,frc3574,frc4125
+2025pncmp_qm64,qm,1,64,frc2046,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc9450,frc2471,-1,-1,frc3636,frc1540,frc360
+2025pncmp_qm64,qm,1,64,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc9450,frc2471,-1,-1,frc3636,frc1540,frc360
+2025pncmp_qm64,qm,1,64,frc1540,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc2046,frc9450,frc2471,-1,-1,frc3636,frc1540,frc360
+2025pncmp_qm64,qm,1,64,frc360,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc9450,frc2471,-1,-1,frc3636,frc1540,frc360
+2025pncmp_qm64,qm,1,64,frc9450,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc9450,frc2471,-1,-1,frc3636,frc1540,frc360
+2025pncmp_qm64,qm,1,64,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc9450,frc2471,-1,-1,frc3636,frc1540,frc360
+2025pncmp_qm65,qm,1,65,frc488,,,,,,,,,,,,,,,,,,,,,,,,,,frc488,frc492,frc9442,-1,-1,frc2147,frc4131,frc6831
+2025pncmp_qm65,qm,1,65,frc2147,,,,,,,,,,,,,,,,,,,,,,,,,,frc488,frc492,frc9442,-1,-1,frc2147,frc4131,frc6831
+2025pncmp_qm65,qm,1,65,frc4131,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc488,frc492,frc9442,-1,-1,frc2147,frc4131,frc6831
+2025pncmp_qm65,qm,1,65,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc488,frc492,frc9442,-1,-1,frc2147,frc4131,frc6831
+2025pncmp_qm65,qm,1,65,frc492,,,,,,,,,,,,,,,,,,,,,,,,,,frc488,frc492,frc9442,-1,-1,frc2147,frc4131,frc6831
+2025pncmp_qm65,qm,1,65,frc9442,,,,,,,,,,,,,,,,,,,,,,,,,,frc488,frc492,frc9442,-1,-1,frc2147,frc4131,frc6831
+2025pncmp_qm66,qm,1,66,frc4915,,,,,,,,,,,,,,,,,,,,,,,,,,frc4915,frc10079,frc1318,-1,-1,frc4061,frc6343,frc9023
+2025pncmp_qm66,qm,1,66,frc4061,,,,,,,,,,,,,,,,,,,,,,,,,,frc4915,frc10079,frc1318,-1,-1,frc4061,frc6343,frc9023
+2025pncmp_qm66,qm,1,66,frc6343,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc4915,frc10079,frc1318,-1,-1,frc4061,frc6343,frc9023
+2025pncmp_qm66,qm,1,66,frc9023,,,,,,,,,,,,,,,,,,,,,,,,,,frc4915,frc10079,frc1318,-1,-1,frc4061,frc6343,frc9023
+2025pncmp_qm66,qm,1,66,frc10079,,,,,,,,,,,,,,,,,,,,,,,,,,frc4915,frc10079,frc1318,-1,-1,frc4061,frc6343,frc9023
+2025pncmp_qm66,qm,1,66,frc1318,,,,,,,,,,,,,,,,,,,,,,,,,,frc4915,frc10079,frc1318,-1,-1,frc4061,frc6343,frc9023
+2025pncmp_qm67,qm,1,67,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc4043,frc2930,-1,-1,frc948,frc3826,frc5937
+2025pncmp_qm67,qm,1,67,frc948,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc4043,frc2930,-1,-1,frc948,frc3826,frc5937
+2025pncmp_qm67,qm,1,67,frc3826,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc6443,frc4043,frc2930,-1,-1,frc948,frc3826,frc5937
+2025pncmp_qm67,qm,1,67,frc5937,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc4043,frc2930,-1,-1,frc948,frc3826,frc5937
+2025pncmp_qm67,qm,1,67,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc4043,frc2930,-1,-1,frc948,frc3826,frc5937
+2025pncmp_qm67,qm,1,67,frc2930,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc4043,frc2930,-1,-1,frc948,frc3826,frc5937
+2025pncmp_qm68,qm,1,68,frc9036,,,,,,,,,,,,,,,,,,,,,,,,,,frc9036,frc1778,frc3663,-1,-1,frc957,frc4125,frc997
+2025pncmp_qm68,qm,1,68,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc9036,frc1778,frc3663,-1,-1,frc957,frc4125,frc997
+2025pncmp_qm68,qm,1,68,frc4125,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc9036,frc1778,frc3663,-1,-1,frc957,frc4125,frc997
+2025pncmp_qm68,qm,1,68,frc997,,,,,,,,,,,,,,,,,,,,,,,,,,frc9036,frc1778,frc3663,-1,-1,frc957,frc4125,frc997
+2025pncmp_qm68,qm,1,68,frc1778,,,,,,,,,,,,,,,,,,,,,,,,,,frc9036,frc1778,frc3663,-1,-1,frc957,frc4125,frc997
+2025pncmp_qm68,qm,1,68,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc9036,frc1778,frc3663,-1,-1,frc957,frc4125,frc997
+2025pncmp_qm69,qm,1,69,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc2557,frc7034,-1,-1,frc4513,frc1425,frc2412
+2025pncmp_qm69,qm,1,69,frc4513,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc2557,frc7034,-1,-1,frc4513,frc1425,frc2412
+2025pncmp_qm69,qm,1,69,frc1425,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc9446,frc2557,frc7034,-1,-1,frc4513,frc1425,frc2412
+2025pncmp_qm69,qm,1,69,frc2412,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc2557,frc7034,-1,-1,frc4513,frc1425,frc2412
+2025pncmp_qm69,qm,1,69,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc2557,frc7034,-1,-1,frc4513,frc1425,frc2412
+2025pncmp_qm69,qm,1,69,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc2557,frc7034,-1,-1,frc4513,frc1425,frc2412
+2025pncmp_qm7,qm,1,7,frc2930,0,2,0,0,0,0,2,0,0,3,4,5,1,0,Deep Climb,3,scored a three coral auto even with a human player error!,efficient coral scoring even with an ocean of coral next to them to weave through,deep climbed at the last moment.,naman,0,0,1,0,0,frc2930,frc6343,frc3574,-1,-1,frc2046,frc488,frc1318
+2025pncmp_qm7,qm,1,7,frc2046,0,2,0,0,0,0,2,2,0,3,4,2,5,0,Deep Climb,1,"planned a 3 coral auto, but only made 1","started really rusty, but quickly picked up the pace and started to become super reliable. Able to score on all levels, ground collect, and shooting algae",used the entire time to climb with 3 sec to spare,Aarush V,0,0,0,0,0,frc2930,frc6343,frc3574,-1,-1,frc2046,frc488,frc1318
+2025pncmp_qm7,qm,1,7,frc488,0,3,0,0,0,0,2,1,0,2,2,0,0,0,None,0,"Moved forward, and missed coral place on l4 badly.","Only placed 4 coral, 2 each on l4 and l3, placing was really inaccurate and missed a lot of coral. Was able to removed 2 algae, but also missed the net sort of badly as well, but scored the other algae in the net successfully after taking 6 seconds positioning themselves to throw algae in the net.",Didn't make it to the barge in time,Dev Sharma,0,0,1,0,0,frc2930,frc6343,frc3574,-1,-1,frc2046,frc488,frc1318
+2025pncmp_qm7,qm,1,7,frc1318,0,4,0,0,0,0,2,0,0,3,5,3,3,0,Park,1,missed pre load that was L4,"missed a few coral on L4, fast at collecting the coral, but pretty accurate with placing 3-1","parked, not attached to cage",cayden,0,0,1,0,0,frc2930,frc6343,frc3574,-1,-1,frc2046,frc488,frc1318
+2025pncmp_qm7,qm,1,7,frc6343,0,1,0,0,0,0,0,0,0,3,0,2,0,0,Park,1,They were kind of slow but attempted to score on the reef twice,Station and ground collect. But they were slow moving and took a lot of time to line up. Eventually played 20 seconds of good effective defense.,they tried to dive but they missed and did not leave the ground.,Hendrix Day,0,0,1,0,0,frc2930,frc6343,frc3574,-1,-1,frc2046,frc488,frc1318
+2025pncmp_qm7,qm,1,7,frc3574,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc2930,frc6343,frc3574,-1,-1,frc2046,frc488,frc1318
+2025pncmp_qm70,qm,1,70,frc5468,,,,,,,,,,,,,,,,,,,,,,,,,,frc5468,frc2046,frc4131,-1,-1,frc4450,frc3218,frc10416
+2025pncmp_qm70,qm,1,70,frc4450,,,,,,,,,,,,,,,,,,,,,,,,,,frc5468,frc2046,frc4131,-1,-1,frc4450,frc3218,frc10416
+2025pncmp_qm70,qm,1,70,frc3218,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc5468,frc2046,frc4131,-1,-1,frc4450,frc3218,frc10416
+2025pncmp_qm70,qm,1,70,frc10416,,,,,,,,,,,,,,,,,,,,,,,,,,frc5468,frc2046,frc4131,-1,-1,frc4450,frc3218,frc10416
+2025pncmp_qm70,qm,1,70,frc2046,,,,,,,,,,,,,,,,,,,,,,,,,,frc5468,frc2046,frc4131,-1,-1,frc4450,frc3218,frc10416
+2025pncmp_qm70,qm,1,70,frc4131,,,,,,,,,,,,,,,,,,,,,,,,,,frc5468,frc2046,frc4131,-1,-1,frc4450,frc3218,frc10416
+2025pncmp_qm71,qm,1,71,frc4469,,,,,,,,,,,,,,,,,,,,,,,,,,frc4469,frc4061,frc2147,-1,-1,frc2910,frc955,frc9450
+2025pncmp_qm71,qm,1,71,frc2910,,,,,,,,,,,,,,,,,,,,,,,,,,frc4469,frc4061,frc2147,-1,-1,frc2910,frc955,frc9450
+2025pncmp_qm71,qm,1,71,frc955,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc4469,frc4061,frc2147,-1,-1,frc2910,frc955,frc9450
+2025pncmp_qm71,qm,1,71,frc9450,,,,,,,,,,,,,,,,,,,,,,,,,,frc4469,frc4061,frc2147,-1,-1,frc2910,frc955,frc9450
+2025pncmp_qm71,qm,1,71,frc4061,,,,,,,,,,,,,,,,,,,,,,,,,,frc4469,frc4061,frc2147,-1,-1,frc2910,frc955,frc9450
+2025pncmp_qm71,qm,1,71,frc2147,,,,,,,,,,,,,,,,,,,,,,,,,,frc4469,frc4061,frc2147,-1,-1,frc2910,frc955,frc9450
+2025pncmp_qm72,qm,1,72,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc3574,frc360,frc6831,-1,-1,frc9023,frc948,frc3636
+2025pncmp_qm72,qm,1,72,frc9023,,,,,,,,,,,,,,,,,,,,,,,,,,frc3574,frc360,frc6831,-1,-1,frc9023,frc948,frc3636
+2025pncmp_qm72,qm,1,72,frc948,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc3574,frc360,frc6831,-1,-1,frc9023,frc948,frc3636
+2025pncmp_qm72,qm,1,72,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc3574,frc360,frc6831,-1,-1,frc9023,frc948,frc3636
+2025pncmp_qm72,qm,1,72,frc360,,,,,,,,,,,,,,,,,,,,,,,,,,frc3574,frc360,frc6831,-1,-1,frc9023,frc948,frc3636
+2025pncmp_qm72,qm,1,72,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc3574,frc360,frc6831,-1,-1,frc9023,frc948,frc3636
+2025pncmp_qm73,qm,1,73,frc2522,,,,,,,,,,,,,,,,,,,,,,,,,,frc2522,frc3674,frc4915,-1,-1,frc488,frc1318,frc4512
+2025pncmp_qm73,qm,1,73,frc488,,,,,,,,,,,,,,,,,,,,,,,,,,frc2522,frc3674,frc4915,-1,-1,frc488,frc1318,frc4512
+2025pncmp_qm73,qm,1,73,frc1318,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc2522,frc3674,frc4915,-1,-1,frc488,frc1318,frc4512
+2025pncmp_qm73,qm,1,73,frc4512,,,,,,,,,,,,,,,,,,,,,,,,,,frc2522,frc3674,frc4915,-1,-1,frc488,frc1318,frc4512
+2025pncmp_qm73,qm,1,73,frc3674,,,,,,,,,,,,,,,,,,,,,,,,,,frc2522,frc3674,frc4915,-1,-1,frc488,frc1318,frc4512
+2025pncmp_qm73,qm,1,73,frc4915,,,,,,,,,,,,,,,,,,,,,,,,,,frc2522,frc3674,frc4915,-1,-1,frc488,frc1318,frc4512
+2025pncmp_qm74,qm,1,74,frc9567,,,,,,,,,,,,,,,,,,,,,,,,,,frc9567,frc6343,frc4043,-1,-1,frc2471,frc2976,frc6443
+2025pncmp_qm74,qm,1,74,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc9567,frc6343,frc4043,-1,-1,frc2471,frc2976,frc6443
+2025pncmp_qm74,qm,1,74,frc2976,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc9567,frc6343,frc4043,-1,-1,frc2471,frc2976,frc6443
+2025pncmp_qm74,qm,1,74,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc9567,frc6343,frc4043,-1,-1,frc2471,frc2976,frc6443
+2025pncmp_qm74,qm,1,74,frc6343,,,,,,,,,,,,,,,,,,,,,,,,,,frc9567,frc6343,frc4043,-1,-1,frc2471,frc2976,frc6443
+2025pncmp_qm74,qm,1,74,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc9567,frc6343,frc4043,-1,-1,frc2471,frc2976,frc6443
+2025pncmp_qm75,qm,1,75,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc10079,frc1540,-1,-1,frc5937,frc9442,frc492
+2025pncmp_qm75,qm,1,75,frc5937,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc10079,frc1540,-1,-1,frc5937,frc9442,frc492
+2025pncmp_qm75,qm,1,75,frc9442,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc6696,frc10079,frc1540,-1,-1,frc5937,frc9442,frc492
+2025pncmp_qm75,qm,1,75,frc492,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc10079,frc1540,-1,-1,frc5937,frc9442,frc492
+2025pncmp_qm75,qm,1,75,frc10079,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc10079,frc1540,-1,-1,frc5937,frc9442,frc492
+2025pncmp_qm75,qm,1,75,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc10079,frc1540,-1,-1,frc5937,frc9442,frc492
+2025pncmp_qm76,qm,1,76,frc3218,,,,,,,,,,,,,,,,,,,,,,,,,,frc3218,frc9036,frc9450,-1,-1,frc957,frc2147,frc3826
+2025pncmp_qm76,qm,1,76,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc3218,frc9036,frc9450,-1,-1,frc957,frc2147,frc3826
+2025pncmp_qm76,qm,1,76,frc2147,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc3218,frc9036,frc9450,-1,-1,frc957,frc2147,frc3826
+2025pncmp_qm76,qm,1,76,frc3826,,,,,,,,,,,,,,,,,,,,,,,,,,frc3218,frc9036,frc9450,-1,-1,frc957,frc2147,frc3826
+2025pncmp_qm76,qm,1,76,frc9036,,,,,,,,,,,,,,,,,,,,,,,,,,frc3218,frc9036,frc9450,-1,-1,frc957,frc2147,frc3826
+2025pncmp_qm76,qm,1,76,frc9450,,,,,,,,,,,,,,,,,,,,,,,,,,frc3218,frc9036,frc9450,-1,-1,frc957,frc2147,frc3826
+2025pncmp_qm77,qm,1,77,frc9023,,,,,,,,,,,,,,,,,,,,,,,,,,frc9023,frc1425,frc955,-1,-1,frc4125,frc1778,frc948
+2025pncmp_qm77,qm,1,77,frc4125,,,,,,,,,,,,,,,,,,,,,,,,,,frc9023,frc1425,frc955,-1,-1,frc4125,frc1778,frc948
+2025pncmp_qm77,qm,1,77,frc1778,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc9023,frc1425,frc955,-1,-1,frc4125,frc1778,frc948
+2025pncmp_qm77,qm,1,77,frc948,,,,,,,,,,,,,,,,,,,,,,,,,,frc9023,frc1425,frc955,-1,-1,frc4125,frc1778,frc948
+2025pncmp_qm77,qm,1,77,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc9023,frc1425,frc955,-1,-1,frc4125,frc1778,frc948
+2025pncmp_qm77,qm,1,77,frc955,,,,,,,,,,,,,,,,,,,,,,,,,,frc9023,frc1425,frc955,-1,-1,frc4125,frc1778,frc948
+2025pncmp_qm78,qm,1,78,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc360,frc4061,-1,-1,frc10416,frc4469,frc997
+2025pncmp_qm78,qm,1,78,frc10416,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc360,frc4061,-1,-1,frc10416,frc4469,frc997
+2025pncmp_qm78,qm,1,78,frc4469,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc3663,frc360,frc4061,-1,-1,frc10416,frc4469,frc997
+2025pncmp_qm78,qm,1,78,frc997,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc360,frc4061,-1,-1,frc10416,frc4469,frc997
+2025pncmp_qm78,qm,1,78,frc360,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc360,frc4061,-1,-1,frc10416,frc4469,frc997
+2025pncmp_qm78,qm,1,78,frc4061,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc360,frc4061,-1,-1,frc10416,frc4469,frc997
+2025pncmp_qm79,qm,1,79,frc3674,,,,,,,,,,,,,,,,,,,,,,,,,,frc3674,frc6443,frc2930,-1,-1,frc6831,frc2557,frc2471
+2025pncmp_qm79,qm,1,79,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc3674,frc6443,frc2930,-1,-1,frc6831,frc2557,frc2471
+2025pncmp_qm79,qm,1,79,frc2557,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc3674,frc6443,frc2930,-1,-1,frc6831,frc2557,frc2471
+2025pncmp_qm79,qm,1,79,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc3674,frc6443,frc2930,-1,-1,frc6831,frc2557,frc2471
+2025pncmp_qm79,qm,1,79,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc3674,frc6443,frc2930,-1,-1,frc6831,frc2557,frc2471
+2025pncmp_qm79,qm,1,79,frc2930,,,,,,,,,,,,,,,,,,,,,,,,,,frc3674,frc6443,frc2930,-1,-1,frc6831,frc2557,frc2471
+2025pncmp_qm8,qm,1,8,frc492,0,3,0,0,0,0,1,0,0,2,4,2,0,0,Deep Climb,0,attempted l4 but missed,"fast cycles but questionable placement accuracy at times. furthermore, they had miscommunications at the coral station and blocked their alliance partner from receiving a coral multiple times.",capable of deep climb but bottom of robot looked very close to the ground.,naman,0,0,1,0,0,frc492,frc957,frc955,-1,-1,frc4915,frc3636,frc2557
+2025pncmp_qm8,qm,1,8,frc4915,0,5,0,0,0,0,0,0,0,3,5,3,0,0,Deep Climb,2,they have a 2 coral auto,"they are really reliable, and can score on all levels. Did not miss a single one. Not super fast",climbed fairly quickly,Aarush V,0,0,1,0,0,frc492,frc957,frc955,-1,-1,frc4915,frc3636,frc2557
+2025pncmp_qm8,qm,1,8,frc3636,0,4,0,0,0,0,2,2,0,5,4,5,1,0,None,0,"Attempted to place 3 coral (including collecting two from the station), but missed all 3, as the angle of their placer was completely horizontal.","Was able to score a total of 15 coral, remove two algae, and place them both into the net. Cycles were relatively quick, placing on l4 was somewhat reliable, but placing on l3 and l2 for them was pretty good and did those levels quicker than l4. Was really good with algae, removed 2 and placed algae into the net efficiently reliably, and quickly. Seems like a better algae bot than a coral bot.",Didn't climb or park as they were still trying to place more coral on the reef.,Dev Sharma,0,0,1,0,0,frc492,frc957,frc955,-1,-1,frc4915,frc3636,frc2557
+2025pncmp_qm8,qm,1,8,frc2557,0,3,2,1,0,0,3,5,0,0,0,0,5,0,Park,0,"Missed one barge shot, ","Missed 3 barge shots, good at collecting the algae and getting rid of it, ",park,cayden,0,0,1,1,0,frc492,frc957,frc955,-1,-1,frc4915,frc3636,frc2557
+2025pncmp_qm8,qm,1,8,frc957,0,2,0,0,0,0,1,0,0,4,7,3,0,0,Deep Climb,2,They could have scored a third but they had a Delay during station collect.,They were able to score a lot of coral. Their cycles were fast but also consistent. They were able to deal with delays well. ,"they were able to climb. 12s to line up, 2-4 to climb",Hendrix Day,0,0,1,0,0,frc492,frc957,frc955,-1,-1,frc4915,frc3636,frc2557
+2025pncmp_qm8,qm,1,8,frc955,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc492,frc957,frc955,-1,-1,frc4915,frc3636,frc2557
+2025pncmp_qm80,qm,1,80,frc4512,,,,,,,,,,,,,,,,,,,,,,,,,,frc4512,frc2522,frc9446,-1,-1,frc492,frc5468,frc6343
+2025pncmp_qm80,qm,1,80,frc492,,,,,,,,,,,,,,,,,,,,,,,,,,frc4512,frc2522,frc9446,-1,-1,frc492,frc5468,frc6343
+2025pncmp_qm80,qm,1,80,frc5468,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc4512,frc2522,frc9446,-1,-1,frc492,frc5468,frc6343
+2025pncmp_qm80,qm,1,80,frc6343,,,,,,,,,,,,,,,,,,,,,,,,,,frc4512,frc2522,frc9446,-1,-1,frc492,frc5468,frc6343
+2025pncmp_qm80,qm,1,80,frc2522,,,,,,,,,,,,,,,,,,,,,,,,,,frc4512,frc2522,frc9446,-1,-1,frc492,frc5468,frc6343
+2025pncmp_qm80,qm,1,80,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc4512,frc2522,frc9446,-1,-1,frc492,frc5468,frc6343
+2025pncmp_qm81,qm,1,81,frc4131,,,,,,,,,,,,,,,,,,,,,,,,,,frc4131,frc9442,frc10079,-1,-1,frc2910,frc2976,frc3636
+2025pncmp_qm81,qm,1,81,frc2910,,,,,,,,,,,,,,,,,,,,,,,,,,frc4131,frc9442,frc10079,-1,-1,frc2910,frc2976,frc3636
+2025pncmp_qm81,qm,1,81,frc2976,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc4131,frc9442,frc10079,-1,-1,frc2910,frc2976,frc3636
+2025pncmp_qm81,qm,1,81,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc4131,frc9442,frc10079,-1,-1,frc2910,frc2976,frc3636
+2025pncmp_qm81,qm,1,81,frc9442,,,,,,,,,,,,,,,,,,,,,,,,,,frc4131,frc9442,frc10079,-1,-1,frc2910,frc2976,frc3636
+2025pncmp_qm81,qm,1,81,frc10079,,,,,,,,,,,,,,,,,,,,,,,,,,frc4131,frc9442,frc10079,-1,-1,frc2910,frc2976,frc3636
+2025pncmp_qm82,qm,1,82,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc4915,frc5937,-1,-1,frc4043,frc2046,frc2412
+2025pncmp_qm82,qm,1,82,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc4915,frc5937,-1,-1,frc4043,frc2046,frc2412
+2025pncmp_qm82,qm,1,82,frc2046,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc6696,frc4915,frc5937,-1,-1,frc4043,frc2046,frc2412
+2025pncmp_qm82,qm,1,82,frc2412,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc4915,frc5937,-1,-1,frc4043,frc2046,frc2412
+2025pncmp_qm82,qm,1,82,frc4915,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc4915,frc5937,-1,-1,frc4043,frc2046,frc2412
+2025pncmp_qm82,qm,1,82,frc5937,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc4915,frc5937,-1,-1,frc4043,frc2046,frc2412
+2025pncmp_qm83,qm,1,83,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc3574,frc4450,-1,-1,frc9567,frc1318,frc4513
+2025pncmp_qm83,qm,1,83,frc9567,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc3574,frc4450,-1,-1,frc9567,frc1318,frc4513
+2025pncmp_qm83,qm,1,83,frc1318,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc7034,frc3574,frc4450,-1,-1,frc9567,frc1318,frc4513
+2025pncmp_qm83,qm,1,83,frc4513,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc3574,frc4450,-1,-1,frc9567,frc1318,frc4513
+2025pncmp_qm83,qm,1,83,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc3574,frc4450,-1,-1,frc9567,frc1318,frc4513
+2025pncmp_qm83,qm,1,83,frc4450,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc3574,frc4450,-1,-1,frc9567,frc1318,frc4513
+2025pncmp_qm84,qm,1,84,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc6443,frc4469,-1,-1,frc3218,frc2471,frc488
+2025pncmp_qm84,qm,1,84,frc3218,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc6443,frc4469,-1,-1,frc3218,frc2471,frc488
+2025pncmp_qm84,qm,1,84,frc2471,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc1540,frc6443,frc4469,-1,-1,frc3218,frc2471,frc488
+2025pncmp_qm84,qm,1,84,frc488,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc6443,frc4469,-1,-1,frc3218,frc2471,frc488
+2025pncmp_qm84,qm,1,84,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc6443,frc4469,-1,-1,frc3218,frc2471,frc488
+2025pncmp_qm84,qm,1,84,frc4469,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc6443,frc4469,-1,-1,frc3218,frc2471,frc488
+2025pncmp_qm85,qm,1,85,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc4061,frc9446,-1,-1,frc360,frc3674,frc5468
+2025pncmp_qm85,qm,1,85,frc360,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc4061,frc9446,-1,-1,frc360,frc3674,frc5468
+2025pncmp_qm85,qm,1,85,frc3674,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc957,frc4061,frc9446,-1,-1,frc360,frc3674,frc5468
+2025pncmp_qm85,qm,1,85,frc5468,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc4061,frc9446,-1,-1,frc360,frc3674,frc5468
+2025pncmp_qm85,qm,1,85,frc4061,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc4061,frc9446,-1,-1,frc360,frc3674,frc5468
+2025pncmp_qm85,qm,1,85,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc4061,frc9446,-1,-1,frc360,frc3674,frc5468
+2025pncmp_qm86,qm,1,86,frc2147,,,,,,,,,,,,,,,,,,,,,,,,,,frc2147,frc9442,frc2930,-1,-1,frc4512,frc1425,frc4131
+2025pncmp_qm86,qm,1,86,frc4512,,,,,,,,,,,,,,,,,,,,,,,,,,frc2147,frc9442,frc2930,-1,-1,frc4512,frc1425,frc4131
+2025pncmp_qm86,qm,1,86,frc1425,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc2147,frc9442,frc2930,-1,-1,frc4512,frc1425,frc4131
+2025pncmp_qm86,qm,1,86,frc4131,,,,,,,,,,,,,,,,,,,,,,,,,,frc2147,frc9442,frc2930,-1,-1,frc4512,frc1425,frc4131
+2025pncmp_qm86,qm,1,86,frc9442,,,,,,,,,,,,,,,,,,,,,,,,,,frc2147,frc9442,frc2930,-1,-1,frc4512,frc1425,frc4131
+2025pncmp_qm86,qm,1,86,frc2930,,,,,,,,,,,,,,,,,,,,,,,,,,frc2147,frc9442,frc2930,-1,-1,frc4512,frc1425,frc4131
+2025pncmp_qm87,qm,1,87,frc2976,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc3826,frc1778,-1,-1,frc6831,frc5937,frc4915
+2025pncmp_qm87,qm,1,87,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc3826,frc1778,-1,-1,frc6831,frc5937,frc4915
+2025pncmp_qm87,qm,1,87,frc5937,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc2976,frc3826,frc1778,-1,-1,frc6831,frc5937,frc4915
+2025pncmp_qm87,qm,1,87,frc4915,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc3826,frc1778,-1,-1,frc6831,frc5937,frc4915
+2025pncmp_qm87,qm,1,87,frc3826,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc3826,frc1778,-1,-1,frc6831,frc5937,frc4915
+2025pncmp_qm87,qm,1,87,frc1778,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc3826,frc1778,-1,-1,frc6831,frc5937,frc4915
+2025pncmp_qm88,qm,1,88,frc1318,,,,,,,,,,,,,,,,,,,,,,,,,,frc1318,frc9023,frc10416,-1,-1,frc2412,frc4125,frc2557
+2025pncmp_qm88,qm,1,88,frc2412,,,,,,,,,,,,,,,,,,,,,,,,,,frc1318,frc9023,frc10416,-1,-1,frc2412,frc4125,frc2557
+2025pncmp_qm88,qm,1,88,frc4125,,,,,,,,,,,,,,,,,,,,,,,,,,frc1318,frc9023,frc10416,-1,-1,frc2412,frc4125,frc2557
+2025pncmp_qm88,qm,1,88,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc1318,frc9023,frc10416,-1,-1,frc2412,frc4125,frc2557
+2025pncmp_qm88,qm,1,88,frc9023,,,,,,,,,,,,,,,,,,,,,,,,,,frc1318,frc9023,frc10416,-1,-1,frc2412,frc4125,frc2557
+2025pncmp_qm88,qm,1,88,frc10416,,,,,,,,,,,,,,,,,,,,,,,,,,frc1318,frc9023,frc10416,-1,-1,frc2412,frc4125,frc2557
+2025pncmp_qm89,qm,1,89,frc4513,,,,,,,,,,,,,,,,,,,,,,,,,,frc4513,frc488,frc492,-1,-1,frc4043,frc3636,frc4450
+2025pncmp_qm89,qm,1,89,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc4513,frc488,frc492,-1,-1,frc4043,frc3636,frc4450
+2025pncmp_qm89,qm,1,89,frc3636,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc4513,frc488,frc492,-1,-1,frc4043,frc3636,frc4450
+2025pncmp_qm89,qm,1,89,frc4450,,,,,,,,,,,,,,,,,,,,,,,,,,frc4513,frc488,frc492,-1,-1,frc4043,frc3636,frc4450
+2025pncmp_qm89,qm,1,89,frc488,,,,,,,,,,,,,,,,,,,,,,,,,,frc4513,frc488,frc492,-1,-1,frc4043,frc3636,frc4450
+2025pncmp_qm89,qm,1,89,frc492,,,,,,,,,,,,,,,,,,,,,,,,,,frc4513,frc488,frc492,-1,-1,frc4043,frc3636,frc4450
+2025pncmp_qm9,qm,1,9,frc4512,0,5,0,0,0,0,0,0,0,3,6,3,0,0,Park,3,capable of three coral auto and an observation i made was that before the human player dropped the coral in on the second coral the robot started driving away but realized it didn't have a coral so it drove back to the coral station,"extremely efficient coral placement and fast cycles but attempted to remove algae twice but instead, the algae dropped into level one somehow.",parked at the last moment,naman,0,0,1,0,0,frc4512,frc9023,frc5468,-1,-1,frc4131,frc2412,frc1540
+2025pncmp_qm9,qm,1,9,frc4131,0,3,0,0,0,0,0,0,5,0,0,0,0,0,None,0,tried tp score l1 but failed,very slow and only does l1 and processor. would seriously not recomend picking,took 30 seconds to climb,Aarush V,0,0,1,0,0,frc4512,frc9023,frc5468,-1,-1,frc4131,frc2412,frc1540
+2025pncmp_qm9,qm,1,9,frc2412,0,1,0,0,0,0,4,0,0,5,2,2,0,0,Deep Climb,1,"Left and quickly scored one coral on l4, collected one from station but for some reason then stopped.","Cycled coral and removed 4 algae, placed pretty well and accurately, mostly on l4, cycle times were relatively quick. Had a total of 9 coral placed/9 cycles.","Went to climb at around 8 seconds, and deep climbed in around 3-4 seconds. Overall relatively decent robot.",Dev Sharma,0,0,1,0,0,frc4512,frc9023,frc5468,-1,-1,frc4131,frc2412,frc1540
+2025pncmp_qm9,qm,1,9,frc1540,0,4,0,0,0,0,1,3,0,1,1,0,5,0,Deep Climb,2,missed 2nd coral,"hits barge when shooting, KEEP EYE ON something isn't right, might have been broken  ",deep cage,cayden,0,0,1,0,0,frc4512,frc9023,frc5468,-1,-1,frc4131,frc2412,frc1540
+2025pncmp_qm9,qm,1,9,frc9023,0,3,0,0,0,0,0,0,3,2,5,5,0,0,None,1,They had a one coral auto and did not attempt more,"they were able to score algae in the processor, ground collect and score coral. The were kind of slow at algae.  BUt were pretty fast at coral because of ground collect and smooth operating. Difficulty with L1.",did not attempt to climb just keep scoring,Hendrix Day,0,0,1,0,0,frc4512,frc9023,frc5468,-1,-1,frc4131,frc2412,frc1540
+2025pncmp_qm9,qm,1,9,frc5468,,,,,,,,,,,,,,,,,,,,,,,,,,frc4512,frc9023,frc5468,-1,-1,frc4131,frc2412,frc1540
+2025pncmp_qm90,qm,1,90,frc9450,,,,,,,,,,,,,,,,,,,,,,,,,,frc9450,frc6696,frc948,-1,-1,frc2522,frc9567,frc997
+2025pncmp_qm90,qm,1,90,frc2522,,,,,,,,,,,,,,,,,,,,,,,,,,frc9450,frc6696,frc948,-1,-1,frc2522,frc9567,frc997
+2025pncmp_qm90,qm,1,90,frc9567,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc9450,frc6696,frc948,-1,-1,frc2522,frc9567,frc997
+2025pncmp_qm90,qm,1,90,frc997,,,,,,,,,,,,,,,,,,,,,,,,,,frc9450,frc6696,frc948,-1,-1,frc2522,frc9567,frc997
+2025pncmp_qm90,qm,1,90,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc9450,frc6696,frc948,-1,-1,frc2522,frc9567,frc997
+2025pncmp_qm90,qm,1,90,frc948,,,,,,,,,,,,,,,,,,,,,,,,,,frc9450,frc6696,frc948,-1,-1,frc2522,frc9567,frc997
+2025pncmp_qm91,qm,1,91,frc955,,,,,,,,,,,,,,,,,,,,,,,,,,frc955,frc10079,frc6343,-1,-1,frc1540,frc3574,frc3663
+2025pncmp_qm91,qm,1,91,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc955,frc10079,frc6343,-1,-1,frc1540,frc3574,frc3663
+2025pncmp_qm91,qm,1,91,frc3574,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc955,frc10079,frc6343,-1,-1,frc1540,frc3574,frc3663
+2025pncmp_qm91,qm,1,91,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc955,frc10079,frc6343,-1,-1,frc1540,frc3574,frc3663
+2025pncmp_qm91,qm,1,91,frc10079,,,,,,,,,,,,,,,,,,,,,,,,,,frc955,frc10079,frc6343,-1,-1,frc1540,frc3574,frc3663
+2025pncmp_qm91,qm,1,91,frc6343,,,,,,,,,,,,,,,,,,,,,,,,,,frc955,frc10079,frc6343,-1,-1,frc1540,frc3574,frc3663
+2025pncmp_qm92,qm,1,92,frc2046,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc7034,frc4512,-1,-1,frc9036,frc4061,frc2910
+2025pncmp_qm92,qm,1,92,frc9036,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc7034,frc4512,-1,-1,frc9036,frc4061,frc2910
+2025pncmp_qm92,qm,1,92,frc4061,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc2046,frc7034,frc4512,-1,-1,frc9036,frc4061,frc2910
+2025pncmp_qm92,qm,1,92,frc2910,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc7034,frc4512,-1,-1,frc9036,frc4061,frc2910
+2025pncmp_qm92,qm,1,92,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc7034,frc4512,-1,-1,frc9036,frc4061,frc2910
+2025pncmp_qm92,qm,1,92,frc4512,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc7034,frc4512,-1,-1,frc9036,frc4061,frc2910
+2025pncmp_qm93,qm,1,93,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc4125,frc4915,-1,-1,frc360,frc1318,frc6443
+2025pncmp_qm93,qm,1,93,frc360,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc4125,frc4915,-1,-1,frc360,frc1318,frc6443
+2025pncmp_qm93,qm,1,93,frc1318,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc1425,frc4125,frc4915,-1,-1,frc360,frc1318,frc6443
+2025pncmp_qm93,qm,1,93,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc4125,frc4915,-1,-1,frc360,frc1318,frc6443
+2025pncmp_qm93,qm,1,93,frc4125,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc4125,frc4915,-1,-1,frc360,frc1318,frc6443
+2025pncmp_qm93,qm,1,93,frc4915,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc4125,frc4915,-1,-1,frc360,frc1318,frc6443
+2025pncmp_qm94,qm,1,94,frc2976,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc2471,frc488,-1,-1,frc2412,frc2147,frc957
+2025pncmp_qm94,qm,1,94,frc2412,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc2471,frc488,-1,-1,frc2412,frc2147,frc957
+2025pncmp_qm94,qm,1,94,frc2147,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc2976,frc2471,frc488,-1,-1,frc2412,frc2147,frc957
+2025pncmp_qm94,qm,1,94,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc2471,frc488,-1,-1,frc2412,frc2147,frc957
+2025pncmp_qm94,qm,1,94,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc2471,frc488,-1,-1,frc2412,frc2147,frc957
+2025pncmp_qm94,qm,1,94,frc488,,,,,,,,,,,,,,,,,,,,,,,,,,frc2976,frc2471,frc488,-1,-1,frc2412,frc2147,frc957
+2025pncmp_qm95,qm,1,95,frc9442,,,,,,,,,,,,,,,,,,,,,,,,,,frc9442,frc2930,frc4450,-1,-1,frc997,frc5468,frc2557
+2025pncmp_qm95,qm,1,95,frc997,,,,,,,,,,,,,,,,,,,,,,,,,,frc9442,frc2930,frc4450,-1,-1,frc997,frc5468,frc2557
+2025pncmp_qm95,qm,1,95,frc5468,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc9442,frc2930,frc4450,-1,-1,frc997,frc5468,frc2557
+2025pncmp_qm95,qm,1,95,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc9442,frc2930,frc4450,-1,-1,frc997,frc5468,frc2557
+2025pncmp_qm95,qm,1,95,frc2930,,,,,,,,,,,,,,,,,,,,,,,,,,frc9442,frc2930,frc4450,-1,-1,frc997,frc5468,frc2557
+2025pncmp_qm95,qm,1,95,frc4450,,,,,,,,,,,,,,,,,,,,,,,,,,frc9442,frc2930,frc4450,-1,-1,frc997,frc5468,frc2557
+2025pncmp_qm96,qm,1,96,frc948,,,,,,,,,,,,,,,,,,,,,,,,,,frc948,frc9446,frc1540,-1,-1,frc4513,frc3218,frc6696
+2025pncmp_qm96,qm,1,96,frc4513,,,,,,,,,,,,,,,,,,,,,,,,,,frc948,frc9446,frc1540,-1,-1,frc4513,frc3218,frc6696
+2025pncmp_qm96,qm,1,96,frc3218,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc948,frc9446,frc1540,-1,-1,frc4513,frc3218,frc6696
+2025pncmp_qm96,qm,1,96,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc948,frc9446,frc1540,-1,-1,frc4513,frc3218,frc6696
+2025pncmp_qm96,qm,1,96,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc948,frc9446,frc1540,-1,-1,frc4513,frc3218,frc6696
+2025pncmp_qm96,qm,1,96,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc948,frc9446,frc1540,-1,-1,frc4513,frc3218,frc6696
+2025pncmp_qm97,qm,1,97,frc2046,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc3674,frc2522,-1,-1,frc3663,frc6831,frc10079
+2025pncmp_qm97,qm,1,97,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc3674,frc2522,-1,-1,frc3663,frc6831,frc10079
+2025pncmp_qm97,qm,1,97,frc6831,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc2046,frc3674,frc2522,-1,-1,frc3663,frc6831,frc10079
+2025pncmp_qm97,qm,1,97,frc10079,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc3674,frc2522,-1,-1,frc3663,frc6831,frc10079
+2025pncmp_qm97,qm,1,97,frc3674,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc3674,frc2522,-1,-1,frc3663,frc6831,frc10079
+2025pncmp_qm97,qm,1,97,frc2522,,,,,,,,,,,,,,,,,,,,,,,,,,frc2046,frc3674,frc2522,-1,-1,frc3663,frc6831,frc10079
+2025pncmp_qm98,qm,1,98,frc955,,,,,,,,,,,,,,,,,,,,,,,,,,frc955,frc3826,frc9567,-1,-1,frc7034,frc492,frc3636
+2025pncmp_qm98,qm,1,98,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc955,frc3826,frc9567,-1,-1,frc7034,frc492,frc3636
+2025pncmp_qm98,qm,1,98,frc492,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc955,frc3826,frc9567,-1,-1,frc7034,frc492,frc3636
+2025pncmp_qm98,qm,1,98,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc955,frc3826,frc9567,-1,-1,frc7034,frc492,frc3636
+2025pncmp_qm98,qm,1,98,frc3826,,,,,,,,,,,,,,,,,,,,,,,,,,frc955,frc3826,frc9567,-1,-1,frc7034,frc492,frc3636
+2025pncmp_qm98,qm,1,98,frc9567,,,,,,,,,,,,,,,,,,,,,,,,,,frc955,frc3826,frc9567,-1,-1,frc7034,frc492,frc3636
+2025pncmp_qm99,qm,1,99,frc9450,,,,,,,,,,,,,,,,,,,,,,,,,,frc9450,frc1778,frc5937,-1,-1,frc6343,frc10416,frc4131
+2025pncmp_qm99,qm,1,99,frc6343,,,,,,,,,,,,,,,,,,,,,,,,,,frc9450,frc1778,frc5937,-1,-1,frc6343,frc10416,frc4131
+2025pncmp_qm99,qm,1,99,frc10416,,1,,,,,,,,,,,,,None,,,,,,,0,,,0,frc9450,frc1778,frc5937,-1,-1,frc6343,frc10416,frc4131
+2025pncmp_qm99,qm,1,99,frc4131,,,,,,,,,,,,,,,,,,,,,,,,,,frc9450,frc1778,frc5937,-1,-1,frc6343,frc10416,frc4131
+2025pncmp_qm99,qm,1,99,frc1778,,,,,,,,,,,,,,,,,,,,,,,,,,frc9450,frc1778,frc5937,-1,-1,frc6343,frc10416,frc4131
+2025pncmp_qm99,qm,1,99,frc5937,,,,,,,,,,,,,,,,,,,,,,,,,,frc9450,frc1778,frc5937,-1,-1,frc6343,frc10416,frc4131

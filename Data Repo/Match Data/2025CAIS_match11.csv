@@ -1,0 +1,375 @@
+key,comp_level,set_number,match_number,team_key,start_Pos_5isBlue,a_Proc,a_L4,a_L3,a_L2,a_L1,t_Defense,t_timeFrozen,t_reefAlgae,t_Net,t_Proc,t_L4,t_L3,t_L2,t_L1,end_Pos,t_Tipped,auto_Notes,tele_Notes,endgame_Notes,match_Scouter,a_Leave,a_Station,a_Net,a_reefAlgae,r1,b1,b2,b3,r2,r3,ba_bluescore,ba_redscore
+2025orore_qm1,qm,1,1,frc2471,1,0,0,0,0,0,0,4,0,0,0,1,0,0,1,Park,0,looked very unstable while elevator was fully retracted. coral placement is highly inaccurate on all levels.,highly inaccurate coral placement and accidentally placed on L1.,spun in circles and parked. incapable of climbing,naman,1,1,0,0,frc2471,frc1540,frc2898,frc5970,frc9430,frc2915,-1,-1
+2025orore_qm1,qm,1,1,frc9430,1,0,0,1,0,0,0,0,0,0,0,0,2,1,0,Deep Climb,0,"Auto was slightly slow, their coral feed missed and was inaccurate, but made one l3.","Was moving at steady pace, scored a few on l3 and 2, but their feeding was slow, slightly unreliable, and shaky when holding coral.",was not fully off ground and looked a little weak,Dev Sharma ,1,0,0,0,frc2471,frc1540,frc2898,frc5970,frc9430,frc2915,-1,-1
+2025orore_qm1,qm,1,1,frc2915,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,None,0,Attempt to put coral but missed,Overall moved quite slow as well as attempted multiple times to put coral on reef but missed multiple times attempted towards end but got pinned,Did not climb or park overall did not do well,Ave wilson,1,0,0,0,frc2471,frc1540,frc2898,frc5970,frc9430,frc2915,-1,-1
+2025orore_qm1,qm,1,1,frc1540,3,0,0,0,0,1,1,0,1,1,0,0,0,0,0,Park,0,"Places preloaded in L1, grabs algae then places in processor","Did not have an efficient ground intake. Tried to collect coral but failed, grabbed algae and placed n barge, played great defense by ramming robots at coral station",Parked,Pranav ,1,0,0,1,frc2471,frc1540,frc2898,frc5970,frc9430,frc2915,-1,-1
+2025orore_qm1,qm,1,1,frc2898,5,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Park,0,,Grabbed a coral and attempted to put it on l4 but just kept holding it until the last minute before placing on the first level. Did defense,,,1,0,0,0,frc2471,frc1540,frc2898,frc5970,frc9430,frc2915,-1,-1
+2025orore_qm1,qm,1,1,frc5970,4,0,0,0,0,0,0,10,0,0,0,0,0,0,0,Park,0,Got shoved over the line,froze and missed intakes,failed deep climb,Aa,1,0,0,0,frc2471,frc1540,frc2898,frc5970,frc9430,frc2915,-1,-1
+2025orore_qm10,qm,1,10,frc957,4,0,2,0,0,0,0,0,0,0,0,4,0,0,0,Deep Climb,0,great automode but hada hiccup with intake,very efficient in terms of coral placement but narow intake causes difficulty in coral posession.,climb was very low,naman,1,1,0,0,frc957,frc2635,frc9446,frc2733,frc2915,frc1844,-1,-1
+2025orore_qm10,qm,1,10,frc2915,2,0,0,0,0,0,0,40,0,0,0,0,0,1,0,Park,0,Was not very good and only moved forward,"only placed one coral on l2, feeding and placing was highly unreliable, and a major part of their robot broke","didn't park as they
+
+Their robotstoed 
+
+
+
+",Dev Sharma,1,0,0,0,frc957,frc2635,frc9446,frc2733,frc2915,frc1844,-1,-1
+2025orore_qm10,qm,1,10,frc1844,4,0,0,0,0,0,,,,,,,,,,None,0,Bypassed,,,Aa,0,0,0,0,frc957,frc2635,frc9446,frc2733,frc2915,frc1844,-1,-1
+2025orore_qm10,qm,1,10,frc2635,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,Deep Climb,0,No auto besides leave ,Little done in teleop. Has capability to collect algae at all levels but not so much score it. Never attempted coral.,Good deep cage climb.,Sam,1,0,0,0,frc957,frc2635,frc9446,frc2733,frc2915,frc1844,-1,-1
+2025orore_qm10,qm,1,10,frc9446,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Park,0,did nothing,Did literally nothing except slow driving.,"parked ig
+
+Unless they improve massively, probably DNP",Michael,0,0,0,0,frc957,frc2635,frc9446,frc2733,frc2915,frc1844,-1,-1
+2025orore_qm10,qm,1,10,frc2733,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,None,0,went straight forward and nothing else,Failed to put coral six times was able to three times ,did not make any attempt to climb instead kept trying to place coral,Ave wilson,1,0,0,0,frc957,frc2635,frc9446,frc2733,frc2915,frc1844,-1,-1
+2025orore_qm11,qm,1,11,frc5975,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,0,didnt leave start zone.,incapable of doing anything on the field just roamed in a 3 meter radius.,parked just fine,naman,0,0,0,0,frc5975,frc3636,frc2557,frc1425,frc9430,frc847,-1,-1
+2025orore_qm11,qm,1,11,frc9430,1,,,,,,,,,,,,,,,None,0,,,,,,,,,frc5975,frc3636,frc2557,frc1425,frc9430,frc847,-1,-1
+2025orore_qm11,qm,1,11,frc847,1,0,0,0,0,0,0,0,1,0,0,0,2,2,0,Park,0,Left start zone and nothing else,"Collection very inaccurate, takes many tries. Ran multiple cycles but not as fast bot. Place is accurate","Parked, attempted to climb but couldn't get high enough",Pranav,1,0,0,0,frc5975,frc3636,frc2557,frc1425,frc9430,frc847,-1,-1
+2025orore_qm11,qm,1,11,frc3636,5,0,0,0,0,0,0,0,1,0,0,1,1,0,0,None,0,,,Don't trust this cuz I wasn't watching,Unv,1,0,0,0,frc5975,frc3636,frc2557,frc1425,frc9430,frc847,-1,-1
+2025orore_qm11,qm,1,11,frc2557,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,Park,0,"Had drive forward auto, not very good auto","pretty good at l1, but cant really do anything else","they parked. 
+
+not amazing overall, but definetly not bad. ",Michael,1,0,0,0,frc5975,frc3636,frc2557,frc1425,frc9430,frc847,-1,-1
+2025orore_qm11,qm,1,11,frc1425,1,0,2,0,0,0,0,0,2,0,0,2,2,3,1,Deep Climb,0,did quite well was able to place preloaded coral as well as a second one,consistently placed coral as well as was able to take algae off of reef,"Did well, was able to do the deep climb",Ave wilson,1,1,0,0,frc5975,frc3636,frc2557,frc1425,frc9430,frc847,-1,-1
+2025orore_qm12,qm,1,12,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc4662,frc3673,frc4043,frc4488,frc3663,-1,-1
+2025orore_qm12,qm,1,12,frc4488,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc4662,frc3673,frc4043,frc4488,frc3663,-1,-1
+2025orore_qm12,qm,1,12,frc3663,1,,,,,,,,,,,,,,,None,0,,,,,,,,,frc6696,frc4662,frc3673,frc4043,frc4488,frc3663,-1,-1
+2025orore_qm12,qm,1,12,frc4662,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc4662,frc3673,frc4043,frc4488,frc3663,-1,-1
+2025orore_qm12,qm,1,12,frc3673,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc4662,frc3673,frc4043,frc4488,frc3663,-1,-1
+2025orore_qm12,qm,1,12,frc4043,1,,,,,,,,,,,,,,,None,0,,,,,,,,,frc6696,frc4662,frc3673,frc4043,frc4488,frc3663,-1,-1
+2025orore_qm13,qm,1,13,frc1844,,,,,,,,,,,,,,,,,,,,,,,,,,frc1844,frc6443,frc957,frc6831,frc5970,frc2915,-1,-1
+2025orore_qm13,qm,1,13,frc5970,,,,,,,,,,,,,,,,,,,,,,,,,,frc1844,frc6443,frc957,frc6831,frc5970,frc2915,-1,-1
+2025orore_qm13,qm,1,13,frc2915,1,,,,,,,,,,,,,,,None,0,,,,,,,,,frc1844,frc6443,frc957,frc6831,frc5970,frc2915,-1,-1
+2025orore_qm13,qm,1,13,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc1844,frc6443,frc957,frc6831,frc5970,frc2915,-1,-1
+2025orore_qm13,qm,1,13,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc1844,frc6443,frc957,frc6831,frc5970,frc2915,-1,-1
+2025orore_qm13,qm,1,13,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc1844,frc6443,frc957,frc6831,frc5970,frc2915,-1,-1
+2025orore_qm14,qm,1,14,frc2635,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc3812,frc6845,frc9446,frc2471,frc2898,-1,-1
+2025orore_qm14,qm,1,14,frc2471,1,,,,,,,,,,,,,,,None,0,,,,,,,,,frc2635,frc3812,frc6845,frc9446,frc2471,frc2898,-1,-1
+2025orore_qm14,qm,1,14,frc2898,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc3812,frc6845,frc9446,frc2471,frc2898,-1,-1
+2025orore_qm14,qm,1,14,frc3812,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc3812,frc6845,frc9446,frc2471,frc2898,-1,-1
+2025orore_qm14,qm,1,14,frc6845,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc3812,frc6845,frc9446,frc2471,frc2898,-1,-1
+2025orore_qm14,qm,1,14,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc3812,frc6845,frc9446,frc2471,frc2898,-1,-1
+2025orore_qm15,qm,1,15,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc2733,frc9438,frc10444,frc3574,frc1540,-1,-1
+2025orore_qm15,qm,1,15,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc2733,frc9438,frc10444,frc3574,frc1540,-1,-1
+2025orore_qm15,qm,1,15,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc2733,frc9438,frc10444,frc3574,frc1540,-1,-1
+2025orore_qm15,qm,1,15,frc2733,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc2733,frc9438,frc10444,frc3574,frc1540,-1,-1
+2025orore_qm15,qm,1,15,frc9438,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc2733,frc9438,frc10444,frc3574,frc1540,-1,-1
+2025orore_qm15,qm,1,15,frc10444,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc2733,frc9438,frc10444,frc3574,frc1540,-1,-1
+2025orore_qm16,qm,1,16,frc9430,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc2915,frc4488,frc4662,frc2557,frc6831,-1,-1
+2025orore_qm16,qm,1,16,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc2915,frc4488,frc4662,frc2557,frc6831,-1,-1
+2025orore_qm16,qm,1,16,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc2915,frc4488,frc4662,frc2557,frc6831,-1,-1
+2025orore_qm16,qm,1,16,frc2915,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc2915,frc4488,frc4662,frc2557,frc6831,-1,-1
+2025orore_qm16,qm,1,16,frc4488,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc2915,frc4488,frc4662,frc2557,frc6831,-1,-1
+2025orore_qm16,qm,1,16,frc4662,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc2915,frc4488,frc4662,frc2557,frc6831,-1,-1
+2025orore_qm17,qm,1,17,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc5970,frc3812,frc3673,frc9446,frc5975,-1,-1
+2025orore_qm17,qm,1,17,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc5970,frc3812,frc3673,frc9446,frc5975,-1,-1
+2025orore_qm17,qm,1,17,frc5975,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc5970,frc3812,frc3673,frc9446,frc5975,-1,-1
+2025orore_qm17,qm,1,17,frc5970,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc5970,frc3812,frc3673,frc9446,frc5975,-1,-1
+2025orore_qm17,qm,1,17,frc3812,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc5970,frc3812,frc3673,frc9446,frc5975,-1,-1
+2025orore_qm17,qm,1,17,frc3673,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc5970,frc3812,frc3673,frc9446,frc5975,-1,-1
+2025orore_qm18,qm,1,18,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc3574,frc6845,frc1844,frc7034,frc4043,-1,-1
+2025orore_qm18,qm,1,18,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc3574,frc6845,frc1844,frc7034,frc4043,-1,-1
+2025orore_qm18,qm,1,18,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc3574,frc6845,frc1844,frc7034,frc4043,-1,-1
+2025orore_qm18,qm,1,18,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc3574,frc6845,frc1844,frc7034,frc4043,-1,-1
+2025orore_qm18,qm,1,18,frc6845,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc3574,frc6845,frc1844,frc7034,frc4043,-1,-1
+2025orore_qm18,qm,1,18,frc1844,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc3574,frc6845,frc1844,frc7034,frc4043,-1,-1
+2025orore_qm19,qm,1,19,frc2733,,,,,,,,,,,,,,,,,,,,,,,,,,frc2733,frc957,frc9438,frc3636,frc2898,frc1425,-1,-1
+2025orore_qm19,qm,1,19,frc2898,,,,,,,,,,,,,,,,,,,,,,,,,,frc2733,frc957,frc9438,frc3636,frc2898,frc1425,-1,-1
+2025orore_qm19,qm,1,19,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc2733,frc957,frc9438,frc3636,frc2898,frc1425,-1,-1
+2025orore_qm19,qm,1,19,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc2733,frc957,frc9438,frc3636,frc2898,frc1425,-1,-1
+2025orore_qm19,qm,1,19,frc9438,,,,,,,,,,,,,,,,,,,,,,,,,,frc2733,frc957,frc9438,frc3636,frc2898,frc1425,-1,-1
+2025orore_qm19,qm,1,19,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc2733,frc957,frc9438,frc3636,frc2898,frc1425,-1,-1
+2025orore_qm2,qm,1,2,frc5975,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,0,didn't leave the start. ,drove around and didn't contribute however robots were experiencing connection issues.,"drove into other alliance, preventing climb",naman,0,0,0,0,frc5975,frc3574,frc6696,frc3812,frc10444,frc1425,-1,-1
+2025orore_qm2,qm,1,2,frc10444,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,None,0,Moved a foot,"tried to remove algea, but it got stuck inside the robot. Then their grabber fell of","N/a, E stoped",Aarush,1,0,0,0,frc5975,frc3574,frc6696,frc3812,frc10444,frc1425,-1,-1
+2025orore_qm2,qm,1,2,frc1425,3,0,0,0,0,0,0,84,0,0,0,0,0,0,0,Park,0,Seemed to make an attempt but was unable to move and frozen,was frozen for almost the whole time at some points it seemed to be able to move but very little towards the end it was able to slowly move and it went to climb area,It was able to make it inside of tape but not climb,Ave wilson,0,0,0,0,frc5975,frc3574,frc6696,frc3812,frc10444,frc1425,-1,-1
+2025orore_qm2,qm,1,2,frc3574,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,Park,0,Did not leave or do anything,"Did not pay much attention, too focused on our robot. Fairly slow but accurate bot, station collect and can place L1-L3",Parked,Pranav,0,0,0,0,frc5975,frc3574,frc6696,frc3812,frc10444,frc1425,-1,-1
+2025orore_qm2,qm,1,2,frc6696,1,0,0,0,0,0,0,0,0,0,0,10,0,0,0,Park,0,Tried scoring but missed,very fast and efficient. Cant ground collect,,Yaamini,1,0,0,0,frc5975,frc3574,frc6696,frc3812,frc10444,frc1425,-1,-1
+2025orore_qm2,qm,1,2,frc3812,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Park,0,,sorry I didn't do a good job; I was so confused about what was going on,,michael,0,0,0,0,frc5975,frc3574,frc6696,frc3812,frc10444,frc1425,-1,-1
+2025orore_qm20,qm,1,20,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc847,frc2635,frc1540,frc10444,frc2471,-1,-1
+2025orore_qm20,qm,1,20,frc10444,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc847,frc2635,frc1540,frc10444,frc2471,-1,-1
+2025orore_qm20,qm,1,20,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc847,frc2635,frc1540,frc10444,frc2471,-1,-1
+2025orore_qm20,qm,1,20,frc847,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc847,frc2635,frc1540,frc10444,frc2471,-1,-1
+2025orore_qm20,qm,1,20,frc2635,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc847,frc2635,frc1540,frc10444,frc2471,-1,-1
+2025orore_qm20,qm,1,20,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc847,frc2635,frc1540,frc10444,frc2471,-1,-1
+2025orore_qm21,qm,1,21,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc3574,frc2915,frc6845,frc7034,frc3673,frc2557,-1,-1
+2025orore_qm21,qm,1,21,frc3673,,,,,,,,,,,,,,,,,,,,,,,,,,frc3574,frc2915,frc6845,frc7034,frc3673,frc2557,-1,-1
+2025orore_qm21,qm,1,21,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc3574,frc2915,frc6845,frc7034,frc3673,frc2557,-1,-1
+2025orore_qm21,qm,1,21,frc2915,,,,,,,,,,,,,,,,,,,,,,,,,,frc3574,frc2915,frc6845,frc7034,frc3673,frc2557,-1,-1
+2025orore_qm21,qm,1,21,frc6845,,,,,,,,,,,,,,,,,,,,,,,,,,frc3574,frc2915,frc6845,frc7034,frc3673,frc2557,-1,-1
+2025orore_qm21,qm,1,21,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc3574,frc2915,frc6845,frc7034,frc3673,frc2557,-1,-1
+2025orore_qm22,qm,1,22,frc9430,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc9438,frc5970,frc5975,frc6443,frc2733,-1,-1
+2025orore_qm22,qm,1,22,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc9438,frc5970,frc5975,frc6443,frc2733,-1,-1
+2025orore_qm22,qm,1,22,frc2733,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc9438,frc5970,frc5975,frc6443,frc2733,-1,-1
+2025orore_qm22,qm,1,22,frc9438,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc9438,frc5970,frc5975,frc6443,frc2733,-1,-1
+2025orore_qm22,qm,1,22,frc5970,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc9438,frc5970,frc5975,frc6443,frc2733,-1,-1
+2025orore_qm22,qm,1,22,frc5975,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc9438,frc5970,frc5975,frc6443,frc2733,-1,-1
+2025orore_qm23,qm,1,23,frc1425,1,,,,,,,,,,,,,,,None,0,,,,,,,,,frc1425,frc4043,frc4488,frc2635,frc1540,frc3812,-1,-1
+2025orore_qm23,qm,1,23,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc4043,frc4488,frc2635,frc1540,frc3812,-1,-1
+2025orore_qm23,qm,1,23,frc3812,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc4043,frc4488,frc2635,frc1540,frc3812,-1,-1
+2025orore_qm23,qm,1,23,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc4043,frc4488,frc2635,frc1540,frc3812,-1,-1
+2025orore_qm23,qm,1,23,frc4488,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc4043,frc4488,frc2635,frc1540,frc3812,-1,-1
+2025orore_qm23,qm,1,23,frc2635,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc4043,frc4488,frc2635,frc1540,frc3812,-1,-1
+2025orore_qm24,qm,1,24,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc2898,frc1844,frc10444,frc3636,frc9446,-1,-1
+2025orore_qm24,qm,1,24,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc2898,frc1844,frc10444,frc3636,frc9446,-1,-1
+2025orore_qm24,qm,1,24,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc2898,frc1844,frc10444,frc3636,frc9446,-1,-1
+2025orore_qm24,qm,1,24,frc2898,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc2898,frc1844,frc10444,frc3636,frc9446,-1,-1
+2025orore_qm24,qm,1,24,frc1844,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc2898,frc1844,frc10444,frc3636,frc9446,-1,-1
+2025orore_qm24,qm,1,24,frc10444,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc2898,frc1844,frc10444,frc3636,frc9446,-1,-1
+2025orore_qm25,qm,1,25,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc2471,frc847,frc957,frc4662,frc6831,frc6696,-1,-1
+2025orore_qm25,qm,1,25,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc2471,frc847,frc957,frc4662,frc6831,frc6696,-1,-1
+2025orore_qm25,qm,1,25,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc2471,frc847,frc957,frc4662,frc6831,frc6696,-1,-1
+2025orore_qm25,qm,1,25,frc847,,,,,,,,,,,,,,,,,,,,,,,,,,frc2471,frc847,frc957,frc4662,frc6831,frc6696,-1,-1
+2025orore_qm25,qm,1,25,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc2471,frc847,frc957,frc4662,frc6831,frc6696,-1,-1
+2025orore_qm25,qm,1,25,frc4662,,,,,,,,,,,,,,,,,,,,,,,,,,frc2471,frc847,frc957,frc4662,frc6831,frc6696,-1,-1
+2025orore_qm26,qm,1,26,frc4488,,,,,,,,,,,,,,,,,,,,,,,,,,frc4488,frc5975,frc3574,frc9430,frc1425,frc5970,-1,-1
+2025orore_qm26,qm,1,26,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc4488,frc5975,frc3574,frc9430,frc1425,frc5970,-1,-1
+2025orore_qm26,qm,1,26,frc5970,,,,,,,,,,,,,,,,,,,,,,,,,,frc4488,frc5975,frc3574,frc9430,frc1425,frc5970,-1,-1
+2025orore_qm26,qm,1,26,frc5975,,,,,,,,,,,,,,,,,,,,,,,,,,frc4488,frc5975,frc3574,frc9430,frc1425,frc5970,-1,-1
+2025orore_qm26,qm,1,26,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc4488,frc5975,frc3574,frc9430,frc1425,frc5970,-1,-1
+2025orore_qm26,qm,1,26,frc9430,,,,,,,,,,,,,,,,,,,,,,,,,,frc4488,frc5975,frc3574,frc9430,frc1425,frc5970,-1,-1
+2025orore_qm27,qm,1,27,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc10444,frc6443,frc2635,frc2915,frc9438,-1,-1
+2025orore_qm27,qm,1,27,frc2915,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc10444,frc6443,frc2635,frc2915,frc9438,-1,-1
+2025orore_qm27,qm,1,27,frc9438,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc10444,frc6443,frc2635,frc2915,frc9438,-1,-1
+2025orore_qm27,qm,1,27,frc10444,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc10444,frc6443,frc2635,frc2915,frc9438,-1,-1
+2025orore_qm27,qm,1,27,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc10444,frc6443,frc2635,frc2915,frc9438,-1,-1
+2025orore_qm27,qm,1,27,frc2635,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc10444,frc6443,frc2635,frc2915,frc9438,-1,-1
+2025orore_qm28,qm,1,28,frc3673,,,,,,,,,,,,,,,,,,,,,,,,,,frc3673,frc3636,frc4662,frc3812,frc2471,frc1844,-1,-1
+2025orore_qm28,qm,1,28,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc3673,frc3636,frc4662,frc3812,frc2471,frc1844,-1,-1
+2025orore_qm28,qm,1,28,frc1844,,,,,,,,,,,,,,,,,,,,,,,,,,frc3673,frc3636,frc4662,frc3812,frc2471,frc1844,-1,-1
+2025orore_qm28,qm,1,28,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc3673,frc3636,frc4662,frc3812,frc2471,frc1844,-1,-1
+2025orore_qm28,qm,1,28,frc4662,,,,,,,,,,,,,,,,,,,,,,,,,,frc3673,frc3636,frc4662,frc3812,frc2471,frc1844,-1,-1
+2025orore_qm28,qm,1,28,frc3812,,,,,,,,,,,,,,,,,,,,,,,,,,frc3673,frc3636,frc4662,frc3812,frc2471,frc1844,-1,-1
+2025orore_qm29,qm,1,29,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc6831,frc6696,frc4043,frc2733,frc6845,-1,-1
+2025orore_qm29,qm,1,29,frc2733,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc6831,frc6696,frc4043,frc2733,frc6845,-1,-1
+2025orore_qm29,qm,1,29,frc6845,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc6831,frc6696,frc4043,frc2733,frc6845,-1,-1
+2025orore_qm29,qm,1,29,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc6831,frc6696,frc4043,frc2733,frc6845,-1,-1
+2025orore_qm29,qm,1,29,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc6831,frc6696,frc4043,frc2733,frc6845,-1,-1
+2025orore_qm29,qm,1,29,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc6831,frc6696,frc4043,frc2733,frc6845,-1,-1
+2025orore_qm3,qm,1,3,frc3636,4,0,1,0,0,0,0,0,3,1,0,5,1,0,1,None,0,efficient in coral placement.,efficient in coral placement an capable of moderate accuracy in the net.,incapable of climbing and failed to park.,naman,1,1,0,0,frc3636,frc6831,frc6443,frc4488,frc4043,frc7034,-1,-1
+2025orore_qm3,qm,1,3,frc4043,3,0,0,0,0,0,0,0,1,0,0,0,5,0,1,Deep Climb,0,"Moved towards the reef, but stoped","good at scoring on 5, but very slow",goes in early and takes 30 secs to climb deep. Their robot is completely tipped over when on deep cage,Aarush,1,0,0,0,frc3636,frc6831,frc6443,frc4488,frc4043,frc7034,-1,-1
+2025orore_qm3,qm,1,3,frc7034,4,0,0,0,0,0,0,0,0,0,0,5,2,0,0,Deep Climb,0,Attempted to place coral but missed as well as attempted to station collect but missed,was consistently collecting and placing coral with very few misses last 15 seconds started to climb,was able to climb,Ave wilson,1,0,0,0,frc3636,frc6831,frc6443,frc4488,frc4043,frc7034,-1,-1
+2025orore_qm3,qm,1,3,frc6831,1,0,0,0,0,0,0,0,1,0,0,0,3,1,0,Park,0,"Left start, attempted to place preloaded in L1 but failed",Placed on all levels very consistently. Manual lineup on reef but very accurate. Not very fast but good bot,Parked,Pranav,1,0,0,0,frc3636,frc6831,frc6443,frc4488,frc4043,frc7034,-1,-1
+2025orore_qm3,qm,1,3,frc6443,1,0,1,0,0,0,0,0,0,0,0,5,0,0,0,Deep Climb,0,,,,,1,0,0,0,frc3636,frc6831,frc6443,frc4488,frc4043,frc7034,-1,-1
+2025orore_qm3,qm,1,3,frc4488,3,0,0,0,0,0,0,51,0,0,0,2,0,0,0,Park,0,tried to place but missed,Missed a bunch, ,Aa,1,0,0,0,frc3636,frc6831,frc6443,frc4488,frc4043,frc7034,-1,-1
+2025orore_qm30,qm,1,30,frc2898,,,,,,,,,,,,,,,,,,,,,,,,,,frc2898,frc9446,frc847,frc7034,frc3663,frc957,-1,-1
+2025orore_qm30,qm,1,30,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc2898,frc9446,frc847,frc7034,frc3663,frc957,-1,-1
+2025orore_qm30,qm,1,30,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc2898,frc9446,frc847,frc7034,frc3663,frc957,-1,-1
+2025orore_qm30,qm,1,30,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc2898,frc9446,frc847,frc7034,frc3663,frc957,-1,-1
+2025orore_qm30,qm,1,30,frc847,,,,,,,,,,,,,,,,,,,,,,,,,,frc2898,frc9446,frc847,frc7034,frc3663,frc957,-1,-1
+2025orore_qm30,qm,1,30,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc2898,frc9446,frc847,frc7034,frc3663,frc957,-1,-1
+2025orore_qm31,qm,1,31,frc5970,1,,,,,,,,,,,,,,,None,0,,,,,,,,,frc5970,frc10444,frc4488,frc3636,frc2635,frc3574,-1,-1
+2025orore_qm31,qm,1,31,frc2635,,,,,,,,,,,,,,,,,,,,,,,,,,frc5970,frc10444,frc4488,frc3636,frc2635,frc3574,-1,-1
+2025orore_qm31,qm,1,31,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc5970,frc10444,frc4488,frc3636,frc2635,frc3574,-1,-1
+2025orore_qm31,qm,1,31,frc10444,,,,,,,,,,,,,,,,,,,,,,,,,,frc5970,frc10444,frc4488,frc3636,frc2635,frc3574,-1,-1
+2025orore_qm31,qm,1,31,frc4488,,,,,,,,,,,,,,,,,,,,,,,,,,frc5970,frc10444,frc4488,frc3636,frc2635,frc3574,-1,-1
+2025orore_qm31,qm,1,31,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc5970,frc10444,frc4488,frc3636,frc2635,frc3574,-1,-1
+2025orore_qm32,qm,1,32,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc2471,frc1540,frc6831,frc2915,frc4662,frc6845,-1,-1
+2025orore_qm32,qm,1,32,frc4662,,,,,,,,,,,,,,,,,,,,,,,,,,frc2471,frc1540,frc6831,frc2915,frc4662,frc6845,-1,-1
+2025orore_qm32,qm,1,32,frc6845,,,,,,,,,,,,,,,,,,,,,,,,,,frc2471,frc1540,frc6831,frc2915,frc4662,frc6845,-1,-1
+2025orore_qm32,qm,1,32,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc2471,frc1540,frc6831,frc2915,frc4662,frc6845,-1,-1
+2025orore_qm32,qm,1,32,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc2471,frc1540,frc6831,frc2915,frc4662,frc6845,-1,-1
+2025orore_qm32,qm,1,32,frc2915,,,,,,,,,,,,,,,,,,,,,,,,,,frc2471,frc1540,frc6831,frc2915,frc4662,frc6845,-1,-1
+2025orore_qm33,qm,1,33,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc9430,frc1425,frc957,frc3663,frc6443,-1,-1
+2025orore_qm33,qm,1,33,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc9430,frc1425,frc957,frc3663,frc6443,-1,-1
+2025orore_qm33,qm,1,33,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc9430,frc1425,frc957,frc3663,frc6443,-1,-1
+2025orore_qm33,qm,1,33,frc9430,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc9430,frc1425,frc957,frc3663,frc6443,-1,-1
+2025orore_qm33,qm,1,33,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc9430,frc1425,frc957,frc3663,frc6443,-1,-1
+2025orore_qm33,qm,1,33,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc9446,frc9430,frc1425,frc957,frc3663,frc6443,-1,-1
+2025orore_qm34,qm,1,34,frc3812,,,,,,,,,,,,,,,,,,,,,,,,,,frc3812,frc3673,frc7034,frc9438,frc1844,frc847,-1,-1
+2025orore_qm34,qm,1,34,frc1844,,,,,,,,,,,,,,,,,,,,,,,,,,frc3812,frc3673,frc7034,frc9438,frc1844,frc847,-1,-1
+2025orore_qm34,qm,1,34,frc847,,,,,,,,,,,,,,,,,,,,,,,,,,frc3812,frc3673,frc7034,frc9438,frc1844,frc847,-1,-1
+2025orore_qm34,qm,1,34,frc3673,,,,,,,,,,,,,,,,,,,,,,,,,,frc3812,frc3673,frc7034,frc9438,frc1844,frc847,-1,-1
+2025orore_qm34,qm,1,34,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc3812,frc3673,frc7034,frc9438,frc1844,frc847,-1,-1
+2025orore_qm34,qm,1,34,frc9438,,,,,,,,,,,,,,,,,,,,,,,,,,frc3812,frc3673,frc7034,frc9438,frc1844,frc847,-1,-1
+2025orore_qm35,qm,1,35,frc2733,,,,,,,,,,,,,,,,,,,,,,,,,,frc2733,frc2898,frc6696,frc2557,frc4043,frc5975,-1,-1
+2025orore_qm35,qm,1,35,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc2733,frc2898,frc6696,frc2557,frc4043,frc5975,-1,-1
+2025orore_qm35,qm,1,35,frc5975,,,,,,,,,,,,,,,,,,,,,,,,,,frc2733,frc2898,frc6696,frc2557,frc4043,frc5975,-1,-1
+2025orore_qm35,qm,1,35,frc2898,,,,,,,,,,,,,,,,,,,,,,,,,,frc2733,frc2898,frc6696,frc2557,frc4043,frc5975,-1,-1
+2025orore_qm35,qm,1,35,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc2733,frc2898,frc6696,frc2557,frc4043,frc5975,-1,-1
+2025orore_qm35,qm,1,35,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc2733,frc2898,frc6696,frc2557,frc4043,frc5975,-1,-1
+2025orore_qm36,qm,1,36,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc10444,frc5970,frc6845,frc957,frc4488,-1,-1
+2025orore_qm36,qm,1,36,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc10444,frc5970,frc6845,frc957,frc4488,-1,-1
+2025orore_qm36,qm,1,36,frc4488,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc10444,frc5970,frc6845,frc957,frc4488,-1,-1
+2025orore_qm36,qm,1,36,frc10444,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc10444,frc5970,frc6845,frc957,frc4488,-1,-1
+2025orore_qm36,qm,1,36,frc5970,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc10444,frc5970,frc6845,frc957,frc4488,-1,-1
+2025orore_qm36,qm,1,36,frc6845,,,,,,,,,,,,,,,,,,,,,,,,,,frc1540,frc10444,frc5970,frc6845,frc957,frc4488,-1,-1
+2025orore_qm37,qm,1,37,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc6831,frc9446,frc1425,frc9438,frc847,frc3673,-1,-1
+2025orore_qm37,qm,1,37,frc847,,,,,,,,,,,,,,,,,,,,,,,,,,frc6831,frc9446,frc1425,frc9438,frc847,frc3673,-1,-1
+2025orore_qm37,qm,1,37,frc3673,,,,,,,,,,,,,,,,,,,,,,,,,,frc6831,frc9446,frc1425,frc9438,frc847,frc3673,-1,-1
+2025orore_qm37,qm,1,37,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc6831,frc9446,frc1425,frc9438,frc847,frc3673,-1,-1
+2025orore_qm37,qm,1,37,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc6831,frc9446,frc1425,frc9438,frc847,frc3673,-1,-1
+2025orore_qm37,qm,1,37,frc9438,,,,,,,,,,,,,,,,,,,,,,,,,,frc6831,frc9446,frc1425,frc9438,frc847,frc3673,-1,-1
+2025orore_qm38,qm,1,38,frc4662,,,,,,,,,,,,,,,,,,,,,,,,,,frc4662,frc1844,frc5975,frc6443,frc2898,frc3574,-1,-1
+2025orore_qm38,qm,1,38,frc2898,,,,,,,,,,,,,,,,,,,,,,,,,,frc4662,frc1844,frc5975,frc6443,frc2898,frc3574,-1,-1
+2025orore_qm38,qm,1,38,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc4662,frc1844,frc5975,frc6443,frc2898,frc3574,-1,-1
+2025orore_qm38,qm,1,38,frc1844,,,,,,,,,,,,,,,,,,,,,,,,,,frc4662,frc1844,frc5975,frc6443,frc2898,frc3574,-1,-1
+2025orore_qm38,qm,1,38,frc5975,,,,,,,,,,,,,,,,,,,,,,,,,,frc4662,frc1844,frc5975,frc6443,frc2898,frc3574,-1,-1
+2025orore_qm38,qm,1,38,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc4662,frc1844,frc5975,frc6443,frc2898,frc3574,-1,-1
+2025orore_qm39,qm,1,39,frc2635,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc7034,frc2557,frc2471,frc6696,frc3636,-1,-1
+2025orore_qm39,qm,1,39,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc7034,frc2557,frc2471,frc6696,frc3636,-1,-1
+2025orore_qm39,qm,1,39,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc7034,frc2557,frc2471,frc6696,frc3636,-1,-1
+2025orore_qm39,qm,1,39,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc7034,frc2557,frc2471,frc6696,frc3636,-1,-1
+2025orore_qm39,qm,1,39,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc7034,frc2557,frc2471,frc6696,frc3636,-1,-1
+2025orore_qm39,qm,1,39,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc7034,frc2557,frc2471,frc6696,frc3636,-1,-1
+2025orore_qm4,qm,1,4,frc9438,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,0,n/a(just left start zone),"failed to intake coral because intake was very ""jittery"" and was shifting rapidly up/down.",parked and are incapable of climbing,naman,1,0,0,0,frc9438,frc3673,frc957,frc3663,frc1844,frc2635,-1,-1
+2025orore_qm4,qm,1,4,frc1844,1,0,0,0,0,0,1,48,1,0,0,0,0,0,0,None,0,Went backwards,"removed 1 algea, tried to get a coral from dispenser, but failed. Went to opposite side to defense, but just stoped. Overall very discombobulated ",frozen,AARUSH,0,0,0,0,frc9438,frc3673,frc957,frc3663,frc1844,frc2635,-1,-1
+2025orore_qm4,qm,1,4,frc2635,5,0,0,0,0,0,1,0,1,0,3,0,0,0,0,Deep Climb,0,left but nothing else,Started by going immediately to other side and did lots of pinning then started to put algae in processer,Started 30 sec early was able to deep climb,Ave wilson,1,0,0,0,frc9438,frc3673,frc957,frc3663,frc1844,frc2635,-1,-1
+2025orore_qm4,qm,1,4,frc3673,3,0,0,0,0,0,0,32,0,0,0,0,0,2,0,Park,0,"Very fast, has an auto to place in L1 face 4","Very fast robot, accurate collect but not so accurate place. Attempted to place in L1 and L2 only, missed L1 frequently. Froze for 30 seconds, came back just before endgame",Parked,Pranav,1,0,0,0,frc9438,frc3673,frc957,frc3663,frc1844,frc2635,-1,-1
+2025orore_qm4,qm,1,4,frc957,4,0,1,0,0,0,0,0,0,0,0,5,2,1,0,Deep Climb,0,Auto missed going sll the way to collect with like 7 secs left.,"Got some defense, but even with no defense kinda bad at intaking coral. Very good bot. ","Went up with like 1 second left, only 80% sure they got it. ",Michael,1,0,0,0,frc9438,frc3673,frc957,frc3663,frc1844,frc2635,-1,-1
+2025orore_qm4,qm,1,4,frc3663,2,0,1,0,0,0,0,0,2,0,0,2,2,1,5,Park,0,missed preload,missed 2,ran out of time,Aa,1,0,0,0,frc9438,frc3673,frc957,frc3663,frc1844,frc2635,-1,-1
+2025orore_qm40,qm,1,40,frc3812,,,,,,,,,,,,,,,,,,,,,,,,,,frc3812,frc4043,frc9430,frc3663,frc2733,frc2915,-1,-1
+2025orore_qm40,qm,1,40,frc2733,,,,,,,,,,,,,,,,,,,,,,,,,,frc3812,frc4043,frc9430,frc3663,frc2733,frc2915,-1,-1
+2025orore_qm40,qm,1,40,frc2915,,,,,,,,,,,,,,,,,,,,,,,,,,frc3812,frc4043,frc9430,frc3663,frc2733,frc2915,-1,-1
+2025orore_qm40,qm,1,40,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc3812,frc4043,frc9430,frc3663,frc2733,frc2915,-1,-1
+2025orore_qm40,qm,1,40,frc9430,,,,,,,,,,,,,,,,,,,,,,,,,,frc3812,frc4043,frc9430,frc3663,frc2733,frc2915,-1,-1
+2025orore_qm40,qm,1,40,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc3812,frc4043,frc9430,frc3663,frc2733,frc2915,-1,-1
+2025orore_qm41,qm,1,41,frc4662,,,,,,,,,,,,,,,,,,,,,,,,,,frc4662,frc2898,frc9446,frc3673,frc1540,frc6443,-1,-1
+2025orore_qm41,qm,1,41,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc4662,frc2898,frc9446,frc3673,frc1540,frc6443,-1,-1
+2025orore_qm41,qm,1,41,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc4662,frc2898,frc9446,frc3673,frc1540,frc6443,-1,-1
+2025orore_qm41,qm,1,41,frc2898,,,,,,,,,,,,,,,,,,,,,,,,,,frc4662,frc2898,frc9446,frc3673,frc1540,frc6443,-1,-1
+2025orore_qm41,qm,1,41,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc4662,frc2898,frc9446,frc3673,frc1540,frc6443,-1,-1
+2025orore_qm41,qm,1,41,frc3673,,,,,,,,,,,,,,,,,,,,,,,,,,frc4662,frc2898,frc9446,frc3673,frc1540,frc6443,-1,-1
+2025orore_qm42,qm,1,42,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc2471,frc5975,frc957,frc2635,frc10444,-1,-1
+2025orore_qm42,qm,1,42,frc2635,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc2471,frc5975,frc957,frc2635,frc10444,-1,-1
+2025orore_qm42,qm,1,42,frc10444,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc2471,frc5975,frc957,frc2635,frc10444,-1,-1
+2025orore_qm42,qm,1,42,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc2471,frc5975,frc957,frc2635,frc10444,-1,-1
+2025orore_qm42,qm,1,42,frc5975,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc2471,frc5975,frc957,frc2635,frc10444,-1,-1
+2025orore_qm42,qm,1,42,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc2557,frc2471,frc5975,frc957,frc2635,frc10444,-1,-1
+2025orore_qm43,qm,1,43,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc5970,frc2733,frc6831,frc3812,frc3663,-1,-1
+2025orore_qm43,qm,1,43,frc3812,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc5970,frc2733,frc6831,frc3812,frc3663,-1,-1
+2025orore_qm43,qm,1,43,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc5970,frc2733,frc6831,frc3812,frc3663,-1,-1
+2025orore_qm43,qm,1,43,frc5970,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc5970,frc2733,frc6831,frc3812,frc3663,-1,-1
+2025orore_qm43,qm,1,43,frc2733,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc5970,frc2733,frc6831,frc3812,frc3663,-1,-1
+2025orore_qm43,qm,1,43,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc7034,frc5970,frc2733,frc6831,frc3812,frc3663,-1,-1
+2025orore_qm44,qm,1,44,frc6845,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc4488,frc847,frc3574,frc4043,frc9438,-1,-1
+2025orore_qm44,qm,1,44,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc4488,frc847,frc3574,frc4043,frc9438,-1,-1
+2025orore_qm44,qm,1,44,frc9438,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc4488,frc847,frc3574,frc4043,frc9438,-1,-1
+2025orore_qm44,qm,1,44,frc4488,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc4488,frc847,frc3574,frc4043,frc9438,-1,-1
+2025orore_qm44,qm,1,44,frc847,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc4488,frc847,frc3574,frc4043,frc9438,-1,-1
+2025orore_qm44,qm,1,44,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc4488,frc847,frc3574,frc4043,frc9438,-1,-1
+2025orore_qm45,qm,1,45,frc1844,,,,,,,,,,,,,,,,,,,,,,,,,,frc1844,frc2915,frc1425,frc6696,frc3636,frc9430,-1,-1
+2025orore_qm45,qm,1,45,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc1844,frc2915,frc1425,frc6696,frc3636,frc9430,-1,-1
+2025orore_qm45,qm,1,45,frc9430,,,,,,,,,,,,,,,,,,,,,,,,,,frc1844,frc2915,frc1425,frc6696,frc3636,frc9430,-1,-1
+2025orore_qm45,qm,1,45,frc2915,,,,,,,,,,,,,,,,,,,,,,,,,,frc1844,frc2915,frc1425,frc6696,frc3636,frc9430,-1,-1
+2025orore_qm45,qm,1,45,frc1425,1,,,,,,,,,,,,,,,None,0,,,,,,,,,frc1844,frc2915,frc1425,frc6696,frc3636,frc9430,-1,-1
+2025orore_qm45,qm,1,45,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc1844,frc2915,frc1425,frc6696,frc3636,frc9430,-1,-1
+2025orore_qm46,qm,1,46,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc9446,frc2471,frc5970,frc5975,frc3812,-1,-1
+2025orore_qm46,qm,1,46,frc5975,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc9446,frc2471,frc5970,frc5975,frc3812,-1,-1
+2025orore_qm46,qm,1,46,frc3812,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc9446,frc2471,frc5970,frc5975,frc3812,-1,-1
+2025orore_qm46,qm,1,46,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc9446,frc2471,frc5970,frc5975,frc3812,-1,-1
+2025orore_qm46,qm,1,46,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc9446,frc2471,frc5970,frc5975,frc3812,-1,-1
+2025orore_qm46,qm,1,46,frc5970,,,,,,,,,,,,,,,,,,,,,,,,,,frc6443,frc9446,frc2471,frc5970,frc5975,frc3812,-1,-1
+2025orore_qm47,qm,1,47,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc7034,frc4662,frc6831,frc4043,frc2557,-1,-1
+2025orore_qm47,qm,1,47,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc7034,frc4662,frc6831,frc4043,frc2557,-1,-1
+2025orore_qm47,qm,1,47,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc7034,frc4662,frc6831,frc4043,frc2557,-1,-1
+2025orore_qm47,qm,1,47,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc7034,frc4662,frc6831,frc4043,frc2557,-1,-1
+2025orore_qm47,qm,1,47,frc4662,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc7034,frc4662,frc6831,frc4043,frc2557,-1,-1
+2025orore_qm47,qm,1,47,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc7034,frc4662,frc6831,frc4043,frc2557,-1,-1
+2025orore_qm48,qm,1,48,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc2915,frc3574,frc2733,frc10444,frc847,-1,-1
+2025orore_qm48,qm,1,48,frc10444,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc2915,frc3574,frc2733,frc10444,frc847,-1,-1
+2025orore_qm48,qm,1,48,frc847,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc2915,frc3574,frc2733,frc10444,frc847,-1,-1
+2025orore_qm48,qm,1,48,frc2915,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc2915,frc3574,frc2733,frc10444,frc847,-1,-1
+2025orore_qm48,qm,1,48,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc2915,frc3574,frc2733,frc10444,frc847,-1,-1
+2025orore_qm48,qm,1,48,frc2733,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc2915,frc3574,frc2733,frc10444,frc847,-1,-1
+2025orore_qm49,qm,1,49,frc9438,,,,,,,,,,,,,,,,,,,,,,,,,,frc9438,frc1425,frc3673,frc2635,frc2898,frc4488,-1,-1
+2025orore_qm49,qm,1,49,frc2898,,,,,,,,,,,,,,,,,,,,,,,,,,frc9438,frc1425,frc3673,frc2635,frc2898,frc4488,-1,-1
+2025orore_qm49,qm,1,49,frc4488,,,,,,,,,,,,,,,,,,,,,,,,,,frc9438,frc1425,frc3673,frc2635,frc2898,frc4488,-1,-1
+2025orore_qm49,qm,1,49,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc9438,frc1425,frc3673,frc2635,frc2898,frc4488,-1,-1
+2025orore_qm49,qm,1,49,frc3673,,,,,,,,,,,,,,,,,,,,,,,,,,frc9438,frc1425,frc3673,frc2635,frc2898,frc4488,-1,-1
+2025orore_qm49,qm,1,49,frc2635,,,,,,,,,,,,,,,,,,,,,,,,,,frc9438,frc1425,frc3673,frc2635,frc2898,frc4488,-1,-1
+2025orore_qm5,qm,1,5,frc2733,4,0,0,0,0,0,0,0,2,0,0,0,3,0,0,None,0,left start zone,"frequetly attempted to place coral, however, was highly inaccurate. ",continued with teleop activities,naman,1,0,0,0,frc2733,frc2557,frc6845,frc847,frc9446,frc4662,-1,-1
+2025orore_qm5,qm,1,5,frc9446,5,0,0,0,0,0,0,0,0,0,0,0,0,0,4,Park,0,Was just moving one inch,"had somewhat reliable coral feeding,and only placed on L1 4-5 times, but was still unreliable and shaky","just parked but I think tried to climb, but lost time, needs better step process for achieving shallow climb",Dev Sharma ,1,0,0,0,frc2733,frc2557,frc6845,frc847,frc9446,frc4662,-1,-1
+2025orore_qm5,qm,1,5,frc4662,5,0,0,0,0,0,1,10,0,0,0,0,0,0,0,Park,0,Left but did nothing/attempted nothing else,confusing in what is did it went to the other side I'd assume for defense but did not do well it mostly stayed in on place the whole game near the coral collect but did not seem to be frozen,seemed to attempt to climb but was not able to,Ave wilson,1,0,0,0,frc2733,frc2557,frc6845,frc847,frc9446,frc4662,-1,-1
+2025orore_qm5,qm,1,5,frc2557,0,,,,,,,,,,,,,,,None,0,No show,,,Pranav,,,,,frc2733,frc2557,frc6845,frc847,frc9446,frc4662,-1,-1
+2025orore_qm5,qm,1,5,frc6845,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Park,0,Went into the wall,"had decent defense, but who they were defending wasnt really smart and kept trying to push through the defense instead of going to the other station. ","looked like they tried to climb, but I wouldnt trust thier climb. Only pick as a defense bot.  ",Michael,0,0,0,0,frc2733,frc2557,frc6845,frc847,frc9446,frc4662,-1,-1
+2025orore_qm5,qm,1,5,frc847,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Park,0,Went into red cages,slow,failed deep climb,Aa,1,0,0,0,frc2733,frc2557,frc6845,frc847,frc9446,frc4662,-1,-1
+2025orore_qm50,qm,1,50,frc6845,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc1844,frc3663,frc1540,frc9430,frc3636,-1,-1
+2025orore_qm50,qm,1,50,frc9430,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc1844,frc3663,frc1540,frc9430,frc3636,-1,-1
+2025orore_qm50,qm,1,50,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc1844,frc3663,frc1540,frc9430,frc3636,-1,-1
+2025orore_qm50,qm,1,50,frc1844,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc1844,frc3663,frc1540,frc9430,frc3636,-1,-1
+2025orore_qm50,qm,1,50,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc1844,frc3663,frc1540,frc9430,frc3636,-1,-1
+2025orore_qm50,qm,1,50,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc1844,frc3663,frc1540,frc9430,frc3636,-1,-1
+2025orore_qm51,qm,1,51,frc847,,,,,,,,,,,,,,,,,,,,,,,,,,frc847,frc10444,frc2915,frc9446,frc5970,frc4043,-1,-1
+2025orore_qm51,qm,1,51,frc5970,,,,,,,,,,,,,,,,,,,,,,,,,,frc847,frc10444,frc2915,frc9446,frc5970,frc4043,-1,-1
+2025orore_qm51,qm,1,51,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc847,frc10444,frc2915,frc9446,frc5970,frc4043,-1,-1
+2025orore_qm51,qm,1,51,frc10444,,,,,,,,,,,,,,,,,,,,,,,,,,frc847,frc10444,frc2915,frc9446,frc5970,frc4043,-1,-1
+2025orore_qm51,qm,1,51,frc2915,,,,,,,,,,,,,,,,,,,,,,,,,,frc847,frc10444,frc2915,frc9446,frc5970,frc4043,-1,-1
+2025orore_qm51,qm,1,51,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc847,frc10444,frc2915,frc9446,frc5970,frc4043,-1,-1
+2025orore_qm52,qm,1,52,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc5975,frc2733,frc2898,frc6831,frc2471,-1,-1
+2025orore_qm52,qm,1,52,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc5975,frc2733,frc2898,frc6831,frc2471,-1,-1
+2025orore_qm52,qm,1,52,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc5975,frc2733,frc2898,frc6831,frc2471,-1,-1
+2025orore_qm52,qm,1,52,frc5975,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc5975,frc2733,frc2898,frc6831,frc2471,-1,-1
+2025orore_qm52,qm,1,52,frc2733,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc5975,frc2733,frc2898,frc6831,frc2471,-1,-1
+2025orore_qm52,qm,1,52,frc2898,,,,,,,,,,,,,,,,,,,,,,,,,,frc1425,frc5975,frc2733,frc2898,frc6831,frc2471,-1,-1
+2025orore_qm53,qm,1,53,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc4488,frc2557,frc1844,frc9438,frc3574,-1,-1
+2025orore_qm53,qm,1,53,frc9438,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc4488,frc2557,frc1844,frc9438,frc3574,-1,-1
+2025orore_qm53,qm,1,53,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc4488,frc2557,frc1844,frc9438,frc3574,-1,-1
+2025orore_qm53,qm,1,53,frc4488,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc4488,frc2557,frc1844,frc9438,frc3574,-1,-1
+2025orore_qm53,qm,1,53,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc4488,frc2557,frc1844,frc9438,frc3574,-1,-1
+2025orore_qm53,qm,1,53,frc1844,,,,,,,,,,,,,,,,,,,,,,,,,,frc3663,frc4488,frc2557,frc1844,frc9438,frc3574,-1,-1
+2025orore_qm54,qm,1,54,frc2635,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc3636,frc1540,frc6696,frc3812,frc957,-1,-1
+2025orore_qm54,qm,1,54,frc3812,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc3636,frc1540,frc6696,frc3812,frc957,-1,-1
+2025orore_qm54,qm,1,54,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc3636,frc1540,frc6696,frc3812,frc957,-1,-1
+2025orore_qm54,qm,1,54,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc3636,frc1540,frc6696,frc3812,frc957,-1,-1
+2025orore_qm54,qm,1,54,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc3636,frc1540,frc6696,frc3812,frc957,-1,-1
+2025orore_qm54,qm,1,54,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc2635,frc3636,frc1540,frc6696,frc3812,frc957,-1,-1
+2025orore_qm55,qm,1,55,frc3673,,,,,,,,,,,,,,,,,,,,,,,,,,frc3673,frc4662,frc7034,frc9430,frc6443,frc6845,-1,-1
+2025orore_qm55,qm,1,55,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc3673,frc4662,frc7034,frc9430,frc6443,frc6845,-1,-1
+2025orore_qm55,qm,1,55,frc6845,,,,,,,,,,,,,,,,,,,,,,,,,,frc3673,frc4662,frc7034,frc9430,frc6443,frc6845,-1,-1
+2025orore_qm55,qm,1,55,frc4662,,,,,,,,,,,,,,,,,,,,,,,,,,frc3673,frc4662,frc7034,frc9430,frc6443,frc6845,-1,-1
+2025orore_qm55,qm,1,55,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc3673,frc4662,frc7034,frc9430,frc6443,frc6845,-1,-1
+2025orore_qm55,qm,1,55,frc9430,,,,,,,,,,,,,,,,,,,,,,,,,,frc3673,frc4662,frc7034,frc9430,frc6443,frc6845,-1,-1
+2025orore_qm56,qm,1,56,frc6831,,,,,,,,,,,,,,,,,,,,,,,,,,frc6831,frc2557,frc3663,frc2733,frc3574,frc9446,-1,-1
+2025orore_qm56,qm,1,56,frc3574,,,,,,,,,,,,,,,,,,,,,,,,,,frc6831,frc2557,frc3663,frc2733,frc3574,frc9446,-1,-1
+2025orore_qm56,qm,1,56,frc9446,,,,,,,,,,,,,,,,,,,,,,,,,,frc6831,frc2557,frc3663,frc2733,frc3574,frc9446,-1,-1
+2025orore_qm56,qm,1,56,frc2557,,,,,,,,,,,,,,,,,,,,,,,,,,frc6831,frc2557,frc3663,frc2733,frc3574,frc9446,-1,-1
+2025orore_qm56,qm,1,56,frc3663,,,,,,,,,,,,,,,,,,,,,,,,,,frc6831,frc2557,frc3663,frc2733,frc3574,frc9446,-1,-1
+2025orore_qm56,qm,1,56,frc2733,,,,,,,,,,,,,,,,,,,,,,,,,,frc6831,frc2557,frc3663,frc2733,frc3574,frc9446,-1,-1
+2025orore_qm57,qm,1,57,frc957,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc4043,frc1844,frc2898,frc1540,frc10444,-1,-1
+2025orore_qm57,qm,1,57,frc1540,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc4043,frc1844,frc2898,frc1540,frc10444,-1,-1
+2025orore_qm57,qm,1,57,frc10444,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc4043,frc1844,frc2898,frc1540,frc10444,-1,-1
+2025orore_qm57,qm,1,57,frc4043,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc4043,frc1844,frc2898,frc1540,frc10444,-1,-1
+2025orore_qm57,qm,1,57,frc1844,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc4043,frc1844,frc2898,frc1540,frc10444,-1,-1
+2025orore_qm57,qm,1,57,frc2898,,,,,,,,,,,,,,,,,,,,,,,,,,frc957,frc4043,frc1844,frc2898,frc1540,frc10444,-1,-1
+2025orore_qm58,qm,1,58,frc9430,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc847,frc3636,frc6443,frc3673,frc4488,-1,-1
+2025orore_qm58,qm,1,58,frc3673,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc847,frc3636,frc6443,frc3673,frc4488,-1,-1
+2025orore_qm58,qm,1,58,frc4488,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc847,frc3636,frc6443,frc3673,frc4488,-1,-1
+2025orore_qm58,qm,1,58,frc847,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc847,frc3636,frc6443,frc3673,frc4488,-1,-1
+2025orore_qm58,qm,1,58,frc3636,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc847,frc3636,frc6443,frc3673,frc4488,-1,-1
+2025orore_qm58,qm,1,58,frc6443,,,,,,,,,,,,,,,,,,,,,,,,,,frc9430,frc847,frc3636,frc6443,frc3673,frc4488,-1,-1
+2025orore_qm59,qm,1,59,frc6845,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc9438,frc3812,frc2471,frc2915,frc5975,-1,-1
+2025orore_qm59,qm,1,59,frc2915,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc9438,frc3812,frc2471,frc2915,frc5975,-1,-1
+2025orore_qm59,qm,1,59,frc5975,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc9438,frc3812,frc2471,frc2915,frc5975,-1,-1
+2025orore_qm59,qm,1,59,frc9438,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc9438,frc3812,frc2471,frc2915,frc5975,-1,-1
+2025orore_qm59,qm,1,59,frc3812,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc9438,frc3812,frc2471,frc2915,frc5975,-1,-1
+2025orore_qm59,qm,1,59,frc2471,,,,,,,,,,,,,,,,,,,,,,,,,,frc6845,frc9438,frc3812,frc2471,frc2915,frc5975,-1,-1
+2025orore_qm6,qm,1,6,frc4488,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Park,0,attempted L4 in auto but missed,inaccurate in coral placement and intake is inefficient.,parked at the last moment,naman,1,0,0,0,frc4488,frc3812,frc10444,frc9430,frc5975,frc7034,-1,-1
+2025orore_qm6,qm,1,6,frc5975,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,0,They did not move,just moved in circles aimlessly and did not contribute to alliance scoring,just parked aimlessly,Dev Sharma ,0,0,0,0,frc4488,frc3812,frc10444,frc9430,frc5975,frc7034,-1,-1
+2025orore_qm6,qm,1,6,frc7034,1,0,1,0,0,0,0,0,0,0,0,3,0,0,0,Park,0,Would have been a two coral L4 but first coral missed,alignment seems to be slow and manual. Will miss if bumped even a little.,Attempts see cage bit ran pit o Tim before starting ascent. Didn't get out of contact with ground.,Sam,1,0,0,0,frc4488,frc3812,frc10444,frc9430,frc5975,frc7034,-1,-1
+2025orore_qm6,qm,1,6,frc3812,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,None,0,"Left, did nothing else","Played defense the whole game on 7034 at coral station. Was not good at it, left many openings. Slow bot",Started stuttering and moved incredibly slowly during endgame. Did not reach barge zone,Pranav ,1,0,0,0,frc4488,frc3812,frc10444,frc9430,frc5975,frc7034,-1,-1
+2025orore_qm6,qm,1,6,frc10444,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Park,0,"Didnt have a great auto, but they got across the line","kept trying to get algae off of the reef, and in thier intake, but it wasnt working right. ",Didnt seem to have a climb. Honestly overall pretty bad. ,Michael,1,0,0,0,frc4488,frc3812,frc10444,frc9430,frc5975,frc7034,-1,-1
+2025orore_qm6,qm,1,6,frc9430,4,0,0,0,0,0,0,0,0,0,0,0,3,0,0,Park,0,,possible Tr_3 pick,Hit chain on deep climb,Aa,1,0,0,0,frc4488,frc3812,frc10444,frc9430,frc5975,frc7034,-1,-1
+2025orore_qm60,qm,1,60,frc6696,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc1425,frc2635,frc4662,frc7034,frc5970,-1,-1
+2025orore_qm60,qm,1,60,frc7034,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc1425,frc2635,frc4662,frc7034,frc5970,-1,-1
+2025orore_qm60,qm,1,60,frc5970,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc1425,frc2635,frc4662,frc7034,frc5970,-1,-1
+2025orore_qm60,qm,1,60,frc1425,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc1425,frc2635,frc4662,frc7034,frc5970,-1,-1
+2025orore_qm60,qm,1,60,frc2635,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc1425,frc2635,frc4662,frc7034,frc5970,-1,-1
+2025orore_qm60,qm,1,60,frc4662,,,,,,,,,,,,,,,,,,,,,,,,,,frc6696,frc1425,frc2635,frc4662,frc7034,frc5970,-1,-1
+2025orore_qm7,qm,1,7,frc3574,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Park,0,left start zone,"great at defense. not sure if they're capable of anything else. however, first robot i've seen tha is primarily a defense robot.",incapable of climbing,naman,1,0,0,0,frc3574,frc4043,frc2471,frc1540,frc3636,frc3673,-1,-1
+2025orore_qm7,qm,1,7,frc3636,1,0,1,0,0,0,0,0,2,2,0,7,0,0,0,Park,0,"Autovwas really smooth, placed coral on l4, and removed an algae relatively smoothly","Good with placing on l4, removing and reliably throwing algae in the net. However at first they picked up coral well, but then lost it when driving at a fast speed",barely parked unsure if they can climb,Dev sharma ,1,0,0,2,frc3574,frc4043,frc2471,frc1540,frc3636,frc3673,-1,-1
+2025orore_qm7,qm,1,7,frc3673,3,0,0,0,0,0,0,0,0,0,0,0,1,4,6,None,0,Only left. Bumped into alliance  partner.,Very fast L1 scoring. Everything else was a bit slow.,Didn't attempt climb. Prioritized scoring.,Sam,1,0,0,0,frc3574,frc4043,frc2471,frc1540,frc3636,frc3673,-1,-1
+2025orore_qm7,qm,1,7,frc4043,5,0,0,0,0,0,0,0,0,0,0,6,2,0,0,None,0,"Left start zone in random direction, not sure why. Had preloaded","Extremely fast robot, very accurate and really good. Uses manual place but lines up well every time. Good place speed as well, scored primarily on L4",Seemed to be very confused ,,1,0,0,0,frc3574,frc4043,frc2471,frc1540,frc3636,frc3673,-1,-1
+2025orore_qm7,qm,1,7,frc2471,5,0,1,0,0,0,0,0,0,0,0,2,2,0,1,Deep Climb,0,"missed intaking for auto, has two coral it looks like","not very good at lining up, and pretty tippy. definetly very good, but somewhat inconsistent. ","Climbs very fast and good. Overall very good, but inconsistent enough not to be very high. ",Michael ,1,0,0,0,frc3574,frc4043,frc2471,frc1540,frc3636,frc3673,-1,-1
+2025orore_qm7,qm,1,7,frc1540,5,0,0,0,0,0,0,0,2,0,0,0,0,0,4,Park,0,missed intake,something broke so they only did l1 likely Tr_3,failed deep climb,Aa,1,0,0,0,frc3574,frc4043,frc2471,frc1540,frc3636,frc3673,-1,-1
+2025orore_qm8,qm,1,8,frc5970,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Park,0,didn't score but left start zone,"very ""off task"" randomly spun in circles and highly inaccurate. only attempted L1 and missed all attempts.",parked,naman,1,0,0,0,frc5970,frc3663,frc847,frc1425,frc4662,frc2557,-1,-1
+2025orore_qm8,qm,1,8,frc4662,1,,,,,,,,,,,,,,,None,0,,,,,,,,,frc5970,frc3663,frc847,frc1425,frc4662,frc2557,-1,-1
+2025orore_qm8,qm,1,8,frc2557,0,,,,,,,,,,,,,,,None,0,No show,no show,no show,OLivia,,,,,frc5970,frc3663,frc847,frc1425,frc4662,frc2557,-1,-1
+2025orore_qm8,qm,1,8,frc3663,1,0,0,0,0,0,0,0,0,0,0,2,3,2,3,Park,0,"Attempted to run auto but failed. Ran forward, missed L4, grabbed coral and missed place again","Very fast placing and accuracy, really speedy movement and able to run cycles well. Scored in all levels successfully, including L1. Ran cycles throughout","Ran L1 cycles in the end to get coral RP, parked at last second",Pranav,1,0,0,0,frc5970,frc3663,frc847,frc1425,frc4662,frc2557,-1,-1
+2025orore_qm8,qm,1,8,frc847,3,0,0,0,0,0,0,0,1,0,0,0,0,1,0,Deep Climb,0,"didnt have auto, which sucked bc it would have been 6 rps","not very good at placing, but did well so cpr and us could go to the other station w/o defense","clutched up with the deep climb, getting us 5 rps, but overall not a very good bot. ",Michael,0,0,0,0,frc5970,frc3663,frc847,frc1425,frc4662,frc2557,-1,-1
+2025orore_qm8,qm,1,8,frc1425,1,0,1,0,0,0,0,0,1,0,0,2,1,2,2,Park,0,was able to successfully place a coral attempted to collect another but unable to,consistently placed coral as well as was able to take 1 algae off,seemed to attempt to climb but did not,Ave wilson,0,0,0,0,frc5970,frc3663,frc847,frc1425,frc4662,frc2557,-1,-1
+2025orore_qm9,qm,1,9,frc6845,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,None,0, started out of start zone,looks like primarily a defense bot and didn't attempt anything else.,"attempted to park but failed? not sure what happened there as they drove towards the park zone, they paused for a few secs and resumed but it was too late",naman,1,0,0,0,frc6845,frc6443,frc9438,frc6696,frc6831,frc2898,-1,-1
+2025orore_qm9,qm,1,9,frc6831,1,,,,,,,,,,,,,,,None,0,,,,,,,,,frc6845,frc6443,frc9438,frc6696,frc6831,frc2898,-1,-1
+2025orore_qm9,qm,1,9,frc2898,3,0,0,0,0,0,0,135,0,0,0,0,0,0,0,Park,0,,,,Aa,0,0,0,0,frc6845,frc6443,frc9438,frc6696,frc6831,frc2898,-1,-1
+2025orore_qm9,qm,1,9,frc6443,4,0,0,0,0,1,0,0,0,0,0,2,2,1,2,Park,0,Only left in auto.,More reliable at lower levels-- arm is very spindly.,Attached to cage but didn't actually deep climb. Looked like it had time? no clue why they didn't climb.,Sam,0,0,0,0,frc6845,frc6443,frc9438,frc6696,frc6831,frc2898,-1,-1
+2025orore_qm9,qm,1,9,frc9438,3,0,0,0,0,0,0,0,2,0,0,0,0,0,1,Park,0,"had a ""move forward"" auto at least","really slow, basically could only remove algae and were kinda bad at like everything
+
+","They parked, but overall not very good. Probably dont pick
+
+",Michael,1,0,0,0,frc6845,frc6443,frc9438,frc6696,frc6831,frc2898,-1,-1
+2025orore_qm9,qm,1,9,frc6696,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,None,0,I accidentally watched the wrong robot during Auto so I'm not sure,attempted to place in coral was able to about half the time missed the other half ,did not make any attempt to climb instead continued to attempt to place coral,Ave wilson,1,0,0,0,frc6845,frc6443,frc9438,frc6696,frc6831,frc2898,-1,-1
