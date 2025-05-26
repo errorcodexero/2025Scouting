@@ -1,0 +1,1147 @@
+{
+  "scouted_team_": [],
+  "scouted_match_": [],
+  "picklist_": [],
+  "single_team_match_": [],
+  "single_team_team_": [],
+  "single_team_formulas": [],
+  "sync_data_": [],
+  "formulas_": [],
+  "locked_": true,
+  "team_graph_data_": [],
+  "teamdb_col_config_": {
+    "frozenColumnCount": 0,
+    "columns": [
+      {
+        "name": "team_number",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "nickname",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "name",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "school_name",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "city",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "state_prov",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "country",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "address",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "postal_code",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "gmaps_place_id",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "gmaps_url",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "lat",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "lng",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "location_name",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "website",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "rookie_year",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "team_scouter",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "db_type",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_cor_intake",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_auto_place",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_alg_ground_intake",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_auto_cor_L1",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_auto_cor_L2",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_auto_cor_L3",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_auto_cor_L4",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_max_auto_cor",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_auto_reef_remove",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_auto_reef_intake",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_auto_processor",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_max_auto_alg",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_auto_net",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_tele_cor_L1",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_tele_cor_L2",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_tele_cor_L3",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_tele_cor_L4",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_tele_reef_remove",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_tele_reef_intake",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_tele_processor",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_tele_net",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_Endgame",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "pit_Scout_Notes",
+        "width": -1,
+        "hidden": false
+      }
+    ]
+  },
+  "matchdb_col_config_": {
+    "frozenColumnCount": 0,
+    "columns": [
+      {
+        "name": "comp_level",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "set_number",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "match_number",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "team_key",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "start_Pos_5isBlue",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "a_Leave",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "a_Station",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "a_reefAlgae",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "a_Net",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "a_Proc",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "a_L4",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "a_L3",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "a_L2",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "a_L1",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "t_Defense",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "t_timeFrozen",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "t_reefAlgae",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "t_Net",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "t_Proc",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "t_L4",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "t_L3",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "t_L2",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "t_L1",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "end_Pos",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "t_Tipped",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "auto_Notes",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "tele_Notes",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "endgame_Notes",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "match_Scouter",
+        "width": -1,
+        "hidden": false
+      }
+    ]
+  },
+  "frcev_": {
+    "city": "Oregon City",
+    "country": "USA",
+    "district": {
+      "abbreviation": "pnw",
+      "display_name": "Pacific Northwest",
+      "key": "2025pnw",
+      "year": 2025
+    },
+    "end_date": "2025-03-08",
+    "event_code": "orore",
+    "event_type": 1,
+    "key": "2025orore",
+    "name": "PNW District Clackamas Academy Event",
+    "start_date": "2025-03-06",
+    "state_prov": "OR",
+    "year": 2025
+  },
+  "teams_": [
+    {
+      "address": null,
+      "city": "Gresham",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc10444",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Sam Barlow High School",
+      "nickname": "Ursa Major",
+      "postal_code": null,
+      "rookie_year": 2025,
+      "school_name": "Sam Barlow High School",
+      "state_prov": "Oregon",
+      "team_number": 10444,
+      "website": null
+    },
+    {
+      "address": null,
+      "city": "Wilsonville",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc1425",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Lam Research/Xerox/TE Connectivity/Verizon/Oregon Institute of Technology/Marie Lamfrom Charitable Foundation/Todd Construction&Wilsonville High School",
+      "nickname": "Error Code Xero",
+      "postal_code": "97070",
+      "rookie_year": 2004,
+      "school_name": "Wilsonville High School",
+      "state_prov": "Oregon",
+      "team_number": 1425,
+      "website": "http://www.wilsonvillerobotics.com"
+    },
+    {
+      "address": null,
+      "city": "Portland",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc1540",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Polymaker/Autodesk/Marie Lamfrom Charitable Foundation/FIRST Washington&Catlin Gabel School",
+      "nickname": "Flaming Chickens",
+      "postal_code": "97225",
+      "rookie_year": 2005,
+      "school_name": "Catlin Gabel School",
+      "state_prov": "Oregon",
+      "team_number": 1540,
+      "website": "http://www.team1540.org/"
+    },
+    {
+      "address": null,
+      "city": "Portland",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc1844",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Polymaker/Argosy Foundation/FIRST Washington&Catlin Gabel School",
+      "nickname": "The Eggineers",
+      "postal_code": null,
+      "rookie_year": 2005,
+      "school_name": "Catlin Gabel School",
+      "state_prov": "Oregon",
+      "team_number": 1844,
+      "website": null
+    },
+    {
+      "address": null,
+      "city": "Camas",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc2471",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "US Digital/Fisher Investments/Analog Devices/Protech Composites/The Boeing Company/Hewlett Packard/WA OSPI/Camas Washougal Rotary/Wafertech/United Precision Corp&Camas High School&Hockinson High School&Washougal High School&Discovery High School",
+      "nickname": "Team Mean Machine",
+      "postal_code": "98607",
+      "rookie_year": 2008,
+      "school_name": "Discovery High School & Camas High School & Washougal High School & Hockinson High School",
+      "state_prov": "Washington",
+      "team_number": 2471,
+      "website": "http://www.team2471.org/"
+    },
+    {
+      "address": null,
+      "city": "Tacoma",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc2557",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "OSPI/Tacoma School District/FIRST Washington/Fuchs Foundation/Dexcare/Puget Sound Marine Services/F5/Olympic Kennel Club/Zumar Industries Incorporated/Bralco Aluminum Company/Elements of Education Partners/Hewitt Cabinetry/Tacoma Fire Department&Tacoma School of the Arts&Science & Math Institute&Industrial Design Engineering and Art High School",
+      "nickname": "SOTAbots",
+      "postal_code": "98408",
+      "rookie_year": 2008,
+      "school_name": "Industrial Design Engineering and Art High School & Science & Math Institute & Tacoma School of the Arts",
+      "state_prov": "Washington",
+      "team_number": 2557,
+      "website": "http://www.sotabots.com"
+    },
+    {
+      "address": null,
+      "city": "Lake Oswego",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc2635",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "LAM Research/Intel/Boeing/Mentor Graphics/DWFritz/WA FIRST Robotics/Really Big Video/Markforged&Lake Oswego High School&Lakeridge High School",
+      "nickname": "Lake Monsters",
+      "postal_code": "97034",
+      "rookie_year": 2008,
+      "school_name": "Lakeridge High School & Lake Oswego High School",
+      "state_prov": "Oregon",
+      "team_number": 2635,
+      "website": "https://www.frc2635.org"
+    },
+    {
+      "address": null,
+      "city": "Portland",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc2733",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Daimler/Terrazign/Boeing/Comcast/Clackamas Steel + Mfg/Autodesk/TE Connectivity/The Confidentiality Group/Tokyo Electron Ltd/Cleveland Alumni Association/Lam Research/URS Electronics/Hankins Hardware/Oregon Blue Print&Cleveland High School",
+      "nickname": "Pigmice",
+      "postal_code": "97202",
+      "rookie_year": 2009,
+      "school_name": "Cleveland High School",
+      "state_prov": "Oregon",
+      "team_number": 2733,
+      "website": "https://www.pigmice.com"
+    },
+    {
+      "address": null,
+      "city": "Portland",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc2898",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "LAM Research/Intel/UL/Natalie Lee/Fidelity Charitable Donald Marumoto Memorial Fund/SolidWorks/ODE Oregon Dept of Education/Southwest Trailer Service/Friends of Japan/Copperforge/BPS Robotics & Family/Community",
+      "nickname": "Flying Hedgehogs",
+      "postal_code": "97006",
+      "rookie_year": 2009,
+      "school_name": "Family/Community",
+      "state_prov": "Oregon",
+      "team_number": 2898,
+      "website": "http://www.team2898.bpsrobotics.org"
+    },
+    {
+      "address": null,
+      "city": "Portland",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc2915",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Autodesk / Riverdale PTC / Covanta / Lumencor / Intel & Riverdale High School",
+      "nickname": "Pandamonium",
+      "postal_code": "97219",
+      "rookie_year": 2009,
+      "school_name": "Riverdale High School",
+      "state_prov": "Oregon",
+      "team_number": 2915,
+      "website": "http://team2915.com"
+    },
+    {
+      "address": null,
+      "city": "Renton",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc3574",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "The Boeing Company/OMAX&Highline High School&4-H 3574 High Tekerz&Home School",
+      "nickname": "HIGH TEKERZ",
+      "postal_code": "98148",
+      "rookie_year": 2011,
+      "school_name": "Home School & 4-H 3574 High Tekerz & Highline High School",
+      "state_prov": "Washington",
+      "team_number": 3574,
+      "website": "http://www.first3574.org"
+    },
+    {
+      "address": null,
+      "city": "Portland",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc3636",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Grant High School",
+      "nickname": "Generals",
+      "postal_code": "97212",
+      "rookie_year": 2011,
+      "school_name": "Grant High School",
+      "state_prov": "Oregon",
+      "team_number": 3636,
+      "website": "http://www.GHSrobo.com"
+    },
+    {
+      "address": null,
+      "city": "Bothell",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc3663",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "The Boeing Company/Yang Family/Rus Family/Inside & Out Renovation, Inc./EnerSys/Electroimpact/Gene Haas Foundation/Microsoft&Cedar Park Christian Schools",
+      "nickname": "CPR - Cedar Park Robotics",
+      "postal_code": "98011",
+      "rookie_year": 2011,
+      "school_name": "Cedar Park Christian Schools",
+      "state_prov": "Washington",
+      "team_number": 3663,
+      "website": "http://www.cpr3663.com"
+    },
+    {
+      "address": null,
+      "city": "Seaside",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc3673",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Boeing/BRENT HILLMAN & ASSOCIATES/FRANK ERICKSON/WOZNIAK FAMILY TRUST/Handsom Wolf Barbor Shop/LAM Research/Seaside Public Schools/Dani Nelson/Marie Lamfrom Foundation/Knutsen Insurance&Seaside High School",
+      "nickname": "C.Y.B.O.R.G. Seagulls",
+      "postal_code": "97138",
+      "rookie_year": 2011,
+      "school_name": "Seaside High School",
+      "state_prov": "Oregon",
+      "team_number": 3673,
+      "website": "http://team3673.org"
+    },
+    {
+      "address": null,
+      "city": "Longview",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc3812",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Weyerhaeuser/OSPI & R a Long High School & Three Rivers Christian School & Mark Morris High School",
+      "nickname": "Bits & Bots",
+      "postal_code": "98632",
+      "rookie_year": 2011,
+      "school_name": "R a Long High School & Three Rivers Christian School & Mark Morris High School",
+      "state_prov": "Washington",
+      "team_number": 3812,
+      "website": "https://www.bitsbots.club/"
+    },
+    {
+      "address": null,
+      "city": "Lafayette",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc4043",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "4-H/Argosy/Hack Club/First Federal/The Gene Haas Foundation/Newberg Steel/A-dec/OnPoint Community Credit Union/Evergreen Aviation & Space Museum/Family and Friends of NerdHerd&Family/Community",
+      "nickname": "NerdHerd",
+      "postal_code": "97128",
+      "rookie_year": 2012,
+      "school_name": "Family/Community",
+      "state_prov": "Oregon",
+      "team_number": 4043,
+      "website": "http://www.nerdherd4043.org"
+    },
+    {
+      "address": null,
+      "city": "Hillsboro",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc4488",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Lockheed Martin/ASM Research/Ogden Family Giving Fund/Intel/Mozilla Firefox/Davis Tool/Nvidia&Glencoe High School",
+      "nickname": "Shockwave",
+      "postal_code": "97124",
+      "rookie_year": 2013,
+      "school_name": "Glencoe High School",
+      "state_prov": "Oregon",
+      "team_number": 4488,
+      "website": "http://glencoerobotics.com/"
+    },
+    {
+      "address": null,
+      "city": "Scappoose",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc4662",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Boeing/Samuel S Johnson Foundation/Northwest Regional ESD STEM Hub/Argosy Foundation/Applied Materials/Bradford Consulting Engineers/Western Heating and Cooling&Scappoose Middle School&Scappoose High School",
+      "nickname": "Byte Sized Robotics",
+      "postal_code": "97056",
+      "rookie_year": 2013,
+      "school_name": "Scappoose Middle School & Scappoose High School",
+      "state_prov": "Oregon",
+      "team_number": 4662,
+      "website": "https://www.bytesized4662.org"
+    },
+    {
+      "address": null,
+      "city": "Beaverton",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc5970",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Argosy Foundation/LAM/Autodesk/Tektronix/DW Fritz/Intel/Thermo Fisher Scientific/BPS Robotics/PrintSync&Beaverton High School",
+      "nickname": "Beavertronics",
+      "postal_code": "97005",
+      "rookie_year": 2016,
+      "school_name": "Beaverton High School",
+      "state_prov": "Oregon",
+      "team_number": 5970,
+      "website": "https://beavertronics5970.wixsite.com/bhs-robotics"
+    },
+    {
+      "address": null,
+      "city": "Portland",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc5975",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "ESP Substains/Applied Plastics Machining/LAM/St. Mary's Academy&St Mary's Academy",
+      "nickname": "Beta Blues",
+      "postal_code": "97201",
+      "rookie_year": 2016,
+      "school_name": "St Mary's Academy",
+      "state_prov": "Oregon",
+      "team_number": 5975,
+      "website": "http://www.firstinspires.org/"
+    },
+    {
+      "address": null,
+      "city": "Hillsboro",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc6443",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Hillsboro School District&Liberty High School",
+      "nickname": "AEMBOT",
+      "postal_code": "97124",
+      "rookie_year": 2017,
+      "school_name": "Liberty High School",
+      "state_prov": "Oregon",
+      "team_number": 6443,
+      "website": "http://www.aembot.com"
+    },
+    {
+      "address": null,
+      "city": "Corbett",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc6696",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Microchip/Argosy Foundation&Corbett High School",
+      "nickname": "Cardinal Dynamics",
+      "postal_code": "97019",
+      "rookie_year": 2017,
+      "school_name": "Corbett High School",
+      "state_prov": "Oregon",
+      "team_number": 6696,
+      "website": "https://corbett.k12.or.us/robotics/"
+    },
+    {
+      "address": null,
+      "city": "Hood River",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc6831",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Hood River Valley High School/Sierra Olympic Technologies/Cardinal Glass&Hood River Valley High School",
+      "nickname": "A-05 Annex",
+      "postal_code": "97031",
+      "rookie_year": 2018,
+      "school_name": "Hood River Valley High School",
+      "state_prov": "Oregon",
+      "team_number": 6831,
+      "website": "https://www.a05annex.org"
+    },
+    {
+      "address": null,
+      "city": "Astoria",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc6845",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Oregon Dept of Education/Lucy's Books/Hauer Property Management/P&L Johnson/Ag-Bag Forage Solutions/Big River Construction Inc. /TacoCat Hospitality &Astoria High School",
+      "nickname": "River Bots",
+      "postal_code": "97103",
+      "rookie_year": 2018,
+      "school_name": "Astoria High School",
+      "state_prov": "Oregon",
+      "team_number": 6845,
+      "website": "http://riverbots.weebly.com"
+    },
+    {
+      "address": null,
+      "city": "West Linn",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc7034",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "NASA/Boeing/Walsh Construction/Clackamas Steel & Manufacturing&West Linn High School",
+      "nickname": "2B Determined",
+      "postal_code": "97068",
+      "rookie_year": 2018,
+      "school_name": "West Linn High School",
+      "state_prov": "Oregon",
+      "team_number": 7034,
+      "website": null
+    },
+    {
+      "address": null,
+      "city": "Philomath",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc847",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Curtiss Wright/PacStar/Philomath Boosters Club/Mattress World Northwest/Lam Research/Maxfield Family Foundation/Argosy Foundation/Hollingsworth and Vose/McMenamins on Monroe/Chipotle/Philomath Lions Club/Philomath Rental/Corvallis Clinic/Philomath Classic Car Show/FIRST/FIRST Washington&Philomath High School",
+      "nickname": "PHRED",
+      "postal_code": "97370",
+      "rookie_year": 2002,
+      "school_name": "Philomath High School",
+      "state_prov": "Oregon",
+      "team_number": 847,
+      "website": "http://www.team847.com"
+    },
+    {
+      "address": null,
+      "city": "Salem",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc9430",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "The Biddix Foundation/RAM SteelCo/Salem Electric/Garmin&Career Technical Education Ctr",
+      "nickname": "CTEC Robotics",
+      "postal_code": null,
+      "rookie_year": 2024,
+      "school_name": "Career Technical Education Ctr",
+      "state_prov": "Oregon",
+      "team_number": 9430,
+      "website": null
+    },
+    {
+      "address": null,
+      "city": "Cove",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc9438",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Cove School District/Agrosy Foundation/LAM Research/Autodesk/GOSTEM&Cove School",
+      "nickname": "Leopard Tech",
+      "postal_code": null,
+      "rookie_year": 2024,
+      "school_name": "Cove School",
+      "state_prov": "Oregon",
+      "team_number": 9438,
+      "website": null
+    },
+    {
+      "address": null,
+      "city": "Puyallup",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc9446",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "NASA&Cascade Christian Jr Sr HS",
+      "nickname": "C Cubed",
+      "postal_code": null,
+      "rookie_year": 2024,
+      "school_name": "Cascade Christian Jr Sr HS",
+      "state_prov": "Washington",
+      "team_number": 9446,
+      "website": null
+    },
+    {
+      "address": null,
+      "city": "Albany",
+      "country": "USA",
+      "gmaps_place_id": null,
+      "gmaps_url": null,
+      "key": "frc957",
+      "lat": null,
+      "lng": null,
+      "location_name": null,
+      "motto": null,
+      "name": "Albany Public Schools Foundation/HP Inc./No Dinx/Argosy Foundation/LAM Research/Autodesk/Tektronix/Linn County Fair, Albany, OR/Benton County Fair Corvallis, OR/Albany Parks & Recreation/Harbor Freight/First Force/FIRST WA/Oregon Robotics Tournament & Outreach Program/Selmet Inc/Marie Lamfrom Foundation/Ram Steelco/Central Welding Supply/Burcham's Metals/Albany American Legion Post 10/Nathan Guthrie/West Albany High School/South Albany High School/LBCC Mechatronics/K & D Engineering/Christmas Storybook Land/Oregon Community Foundation/Albany Optimist Club/Ramage, Michelle/Yutzie, Jason/Coastal Farm and Ranch/Wheeler Family Foundation/Takena and Central PTC/Pacific Cast Technologies/See's Candy/Red Robin/Chipotle/Panda Express/Burgerville/Viper Northwest/Sherwin Williams/Campbell family&West Albany High School&South Albany High School",
+      "nickname": "SWARM - South and West Albany Robotics Maniacs",
+      "postal_code": "97321",
+      "rookie_year": 2002,
+      "school_name": "South Albany High School & West Albany High School",
+      "state_prov": "Oregon",
+      "team_number": 957,
+      "website": "http://www.team957.com"
+    }
+  ],
+  "teamform_": "C:\\Users\\Student\\Documents\\2025 Scouting\\Event Repo\\Testing\\In-Season Testing 2.1.12\\3-12 Test\\teamform.JSON",
+  "matchform_": "C:\\Users\\Student\\Documents\\2025 Scouting\\Event Repo\\Testing\\In-Season Testing 2.1.12\\3-12 Test\\matchform.JSON",
+  "tablets_": [
+    {
+      "name": "Tablet 7",
+      "purpose": "team"
+    },
+    {
+      "name": "Tablet 1",
+      "purpose": "match"
+    },
+    {
+      "name": "Tablet 2",
+      "purpose": "match"
+    },
+    {
+      "name": "Tablet 3",
+      "purpose": "match"
+    },
+    {
+      "name": "Tablet 4",
+      "purpose": "match"
+    },
+    {
+      "name": "Tablet 5",
+      "purpose": "match"
+    },
+    {
+      "name": "Tablet 6",
+      "purpose": "match"
+    }
+  ],
+  "teamassignments_": [
+    {
+      "team": 10444,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 1425,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 1540,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 1844,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 2471,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 2557,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 2635,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 2733,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 2898,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 2915,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 3574,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 3636,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 3663,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 3673,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 3812,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 4043,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 4488,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 4662,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 5970,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 5975,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 6443,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 6696,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 6831,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 6845,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 7034,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 847,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 9430,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 9438,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 9446,
+      "tablet": "Tablet 7"
+    },
+    {
+      "team": 957,
+      "tablet": "Tablet 7"
+    }
+  ],
+  "uuid_": "92b4c02a-0b8e-4664-8787-377ab13c4bdf"
+}

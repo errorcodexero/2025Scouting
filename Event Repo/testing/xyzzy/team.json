@@ -1,0 +1,41 @@
+{
+    "form": "team",
+    "sections": [
+        {
+            "name": "TeamFormSection",
+            "image": "2023-Field",
+            "items": [
+                {
+                    "type": "choice",
+                    "x": 194,
+                    "y": 152,
+                    "width": 150,
+                    "height": 100,
+                    "radiosize": 20,
+                    "font": "Arial",
+                    "fontsize": 24,
+                    "tag": "tag_1",
+                    "data": "integer",
+                    "orientation": "vertical",
+                    "choices": [
+                        {
+                            "text": "Choice 1",
+                            "value": 1
+                        },
+                        {
+                            "text": "Choice 2",
+                            "value": 2
+                        },
+                        {
+                            "text": "Choice 3",
+                            "value": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "images": [
+        "2023-Field"
+    ]
+}
