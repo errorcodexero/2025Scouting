@@ -1,0 +1,89 @@
+{
+    "form": "match",
+    "sections": [
+        {
+            "name": "Autonomous",
+            "image": "field2025",
+            "items": [
+                {
+                    "tag": "startpos",
+                    "name": "Start Position",
+                    "type": "multi",
+                    "color" : "blue",
+                    "choices": [
+                        {
+                            "value" : 1,
+                            "red": {
+                                "position": {
+                                    "x": 27.22,
+                                    "y": 2.47
+                                },
+                                "size": {
+                                    "width": 3.0,
+                                    "height": 3.0
+                                }
+                            },
+                            "blue": {
+                                "position": {
+                                    "x": 27.22,
+                                    "y": 2.47
+                                },
+                                "size": {
+                                    "width": 3.0,
+                                    "height": 3.0
+                                }
+                            }
+                        },
+                        {
+                            "color" : "white",
+                            "value" : 2,
+                            "red": {
+                                "position": {
+                                    "x": 27.22,
+                                    "y": 7.97
+                                },
+                                "size": {
+                                    "width": 3.0,
+                                    "height": 3.0
+                                }
+                            },
+                            "blue": {
+                                "position": {
+                                    "x": 27.22,
+                                    "y": 7.97
+                                },
+                                "size": {
+                                    "width": 3.0,
+                                    "height": 3.0
+                                }
+                            }
+                        },
+                        {
+                            "value" : 3,
+                            "red": {
+                                "position": {
+                                    "x": 27.22,
+                                    "y": 13.47
+                                },
+                                "size": {
+                                    "width": 3.0,
+                                    "height": 3.0
+                                }
+                            },
+                            "blue": {
+                                "position": {
+                                    "x": 27.22,
+                                    "y": 13.47
+                                },
+                                "size": {
+                                    "width": 3.0,
+                                    "height": 3.0
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

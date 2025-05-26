@@ -1,0 +1,70 @@
+{
+    "form": "team",
+    "sections": [
+      {
+        "name": "Game",
+        "image": "field2025",
+        "items": [
+          {
+            "type": "text",
+            "tag": "team_scouter",
+            "name": "Scouter",
+            "maxlen": 32
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Mecanum",
+              "West Coast",
+              "Swerve",
+              "Tank",
+              "Other"
+            ],
+            "tag": "db_type",
+            "name": "Drive Base"
+          },
+          {
+            "type": "text",
+            "tag": "add_notes3",
+            "name": "Additional Notes",
+            "maxlen": 100
+          }
+          
+        ]
+      },
+      {
+        "name": "General",
+        "items": [
+          {
+            "type": "choice",
+            "choices": [
+                 "None",
+                 "Park",
+                 "Shallow Climb",
+                 "Deep Climb"
+            ],
+            "tag": "Team_Endgame",
+            "name": "Endgame"
+          },
+          {
+            "type": "updown",
+            "tag": "robot_Reliability",
+            "name": "Robot Reliability (0-5)",
+            "minimum" : 0,
+            "maximum" : 5
+          },
+          {
+            "maxlen": 200,
+            "name": "Notes",
+            "tag": "pit_Scout_Notes:",
+            "type": "text",
+            "cols": 20,
+            "rows": 3
+        }
+  
+        ]
+      }
+    ]
+  }
+  
+  
