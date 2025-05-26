@@ -1,0 +1,28 @@
+{
+    "form": "team",
+    "sections": [
+        {
+            "name": "General",
+            "image": "blank",
+            "items": [
+                {
+                    "type": "label",
+                    "text": "MyLabel",
+                    "tag": "tag_1",
+                    "x": 16,
+                    "y": 14.40625,
+                    "width": 195,
+                    "height": 51,
+                    "color": "#000000",
+                    "background": "#ffffff",
+                    "fontFamily": "Arial",
+                    "fontSize": 36,
+                    "fontWeight": "normal",
+                    "fontStyle": "normal",
+                    "datatype": "null",
+                    "transparent": true
+                }
+            ]
+        }
+    ]
+}

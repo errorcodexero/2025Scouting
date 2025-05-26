@@ -1,0 +1,160 @@
+{
+  "locked_": false,
+  "hidden_hints_": [],
+  "data_info_": {
+    "matchdb_col_config_": {
+      "frozenColumnCount": 0,
+      "columns": [
+        {
+          "name": "key",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "comp_level",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "set_number",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "match_number",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "team_key",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "comp_level",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "set_number",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "match_number",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "team_key",
+          "width": -1,
+          "hidden": false
+        }
+      ]
+    },
+    "teamdb_col_config_": {
+      "frozenColumnCount": 0,
+      "columns": [
+        {
+          "name": "key",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "team_number",
+          "width": -1,
+          "hidden": false
+        },
+        {
+          "name": "team_number",
+          "width": -1,
+          "hidden": false
+        }
+      ]
+    },
+    "scouted_team_": [],
+    "scouted_match_": [],
+    "team_db_cols_": [
+      {
+        "name": "key",
+        "type": "string"
+      },
+      {
+        "name": "team_number",
+        "type": "integer"
+      },
+      {
+        "name": "team_number",
+        "type": "integer"
+      }
+    ],
+    "match_db_cols_": [
+      {
+        "name": "key",
+        "type": "string"
+      },
+      {
+        "name": "comp_level",
+        "type": "string"
+      },
+      {
+        "name": "set_number",
+        "type": "integer"
+      },
+      {
+        "name": "match_number",
+        "type": "integer"
+      },
+      {
+        "name": "team_key",
+        "type": "string"
+      },
+      {
+        "name": "comp_level",
+        "type": "string"
+      },
+      {
+        "name": "set_number",
+        "type": "integer"
+      },
+      {
+        "name": "match_number",
+        "type": "integer"
+      },
+      {
+        "name": "team_key",
+        "type": "string"
+      }
+    ],
+    "match_results_": [],
+    "team_results_": []
+  },
+  "dataset_info_": {
+    "datasets_": []
+  },
+  "picklist_info_": {
+    "picklist_": []
+  },
+  "team_info_": {
+    "teams_": []
+  },
+  "formula_info_": {
+    "formulas_": []
+  },
+  "tablet_info_": {
+    "tablets_": [],
+    "teamassignments_": [],
+    "matchassignements_": []
+  },
+  "match_info_": {
+    "matches_": []
+  },
+  "graph_info_": {
+    "team_graph_data_": []
+  },
+  "form_info_": {
+    "teamform_": "team.json",
+    "team_form_columns_": [],
+    "match_form_columns_": []
+  }
+}

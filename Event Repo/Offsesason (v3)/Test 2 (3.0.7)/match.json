@@ -1,0 +1,48 @@
+{
+    "form": "match",
+    "sections": [
+        {
+            "name": "Auto",
+            "image": "blank",
+            "items": [
+                {
+                    "type": "choice",
+                    "tag": "tag_1",
+                    "x": 362,
+                    "y": 61.40625,
+                    "width": 250,
+                    "height": 150,
+                    "color": "#000000",
+                    "background": "#ffffff",
+                    "fontFamily": "Yu Gothic UI Semibold",
+                    "fontSize": 36,
+                    "fontWeight": "normal",
+                    "fontStyle": "normal",
+                    "datatype": "string",
+                    "transparent": true,
+                    "radiosize": 20,
+                    "orientation": "vertical",
+                    "choices": [
+                        {
+                            "text": "L1",
+                            "value": "1"
+                        },
+                        {
+                            "text": "Choice 2",
+                            "value": "choice2"
+                        },
+                        {
+                            "text": "Choice 3",
+                            "value": "choice3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "New Section",
+            "image": "blank",
+            "items": []
+        }
+    ]
+}
