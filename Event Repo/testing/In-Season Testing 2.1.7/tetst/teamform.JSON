@@ -1,0 +1,194 @@
+{
+    "form": "team",
+    "sections": [
+      {
+        "name": "Start",
+        "items": [
+          {
+            "type": "text",
+            "tag": "team_scouter",
+            "name": "Pit Scouter:",
+            "maxlen": 32
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Swerve",
+              "West Coast",
+              "Mecanum",
+              "Tank",
+              "Other"
+            ],
+            "tag": "db_type",
+            "name": "Drive base:"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Ground",
+              "Station",
+              "Both Ways"
+            ],
+            "tag": "pit_c_intake",
+            "name": "Coral intake method:"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Can"
+            ],
+            "tag": "pit_a_ground_intake",
+            "name": "Algae ground intake:"
+          }
+        ]
+      },
+      {
+        "name": "Auto",
+        "items": [ 
+          {
+            "type": "boolean",
+            "tag": "pit_c_L1auto",
+            "name": "L1?"
+          }, {
+            "type": "boolean",
+            "tag": "pit_c_L2auto",
+            "name": "L2?"
+          },{
+            "type": "boolean",
+            "tag": "pit_c_L3auto",
+            "name": "L3?"
+          },{
+            "type": "boolean",
+            "tag": "pit_c_L4auto",
+            "name": "L4?"
+          },
+          {
+            "tag" : "pit_max_auto_c",
+            "name" : "Max coral on reef in auto?",
+            "type" : "updown",
+            "minimum" : 0,
+            "maximum" : 40,
+            "prefix" : "Max coral on reef in auto?"
+          },
+          {
+            "type": "boolean",
+            "tag": "pit_a_reef_remove",
+            "name": "Remove algae from reef?"
+          },
+          {
+            "type": "boolean",
+            "tag": "pit_a_reef_intake",
+            "name": "Intake algae from reef?"
+          },{
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "L2",
+              "L3",
+              "Both"
+            ],
+            "tag": "pit_a_reef_levels",
+            "name": "...If reef intake, levels?"
+          },
+          {
+            "type": "boolean",
+            "tag": "pit_a_processor",
+            "name": "Score in processor?"
+          },
+          {
+            "tag" : "pit_max_auto_a",
+            "name" : "Max algae in processor during auto?",
+            "type" : "updown",
+            "minimum" : 0,
+            "maximum" : 40,
+            "prefix" : "Max algae in processor during auto?"
+          },
+          {
+            "type": "boolean",
+            "tag": "pit_a_net",
+            "name": "Robot score in net?"
+          }
+        ]
+      },
+      {
+        "name": "Teleop",
+        "items": [ 
+          {
+            "type": "boolean",
+            "tag": "pit_c_L1tele",
+            "name": "L1?"
+          }, {
+            "type": "boolean",
+            "tag": "pit_c_L2tele",
+            "name": "L2?"
+          },{
+            "type": "boolean",
+            "tag": "pit_c_L3tele",
+            "name": "L3?"
+          },{
+            "type": "boolean",
+            "tag": "pit_c_L4tele",
+            "name": "L4?"
+          },
+          {
+            "type": "boolean",
+            "tag": "pit_a_reef_remove",
+            "name": "Remove algae from reef?"
+          },
+          {
+            "type": "boolean",
+            "tag": "pit_a_reef_intake",
+            "name": "Intake algae from reef?"
+          },{
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "L2",
+              "L3",
+              "Both"
+            ],
+            "tag": "pit_a_reef_levels",
+            "name": "...If reef intake, levels?"
+          },
+          {
+            "type": "boolean",
+            "tag": "pit_a_processor",
+            "name": "Score in processor?"
+          },
+          {
+            "type": "boolean",
+            "tag": "pit_a_net",
+            "name": "Robot score in net?"
+          }
+        ]
+      },
+      {
+        "name": "End",
+        "items": [
+          {
+            "type": "choice",
+            "choices": [
+                 "None",
+                 "Shallow Climb",
+                 "Deep Climb",
+                 "Both Climbs"
+            ],
+            "tag": "pit_Endgame",
+            "name": "Climbs:"
+          },
+          {
+            "maxlen": 200,
+            "name": "Other Notes:",
+            "tag": "pit_Scout_Notes",
+            "type": "text",
+            "cols": 20,
+            "rows": 3
+        }
+        ]
+      }
+    ]
+  }
+  
+  

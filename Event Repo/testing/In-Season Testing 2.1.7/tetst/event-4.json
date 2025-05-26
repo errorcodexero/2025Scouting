@@ -1,0 +1,47 @@
+{
+  "scouted_team_": [],
+  "scouted_match_": [],
+  "picklist_": [],
+  "single_team_match_": [],
+  "single_team_team_": [],
+  "sync_data_": [],
+  "locked_": false,
+  "team_graph_data_": [],
+  "teamdb_col_config_": {
+    "frozenColumnCount": 0,
+    "columns": [
+      {
+        "name": "team_number",
+        "width": -1,
+        "hidden": false
+      }
+    ]
+  },
+  "matchdb_col_config_": {
+    "frozenColumnCount": 0,
+    "columns": [
+      {
+        "name": "comp_level",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "set_number",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "match_number",
+        "width": -1,
+        "hidden": false
+      },
+      {
+        "name": "team_key",
+        "width": -1,
+        "hidden": false
+      }
+    ]
+  },
+  "teamform_": "C:\\Users\\Student\\Documents\\2025 Scouting\\Event Repo\\In-Season Testing 2.1.7\\tetst\\teamform.JSON",
+  "matchform_": "C:\\Users\\Student\\Documents\\2025 Scouting\\Event Repo\\In-Season Testing 2.1.7\\tetst\\matchform.JSON"
+}

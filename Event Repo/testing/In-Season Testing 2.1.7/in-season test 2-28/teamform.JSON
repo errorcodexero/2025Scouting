@@ -1,0 +1,195 @@
+{
+    "form": "team",
+    "sections": [
+      {
+        "name": "Start",
+        "items": [
+          {
+            "type": "text",
+            "tag": "team_scouter",
+            "name": "Pit Scouter:",
+            "maxlen": 32
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Swerve",
+              "West Coast",
+              "Mecanum",
+              "Tank",
+              "Other"
+            ],
+            "tag": "db_type",
+            "name": "Drive Base:"
+          }
+        ]
+      },
+      {
+        "name": "Coral",
+        "items": [ 
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Ground",
+              "Station",
+              "Both Ways"
+            ],
+            "tag": "pit_c_intake",
+            "name": "Source of coral collection:"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_c_L1",
+            "name": "L1, when?:"
+          }, {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_c_L2",
+            "name": "L2, when?:"
+          },{
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_c_L3",
+            "name": "L3, when?:"
+          },{
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_c_L4",
+            "name": "L4, when?:"
+          },
+          {
+            "tag" : "pit_max_auto_c",
+            "name" : "...Max scored in auto?:",
+            "type" : "updown",
+            "minimum" : 0,
+            "maximum" : 40,
+            "prefix" : "...Max scored in auto?: "
+            }
+        ]
+      },
+      {
+        "name": "Algae",
+        "items": [ 
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Can"
+            ],
+            "tag": "pit_a_ground_intake",
+            "name": "Ground intake, when?:"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_a_reef_remove",
+            "name": "Reef removal, when?:"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_a_reef_intake",
+            "name": "Reef intake, when?:"
+          },{
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "L2",
+              "L3",
+              "Both"
+            ],
+            "tag": "pit_a_reef_levels",
+            "name": "...If reef intake, levels?:"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_a_processor",
+            "name": "Score processor, when?:"
+          },
+          {
+            "tag" : "pit_max_auto_a",
+            "name" : "...Max scored in auto?:",
+            "type" : "updown",
+            "minimum" : 0,
+            "maximum" : 40,
+            "prefix" : "...Max scored in auto?:"
+          },
+          {
+            "type": "choice",
+            "choices": [
+              "Can't",
+              "Tele",
+              "Auto",
+              "Both"
+            ],
+            "tag": "pit_a_net",
+            "name": "Score in net, when?:"
+          }
+        ]
+      },
+      {
+        "name": "End",
+        "items": [
+          {
+            "type": "choice",
+            "choices": [
+                 "None",
+                 "Shallow Climb",
+                 "Deep Climb",
+                 "Both Climbs"
+            ],
+            "tag": "pit_Endgame",
+            "name": "Climbs:"
+          },
+          {
+            "maxlen": 200,
+            "name": "Other Notes:",
+            "tag": "pit_Scout_Notes",
+            "type": "text",
+            "cols": 20,
+            "rows": 3
+        }
+        ]
+      }
+    ]
+  }
+  
+  

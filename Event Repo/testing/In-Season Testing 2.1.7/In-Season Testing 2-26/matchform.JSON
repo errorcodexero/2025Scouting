@@ -1,0 +1,1108 @@
+{
+    "form": "match",
+    "sections": [
+        {
+            "name" : "Start_Position",
+            "image": "field2025",
+                "items": [
+                    {
+                        "tag": "start_Pos_5isBlue",
+                        "name": "Start Position",
+                        "type": "multi",
+                        "color" : "blue",
+                        "choices": [
+                            {
+                                "color" : "yellow",
+                                "value" : 1,
+                                "red": {
+                                    "position": {
+                                        "x": 27.22,
+                                        "y": 2.47
+                                    },
+                                    "size": {
+                                        "width": 3.0,
+                                        "height": 3.0
+                                    }
+                                },
+                                "blue": {
+                                    "position": {
+                                        "x": 27.22,
+                                        "y": 2.47
+                                    },
+                                    "size": {
+                                        "width": 3.0,
+                                        "height": 3.0
+                                    }
+                                }
+                            },
+                            {
+                                "color" : "yellow",
+                                "value" : 2,
+                                "red": {
+                                    "position": {
+                                        "x": 27.22,
+                                        "y": 7.97
+                                    },
+                                    "size": {
+                                        "width": 3.0,
+                                        "height": 3.0
+                                    }
+                                },
+                                "blue": {
+                                    "position": {
+                                        "x": 27.22,
+                                        "y": 7.97
+                                    },
+                                    "size": {
+                                        "width": 3.0,
+                                        "height": 3.0
+                                    }
+                                }
+                            },
+                            {
+                                "color" : "yellow",
+                                "value" : 3,
+                                "red": {
+                                    "position": {
+                                        "x": 27.22,
+                                        "y": 13.47
+                                    },
+                                    "size": {
+                                        "width": 3.0,
+                                        "height": 3.0
+                                    }
+                                },
+                                "blue": {
+                                    "position": {
+                                        "x": 27.22,
+                                        "y": 13.47
+                                    },
+                                    "size": {
+                                        "width": 3.0,
+                                        "height": 3.0
+                                    }
+                                }
+                            },
+                            {
+                                "color" : "yellow",
+                                "value" : 4,
+                                "red": {
+                                    "position": {
+                                        "x": 27.22,
+                                        "y": 18.97
+                                    },
+                                    "size": {
+                                        "width": 3.0,
+                                        "height": 3.0
+                                    }
+                                },
+                                "blue": {
+                                    "position": {
+                                        "x": 27.22,
+                                        "y": 18.97
+                                    },
+                                    "size": {
+                                        "width": 3.0,
+                                        "height": 3.0
+                                    }
+                                }
+                            },
+                            {
+                                "color" : "yellow",
+                                "value" : 5,
+                                "red": {
+                                    "position": {
+                                        "x": 27.22,
+                                        "y": 24.47
+                                    },
+                                    "size": {
+                                        "width": 3.0,
+                                        "height": 3.0
+                                    }
+                                },
+                                "blue": {
+                                    "position": {
+                                        "x": 27.22,
+                                        "y": 24.47
+                                    },
+                                    "size": {
+                                        "width": 3.0,
+                                        "height": 3.0
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+            "name" : "Autonomous",
+                "image": "reef2025",
+                "items": [
+                    {
+                        "tag" : "a_Leave",
+                        "name" : "Leave",
+                        "type" : "boolean",
+                        "label" : {
+                            "text" : "Leave",
+                            "x": 130,
+                            "y" : 600,
+                            "width" : 140,
+                            "height" : 40,
+                            "font" : "50px serif"
+                        },                        
+                        "colors" : {
+                            "true" : "green",
+                            "false" : "black"
+                        },
+                        "red" : {
+                            "position" : {
+                                "x" : 50,
+                                "y" : 560
+                            },
+                            "size" : {
+                                "width" : 50,
+                                "height" : 50
+                            }
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 50,
+                                "y" : 560
+                            },
+                            "size" : {
+                                "width" : 50,
+                                "height" : 50
+                            }
+                        }
+                    },
+                    {
+                        "tag" : "a_Station",
+                        "name" : "Station Collect",
+                        "type" : "updown", 
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Station Collect: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 740,
+                                "y" : 450
+                            },
+                            "size" : {
+                                "width" : 60,
+                                "height" : 110
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 990,
+                                    "y" : 480
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            } 
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 740,
+                                "y" : 500
+                            },
+                            "size" : {
+                                "width" : 60,
+                                "height" : 110
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 990,
+                                    "y" : 530
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            } 
+                        }
+                    },
+                    {
+                        "tag" : "a_reefAlgae",
+                        "name" : "Auto Algae Removed",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Algae Removed: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 20,
+                                "y" : 440
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 290,
+                                    "y" : 480
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 20,
+                                "y" : 440
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 290,
+                                    "y" : 480
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    },
+                    {
+                        "tag" : "a_Net",
+                        "name" : "net",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Net: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 20,
+                                "y" : 160
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 130,
+                                    "y" : 200
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 20,
+                                "y" : 160
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 130,
+                                    "y" : 200
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    },
+                    {
+                        "tag" : "a_Proc",
+                        "name" : "algae",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Processor: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 20.0,
+                                "y" : 300
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 180,
+                                    "y" : 340
+                                },
+                                "size" : {
+                                    "width" : 210,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 20.0,
+                                "y" : 300
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 180,
+                                    "y" : 340
+                                },
+                                "size" : {
+                                    "width" : 210,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    },
+                    {
+                        "tag" : "a_L4",
+                        "name" : "a_l4",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "L4: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : 280
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : 310
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : 280
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : 310
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    },
+                    {
+                        "tag" : "a_L3",
+                        "name" : "a_l3",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "L3: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : 130
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : 150
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : 130
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : 150
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    },
+                    {
+                        "tag" : "a_L2",
+                        "name" : "a_l2",
+                        "type" : "updown",
+                        "prefix" : "L2: ",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "red" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : -8
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : 20
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : -8
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : 20
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    },
+                    {
+                        "tag" : "a_L1",
+                        "name" : "a_l1",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "L1: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : -140
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : -120
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : -140
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : -120
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    }
+                ]
+            },
+            {
+                "name" : "Teleop",
+                "image": "reef2025",
+                "items": [
+                    {
+                        "tag" : "t_Defense",
+                        "name" : "Defense",
+                        "type" : "boolean",
+                        "label" : {
+                            "text" : "Defense",
+                            "x": 150,
+                            "y" : 600,
+                            "width" : 140,
+                            "height" : 40,
+                            "font" : "50px serif"
+                        },                        
+                        "colors" : {
+                            "true" : "green",
+                            "false" : "black"
+                        },
+                        "red" : {
+                            "position" : {
+                                "x" : 50,
+                                "y" : 560
+                            },
+                            "size" : {
+                                "width" : 50,
+                                "height" : 50
+                            }
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 50,
+                                "y" : 560
+                            },
+                            "size" : {
+                                "width" : 50,
+                                "height" : 50
+                            }
+                        }
+                    },
+                    {
+                        "tag" : "t_Tipped",
+                        "name" : "Tipped",
+                        "type" : "boolean",
+                        "label" : {
+                            "text" : "Tipped",
+                            "x": 850,
+                            "y" : 610,
+                            "width" : 140,
+                            "height" : 40,
+                            "font" : "50px serif"
+                        },                        
+                        "colors" : {
+                            "true" : "green",
+                            "false" : "black"
+                        },
+                        "red" : {
+                            "position" : {
+                                "x" : 770,
+                                "y" : 570
+                            },
+                            "size" : {
+                                "width" : 50,
+                                "height" : 50
+                            }
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 770,
+                                "y" : 570
+                            },
+                            "size" : {
+                                "width" : 50,
+                                "height" : 50
+                            }
+                        }
+                    },
+                    {
+                        "tag" : "t_timeFrozen",
+                        "name" : "time_frozen",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 150,
+                        "prefix" : "Seconds Frozen: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 740,
+                                "y" : 460
+                            },
+                            "size" : {
+                                "width" : 60,
+                                "height" : 110
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1050,
+                                    "y" : 500
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            } 
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 740,
+                                "y" : 460
+                            },
+                            "size" : {
+                                "width" : 60,
+                                "height" : 110
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1050,
+                                    "y" : 500
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            } 
+                        }
+                    },
+                    {
+                        "tag" : "t_reefAlgae",
+                        "name" : "Teleop Algae Removed",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Algae Removed: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 20,
+                                "y" : 440
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 290,
+                                    "y" : 480
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 20,
+                                "y" : 440
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 290,
+                                    "y" : 480
+                                },
+                                "size" : {
+                                    "width" : 180,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    },
+                    {
+                        "tag" : "t_Net",
+                        "name" : "Tele net",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Net: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 20,
+                                "y" : 160
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 130,
+                                    "y" : 200
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 20,
+                                "y" : 160
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 130,
+                                    "y" : 200
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    },
+                    {
+                        "tag" : "t_Proc",
+                        "name" : "Tele algae",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "Processor: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 20.0,
+                                "y" : 300
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 180,
+                                    "y" : 340
+                                },
+                                "size" : {
+                                    "width" : 210,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 20.0,
+                                "y" : 300
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 180,
+                                    "y" : 340
+                                },
+                                "size" : {
+                                    "width" : 210,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    },
+                    {
+                        "tag" : "t_L4",
+                        "name" : "t_L4",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "L4: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : 280
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : 310
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : 280
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : 310
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    },
+                    {
+                        "tag" : "t_L3",
+                        "name" : "T_l3",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "L3: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : 130
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : 150
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : 130
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : 150
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    },
+                    {
+                        "tag" : "t_L2",
+                        "name" : "t_l2",
+                        "type" : "updown",
+                        "prefix" : "L2: ",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "red" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : -8
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : 20
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : -8
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : 20
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    },
+                    {
+                        "tag" : "t_L1",
+                        "name" : "t_l1",
+                        "type" : "updown",
+                        "minimum" : 0,
+                        "maximum" : 40,
+                        "prefix" : "L1: ",
+                        "red" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : -140
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : -120
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        },
+                        "blue" : {
+                            "position" : {
+                                "x" : 1400.0,
+                                "y" : -140
+                            },
+                            "size" : {
+                                "width" : 60.0,
+                                "height" : 110.0
+                            },
+                            "number" : {
+                                "position" : {
+                                    "x" : 1240,
+                                    "y" : -120
+                                },
+                                "size" : {
+                                    "width" : 120,
+                                    "height" : 20
+                                },
+                                "font" : "50px serif"
+                            }    
+                        }
+                    }
+                ]
+            },
+        {
+            "name": "Endgame",
+            "items": [
+                {
+                    "maxlen": 32,
+                    "name": "SCOUTER NAME:",
+                    "tag": "match_Scouter",
+                    "type": "text"
+                },
+                {
+                    "type": "choice",
+                    "choices": [
+                      "None",
+                      "Park",
+                      "Shallow Climb",
+                      "Deep Climb"
+                    ],
+                    "tag": "end_Pos",
+                    "name": "End Position:"
+                  },
+                {
+                    "maxlen": 200,
+                    "name": "Robot Auto Notes:",
+                    "tag": "auto_Notes",
+                    "type": "text",
+                    "cols": 20,
+                    "rows": 2
+                },
+                {
+                    "maxlen": 200,
+                    "name": "Robot Teleop Notes:",
+                    "tag": "tele_Notes",
+                    "type": "text",
+                    "cols": 20,
+                    "rows": 2
+                },
+                {
+                    "maxlen": 200,
+                    "name": "Explain Any Breakdown/Defense:",
+                    "tag": "d_break_Notes",
+                    "type": "text",
+                    "cols": 20,
+                    "rows": 2
+                }
+            ]
+        }
+    ]
+}
