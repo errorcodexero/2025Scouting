@@ -1,0 +1,961 @@
+Match #,Robot,Team #,Mobility,aL4,aL3,aL2,aL1,aProcessor,aNet,tL4,tL3,tL2,tL1,tProcessor,tNet,Disabled,Deep,Shallow,Park,Algae Removal,Offense,Defense,Accuracy,Comments,Mistake box,Index,"Team, index",Match index,Disable,Mobility,Deep,Shallow,Park,Removal,Offense,Defense,Accuracy
+1,B1,9484,TRUE,0,0,0,0,0,0,0,3,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Very poor auto, kind of slow and unstable, consistently knock its own coral off the reef",,1,"9484,1","1,B1",0,1,0,0,1,0,x,x,2
+1,B2,3256,TRUE,1,0,0,0,0,0,2,2,2,1,0,4,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,"Good cycle time, reliable for net scoring and lower level reef scoring. Cannot effectively ground intake algae, but is able to quickly switch back to coral scoring. Struggles with climbing",,1,"3256,1","1,B2",0,1,0,0,1,1,2,x,3
+1,B3,4451,TRUE,2,0,0,0,0,0,4,0,0,6,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,Ok cycles but missed a lot of L 1 and was a little wobbly on L 4. No ground intake or algae.,,1,"4451,1","1,B3",0,1,1,0,0,0,2,x,2
+1,R1,4655,TRUE,3,0,0,0,0,0,3,3,4,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,2,"Working well in auto, working on coral, from L2-4, have higher accuracy and climb fast.",,1,"4655,1","1,R1",0,1,1,0,0,0,3,x,2
+1,R2,2056,TRUE,5,0,0,0,0,0,1,4,5,4,2,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Auto scores 5 coral,,1,"2056,1","1,R2",0,1,1,0,0,1,3,x,3
+1,R3,4415,TRUE,0,0,0,0,0,1,1,2,4,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,x,"Didnt score on L4, descent cycle time, coral could get stuck in the robot",,1,"4415,1","1,R3",0,1,1,0,0,1,x,x,x
+2,B1,4068,TRUE,1,0,0,0,0,2,1,4,4,1,0,1,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,3,"Can handle both coral and algae even during auto, very fast, but cant climb",,1,"4068,1","2,B1",0,1,0,0,1,0,x,x,3
+2,B2,4607,TRUE,3,0,0,0,0,0,1,2,5,0,0,3,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Very reliable for lower level scoring, resourceful- switched to net scoring for algae when reef was filled. Quick cycle times, good at grabbing from station",,1,"4607,1","2,B2",0,1,1,0,0,0,3,x,3
+2,B3,1796,TRUE,3,0,0,0,0,0,3,5,3,3,2,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Very fast cycles, can score anything anywhere, no ground intake but has very good funnel that allows for as fast of cycles.",,1,"1796,1","2,B3",0,1,1,0,0,1,3,x,3
+2,R1,6083,TRUE,1,0,0,0,0,0,1,0,2,0,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,"1 L4 coral and algae removal in auto, move slowly and takes time on aiming. Can work on algae and coral, not sure if it be able to climb.",,1,"6083,1","2,R1",0,1,0,0,1,1,2,x,3
+2,R2,1671,TRUE,3,0,0,0,0,0,2,4,3,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,3,Climb attached to intake,,1,"1671,1","2,R2",0,1,1,0,0,1,2,x,3
+2,R3,7257,TRUE,2,0,0,0,0,0,1,7,5,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Slower cycle time, extremely consistent with scoring, reliable climb",,1,"7257,1","2,R3",0,1,1,0,0,0,x,x,3
+3,B1,2724,TRUE,0,0,0,0,0,1,0,4,1,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,"Could handle both game pieces, but often had algae fall out of end effector.",,1,"2724,1","3,B1",0,1,1,0,0,0,x,x,2
+3,B2,1425,TRUE,3,0,0,0,0,0,4,4,0,1,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Reliable for L4 scoring, intaking from coral station is smooth, algae mechanism struggles to remove algae but is good at net scoring, scored quicker on section of the reef facing driver station",,1,"1425,1","3,B2",0,1,1,0,0,1,3,x,3
+3,B3,3792,TRUE,0,0,0,0,0,0,0,0,0,8,4,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Only L1 scoring with good algae processor. No elevator.,,1,"3792,1","3,B3",0,1,0,0,1,1,2,x,2
+3,R1,4421,TRUE,0,0,0,0,0,0,1,0,0,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,1,"Have higher accuracy on algae, but not for corals. Climb successfully.",,1,"4421,1","3,R1",0,1,1,0,0,1,x,x,1
+3,R2,6832,FALSE,0,0,0,0,0,0,0,0,0,3,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,x,2,Appears to only be able to score in L1,,1,"6832,1","3,R2",0,0,0,0,1,1,1,x,2
+3,R3,1507,TRUE,1,0,0,0,0,0,0,0,0,1,3,0,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,x,Coral got stuck in elevator during autonomous period due do improper load by the human player crippling the robot,,1,"1507,1","3,R3",0,1,1,0,0,1,x,x,x
+4,B1,6017,FALSE,0,0,0,0,0,0,3,0,1,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,1,"Very fast, snappy end effector that often flung coral out of itself when cycling. No auto",,1,"6017,1","4,B1",0,0,1,0,0,0,x,x,1
+4,B2,9199,,0,0,0,0,0,0,4,0,1,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,x,,,,,,,,,,,,,,
+4,B3,6911,TRUE,1,0,0,0,0,1,5,1,1,0,2,6,FALSE,FALSE,FALSE,FALSE,TRUE,3,x,3,Slow movement but very smooth making fast cycles. Scores anything anywhere. Strong net algae scoring. Very consistent.,,1,"6911,1","4,B3",0,1,0,0,0,1,3,x,3
+4,R1,6424,TRUE,2,0,0,0,0,0,2,4,8,1,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Working well in auto (2 coral), get the corals smooth and have high accuracy on every level of coral. Climb successfully.",,1,"6424,1","4,R1",0,1,1,0,0,0,3,x,3
+4,R2,6995,TRUE,1,0,0,0,0,2,3,4,0,0,2,2,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Can scoop coral off the ground,,1,"6995,1","4,R2",0,1,0,0,1,1,3,x,3
+4,R3,418,TRUE,2,0,0,0,0,0,1,3,,2,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,"Very complicated arm/elevator combo, two coral auto and fast climb",,1,"418,1","4,R3",0,1,1,0,0,0,x,x,2
+5,B1,78,TRUE,0,0,0,0,0,0,1,4,3,4,0,2,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Horrible accuracy during auto, but basically perfect during teleop. Can handle both game pieces very well",,1,"78,1","5,B1",0,1,1,0,0,0,x,x,3
+5,B2,1833,TRUE,2,0,0,0,0,0,6,4,3,1,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Sometimes struggled to intake from station, but very reliable for quick scoring on higher levels. Has an L1 scoring mechanism, didn't see much of it. Was able to score atleast 1 piece.",,1,"1833,1","5,B2",0,1,1,0,0,1,3,x,3
+5,B3,8575,TRUE,0,1,0,0,0,0,0,3,2,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,x,1,Very very slow movement and VERY slow elevator. One coral on L3 auto with one algae removal. I dont think they can score L4.,,1,"8575,1","5,B3",0,1,0,0,1,1,1,x,1
+5,R1,4967,TRUE,0,0,0,0,0,0,1,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,x,x,x,"Can work on coral on L4. Mostly work on algae removal, trying to hold it but failed. Trying to climb but failed.",,1,"4967,1","5,R1",0,1,0,0,1,1,x,x,x
+5,R2,3492,TRUE,0,0,1,0,0,0,0,7,4,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,Outtake sometimes knocked other coral off,,1,"3492,1","5,R2",0,1,0,0,1,0,2,x,2
+5,R3,6146,TRUE,0,0,0,1,0,0,2,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,1,x,"Very slow cycle time, major system must have failed before they played defense",,1,"6146,1","5,R3",0,1,0,0,1,0,x,1,x
+6,B1,10291,TRUE,0,0,0,0,0,0,0,1,0,1,2,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,"Very average speed, and accuracy. The way it holds algae is VERY janky",,1,"10291,1","6,B1",0,1,1,0,0,0,x,x,2
+6,B2,649,TRUE,0,0,0,0,0,0,7,3,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,"Autos were struggling. Not very fast cycle times, wastes a lot of time trying to intake. Good aiming system. Overall, wouldn't be a top pick, but wouldn't be a bottom either",,1,"649,1","6,B2",0,1,0,0,1,1,2,x,3
+6,B3,10260,TRUE,0,0,0,0,0,0,0,0,0,9,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,1,x,2,"KIT BOT!!! With nothing else. Only can score L1, no algae, no climb, very jerky stop and go driving.",,1,"10260,1","6,B3",0,1,0,0,0,0,1,x,2
+6,R1,302,TRUE,1,0,0,0,0,0,4,4,4,0,0,2,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,"Can work on both coral and algae, have higher accuracy and move smoothly and fast. Try to climb but failed.",,1,"302,1","6,R1",0,1,0,0,1,1,3,x,2
+6,R2,6909,TRUE,0,0,0,0,0,0,0,0,2,4,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,1,Climb takes 20 seconds,,1,"6909,1","6,R2",0,1,1,0,0,0,2,x,1
+6,R3,4786,TRUE,0,0,0,0,0,0,1,1,0,2,2,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Slow cycle time, didnt core L 4 very often",,1,"4786,1","6,R3",0,1,0,0,1,0,x,x,2
+7,B1,9280,TRUE,0,0,0,0,0,0,5,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,x,3,They were very very slow but made all the shots they took,,1,"9280,1","7,B1",0,1,0,0,1,1,1,x,3
+7,B2,9312,TRUE,0,0,0,0,0,0,0,0,2,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,1,x,1,"Auto was supposed to be at least one L1 but failed and then it went towards the coral station but didnt make it. Struggled with intake a lot, when it did intake it it fell out from hitting something. Outtake not good either.",,1,"9312,1","7,B2",0,1,1,0,0,0,1,x,1
+7,B3,4005,TRUE,0,0,0,0,0,0,7,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,2,"Deep climb is similar to ours, however it seemed to fail",,1,"4005,1","7,B3",0,1,0,0,1,0,3,x,2
+7,R1,3297,TRUE,1,0,0,0,0,1,0,0,0,0,1,0,FALSE,FALSE,FALSE,TRUE,TRUE,x,3,3,sucessful auto. brought algae into the blue place to more effectively play defense. removed an algae to score and block blue. got stuck on one of their own algae but quickly unstuck itself.,,1,"3297,1","7,R1",0,1,0,0,1,1,x,3,3
+7,R2,7197,TRUE,0,0,0,0,0,0,2,2,4,2,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,1,Missed two coral in auto. Slow. Sometimes coral slips out of intake funnel,,1,"7197,1","7,R2",0,1,0,0,1,0,2,x,1
+7,R3,5660,TRUE,3,0,0,0,0,0,2,5,4,1,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"Almost missed 2 corals in auto, shot out a coral early and missed in teleop, average driving",,1,"5660,1","7,R3",0,1,1,0,0,1,2,x,2
+8,B1,4013,TRUE,0,0,0,0,0,0,0,0,0,0,2,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,They were slow but seemed capable going to l1 l2 l3,,1,"4013,1","8,B1",0,1,0,0,1,0,2,x,2
+8,B2,4613,TRUE,0,1,0,0,0,1,0,5,5,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Auto also removed two algae and tried to put it in the net but overshot. Missed coral two times. Missed algae in net one time.,,1,"4613,1","8,B2",0,1,1,0,0,1,3,x,3
+8,B3,7034,TRUE,2,0,0,0,0,0,7,3,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,Autonomous misses first coral in L4,,1,"7034,1","8,B3",0,1,1,0,0,0,3,x,3
+8,R1,7048,TRUE,1,0,0,0,0,0,3,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,1,failed 2.5. struggled to intake. spent lots of time positioning and lots of coral fell out. got stuck on algae and needed help getting out. no attempt to climb,,1,"7048,1","8,R1",0,1,0,0,1,0,1,x,1
+8,R2,6348,TRUE,0,0,0,0,0,0,2,0,0,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,1,Slow. Not accurate. Unstable at max extension. Dropped a few coral,,1,"6348,1","8,R2",0,1,0,0,1,0,1,x,1
+8,R3,3173,TRUE,1,0,0,0,0,0,4,4,0,1,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,1,"Missed 2 corals in auto and missed 2 L4 shots in teleop, didnt drive very fast",,1,"3173,1","8,R3",0,1,0,0,1,1,2,x,1
+9,B1,1847,TRUE,1,0,0,0,0,0,3,3,3,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"They tired to climb did not, they were solid all level motion",,1,"1847,1","9,B1",0,1,0,0,1,0,x,x,2
+9,B2,694,TRUE,3,0,0,0,0,0,3,4,4,1,2,1,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,Very fast and consitent cycle. Auto was 3.5 piece. The L1 score was supposed to be L4.,,1,"694,1","9,B2",0,1,1,0,0,0,3,x,3
+9,B3,1481,TRUE,1,0,0,0,0,0,1,3,2,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,Auto attempts to score algae in barge but fails,,1,"1481,1","9,B3",0,1,1,0,0,1,2,x,2
+9,R1,9032,TRUE,1,0,0,0,0,1,1,2,1,0,0,4,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,successful auto. got an algae stuck in it and couldn't score for a while but got it out. robot seemed a bit lost for a while. removed algae only to score,,1,"9032,1","9,R1",0,1,0,0,1,1,3,x,3
+9,R2,1678,TRUE,3,0,0,0,0,0,4,7,7,1,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Fast, accurate. Fast climb. Missed one algae in net",,1,"1678,1","9,R2",0,1,1,0,0,1,3,x,3
+9,R3,900,TRUE,1,0,0,0,0,0,2,3,3,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,x,1,"Missed a l4 in auto and didnt have time to score a 3rd, missed over half their coral shots",,1,"900,1","9,R3",0,1,0,0,0,0,2,x,1
+10,B1,179,TRUE,0,0,0,0,0,0,3,4,4,4,0,1,TRUE,FALSE,FALSE,FALSE,TRUE,x,x,x,They were doing great all levels great algae but then disabled,,1,"179,1","10,B1",1,1,0,0,0,1,x,x,x
+10,B2,1731,TRUE,1,0,0,0,0,0,0,2,1,3,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,Auto was also supposed to score an L4 but missed. Missed L4 3 times. Missed L1 3 times.,,1,"1731,1","10,B2",0,1,1,0,0,1,2,x,2
+10,B3,8738,TRUE,0,0,0,0,0,0,4,1,3,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,x,Really good intake.,,1,"8738,1","10,B3",0,1,0,0,1,0,x,x,x
+10,R1,9301,TRUE,0,0,0,1,0,0,0,0,0,3,3,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,x,3,got disabled a little before end. successful auto. kind of slow.,,1,"9301,1","10,R1",0,1,0,0,0,0,2,x,3
+10,R2,10698,TRUE,0,0,0,0,0,0,0,1,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,x,1,Slow. Struggled to intake. Coral fell out a few times.,,1,"10698,1","10,R2",0,1,0,0,1,1,1,x,1
+10,R3,8808,TRUE,2,0,0,0,0,0,7,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,2,x,1,"Missed multiple l4 shots and drove very slow without purpose, almost got stuck on reef trying to score l4",,1,"8808,1","10,R3",0,1,0,0,0,1,2,x,1
+11,B1,3255,TRUE,0,0,0,1,0,0,2,3,0,0,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,2,They had good on all levels just need to slow down for accurac,,1,"3255,1","11,B1",0,1,1,0,0,1,x,x,2
+11,B2,7525,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,3,x,Looked like it was struggling to start moving the first few seconds but then when it started to move it played very good defense. Greatly effected opposite alliance robot,,1,"7525,1","11,B2",0,1,0,0,1,0,x,3,x
+11,B3,9432,TRUE,3,0,0,0,0,0,6,2,0,0,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"Seems like a good bit in general. Quick cycle time and can remove algae, then put the algae in the net",,1,"9432,1","11,B3",0,1,1,0,0,1,3,x,2
+11,R1,2648,TRUE,1,0,0,0,0,0,2,6,1,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,sucessful auto. got defended but played well. went to barge immediatly when endgame started. removed algae only to score.,,1,"2648,1","11,R1",0,1,1,0,0,1,3,x,3
+11,R2,2630,TRUE,3,0,0,0,0,0,5,2,0,0,0,5,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Very fast. Missed one coral in 4.5 coral auto. Fast intake. Fast algae throw into net,,1,"2630,1","11,R2",0,1,1,0,0,1,3,x,3
+11,R3,3891,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,1,x,"Auto drove into walk then stopped, defense was just sitting there for most of match",,1,"3891,1","11,R3",0,1,0,0,1,0,x,1,x
+12,B1,5968,TRUE,0,0,0,0,0,0,2,0,0,0,2,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,They tried a lot and missy ed they can go to all levels but are slow,,1,"5968,1","12,B1",0,1,0,0,1,0,x,x,2
+12,B2,537,TRUE,0,0,0,0,0,0,3,3,4,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,3,It looked like auto was supposed to get more because it was just moving the elevator without moving at the start.,,1,"537,1","12,B2",0,1,1,0,0,0,2,x,3
+12,B3,226,TRUE,3,0,0,0,0,0,0,3,4,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,1,Only went for lower levels. May be for the ranking point or the elevator could be broken,,1,"226,1","12,B3",0,1,1,0,0,1,2,x,1
+12,R1,3284,TRUE,0,0,0,0,0,0,0,0,0,1,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,x,1,failed 1 coral 1 net. missed a net shot and then struggled to get it into the processor before giving up and getting stuck on an algae and struggling to get off and needing help. then they scored a single L1 before failing to deep-climb. removed one algae in an attempt to score.,,1,"3284,1","12,R1",0,1,0,0,1,1,1,x,1
+12,R2,2129,TRUE,0,0,0,0,0,0,6,3,2,1,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,x,3,Very slow in auto. Overall kind of slow. Very accurate,,1,"2129,1","12,R2",0,1,0,0,0,0,2,x,3
+12,R3,494,TRUE,2,0,0,0,0,0,2,5,4,0,2,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"Got in teammates way a couple times, drove very slow, the elevator shakes a lot while scoring l4",,1,"494,1","12,R3",0,1,1,0,0,1,2,x,2
+13,B1,1369,TRUE,1,0,0,0,0,1,0,0,0,1,2,4,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Mostly work on algae, sometimes takes time to grab algae. Algae work better than coral, couldnt aim well in coral and also takes time on getting coral",,1,"1369,1","13,B1",0,1,0,0,1,1,2,x,2
+13,B2,1671,TRUE,1,0,0,0,0,0,6,3,1,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,Auto was too fast,,2,"1671,2","13,B2",0,1,0,0,1,1,3,x,2
+13,B3,3492,TRUE,0,0,1,0,0,0,0,5,6,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Very fast cycle time, number almost came off.",,2,"3492,2","13,B3",0,1,0,0,1,0,x,x,2
+13,R1,4500,TRUE,1,0,0,1,0,0,6,6,0,1,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Minimal misses, pretty decent speeded cycles, auto missed one L4, got the second, and almost got a third. Id say its a pretty good bot.",,1,"4500,1","13,R1",0,1,1,0,0,1,3,x,3
+13,R2,2438,TRUE,0,0,0,0,0,0,4,2,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,1,Very inaccurate when scoring L4  Robot cycles pretty fast but often aligns L4 too fast. It missed l4 probably around half the time Their auto failed completely,,1,"2438,1","13,R2",0,1,0,0,1,0,2,x,1
+13,R3,6832,TRUE,0,0,0,0,0,0,0,0,0,0,2,0,FALSE,FALSE,FALSE,FALSE,FALSE,1,x,1,Mainly kit bot with a processor only algae intake also got the preloaded coral stuck in the lower portion in auto,,2,"6832,2","13,R3",0,1,0,0,0,0,1,x,1
+14,B1,9484,TRUE,0,0,0,0,0,0,3,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,2,x,"Mostly work on coral, but sometimes couldnt hold it well. Go play defense in seconds before end, doing fine.",,2,"9484,2","14,B1",0,1,0,0,1,0,x,2,x
+14,B2,6911,TRUE,1,0,0,0,0,2,4,5,1,0,0,2,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Incredible algae claw,,2,"6911,2","14,B2",0,1,0,0,1,1,3,x,3
+14,B3,3792,TRUE,0,0,0,0,0,0,0,0,0,10,4,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Did not score in auto, only scores L1 but is very fast and consistent lightweight, fast climb",,2,"3792,2","14,B3",0,1,1,0,0,0,x,x,3
+14,R1,10291,TRUE,1,0,0,0,0,0,0,4,1,2,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"Fast cycles, missed a decent chunk of shots, but it had a ground intake, which allowed it to recover pretty well. Auto could only score one, after that it sorta drove around.",,2,"10291,2","14,R1",0,1,1,0,0,1,2,x,2
+14,R2,1833,TRUE,2,0,0,0,0,0,1,3,2,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,Wobbly and inconsistent  Robot would often jolt around and it seemed like the drive team wasnt controlling it  Very clean auto though,,2,"1833,2","14,R2",0,1,1,0,0,0,2,x,2
+14,R3,4068,TRUE,2,0,0,0,0,0,4,4,4,0,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Had very fast cycles and was able to clear algae from the reef into the processor,,2,"4068,2","14,R3",0,1,0,0,1,1,3,x,3
+15,B1,3256,TRUE,3,0,0,0,0,0,2,4,6,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"Everything smoothly and fast, can work on both coral and algae. Doing well in auto. Climb successfully.",,2,"3256,2","15,B1",0,1,0,0,1,1,3,x,3
+15,B2,302,TRUE,3,0,0,0,0,0,2,5,4,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,Can grab algae while holding coral,,2,"302,2","15,B2",0,1,0,0,1,1,3,x,2
+15,B3,4421,TRUE,1,0,0,0,0,0,1,4,0,0,2,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Slower cycle time, auto is ment for one L4 and 2 alge.",,2,"4421,2","15,B3",0,1,0,0,1,0,x,x,2
+15,R1,1796,TRUE,2,0,0,0,0,0,4,7,3,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Crazy fast and accurate, only missed a few times, but that doesnt matter when they cycle at insane speed with most of not almost all their shots going in, and they scored everywhere but the processor and L1.",,2,"1796,2","15,R1",0,1,1,0,0,1,3,x,3
+15,R2,9199,TRUE,0,0,0,0,0,0,1,0,1,0,0,0,TRUE,TRUE,FALSE,FALSE,FALSE,1,1,1,Auto bugged out and had to get e stopped Missed four L4s  Missed a L3  Algae got stuck in robot and jammed   Their elevator,,2,"9199,2","15,R2",1,1,1,0,0,0,1,1,1
+15,R3,78,TRUE,3,0,0,0,0,0,1,4,3,0,2,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Was very fast with a near 4 coral auto, also had a very quick deep climb",,2,"78,2","15,R3",0,1,1,0,0,1,3,x,3
+16,B1,4786,TRUE,1,0,0,0,0,2,3,4,4,0,0,3,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"Working well in auto, can work on both algae and coral. Move, aiming and getting coral smoothly and fast.",,2,"4786,2","16,B1",0,1,0,0,1,1,3,x,3
+16,B2,7034,TRUE,2,0,0,0,0,0,3,3,0,3,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,2,"Scoring is very effective, occasionally missed in L1. Climbed, but was in contact w another robot",,2,"7034,2","16,B2",0,1,0,0,1,0,3,x,2
+16,B3,1425,TRUE,3,0,0,0,0,0,1,4,6,4,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,3,"Very high scoring auto, very fast cycle time",,2,"1425,2","16,B3",0,1,0,0,1,0,x,x,3
+16,R1,4607,TRUE,1,0,0,0,0,0,7,2,0,0,0,5,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,"It was accurate, but its speed was ok. Alge shots were really good though. I think its a well rounded robot, but a better alge bot for sure.",,2,"4607,2","16,R1",0,1,0,0,1,1,2,x,3
+16,R2,9312,TRUE,0,0,0,0,0,0,0,0,0,1,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,1,x,1,Missed L1 very often  Very inconsistent  Intake jammed,,2,"9312,2","16,R2",0,1,1,0,0,0,1,x,1
+16,R3,6146,TRUE,0,0,0,0,0,0,2,4,1,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,"Missed there auto coral, dropped a coral in tele op and had very slow outtake",,2,"6146,2","16,R3",0,1,0,0,1,0,2,x,2
+17,B1,2056,TRUE,5,0,0,0,0,0,2,2,4,6,2,5,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Doing so well in auto, can work on both algae and coral. Do everything fast and smoothly. Can get coral from ground, climb fast and success.",,2,"2056,2","17,B1",0,1,1,0,0,1,3,x,3
+17,B2,9280,TRUE,0,0,0,0,0,0,2,4,2,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,Auto very slow,,2,"9280,2","17,B2",0,1,0,0,1,0,2,x,2
+17,B3,900,TRUE,1,0,0,0,0,0,3,3,5,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,1,"Fast cycle time but not very accurate, non functional three coral auto",,2,"900,2","17,B3",0,1,0,0,1,0,x,x,1
+17,R1,6348,TRUE,0,0,0,0,0,0,3,2,1,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,3,"Very very very slow, but it can score in upper reef levels.",,2,"6348,2","17,R1",0,1,0,0,1,0,1,x,3
+17,R2,2724,TRUE,0,0,0,0,0,0,0,1,1,1,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,x,1,Only good for algae processing  Missed almost all coral attempts  Slow and very inconsistent,,2,"2724,2","17,R2",0,1,0,0,1,1,1,x,1
+17,R3,1678,TRUE,4,0,0,0,0,0,3,5,8,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,Had very fast cycles and could clear the reef but missed its attempts at getting into the net,,2,"1678,2","17,R3",0,1,1,0,0,1,3,x,2
+18,B1,1481,TRUE,1,0,0,0,0,0,0,1,1,1,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,x,x,x,"Can work on both algae and coral, but sometimes cant hold them well. Should be able to put algae in net but cant control well. Climb fast and successfully",,2,"1481,2","18,B1",0,1,0,0,1,1,x,x,x
+18,B2,8808,TRUE,1,0,0,0,0,0,7,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,Ground intake,,2,"8808,2","18,B2",0,1,0,0,1,0,2,x,2
+18,B3,6424,TRUE,2,0,0,0,0,0,2,7,1,0,2,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Very fast cycle time, simple intake, fast climb",,2,"6424,2","18,B3",0,1,1,0,0,0,x,x,3
+18,R1,10260,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,TRUE,FALSE,FALSE,TRUE,FALSE,x,2,x,"They were disabled mid match, auto only moved forward, they played def the whole match. Ok def, they just blocked one coral station the whole time, and werent very active when it came to disrupting the other team, more just being an inconvenience.",,2,"10260,2","18,R1",1,1,0,0,1,0,x,2,x
+18,R2,3297,TRUE,1,0,0,0,0,1,6,0,2,1,1,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,3,"Slow cycle time, pretty accurate, ground intake speeds up process a little bit. Doesn't struggle to intake from station",,2,"3297,2","18,R2",0,1,1,0,0,0,2,x,3
+18,R3,4655,TRUE,3,0,0,0,0,0,1,8,6,0,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Was able to quickly score on L2 and L3 while leaving L4 for the other alliance members, was also able to clear the reef",,2,"4655,2","18,R3",0,1,1,0,0,1,3,x,3
+19,B1,6995,FALSE,0,0,0,0,0,0,2,4,2,0,2,2,FALSE,FALSE,FALSE,TRUE,TRUE,x,x,3,"Primarily algae based strategy, but can score coral. No auto and kind of slow, no auto . good robot with a wide range.",,2,"6995,2","19,B1",0,0,0,0,1,1,x,x,3
+19,B2,4005,TRUE,1,0,0,0,0,0,1,4,3,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,Missed multiple coral on l4. Took a while to climb,,2,"4005,2","19,B2",0,1,0,0,1,0,2,x,2
+19,B3,9032,TRUE,3,0,0,0,0,0,4,3,4,0,0,2,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"Didnt miss any shots, very effective ground intake, fast driving",,2,"9032,2","19,B3",0,1,0,0,1,1,3,x,3
+19,R1,7257,TRUE,0,0,0,0,0,0,1,1,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,x,,,2,"7257,2","19,R1",0,1,1,0,0,0,x,x,x
+19,R2,3173,TRUE,2,0,0,0,0,0,2,2,0,3,2,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"Reliable for net scoring, L3-L1 scoring, and processor scoring, good cycle time, not reliable for L4 whatsoever. Wasted a bit of time and scoring opportunities trying to score L4",,2,"3173,2","19,R2",0,1,1,0,0,1,3,x,2
+19,R3,3891,TRUE,0,0,0,0,0,0,0,7,2,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,"Missed some on L2 and L3 but generally pretty accurate, no algae. Can score coral anywhere.",,2,"3891,2","19,R3",0,1,0,0,1,0,2,x,2
+20,B1,1731,TRUE,3,0,0,0,0,0,7,3,1,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,3.5 sucessful that knocked alge. very good robot that clears while it outtakes.,,2,"1731,2","20,B1",0,1,1,0,0,1,3,x,3
+20,B2,2129,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,TRUE,FALSE,FALSE,TRUE,FALSE,x,x,x,"Hit other robot in auto. Couldnt drive after auto, would only very slowly spin and slightly slide to one side. Got back moving just in time to park",,2,"2129,2","20,B2",1,1,0,0,1,0,x,x,x
+20,B3,4613,TRUE,0,1,0,0,0,1,0,4,6,1,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Scored a algae back onto reef, got in teammates way a lot, can hold algae and coral at same time",,2,"4613,2","20,B3",0,1,0,0,1,1,2,x,2
+20,R1,3255,TRUE,1,0,0,0,0,0,1,3,0,0,0,1,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,"Very accurate with coral, but missed 2 out of 3 shots into the barge with algae. Got algae stuck in elevator for most of teleop",,2,"3255,2","20,R1",0,1,1,0,0,0,x,x,2
+20,R2,418,TRUE,2,0,0,0,0,0,7,1,0,2,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Note: they almost have a 3 coral auto, but technically the 3rd one was scored in teleop because it wasnt fully on the branch. Good cycle times, great accuracy, struggles with scoring on the back of the reef, reliable for algae removal",,2,"418,2","20,R2",0,1,1,0,0,1,3,x,3
+20,R3,1847,TRUE,0,0,0,0,0,0,0,5,5,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,"Ok cycles, no algae. Can score all levels. One coral auto (missed). Ok accuracy, mostly missed L1s.",,2,"1847,2","20,R3",0,1,1,0,0,0,2,x,2
+21,B1,10698,TRUE,0,0,0,0,0,0,1,2,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,x,2,failed 1 coral. droped some coral and the robot has a bit of a jitter that complicates scoring.  removed an algae with its arm. no attempt to climb,,2,"10698,2","21,B1",0,1,0,0,1,1,1,x,2
+21,B2,4451,TRUE,0,0,0,0,0,0,4,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,1,2,"Couldnt align with cage even though they went to line up with 25 seconds left. Switched to defense halfway through, but just sat in front of a coral station",,2,"4451,2","21,B2",0,1,0,0,1,0,2,1,2
+21,B3,4451,TRUE,0,0,0,0,0,0,4,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,2,2,"Got a coral stuck in robot so went to go play defense, missed a l4 in auto and didnt score another one though they had time",,3,"4451,3","21,B3",0,1,0,0,1,0,2,2,2
+21,R1,1369,TRUE,1,0,0,0,0,1,0,0,0,0,2,4,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,3,"Very efficient at scoring algae from reef to barge, but very unstable",,2,"1369,2","21,R1",0,1,0,0,1,0,x,x,3
+21,R2,6909,TRUE,1,0,0,0,0,0,0,1,0,3,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,"I missed the first bit of the match because i couldnt find the robot on the field, so the score might not be totally accurate. Sorry! Not super reliable for scoring, missed a lot of the game pieces and struggled with intaking from station.",,2,"6909,2","21,R2",0,1,1,0,0,0,2,x,2
+21,R3,7197,TRUE,2,0,0,0,0,0,4,5,1,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Missed a few L4s but generally accurate. Ok cycles, can score algae anywhere.",,2,"7197,2","21,R3",0,1,0,0,1,1,2,x,2
+22,B1,537,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,2,1,"failed 1coral. drops coral qyte a bit and drives slowly. robot also seems uncoordinated. switched to defense half way thru. just sat in the coral station,",,2,"537,2","22,B1",0,1,0,0,1,0,1,2,1
+22,B2,8738,TRUE,2,0,0,0,0,0,2,4,0,2,0,4,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,
+22,B3,7525,TRUE,3,0,0,0,0,0,2,3,7,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,"Fast. Can score even with a coral in between them and the reef. Didnt try to climb, Could score on l4 with algae between reef, drove fast, overshot elevator when trying to score multiple times",,2,"7525,2","22,B3",0,1,0,0,1,0,3,x,3
+22,R1,5660,TRUE,0,0,0,0,0,1,1,2,1,0,0,2,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,"Very fast, but kind of inaccurate. Because of their speed, the coral often flew out the back of their intake",,2,"5660,2","22,R1",0,1,1,0,0,0,x,x,2
+22,R2,2438,TRUE,0,0,0,0,0,0,4,0,0,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,"Not super reliable for scoring, missed a lot of pieces and struggled at the station. Slower cycle times, autos are not reliable. Did okay at scoring L4",,2,"2438,2","22,R2",0,1,0,0,1,0,2,x,2
+22,R3,7048,TRUE,1,0,0,0,0,0,4,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,1,Missed many many L4s. Weak to defense. Ok cycles. No algae.,,2,"7048,2","22,R3",0,1,0,0,1,0,2,x,1
+23,B1,8575,TRUE,0,1,0,0,0,0,0,6,1,0,1,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,also grabbed an algae in auto. very effective and kept cycling untill the end,,2,"8575,2","23,B1",0,1,0,0,1,0,3,x,3
+23,B2,1507,TRUE,1,0,0,0,0,0,3,1,5,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,3,Fast climb. Only missed 1-2 coral,,2,"1507,2","23,B2",0,1,1,0,0,1,2,x,3
+23,B3,4415,FALSE,0,0,0,0,0,0,6,3,4,1,1,2,,TRUE,,,,,,,,,2,"4415,2","23,B3",0,0,1,0,0,0,,,
+23,R1,494,TRUE,2,0,0,0,0,0,3,3,0,0,0,3,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Can hold both game pieces at the same time, and can score each of them very effectively",,2,"494,2","23,R1",0,1,1,0,0,0,x,x,3
+23,R2,649,TRUE,1,0,0,0,0,0,2,4,1,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,"Good for scoring L4, but struggled heavily with ground intake -coral would regularly get trapped- and missed quite  a few coral pieces.",,2,"649,2","23,R2",0,1,0,0,1,0,2,x,2
+23,R3,2648,TRUE,0,0,0,0,0,0,3,3,4,0,2,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Good cycles, very consistent, can score anything anywhere, not too wobbly.",,2,"2648,2","23,R3",0,1,1,0,0,1,3,x,3
+24,B1,694,TRUE,3,0,0,0,0,0,2,4,4,0,2,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,failed 4 coral. got defended. very skillful driving but questionable choice focusing on algae.,,2,"694,2","24,B1",0,1,1,0,0,1,3,x,3
+24,B2,6017,TRUE,0,0,0,0,0,0,1,1,1,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,1,x,1,"Fast climb. Fast ground intake. Couldnt get algae off reef. Missed almost every coral, almost launching one out of the field",,2,"6017,2","24,B2",0,1,1,0,0,0,1,x,1
+24,B3,5968,TRUE,1,0,0,0,0,0,1,3,3,3,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Moved very slow in auto, and slow in teleop, ran into teammates a lot",,2,"5968,2","24,B3",0,1,0,0,1,1,2,x,2
+24,R1,226,TRUE,2,0,0,1,0,0,1,4,4,1,0,3,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Very fast cycling time during teleop, but failed their cycle during auto",,2,"226,2","24,R1",0,1,1,0,0,0,x,x,3
+24,R2,9301,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,2,x,"Played an okay defense against the blue alliance. Did well at slowing down the robots, but almost got penalized quite a few times. Pretty decent defense bot",,2,"9301,2","24,R2",0,1,1,0,0,0,x,2,x
+24,R3,2630,TRUE,4,0,0,0,0,0,3,6,6,0,2,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"OMG BRO. Very very fast cycles, 3 jointed arm. Can score anything anywhere. Very consistent. Didnt miss once. Almost 5 coral L4 auto.",,2,"2630,2","24,R3",0,1,1,0,0,1,3,x,3
+25,B1,6083,TRUE,1,0,0,0,0,0,1,0,0,0,2,2,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,1,"Coral shots missed a lot, alge in processor was good though.",,2,"6083,2","25,B1",0,1,0,0,1,1,2,x,1
+25,B2,179,TRUE,1,0,0,0,0,0,3,4,2,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,Auto failed completely on the second coral  Overall accuracy was okay  Lots of points on the board,,2,"179,2","25,B2",0,1,1,0,0,0,2,x,2
+25,B3,4967,TRUE,1,0,0,0,0,0,5,3,3,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,Had pretty decent cycles and was able to accurately score L2-L4,,2,"4967,2","25,B3",0,1,0,0,1,0,3,x,3
+25,R1,3284,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,TRUE,FALSE,FALSE,FALSE,FALSE,x,x,x,No show,,2,"3284,2","25,R1",1,0,0,0,0,0,x,x,x
+25,R2,4500,TRUE,2,0,0,0,0,0,10,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Very consistent cycles. Auto was supposed to be three coral but third coral didnt intake. Got coral stuck at the end,,2,"4500,2","25,R2",0,1,0,0,1,1,3,x,3
+25,R3,4013,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,1,1,"Auto is very slow, and it misses L4. Cloth on bumbers came fully off. Part of robot fell off.",,2,"4013,2","25,R3",0,1,0,0,1,0,1,1,1
+26,B1,3792,TRUE,0,0,0,1,0,0,0,0,0,3,7,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,"It could score in L1 and processor, which it did an average job at. It could only take alge from the ground.",,3,"3792,3","26,B1",0,1,1,0,0,0,2,x,2
+26,B2,6424,TRUE,3,0,0,0,0,0,4,6,1,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,Very fast cycle time 100% accuracy  Clean 3 coral auto  Good Algae removal,,3,"6424,3","26,B2",0,1,1,0,0,0,3,x,3
+26,B3,1671,TRUE,3,0,0,0,0,0,2,4,6,0,0,2,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Had average cycle times and could score algae into the net, seemed to be better when going for. L3 and L2",,3,"1671,3","26,B3",0,1,0,0,1,1,2,x,2
+26,R1,7034,TRUE,1,0,0,0,0,0,3,4,6,2,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,They made all of the shots they took. They have all levels,,3,"7034,3","26,R1",0,1,1,0,0,0,x,x,3
+26,R2,302,TRUE,3,0,0,0,0,0,0,5,2,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Missed L2 coral. Consistent cycles,,3,"302,3","26,R2",0,1,0,0,1,1,3,x,3
+26,R3,9280,TRUE,0,0,0,1,0,0,3,2,2,0,2,0,TRUE,FALSE,FALSE,FALSE,TRUE,x,x,x,"Misaligned auto, had connectivity issues near end. Not that fast, but not slow.",,3,"9280,3","26,R3",1,1,0,0,0,1,x,x,x
+27,B1,9032,TRUE,1,0,0,0,0,0,0,3,5,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,1,"Missed a lot, and couldnt score in the net when they wanted to.",,3,"9032,3","27,B1",0,1,0,0,1,1,2,x,1
+27,B2,3492,TRUE,1,0,0,0,0,0,0,3,5,2,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,x,,,3,"3492,3","27,B2",0,1,0,0,1,0,x,x,x
+27,B3,4786,TRUE,2,0,0,0,0,0,5,0,0,0,2,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,1,2,"Was able to remove algae and score in both places, switched to defense at the end but did not accomplish much",,3,"4786,3","27,B3",0,1,1,0,0,1,3,1,2
+27,R1,3256,TRUE,1,0,0,0,0,0,3,3,2,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"They had good on all levels, they could score in net",,3,"3256,3","27,R1",0,1,1,0,0,1,2,x,2
+27,R2,8808,TRUE,1,0,0,0,0,0,1,3,2,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,Missed twice  Pretty accurate Fast cycle time 1 coral auto Inaccurate intake,,3,"8808,3","27,R2",0,1,0,0,1,0,2,x,2
+27,R3,4068,TRUE,3,0,0,0,0,0,3,4,3,0,2,2,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Good movement. Two coral auto that worked very well. Can remove algae well and goes for co-op ranking point,,3,"4068,3","27,R3",0,1,0,0,1,1,3,x,3
+28,B1,6348,TRUE,0,0,0,0,0,0,2,2,2,0,0,0,TRUE,FALSE,FALSE,FALSE,FALSE,1,x,2,"They missed their one coral auto, and they were very slow in cycle time. But when scoring, they were able to make it in.",,3,"6348,3","28,B1",1,1,0,0,0,0,1,x,2
+28,B2,10291,TRUE,0,0,0,2,0,0,0,4,2,1,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,3,Missed only once. L1 scoring was weird.,,3,"10291,3","28,B2",0,1,1,0,0,0,2,x,3
+28,B3,3255,TRUE,4,0,0,0,0,2,0,4,3,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,1,"Missed a large amount of shots on the lower levels, attempted deep climb but it appears to have broke as it violently fell from the deep climb position",,3,"3255,3","28,B3",0,1,0,0,1,1,2,x,1
+28,R1,6911,TRUE,0,0,0,0,0,1,3,0,0,0,1,3,FALSE,FALSE,FALSE,FALSE,TRUE,3,x,3,"They were doing great fast and could do algae and coral on all levels, but then broke",,3,"6911,3","28,R1",0,1,0,0,0,1,3,x,3
+28,R2,1796,TRUE,3,0,0,1,0,0,3,3,4,0,1,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Very accurate  can score L4 coral while holding an algae Has a four coral auto but the first one failed,,3,"1796,3","28,R2",0,1,1,0,0,1,3,x,3
+28,R3,2724,TRUE,2,0,0,1,1,1,0,2,4,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,x,Numbers may not be accurate. Bit theres to get lost in the shuffle. Sorry,,3,"2724,3","28,R3",0,1,1,0,0,0,x,x,x
+29,B1,6146,TRUE,0,0,0,0,0,0,1,4,2,1,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"It was slow, and it missed a few times. My biggest concern is that the coral fell out of their end effector multiple times.",,3,"6146,3","29,B1",0,1,0,0,1,1,2,x,2
+29,B2,4421,TRUE,2,0,0,1,0,0,3,3,2,0,2,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Algae removal is a bit slow. Reef cycling is very fast and consistent.,,3,"4421,3","29,B2",0,1,1,0,0,1,3,x,3
+29,B3,6909,TRUE,0,0,0,0,0,0,0,4,3,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,2,Had fairly slow cycles and spent a lot of time lining up with the different levels,,3,"6909,3","29,B3",0,1,0,0,1,0,1,x,2
+29,R1,900,TRUE,1,0,0,0,0,0,5,7,7,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,Super fast cycles on all levels,,3,"900,3","29,R1",0,1,0,0,1,0,3,x,3
+29,R2,2129,TRUE,2,0,0,1,0,0,3,2,0,1,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,Went for lower spots instead of higher spots Failed two coral auto only got one Fast cycle time Accurate at L4,,3,"2129,3","29,R2",0,1,1,0,0,1,2,x,2
+29,R3,9484,TRUE,0,0,0,0,0,0,3,2,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Misaligned auto, has trouble scoring on L4. Can grab algae, but once elevator is fully extended usually drops algae accidentally",,3,"9484,3","29,R3",0,1,0,0,1,1,2,x,2
+30,B1,418,TRUE,1,0,0,0,0,0,3,2,0,3,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"They were really fast, but they missed a few shots.",,3,"418,3","30,B1",0,1,1,0,0,1,3,x,2
+30,B2,6832,TRUE,0,0,0,0,0,0,0,0,0,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,1,1,Auto was supposed to be L1.,,3,"6832,3","30,B2",0,1,0,0,1,0,1,1,1
+30,B3,1678,TRUE,3,0,0,0,0,0,2,7,6,2,4,1,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"Had great cycles but a seemingly unreliable climb, however they could also quickly score algae",,3,"1678,3","30,B3",0,1,0,0,1,0,3,x,3
+30,R1,5660,TRUE,2,0,0,0,0,0,0,5,1,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,They could go to all levels but was a bit slow nice deep,,3,"5660,3","30,R1",0,1,1,0,0,1,2,x,2
+30,R2,7257,TRUE,1,0,0,1,0,0,2,3,2,2,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Relatively accurate fast cycle time Relatively accurate,,3,"7257,3","30,R2",0,1,0,0,1,1,2,x,2
+30,R3,10698,TRUE,0,0,0,0,0,0,3,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,Sluggish auto that tries to score L1 but fails.,,3,"10698,3","30,R3",0,1,1,0,0,0,2,x,2
+31,B1,7048,TRUE,1,0,0,0,0,0,2,2,0,0,0,1,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,1,"Somewhat fast, but very inaccurate. Disappointing auto, failed climb",,3,"7048,3","31,B1",0,1,0,0,1,0,x,x,1
+31,B2,1369,TRUE,0,0,0,0,0,1,0,0,0,0,0,7,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"Robot wobbles quite a lot when taking algae off the reef, and sometimes struggles to ground intake algae, but is very reliable for net scoring. However, cycle times are not in the fast side, although not on the slow side either.",,3,"1369,3","31,B2",0,1,0,0,1,1,3,x,3
+31,B3,494,TRUE,2,0,0,0,0,0,2,4,3,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,3,DOES NOT MISS! Very slow movement and elevator but is very consistent and will not get pushed around or miss.,,3,"494,3","31,B3",0,1,1,0,0,1,2,x,3
+31,R1,1833,TRUE,3,0,0,0,0,0,1,6,5,2,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,3,"Doing fine in auto. Mostly work on coral, have high accuracy. Get coral fast and smooth. Climb successfully",,3,"1833,3","31,R1",0,1,1,0,0,1,x,x,3
+31,R2,2056,TRUE,4,0,0,0,0,0,3,4,4,4,3,2,FALSE,FALSE,FALSE,TRUE,TRUE,3,2,3,Intake rotates to score in L1,,3,"2056,3","31,R2",0,1,0,0,1,1,3,2,3
+31,R3,3891,TRUE,1,0,0,0,0,0,0,0,1,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,3,x,"Was not broken but didnt really score on the reef, good defense with no fouls.",,3,"3891,3","31,R3",0,1,0,0,1,0,x,3,x
+32,B1,8575,TRUE,0,1,0,0,0,0,0,3,2,0,2,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Average speed and accuracy, but has a very slow cycling time. Cant climb",,3,"8575,3","32,B1",0,1,0,0,1,0,x,x,2
+32,B2,6017,TRUE,0,0,0,0,0,0,3,1,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,"Struggled to score for atleast half the match, hardly scored any points for their team. They did improve as the match went on and were able to score a cpuple L4's. Other than that.. seems to be inconsistent",,3,"6017,3","32,B2",0,1,0,0,1,0,2,x,2
+32,B3,1481,TRUE,1,0,0,0,0,1,2,0,0,7,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,x,1,Missed many L4s that turned into L1s. Slow cycles and movement. Slow elevator. Can score anything anywhere,,3,"1481,3","32,B3",0,1,0,0,1,1,1,x,1
+32,R1,4451,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,TRUE,FALSE,FALSE,FALSE,FALSE,x,x,x,No show,,4,"4451,4","32,R1",1,0,0,0,0,0,x,x,x
+32,R2,537,TRUE,0,0,0,1,0,0,10,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,Very interesting intake that grips the coral very well (also goofy little googly eyes),,3,"537,3","32,R2",0,1,0,0,1,0,3,x,3
+32,R3,9312,TRUE,0,0,0,0,0,0,0,0,2,2,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,x,"Scored on mainly L1 and a little bit on L2, fast climb",,3,"9312,3","32,R3",0,1,1,0,0,0,x,x,x
+33,B1,649,TRUE,0,0,0,0,0,0,8,2,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Very good teleop gameplay, but it has a slow climb period, and barely any auto",,3,"649,3","33,B1",0,1,1,0,0,0,x,x,3
+33,B2,9301,TRUE,0,0,0,1,0,0,0,0,0,5,2,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,3,"Reliable for L1 scoring, but cycle times are very much on the slower side . Excels in L1 scoring in specific, but does have algae capabilities -only for processor scoring-",,3,"9301,3","33,B2",0,1,0,0,1,0,2,x,3
+33,B3,2438,TRUE,3,0,0,0,0,0,2,1,0,0,3,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,2,2,"Something broke so it went to play defense. Ok cycles, can score anything anywhere. Tech foul for going through opposing cage",,3,"2438,3","33,B3",0,1,0,0,1,1,1,2,2
+33,R1,4005,TRUE,1,0,0,0,0,0,7,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,3,"Mostly working on coral, can work well on L4. Sometimes cant hold the corals well. Have high accuracy. Takes time to climb but success.",,3,"4005,3","33,R1",0,1,0,0,1,0,x,x,3
+33,R2,6083,TRUE,2,0,0,0,0,0,2,3,2,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,Can remove algae but not put it in barge,,3,"6083,3","33,R2",0,1,0,0,1,1,2,x,3
+33,R3,3284,TRUE,1,0,0,0,0,0,0,0,0,7,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,x,"Has fast cycle time, only seems to score on L1, build for alge",,3,"3284,3","33,R3",0,1,0,0,1,0,x,x,x
+34,B1,1847,TRUE,0,0,0,1,0,0,3,4,1,2,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,1,"There were multiple points during both auto and teleop when they would get a coral, and then immediately drop it because they couldnt line up their end effector. Climb took to long, and they failed it",,3,"1847,3","34,B1",0,1,0,0,1,0,x,x,1
+34,B2,78,TRUE,1,0,0,0,0,0,1,0,0,0,1,2,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"Somewhat reliable for net scoring, but cycle times are pretty slow. Waste a lot of time aiming when trying to score on the reef and missed quite a few.",,3,"78,3","34,B2",0,1,1,0,0,1,2,x,2
+34,B3,4607,TRUE,3,0,0,0,0,0,3,5,2,0,1,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Didnt miss any, very fast cycles, can score anything anywhere. Got stuck on an algae for about 20 seconds so could have done even more.",,3,"4607,3","34,B3",0,1,1,0,0,1,3,x,3
+34,R1,7525,TRUE,2,0,0,0,0,0,3,5,4,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,2,"Doing fine in auto, work on coral, have higher accuracy. But in seconds before end, miss 2( might because the time pressure). Not sure if it be able to climb",,3,"7525,3","34,R1",0,1,0,0,1,0,3,x,2
+34,R2,3297,TRUE,1,0,0,0,0,1,3,1,2,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,Large arm to carry coral and algae can cause some balance issues,,3,"3297,3","34,R2",0,1,1,0,0,1,3,x,2
+34,R3,2630,TRUE,3,0,0,0,0,0,2,6,4,0,2,1,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Extremely fast cycle time with a 4 coral auto, can also manipulate alge",,3,"2630,3","34,R3",0,1,1,0,0,0,x,x,3
+35,B1,694,TRUE,2,0,0,0,0,0,3,3,3,0,2,2,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Very fast paced n both auto and teleop, can effectively score both coral and algae. Failed a cycle during auto",,3,"694,3","35,B1",0,1,1,0,0,0,x,x,3
+35,B2,4013,TRUE,0,0,0,0,0,0,0,0,0,0,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,1,x,2,"Cycle times were extremely slow, contributed very little to their team, struggled to grab and score algae. Not very helpful",,3,"4013,3","35,B2",0,1,1,0,0,1,1,x,2
+35,B3,1425,TRUE,3,0,0,0,0,0,3,6,5,1,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Fast cycles, can score anything anywhere. Didnt miss. (Error code = Xero misses) HAHAHAHA",,3,"1425,3","35,B3",0,1,1,0,0,1,3,x,3
+35,R1,4415,TRUE,2,0,0,0,0,0,3,5,4,1,0,1,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,Doing fine in auto. Get coral and algae on the ground. Have high accuracy. Climb fast and success.,,3,"4415,3","35,R1",0,1,1,0,0,0,3,x,3
+35,R2,6995,TRUE,1,0,0,0,0,2,2,3,3,0,2,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Very fast and flexible to scoring on different levels,,3,"6995,3","35,R2",0,1,1,0,0,1,3,x,3
+35,R3,8738,TRUE,1,0,0,0,0,0,3,2,0,7,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Simple intake so no jamming, tamed in the wall during autonomous.",,3,"8738,3","35,R3",0,1,0,0,1,0,x,x,2
+36,B1,179,TRUE,1,0,0,0,0,0,4,3,0,1,0,5,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Very quick at cycling, and can score both game pieces, though not nearly as good as others. Knocked 2 coral off their own reef",,3,"179,3","36,B1",0,1,1,0,0,0,x,x,3
+36,B2,9199,TRUE,1,0,0,0,0,0,2,2,3,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,"Cycle time could use some improvements, but is reliable for L3 and L4 scoring. Can somewhat do L2 scoring, and cannot do L1",,3,"9199,3","36,B2",0,1,0,0,1,0,3,x,3
+36,B3,226,TRUE,2,0,0,0,0,0,1,4,4,1,2,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"Takes some time to aim sometimes, good cycles, can score anything anywhere.",,3,"226,3","36,B3",0,1,1,0,0,1,3,x,2
+36,R1,2648,TRUE,1,0,0,0,0,0,5,2,3,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,"Working on coral, can work on L2-L4, and have higher accuracy. Climb successfully.",,3,"2648,3","36,R1",0,1,1,0,0,0,2,x,2
+36,R2,4613,TRUE,0,1,0,0,0,1,0,2,5,0,2,4,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Similar intake to ours. Arm surprisingly stable,,3,"4613,3","36,R2",0,1,0,0,1,1,3,x,3
+36,R3,4655,TRUE,3,0,0,0,0,0,3,7,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,x,"Fast cycle time, fast climb, simple intake.",,3,"4655,3","36,R3",0,1,0,0,1,0,x,x,x
+37,B1,10260,TRUE,0,0,0,1,0,0,0,0,0,8,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,x,3,,,3,"10260,3","37,B1",0,0,0,0,0,0,2,x,3
+37,B2,7197,TRUE,2,0,0,0,0,0,3,4,0,0,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,3,x,3,Auto was 2.5. Cycles were steady and accurate until when there was 1:40 left until the end it got a coral stuck and stopped moving for 40 seconds. Then it came to life and did 6 more cycles.,,3,"7197,3","37,B2",0,1,0,0,0,1,3,x,3
+37,B3,4967,TRUE,1,0,0,0,0,0,2,4,2,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,x,Good cycle time,,3,"4967,3","37,B3",0,1,1,0,0,1,2,x,x
+37,R1,5968,TRUE,0,0,0,0,0,0,1,3,2,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,failed 1 coral. very good intake but driving and scoring was a little bit slow. no attempt to climb.,,3,"5968,3","37,R1",0,1,0,0,1,0,2,x,2
+37,R2,1731,TRUE,3,0,0,0,0,0,5,3,2,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Fast algae removal and scoring. Fast cycles. Accurate coral and algae scoring,,3,"1731,3","37,R2",0,1,1,0,0,1,3,x,3
+37,R3,1507,TRUE,1,0,0,0,0,0,2,5,3,0,2,1,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"Didnt drive very fast, didnt get in way of teammates, climb is inside of robot so wont get in way of other climb",,3,"1507,3","37,R3",0,1,1,0,0,1,2,x,2
+38,B1,3792,TRUE,1,0,0,0,0,0,0,0,0,5,7,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,They were very fast at cycling algae and parked well its an algae remover,,4,"3792,4","38,B1",0,1,1,0,0,0,3,x,3
+38,B2,9432,TRUE,3,0,0,0,0,0,4,3,6,0,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Fast and accurate cycles. Missed algae in net two times.,,2,"9432,2","38,B2",0,1,1,0,0,1,3,x,3
+38,B3,2129,TRUE,2,0,0,0,0,0,4,6,4,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,Very smooth and very fast cycle time. Two coral auto that worked perfectly was supposed to be three their teamate was in the way. Might have a deep climb,,4,"2129,4","38,B3",0,1,0,0,1,0,3,x,3
+38,R1,3173,TRUE,2,0,0,1,0,0,0,4,3,2,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,1,failed 3 L4 coral auto.  missed lots of coral but made up for it with cycling.,,3,"3173,3","38,R1",0,1,1,0,0,0,3,x,1
+38,R2,4500,TRUE,1,0,0,0,0,0,7,4,1,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,Fast climb. Fast cycle. Accurate. Good handoff,,3,"4500,3","38,R2",0,1,1,0,0,0,3,x,3
+38,R3,2724,TRUE,0,0,0,0,0,1,0,4,3,0,2,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"Missed a coral shot in auto, almost tipped while driving, ground intake not super fast(has to line up)",,4,"2724,4","38,R3",0,1,1,0,0,1,2,x,2
+39,B1,9280,TRUE,0,0,0,0,0,0,8,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,3,x,3,They were very good at consistent L4 action but a bit slower but still got 8,,4,"9280,4","39,B1",0,1,0,0,0,0,3,x,3
+39,B2,10698,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,1,x,1,Popped an algae when trying to take it off. Auto was supposed to be L1 but missed.,,4,"10698,4","39,B2",0,1,1,0,0,1,1,x,1
+39,B3,494,TRUE,0,0,0,0,0,0,3,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,Auto seems incomplete. Has troubles lining up coral to score,,4,"494,4","39,B3",0,1,1,0,0,1,2,x,2
+39,R1,3256,TRUE,0,0,0,0,0,0,3,1,2,1,0,2,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,1,failed 2 coral. drops lots of coral but scored algae well.,,4,"3256,4","39,R1",0,1,1,0,0,0,3,x,1
+39,R2,6146,TRUE,0,0,0,1,0,0,0,4,2,1,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,Climbs early. Fast algae removal. Easily gets pushed around by other robots.,,4,"6146,4","39,R2",0,1,1,0,0,1,2,x,2
+39,R3,3255,TRUE,3,0,0,0,0,0,2,3,2,3,1,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"Knocked off a coral with algae, drove fast, worded well around teammates, most l1 scoring was from other levels missed",,4,"3255,4","39,R3",0,1,1,0,0,1,3,x,2
+40,B1,3891,TRUE,0,0,0,0,0,0,0,4,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,1,"They are slow, maybe miss a lot, over powered out take",,4,"3891,4","40,B1",0,1,0,0,1,0,1,x,1
+40,B2,4451,TRUE,2,0,0,0,0,0,4,0,0,5,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Missed net 2 times.,,5,"4451,5","40,B2",0,1,0,0,1,1,3,x,3
+40,B3,3492,TRUE,0,0,0,0,0,0,0,3,7,2,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,3,Didnt even try to score on L4. Good cycle speed. Very smooth,,4,"3492,4","40,B3",0,1,0,0,1,0,2,x,3
+40,R1,6424,TRUE,1,0,0,0,0,0,4,4,0,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,successful1.5 coral auto . climbed quite early. removed algae only to score it.,,4,"6424,4","40,R1",0,1,1,0,0,1,3,x,3
+40,R2,900,TRUE,3,0,0,0,0,0,3,3,6,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,"Fast cycles and intake. Missed a lot of l2 because they were either too far away, or it would bounce back off.",,4,"900,4","40,R2",0,1,0,0,1,0,2,x,2
+40,R3,6348,TRUE,0,0,0,0,0,0,0,1,0,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,1,x,1,"Missed l4 in auto then didnt move, tried to score 3 algae in net before making one, had trouble intaking coral",,4,"6348,4","40,R3",0,1,0,0,1,1,1,x,1
+41,B1,1796,TRUE,2,0,0,0,0,0,4,7,7,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,x,"They are very good at everything, great cycle time for station bot. Fast algae smart 2n1",,4,"1796,4","41,B1",0,1,1,0,0,1,x,x,x
+41,B2,9301,TRUE,0,0,0,0,0,0,0,0,0,3,5,0,FALSE,TRUE,FALSE,FALSE,FALSE,1,x,3,Auto was supposed to be 1 L1 but missed. Cycles were slow and not consistent.,,4,"9301,4","41,B2",0,1,1,0,0,0,1,x,3
+41,B3,1833,TRUE,2,0,0,0,0,0,3,4,5,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Good mobility and cycle times. Saw no issues,,4,"1833,4","41,B3",0,1,1,0,0,1,3,x,3
+41,R1,9036,TRUE,1,0,0,0,0,1,1,7,4,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,sucessful 1 coral 1 algae. gery good cycle cause ground intake. no attempt to climb. removed algae to score and for net.,,1,"9036,1","41,R1",0,1,0,0,1,1,3,x,3
+41,R2,6832,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,1,1,Couldnt drive straight. Slow auto. Missed auto l1. Went to go do defense and only blocked one station very badly. At one point allowed two robots to intake from the coral station they were defending at the same time,,4,"6832,4","41,R2",0,1,0,0,1,0,1,1,1
+41,R3,2056,TRUE,5,0,0,0,0,0,4,5,6,0,2,5,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Super fast cycle time, intake coral from ground and standing under algae, works around team mates, fast driving",,4,"2056,4","41,R3",0,1,1,0,0,1,3,x,3
+42,B1,9312,TRUE,0,0,0,0,0,0,0,0,2,1,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,1,x,1,They seemed to have a little potential but their team keeper getting caught on algae so they scored little,,4,"9312,4","42,B1",0,1,1,0,0,0,1,x,1
+42,B2,418,TRUE,2,0,0,0,0,0,3,2,1,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,3,Got on top of algae. Kind of slow cycles,,4,"418,4","42,B2",0,1,1,0,0,1,2,x,3
+42,B3,7048,TRUE,1,0,0,0,0,0,4,1,1,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,3,Got stuck in a ball for half the match,,4,"7048,4","42,B3",0,1,0,0,1,0,2,x,3
+42,R1,1369,TRUE,1,0,0,0,0,0,1,1,0,2,2,1,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,failed 1 coral 1 net auto. failed to park. really struggled to score. removed algae only for net.,,4,"1369,4","42,R1",0,1,0,0,1,1,2,x,2
+42,R2,6083,TRUE,1,0,0,0,0,0,0,3,4,1,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,x,1,Kept dropping coral when trying to score l3. One l2 dropped into l1. Kind of slow.,,4,"6083,4","42,R2",0,1,0,0,0,0,2,x,1
+42,R3,8808,TRUE,0,0,0,0,0,0,6,3,3,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"Tried to score twice in auto missed once couldnt pick up algae other, drove kinda fast",,4,"8808,4","42,R3",0,1,1,0,0,1,2,x,2
+43,B1,694,TRUE,3,0,0,0,0,0,0,5,5,5,1,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Doing well in auto. Can work on both algae and coral. Can picked them up from ground. But coral picked up from ground can just put on L1. High accuracy. Climb fast and successfully.,,4,"694,4","43,B1",0,1,1,0,0,1,3,x,3
+43,B2,3297,TRUE,1,0,0,0,0,1,1,0,3,0,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,Ground intake system,,4,"3297,4","43,B2",0,1,1,0,0,1,2,x,2
+43,B3,7034,TRUE,3,0,0,0,0,0,3,5,1,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,"Good 3 coral auto, inconsistent intake, slow climb, constant coral placement.",,4,"7034,4","43,B3",0,1,1,0,0,0,x,x,2
+43,R1,2438,TRUE,1,0,0,0,0,0,0,0,0,1,1,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,3,1,"Very very very very very bad, made like zero shots except for one auto and one alge. Def was pretty good though.",,4,"2438,4","43,R1",0,1,0,0,1,1,1,3,1
+43,R2,4421,TRUE,1,0,0,0,0,1,1,1,3,0,2,0,FALSE,FALSE,FALSE,FALSE,TRUE,2,x,2,Only dropped like two coral  Good algae intake,,4,"4421,4","43,R2",0,1,0,0,0,1,2,x,2
+43,R3,537,TRUE,0,0,0,0,0,0,1,2,3,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,1,"Very slow, had trouble in taking and had very questionable accuracy",,4,"537,4","43,R3",0,1,0,0,1,0,1,x,1
+44,B1,179,TRUE,2,1,0,0,0,0,5,4,3,1,0,2,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,2,Doing well in auto. Can work on both coral and algae. Can get coral from the ground. Have higher accuracy. Climb fast and successfully.,,4,"179,4","44,B1",0,1,1,0,0,0,3,x,2
+44,B2,8575,TRUE,0,1,0,0,0,0,0,4,5,0,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,Could technically hold algae and coral at the same time,,4,"8575,4","44,B2",0,1,0,0,1,1,2,x,3
+44,B3,5660,TRUE,0,0,0,0,0,0,2,3,3,0,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,2,"Auto was broken, simple and reliable intake, slow cycle time",,4,"5660,4","44,B3",0,1,1,0,0,1,x,x,2
+44,R1,226,TRUE,1,0,0,1,0,0,3,3,4,2,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"It failed to make shots a lot of the time, but it was pretty good with alge. Overall sloppy.",,4,"226,4","44,R1",0,1,1,0,0,1,2,x,2
+44,R2,4607,TRUE,3,0,0,0,0,0,4,3,1,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Relatively accurate with coral Not accurate with algae Fast cycle time Consistent intake Missed algae in the net Client failed They filled the reef,,4,"4607,4","44,R2",0,1,0,0,1,1,2,x,2
+44,R3,10291,TRUE,0,1,0,0,0,0,0,3,3,1,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Had ok cycle times and was able to start clearing the reef in auto,,4,"10291,4","44,R3",0,1,0,0,1,1,2,x,2
+45,B1,302,TRUE,2,0,0,0,0,0,4,2,2,1,1,1,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,"Can work on both algae and coral, can hold algae well. Takes time on aiming but have higher accuracy. Dont know if it be able to climb.",,4,"302,4","45,B1",0,1,0,0,1,0,2,x,2
+45,B2,1731,TRUE,2,0,0,0,0,0,3,5,3,1,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,Algae removal was by mistake,,4,"1731,4","45,B2",0,1,1,0,0,1,3,x,2
+45,B3,2648,TRUE,1,0,0,0,0,0,0,4,3,0,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"Can manipulate coral and alge, fast cycle time, intake can be inconsistent",,4,"2648,4","45,B3",0,1,1,0,0,1,2,x,2
+45,R1,9484,TRUE,0,0,0,0,,,,,,0,0,,,FALSE,FALSE,TRUE,,,,,,,4,"9484,4","45,R1",0,1,0,0,1,0,,,
+45,R2,4013,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,TRUE,FALSE,FALSE,TRUE,FALSE,x,1,x,Scored one coral in L4 during auto Failed everything else Defense did not work at all It appeared that the robot got stuck in front of the coral Station,,4,"4013,4","45,R2",1,1,0,0,1,0,x,1,x
+45,R3,1678,TRUE,4,0,0,0,0,0,5,5,4,1,2,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Had great cycle times, could score on all levels, had a four coral auto, and a fast deep climb",,4,"1678,4","45,R3",0,1,1,0,0,1,3,x,3
+46,B1,6995,TRUE,3,0,0,0,0,0,2,3,5,0,0,5,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Doing well in auto. Can work on both algae and coral. Can pick coral up from the ground. Aiming fast and have high accuracy. Climb fast ( but I am not sure if it succeeded).,,4,"6995,4","46,B1",0,1,0,0,1,1,3,x,3
+46,B2,4655,TRUE,3,0,0,0,0,0,1,5,6,0,2,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Grips algae very well,,4,"4655,4","46,B2",0,1,1,0,0,1,3,x,3
+46,B3,649,TRUE,1,0,0,0,0,0,2,4,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Slow speed, very thin arm, ground intake.",,4,"649,4","46,B3",0,1,0,0,1,0,x,x,2
+46,R1,9432,TRUE,3,0,0,0,0,0,4,6,2,1,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Fast and accurate, only missing a few times.",,3,"9432,3","46,R1",0,1,1,0,0,0,3,x,3
+46,R2,4068,TRUE,1,0,0,0,0,0,3,0,1,0,3,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Outtake is unreliable Consistent algae scoring Good L4 scoring,,4,"4068,4","46,R2",0,1,0,0,1,1,2,x,2
+46,R3,5968,TRUE,0,0,0,0,0,0,1,4,2,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,2,"Laughable auto, very slow with just ok accuracy, had a lot of trouble lining up",,4,"5968,4","46,R3",0,1,0,0,1,0,1,x,2
+47,B1,4415,TRUE,1,0,0,0,0,0,4,3,5,0,0,2,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,Can work on both algae and coral. Aiming fast and have high accuracy. Can pick up corals from the ground.Climb fast and successfully.,,4,"4415,4","47,B1",0,1,1,0,0,0,3,x,3
+47,B2,4967,TRUE,1,0,0,0,0,0,2,1,1,0,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,Requires precision to score,,4,"4967,4","47,B2",0,1,0,0,1,1,3,x,2
+47,B3,4786,TRUE,2,0,0,0,0,0,2,4,5,0,0,1,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,"Very fast, short cycle time, can manipulate both game pieces,",,4,"4786,4","47,B3",0,1,0,0,1,0,3,x,3
+47,R1,1671,TRUE,1,0,0,0,0,0,0,4,0,2,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Sloppy execution, it could score, but inconsistently.",,4,"1671,4","47,R1",0,1,0,0,1,1,2,x,2
+47,R2,1481,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,x,1,x,Did great in auto During teleop only played defense Defense was not good,,4,"1481,4","47,R2",0,0,1,0,0,1,x,1,x
+47,R3,2630,TRUE,4,0,0,0,0,0,6,3,0,0,1,5,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Very to jack in the bot, had a long arm capable of scoring everywhere, and had a fast deep climb",,4,"2630,4","47,R3",0,1,1,0,0,1,3,x,3
+48,B1,7197,TRUE,2,0,0,0,0,0,3,6,2,2,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,2,x,2,"Can pick up coral from the ground, but can only work on L1. Have higher accuracy. Doing fine in auto.",,4,"7197,4","48,B1",0,1,0,0,0,1,2,x,2
+48,B2,7257,TRUE,2,0,0,0,0,0,3,4,3,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,2,Speed sometimes rocks robot,,4,"7257,4","48,B2",0,1,1,0,0,0,3,x,2
+48,B3,6017,TRUE,0,0,0,0,0,0,1,2,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,x,x,1,"Simple and effective intake, alignment issues,",,4,"6017,4","48,B3",0,1,0,0,1,1,x,x,1
+48,R1,9199,TRUE,1,0,0,0,0,0,4,2,1,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,"It was pretty average, nothing crazy impressive, but nothing really bad about it. Everything worked well, and they could score with a semi good cycle.",,4,"9199,4","48,R1",0,1,0,0,1,1,2,x,3
+48,R2,4500,TRUE,2,0,0,0,0,0,2,6,1,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,x,Poor coral placement Climb was touching the chain Slow intake Fast outtake,,4,"4500,4","48,R2",0,1,1,0,0,1,2,x,x
+48,R3,1847,TRUE,0,0,0,0,0,0,2,2,5,1,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,"Looked like it had trouble deciding where to score, missed in auto",,4,"1847,4","48,R3",0,1,1,0,0,0,2,x,2
+49,B1,8738,TRUE,2,0,0,1,0,0,5,3,4,0,0,2,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,failed 1 coral. wastes time positioning. went to the climb pretty early but still failed deepclimb.,,4,"8738,4","49,B1",0,1,0,0,1,0,2,x,2
+49,B2,1507,TRUE,2,0,0,0,0,0,3,1,1,0,3,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,Overall slow. Struggled to ground intake algae. Fast climb,,4,"1507,4","49,B2",0,1,1,0,0,1,2,x,2
+49,B3,6909,TRUE,0,0,0,0,0,0,0,3,4,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,"Missed coral in auto, not very fast cycle time, had a lot of trouble lining up for climb",,4,"6909,4","49,B3",0,1,0,0,1,0,2,x,2
+49,R1,4005,TRUE,1,0,0,0,0,0,2,2,4,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,Had trouble lining up on reef which led to a substantial detriment to their speed and efficiency,,4,"4005,4","49,R1",0,1,0,0,1,0,x,x,2
+49,R2,78,TRUE,4,0,0,0,0,0,4,4,2,2,2,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Very speedy, strange similarity to Jack in The Bot with their auto and climb. Very speedy and accurate, reliable for quick scoring",,4,"78,4","49,R2",0,1,1,0,0,0,3,x,3
+49,R3,4613,TRUE,0,1,0,0,0,1,0,6,6,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"No L4, can score algae and coral anywhere but L4. Ground intake, slower cycles though.",,4,"4613,4","49,R3",0,1,1,0,0,1,3,x,3
+50,B1,3173,TRUE,3,0,0,0,0,0,4,5,3,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,x,sucessful auto. pretty good cycle. removed algae to make room and to score net. very fast deepclimb.,,4,"3173,4","50,B1",0,1,1,0,0,1,x,x,x
+50,B2,6911,TRUE,1,0,0,0,0,1,0,0,0,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,1,2,2,Coral got stuck in intake halfway through and forced them to defense.,,4,"6911,4","50,B2",0,1,0,0,1,1,1,2,2
+50,B3,7525,TRUE,3,0,0,0,0,0,3,4,6,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,3,"Fast cycle time, no trouble intaking coral, only went to barge at last minute, elevator looked rough when going up",,4,"7525,4","50,B3",0,1,0,0,1,0,2,x,3
+50,R1,1425,TRUE,3,0,0,0,0,0,6,7,0,0,0,1,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,3,"Very accurate, but takes a bit to cycle. Very good auto, but failed to climb in time",,4,"1425,4","50,R1",0,1,0,0,1,0,x,x,3
+50,R2,3284,TRUE,0,0,0,0,0,1,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,2,1,"So sorry, I was looking at blue for the first bit of the match before realizing I was scouting the wrong one. I am assuming based on the fact they switched to defense that they were having struggles with offense, which is why I gave them a low score.",,4,"3284,4","50,R2",0,1,0,0,1,0,1,2,1
+50,R3,10260,TRUE,0,0,0,1,0,0,0,0,0,6,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,2,KIT BOOOOOOT! Only L1. No algae. No climb. Coral station intake only.,,4,"10260,4","50,R3",0,1,0,0,1,0,1,x,2
+51,B1,8808,TRUE,1,0,0,0,0,0,4,2,2,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,1.5 coral auto. removed algae to score. went to the barge quite late.,,5,"8808,5","51,B1",0,1,0,0,1,1,3,x,2
+51,B2,537,TRUE,0,0,0,0,0,0,2,4,3,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,1,Missed coral in auto. Missed lot of the l2 coral. Fell off of the cage,,5,"537,5","51,B2",0,1,0,0,1,0,2,x,1
+51,B3,694,TRUE,3,0,0,0,0,0,2,4,4,0,6,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Couldve scored another in auto but missed a intake, doesnt have to turn around when taking coral, very fast cycle time, missed a couple processor shots",,5,"694,5","51,B3",0,1,1,0,0,1,3,x,3
+51,R1,1796,TRUE,4,0,0,0,0,0,2,3,4,0,0,4,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,3,"Has a four cycle auto, and can hold both game pieces and score them at the same time",,5,"1796,5","51,R1",0,1,0,0,1,0,x,x,3
+51,R2,9280,TRUE,0,0,0,0,0,0,4,1,1,0,2,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Only missed a couple times when scoring. Not the best, not the worst, could use some improvements in cycle time, reliable for L4 and processor scoring",,5,"9280,5","51,R2",0,1,1,0,0,1,3,x,3
+51,R3,6146,TRUE,0,0,1,0,0,0,2,3,2,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,1,x,2,SO DANG SLOW MOVEMENT AND OMG SLOW ELEVATOR!?!?! Pretty good aim. No ground intake or algae.,,5,"6146,5","51,R3",0,1,1,0,0,0,1,x,2
+52,B1,4451,TRUE,2,0,0,0,0,0,4,5,2,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,failed 3 coral. was pretty good at scoring everything exept L1 but it gave up very quickly. removed algae only to score.,,6,"4451,6","52,B1",0,1,1,0,0,1,3,x,3
+52,B2,10291,TRUE,0,0,0,0,0,0,0,5,4,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,Slow auto. Missed L2-L3,,5,"10291,5","52,B2",0,1,1,0,0,0,2,x,2
+52,B3,4421,TRUE,3,0,0,0,0,0,4,3,5,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,"Fast cycle time, almost ran into teammates once, auto had paused for split seconds, couldnt score on l1",,5,"4421,5","52,B3",0,1,0,0,1,1,2,x,3
+52,R1,7048,TRUE,2,0,0,0,0,0,3,2,2,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Somewhat fast, but has difficulty lining up to the reef. Cant climb, but has decent auto",,5,"7048,5","52,R1",0,1,0,0,1,0,x,x,2
+52,R2,10698,TRUE,0,0,0,0,0,0,2,4,0,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"Not the best, not the worst. Incredibly slow cycle time, takes a chunk of time to aim, but rarely missed. Wasted a lot of time missing coral from the station. Pretty good at L4 scoring",,5,"10698,5","52,R2",0,1,1,0,0,1,2,x,2
+52,R3,6083,TRUE,1,0,0,0,0,0,1,4,1,2,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,1,Missed many L4s and 3s. No algae. No ground intake. Ok cycles. Slow elevator and movement speed.,,5,"6083,5","52,R3",0,1,0,0,1,0,1,x,1
+53,B1,1678,TRUE,4,0,0,0,0,0,1,6,6,0,1,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,sucessful auto 4 coral. robot stole algae from other side and scored in the other teams processor for the coopertition bonus. super fast cycle but struggled with L1,,5,"1678,5","53,B1",0,1,1,0,0,1,3,x,3
+53,B2,6424,TRUE,1,0,0,0,1,0,3,4,2,0,1,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Fast outtake and scoring. Fast climb. Not good against defense,,5,"6424,5","53,B2",0,1,1,0,0,1,3,x,3
+53,B3,1833,TRUE,3,0,0,0,0,0,0,2,4,9,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,"Very fast cycle time, couldve scored another in auto but missed intake, worked well around defense to still intake",,5,"1833,5","53,B3",0,1,0,0,1,0,3,x,3
+53,R1,9312,TRUE,0,0,1,0,0,0,0,0,3,5,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,1,"The robot is fast, but very inaccurate, and to add on to that it can only really score in L1 and L2 meaning that they add little to the point score",,5,"9312,5","53,R1",0,1,1,0,0,0,x,x,1
+53,R2,3256,TRUE,0,0,0,0,0,0,5,0,2,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"Similar to us skill level wise, decent cycle time, reliable for L4 scoring and algae removal, overall a well balanced robot that gets the job done",,5,"3256,5","53,R2",0,1,0,0,1,1,3,x,3
+53,R3,2438,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,2,x,"Broken from start. Ok defense, but not amazing, can be pushed around a little.",,5,"2438,5","53,R3",0,1,0,0,1,0,x,2,x
+54,B1,3297,TRUE,1,0,0,0,0,1,6,0,0,1,1,1,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,sucessful 1 coral one algae auto. had a wobbly arm preventing it from being accurate. did not attempt climb.,,5,"3297,5","54,B1",0,1,0,0,1,0,x,x,2
+54,B2,6348,TRUE,0,0,0,0,0,0,3,3,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Slow elevator. Hard to align intake. Good algae removal.,,5,"6348,5","54,B2",0,1,0,0,1,1,2,x,2
+54,B3,3891,TRUE,0,0,0,2,0,0,2,7,3,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,x,3,"Got defended well against, both l1 scores in auto are from missed l4, fast driving",,5,"3891,5","54,B3",0,1,0,0,0,0,2,x,3
+54,R1,6832,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,3,x,Faulty auto cycle got coral stuck in main body leading to them having to play defense for all of teleop,,5,"6832,5","54,R1",0,1,0,0,1,0,x,3,x
+54,R2,8575,TRUE,0,2,0,0,0,0,0,8,1,1,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"Speedy cycle times, great accuracy, very reliable for L3 scoring. Well balanced robot (I missed a little bit of autonomous because my page refreshed and the sheet reset)",,5,"8575,5","54,R2",0,1,0,0,1,1,3,x,3
+54,R3,1731,TRUE,0,0,0,0,0,0,12,0,0,1,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Very consistent with good speed and cycles. No algae or ground intake. Can score coral all levels.,,5,"1731,5","54,R3",0,1,0,0,1,1,3,x,3
+55,B1,649,TRUE,1,0,0,0,0,0,4,1,3,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,3,"They were really slow, and the coral often got stick on them.",,5,"649,5","55,B1",0,1,0,0,1,0,1,x,3
+55,B2,5660,TRUE,1,0,0,0,0,2,1,4,2,0,0,2,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,1,Terrible coral accuracy Good algae accuracy Good algae cycle time Good deep climb,,5,"5660,5","55,B2",0,1,0,0,1,1,2,x,1
+55,B3,3255,TRUE,3,0,0,0,0,0,1,4,4,0,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Missed a few shots on L2 but was reasonably fast and able to clear the reef,,5,"3255,5","55,B3",0,1,0,0,1,1,2,x,2
+55,R1,900,TRUE,2,0,0,0,0,0,3,5,2,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,They had very fast Cloes on all levels did stop/disabled mid match,,5,"900,5","55,R1",0,1,0,0,1,0,3,x,3
+55,R2,4655,TRUE,1,0,0,0,0,2,1,0,3,0,2,6,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Focus on algea fast at all levels focused l2 to get ranking point,,5,"4655,5","55,R2",0,1,0,0,1,1,3,x,3
+55,R3,7034,TRUE,3,0,0,0,0,0,2,5,5,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,"Smooth and fast cycles, successful three coral auto, missed like once",,5,"7034,5","55,R3",0,1,0,0,1,0,3,x,3
+56,B1,4013,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,TRUE,FALSE,FALSE,FALSE,FALSE,x,x,x,"Their auto missed, then they disabled for the rest of the match.",,5,"4013,5","56,B1",1,1,0,0,0,0,x,x,x
+56,B2,9432,TRUE,3,0,0,0,0,0,1,5,5,2,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,Knocked  a bunch of coral off the lower side of the reef Scored really consistently and fast Outtake was very consistent Climb was fast Can score both algae and coral well.Very fast cycles. At the end knocked into reef and descored 4 coral. Put one coral in and went to climb.,,4,"9432,4","56,B2",0,1,1,0,0,1,3,x,2
+56,B3,302,TRUE,3,0,0,0,0,0,2,2,1,0,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Deep climb broke at the end, seemed very unstable and was extremely wobbly",,5,"302,5","56,B3",0,1,0,0,1,1,2,x,2
+56,R1,7257,TRUE,2,0,0,0,0,0,4,5,2,1,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,3,They were a average cycled they could do all levels in good time,,5,"7257,5","56,R1",0,1,1,0,0,0,2,x,3
+56,R2,4786,TRUE,1,0,0,0,0,2,0,3,4,2,0,4,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,x,comment lost,,5,"4786,5","56,R2",0,1,1,0,0,1,x,x,x
+56,R3,2129,TRUE,3,0,0,0,0,0,2,4,5,5,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Solid three coral auto that combos into a free L4. Driver has enough sense to get the coral rank point,,5,"2129,5","56,R3",0,1,0,0,1,1,3,x,3
+57,B1,4967,TRUE,1,0,0,0,0,2,2,3,3,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,1,"Fast but misses a lot, good with alge though. Auto is really good.",,5,"4967,5","57,B1",0,1,1,0,0,1,2,x,1
+57,B2,418,TRUE,3,0,0,0,0,0,3,5,5,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Removed algae two times. Consistent and fast cycles.Slow cycle time, but Good accuracy 3 coral auto",,5,"418,5","57,B2",0,1,1,0,0,1,3,x,3
+57,B3,9032,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,TRUE,FALSE,FALSE,FALSE,FALSE,x,x,x,"They climbed on the reef due to an auto issue, bro got hung",,4,"9032,4","57,B3",1,1,0,0,0,0,x,x,x
+57,R1,8738,TRUE,3,0,0,0,0,0,1,4,0,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,1,x,2,They could do algae but their mechanism for it was bad and cycled slowly,,5,"8738,5","57,R1",0,1,0,0,1,1,1,x,2
+57,R2,3792,TRUE,0,0,0,0,0,0,0,0,0,6,7,0,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,x,comment lost. Scored 2 in opposing processor. Very good at l1.,,,,,0,1,1,0,0,1,x,x,x
+57,R3,226,TRUE,2,0,0,0,0,0,2,3,7,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"Auto attempted multiple coral but fails. Otherwise, good cycle times. Also likes to take algae off the reef and throw them into the net. And is good at it",,5,"226,5","57,R3",0,1,1,0,0,1,3,x,2
+58,B1,1481,TRUE,1,0,0,0,0,0,5,4,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"Its was slower in pace, but overall well rounded, scoring all over the reef. Their was a point where the coral was stuck for awhile.",,5,"1481,5","58,B1",0,1,0,0,1,1,3,x,3
+58,B2,5968,TRUE,1,0,0,0,0,0,2,0,0,0,0,0,TRUE,FALSE,FALSE,FALSE,FALSE,1,x,1,"Attempted four corals only made two  Robot shut down like 30 seconds in, got enabled with 5 seconds remaining.",,5,"5968,5","58,B2",1,1,0,0,0,0,1,x,1
+58,B3,1369,TRUE,1,0,0,0,0,1,0,0,0,0,3,3,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,"Had a very reliable algae outtake and a great intake, though separate intakes were used for the net and the processor",,5,"1369,5","58,B3",0,1,0,0,1,1,2,x,3
+58,R1,1507,TRUE,1,0,0,1,0,0,3,1,3,0,2,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,They would do algae removal but it only worker some times took along time not really good. Slow coral,,5,"1507,5","58,R1",0,1,1,0,0,1,2,x,2
+58,R2,7525,TRUE,3,0,0,0,0,0,1,2,6,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,x,x,x,,,,,,0,1,0,0,0,0,x,x,x
+58,R3,9199,TRUE,1,0,0,0,0,0,3,2,1,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,x,I was watching the wrong robot. They all looked the same. Sorry,,5,"9199,5","58,R3",0,1,0,0,1,0,x,x,x
+59,B1,4415,TRUE,2,0,0,0,0,0,3,0,3,0,2,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"They werent crazy fast, but they could remove and score alge everywhere, they were pretty good with coral too.",,5,"4415,5","59,B1",0,1,1,0,0,1,3,x,3
+59,B2,4613,TRUE,0,1,0,0,0,1,0,5,4,1,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,1,Auto took off an algae at the end too. Missed coral outtake 2 times. Scored lots of algae Very inaccurate coral scoring on all levels,,5,"4613,5","59,B2",0,1,1,0,0,1,2,x,1
+59,B3,4500,TRUE,3,0,0,0,0,0,3,3,2,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,Had issues due to some potent defense,,5,"4500,5","59,B3",0,1,1,0,0,0,2,x,2
+59,R1,9301,FALSE,0,0,0,0,0,0,0,0,0,8,2,0,FALSE,TRUE,FALSE,FALSE,FALSE,1,x,2,They can get algae and score L1 but both slow and have trouble grabbing the game peices,,5,"9301,5","59,R1",0,0,1,0,0,0,1,x,2
+59,R2,4607,TRUE,3,0,0,0,0,0,5,8,0,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,x,comment lost,,5,"4607,5","59,R2",0,1,1,0,0,1,x,x,x
+59,R3,6911,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,x,2,x,Experienced technically difficulties I believe and did defense the whole round,,5,"6911,5","59,R3",0,1,0,0,1,1,x,2,x
+60,B1,6909,TRUE,0,0,0,0,0,0,0,4,3,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,3,"Can score at a decent speed and rarely missed, it is slower though.",,5,"6909,5","60,B1",0,1,1,0,0,0,2,x,3
+60,B2,9485,TRUE,0,0,0,0,0,0,0,3,2,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,1,2,1,"Poor coral placement choice, Got a coral stuck inside halfway and decided to go do defense, in between not effective and average defense performance",,1,"9485,1","60,B2",0,1,1,0,0,1,1,2,1
+60,B3,2724,TRUE,0,1,0,0,0,0,0,1,2,0,2,5,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Had a reliable way to score algae and clear the reef very quickly,,5,"2724,5","60,B3",0,1,0,0,1,1,3,x,3
+60,R1,6995,TRUE,3,0,0,0,0,0,0,0,0,0,0,0,TRUE,FALSE,FALSE,FALSE,FALSE,1,x,1,Disabled,,5,"6995,5","60,R1",1,1,0,0,0,0,1,x,1
+60,R2,6017,TRUE,0,0,0,1,0,0,0,0,0,4,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,x,comment lost,,,,,0,1,1,0,0,0,x,x,x
+60,R3,1671,TRUE,1,0,0,0,0,0,7,0,1,0,2,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Can grab algae off the reef and score it in the processor,,5,"1671,5","60,R3",0,1,1,0,0,1,3,x,3
+61,B1,4068,TRUE,3,0,0,0,0,0,4,7,4,0,1,1,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,3,"Somewhat slow cycle speed, but has pretty good accuracy. Slow auto",,5,"4068,5","61,B1",0,1,0,0,1,0,x,x,3
+61,B2,2648,TRUE,2,0,0,0,0,0,4,4,5,0,1,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,3,"Quick and speedy cycle times, reliable for L4-L2 scoring. Similar to our robots capabilities. Intakes pretty well from the station, 2.5 L4 auto; has auto align, but its not very accurate, so the driver had to do some very jerky movements to compensate; strong processor bot, though it only attempted processor once for coopertition",,5,"2648,5","61,B2",0,1,1,0,0,0,2,x,3
+61,B3,3284,TRUE,0,0,0,0,0,0,0,0,0,3,0,5,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Only L1. Algae can score anywhere. Only ground intake for coral. Algae from reef and ground. Ok cycles and speed. Mostly used for algae, then extra coral if needed.",,5,"3284,5","61,B3",0,1,0,0,1,1,2,x,2
+61,R1,78,TRUE,3,0,0,0,0,0,1,4,5,0,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,Doing well in auto. Can work on both algae and coral. Aiming fast and higher accuracy. Climb successfully.,,5,"78,5","61,R1",0,1,1,0,0,1,3,x,2
+61,R2,7197,TRUE,1,0,0,0,0,0,0,2,2,4,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,Can score horizontally and vertically,,5,"7197,5","61,R2",0,1,0,0,1,0,2,x,2
+61,R3,2056,TRUE,4,0,0,0,0,0,3,6,5,1,2,6,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,3,"Ground intake, 4.5 auto, very fast cycle time for coral and alge, can hold coral and alge at the same time.",,5,"2056,5","61,R3",0,1,1,0,0,1,x,x,3
+62,B1,10260,TRUE,0,0,0,1,0,0,0,0,0,6,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,Can only score in L1 because it is just a drive base with a slide bolted to it,,5,"10260,5","62,B1",0,1,0,0,1,0,x,x,2
+62,B2,179,TRUE,2,1,0,0,0,0,3,4,3,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Phenomenally efficient robot. Reliable for all around scoring, besides algae, with quick cycle times and speedy accuracy. Sometimes struggled with intaking coral, but is incredibly resourceful. If something doesn't work out, they don't waste a ton of time on it",,5,"179,5","62,B2",0,1,1,0,0,0,3,x,3
+62,B3,494,TRUE,2,0,0,0,0,0,3,2,5,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Very consistent, slow elevator and movement, ok cycles, can score anything anywhere.",,5,"494,5","62,B3",0,1,1,0,0,1,3,x,3
+62,R1,3492,TRUE,0,0,0,0,0,0,0,4,3,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,1,x,2,"Mostly work on the coral under L4. Should be able to do, but they didn’t.",,5,"3492,5","62,R1",0,1,0,0,0,0,1,x,2
+62,R2,1847,TRUE,0,0,0,0,0,0,3,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,1,x,1,Must be very well aligned to score,,5,"1847,5","62,R2",0,1,1,0,0,0,1,x,1
+62,R3,4005,TRUE,0,0,0,0,0,0,3,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,x,x,1,"Something was broken, speed was l, maybe a flat battery",,5,"4005,5","62,R3",0,1,0,0,1,1,x,x,1
+63,B1,2630,TRUE,0,0,0,0,0,0,0,2,0,1,0,4,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,"Very fast, and can handle both game modes pieces, but is dragged down by low accuracy. Missed all 3 of its auto cycles",,5,"2630,5","63,B1",0,1,1,0,0,0,x,x,2
+63,B2,1796,TRUE,3,0,0,0,0,0,4,5,3,0,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Fast cycle time, quickly intakes from station, reliable for speedy reef filling and algae removal. Overall: very balanced robot, very speedy.",,6,"1796,6","63,B2",0,1,1,0,0,1,3,x,3
+63,B3,6424,TRUE,1,0,0,0,1,0,4,2,5,2,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Decent cycles, just didnt miss. Can score anything anywhere. Medium movement speed.",,6,"6424,6","63,B3",0,1,1,0,0,1,3,x,3
+63,R1,3173,TRUE,3,0,0,0,0,0,3,6,4,4,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Doing well in auto, can work on both algae and coral. Can hold algae well. Can work on all level coral, and aiming fast have high accuracy. Climb fast and successfully.",,5,"3173,5","63,R1",0,1,1,0,0,1,3,x,3
+63,R2,1425,TRUE,0,0,0,0,0,0,3,2,1,2,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,Climbs very high,,5,"1425,5","63,R2",0,1,1,0,0,1,3,x,2
+63,R3,8575,TRUE,0,1,0,0,0,0,0,4,5,0,1,0,FALSE,FALSE,FALSE,TRUE,TRUE,x,x,2,"Very slow but consistent, difficult intake , coral can easily get into the drivebase.",,6,"8575,6","63,R3",0,1,0,0,1,1,x,x,2
+64,B1,4786,TRUE,3,0,0,0,0,0,3,1,1,1,2,1,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,"Can score in every part of the game, but is hampered by accuracy. Much faster during auto than in teleop. Popped an algae",,6,"4786,6","64,B1",0,1,1,0,0,0,x,x,2
+64,B2,4451,TRUE,1,0,0,0,0,0,4,6,3,1,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Great robot- fast cycle times, good accuracy, reliable for L3 and L2 scoring. Some L1 capability, but wasn't really demonstrated that much. Did accidentally pop an algae",,7,"4451,7","64,B2",0,1,1,0,0,1,3,x,3
+64,B3,6832,TRUE,0,0,0,1,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,1,x,"Kit bot!!! Way too light for defense. Only L1. No climb. Maybe algae but I dont think so. If so, only processor.",,6,"6832,6","64,B3",0,1,0,0,1,0,x,1,x
+64,R1,9280,TRUE,1,0,0,0,0,0,5,3,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,"Can work on L3 and L4, but have more miss in L4. Didnt try to climb, not sure if it be able to climb.",,6,"9280,6","64,R1",0,1,0,0,1,0,2,x,2
+64,R2,2438,TRUE,0,0,0,0,0,0,0,3,2,0,2,0,FALSE,FALSE,FALSE,FALSE,TRUE,2,x,2,Efficient algae claw but intake only takes in coral 3/4 times,,6,"2438,6","64,R2",0,1,0,0,0,1,2,x,2
+64,R3,3255,TRUE,1,0,0,0,0,0,6,3,0,0,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,2,"Large intake that will unlikely fail, quick deep climb, can hold alge and coral at the a same time",,6,"3255,6","64,R3",0,1,1,0,0,1,x,x,2
+65,B1,3297,TRUE,1,0,0,0,0,1,2,2,2,0,2,1,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,"Somewhat slow, and inaccurate, but well rounded in scoring abilities. Auto cycles take a long time scored processor for other alliance",,6,"3297,6","65,B1",0,1,1,0,0,0,x,x,2
+65,B2,226,TRUE,3,0,0,0,0,0,2,3,2,2,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"Helpful to their team, worked a great strategy by reliably scoring lower levels while other robots scored higher, quick cycle times and smooth aiming.",,6,"226,6","65,B2",0,1,0,0,1,1,3,x,3
+65,B3,4421,TRUE,2,0,0,0,0,0,1,3,3,2,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,1,"Missed many L2,3,4s that landed on L1. Ok cycles. Ok movement. Not great against defense.",,6,"4421,6","65,B3",0,1,1,0,0,1,2,x,1
+65,R1,4013,TRUE,0,0,0,0,0,0,0,0,0,0,1,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,2,x,"Takes time on getting algae and might not success. Coral intake not working well. Play defense in 35 seconds before end, doing fine. Didnt climb.",,6,"4013,6","65,R1",0,1,0,0,1,0,x,2,x
+65,R2,649,TRUE,0,0,0,0,0,0,8,1,0,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,2,Arm scores very quickly,,6,"649,6","65,R2",0,1,0,0,1,0,3,x,2
+65,R3,3256,TRUE,0,0,0,0,0,0,4,5,2,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,x,x,2,"Fast intake, quick cycle time, has deep climb but couldnt line up",,6,"3256,6","65,R3",0,1,0,0,1,1,x,x,2
+66,B1,1731,TRUE,1,0,0,0,0,0,2,3,3,0,3,1,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Has a very accurate end effector, but is very slow to cycle, and line up to reef. Very disappointing auto",,6,"1731,6","66,B1",0,1,1,0,0,0,x,x,3
+66,B2,1833,TRUE,4,0,0,0,0,0,1,2,6,4,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Very compatible for teams that score on higher levels due to lack of an ability to score on L4. Works very quickly, intakes fast, good L1 capability. Tiny bit unstable, only when fully extended",,6,"1833,6","66,B2",0,1,1,0,0,0,3,x,3
+66,B3,900,TRUE,1,0,0,1,0,0,3,6,1,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,1,MISSED WAY TOO MANY!!!!! Probably could have scored about 20-25 coral if hadnt missed. Fast cycles but tries to go too fast and misses. No algae or ground intake.,,6,"900,6","66,B3",0,1,0,0,1,0,2,x,1
+66,R1,7034,TRUE,3,0,0,0,0,0,1,2,4,1,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,2,"Doing well in auto. Work on coral and algae removal, have higher accuracy. Climb successfully.",,6,"7034,6","66,R1",0,1,1,0,0,1,x,x,2
+66,R2,7525,TRUE,3,0,0,0,0,0,1,6,6,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,No algae removal system,,6,"7525,6","66,R2",0,1,0,0,1,0,3,x,3
+66,R3,7257,TRUE,0,0,0,0,0,0,4,4,3,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,3,"Auto dont work, very consistent scoring, deep climb",,6,"7257,6","66,R3",0,1,1,0,0,1,x,x,3
+67,B1,5968,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,TRUE,FALSE,FALSE,TRUE,FALSE,x,x,x,Robot did auto then disabled then came back to life t- 20,,6,"5968,6","66,B1",1,1,0,0,1,0,x,x,x
+67,B2,3891,TRUE,0,0,0,1,0,0,0,0,2,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,2,2,"Auto was supposed to be two L4 but the first one fell to L1 and the second didnt make it. Very inconsistent in what they wanted to do: played defense for 30 seconds, went back to offense for 30 seconds and then the rest of the time did defense",,6,"3891,6","67,B2",0,1,0,0,1,0,1,2,2
+67,B3,4500,TRUE,2,0,0,0,0,0,3,7,3,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"Kinda did all the work for the team. Indecisiveness slowed down cycle time by a lot, but other than that smooth and fast cycles. Good auto, worked perfectly",,6,"4500,6","67,B3",0,1,1,0,0,1,3,x,2
+67,R1,1678,TRUE,4,0,0,0,0,0,0,1,1,0,4,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,sucessful auto.scored in other teams processor for coopertition. struggled a bit with the processor.,,6,"1678,6","67,R1",0,1,1,0,0,1,3,x,2
+67,R2,6146,TRUE,0,0,0,0,0,0,1,1,2,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,Struggled to intake for a while. Slow elevator. Slow at aligning for climb,,6,"6146,6",#REF!,0,1,1,0,0,1,2,x,2
+67,R3,8738,TRUE,3,0,0,0,0,0,3,5,4,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,x,2,"Had a lot of trouble intaking coral, missed an l1 shot, tried to score in net but algae fell off",,6,"8738,6","67,R3",0,1,0,0,0,0,2,x,2
+68,B1,4655,TRUE,3,0,0,0,0,0,1,5,5,0,1,1,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,They have good barge but they have to grab it just right for scoring can do all levels,,6,"4655,6","68,B1",0,1,1,0,0,1,2,x,2
+68,B2,302,TRUE,3,0,0,0,0,0,1,3,1,0,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Auto was 3.5(ended with a coral inside). Really good and consistent cycles despite there being a defense bot at the coral station. Match was going great until it got on top of an anlgea and didnt move for 30 seconds because it could have tipped over, until another robot helped it.",,6,"302,6","68,B2",0,1,1,0,0,1,3,x,3
+68,B3,9032,TRUE,1,0,0,0,0,1,3,4,4,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Can pick up algae off the ground.,,5,"9032,5","68,B3",0,1,0,0,1,1,3,x,3
+68,R1,4607,TRUE,2,0,0,0,0,0,6,7,2,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,failed 3 coral. pretty good at cycling. removed one algae to score into the net. very fast climb.,,6,"4607,6","68,R1",0,1,1,0,0,1,3,x,3
+68,R2,10698,TRUE,0,0,0,0,0,0,1,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,2,2,Drove forward in auto. Went to defense after first l4. Mostly just drove back and forth on one coral station. Very slow to align with cage,,6,"10698,6","68,R2",0,1,0,0,1,0,x,2,2
+68,R3,1369,TRUE,1,0,0,0,0,0,0,0,0,0,2,4,FALSE,FALSE,FALSE,FALSE,TRUE,2,x,1,"Missed 2 algae in net in auto, missed multiple in net by overshooting or it falling out of robot, algae kept falling out when trying to put in processor",,6,"1369,6","68,R3",0,1,0,0,0,1,2,x,1
+69,B1,3284,TRUE,0,0,0,0,0,0,0,0,0,5,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,They focused on algae for the first part which was not very good but then went to L1 and was scorning fast,,6,"3284,6","69,B1",0,1,0,0,1,1,2,x,3
+69,B2,8808,TRUE,1,0,0,0,0,0,6,4,1,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Ground intake sometimes slow. Auto also went and knocked over one of the starting algae and coral towers. Removed two algae from reef. Two of the coral went on the reef in a weird way.,,6,"8808,6","69,B2",0,1,0,0,1,1,3,x,3
+69,B3,6909,TRUE,0,0,0,0,0,0,0,5,4,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,"Auto may not be accurate, got bored and started watching Galileo. Only went for L3 and L2 so it might not be able to get to L4. Auto either didnt work, doesnt do anything, or I missed it doing something. I think it didnt work",,6,"6909,6","69,B3",0,1,1,0,0,0,2,x,2
+69,R1,2724,TRUE,0,0,1,0,0,0,0,3,3,0,2,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,failed 1.5. only removed algae to score in processor. seemd to focus on L2 before L3 for some reason.,,6,"2724,6","69,R1",0,1,1,0,0,1,3,x,3
+69,R2,4415,TRUE,1,0,0,0,0,1,2,6,4,1,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,Fast algae. Fast ground intake. Sometimes shot coral into middle of reef,,6,"4415,6","69,R2",0,1,1,0,0,1,3,x,2
+69,R3,9199,TRUE,1,0,0,0,0,0,6,2,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,"Missed intaking coral in auto, didnt drive very fast, cycle time medium speed, almost didnt have power to climb",,6,"9199,6","69,R3",0,1,1,0,0,0,2,x,2
+70,B1,4613,TRUE,0,0,0,0,0,2,0,5,6,1,0,4,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Very fast net and L3 cannot go L4,,6,"4613,6","70,B1",0,1,1,0,0,1,3,x,3
+70,B2,10260,TRUE,0,0,0,0,0,0,0,0,0,5,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,1,3,"Its a kitbot. Auto went and knocked one of the starting towers. Consistent L1 cycles, but then went to play really bad defense.",,6,"10260,6","70,B2",0,1,0,0,1,0,3,1,3
+70,B3,2056,TRUE,5,0,0,0,0,0,6,6,6,5,2,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"There could be more coral it scored on the trough, but I couldnt see it and/or I didnt think it counted. Anyway, good auto, can remove coral from reef, can pick up coral off ground",,6,"2056,6","70,B3",0,1,1,0,0,1,3,x,2
+70,R1,6017,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,2,x,failed 1 coral. robot seemed confused at the start of teleop and then played defense.,,6,"6017,6","70,R1",0,1,1,0,0,0,x,2,x
+70,R2,3792,TRUE,0,0,0,3,0,0,0,0,0,4,8,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,Climb is through middle of robot so cage cannot swing before climb. Fast algae intake. Sometimes the coral falls out a bit before the trough,,6,"3792,6","70,R2",0,1,1,0,0,0,2,x,2
+70,R3,6083,TRUE,0,0,1,0,0,0,0,4,7,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,x,2,"Missed a coral intake during auto, didnt drive very fast, medium cycle time speed",,6,"6083,6","70,R3",0,1,0,0,0,0,2,x,2
+71,B1,2630,TRUE,3,0,0,0,0,0,4,4,1,6,0,4,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Very fast net and all levels great climb fast,,6,"2630,6","71,B1",0,1,1,0,0,1,3,x,3
+71,B2,10291,TRUE,0,1,0,0,0,0,0,4,6,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Auto also removed an algea but it was supposed to take to the processor but didnt intake it. Consistent cycles.,,6,"10291,6","71,B2",0,1,1,0,0,1,3,x,3
+71,B3,6995,TRUE,3,0,0,0,0,0,2,2,5,0,2,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"Auto worked great, uses arm for climb. Can pick up coral off the ground.",,6,"6995,6","71,B3",0,1,1,0,0,1,3,x,2
+71,R1,3492,TRUE,0,0,0,0,0,0,0,4,4,4,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,2,failed 1.5 auto. robot drove kind of slow but was still able to cycle pretty well. hardly made it to the parking.,,6,"3492,6","71,R1",0,1,0,0,1,0,3,x,2
+71,R2,7197,TRUE,1,0,0,0,0,0,2,5,3,0,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Fast algae removal. Good at coral and algae. Auto missed second coral because it got stuck in between the end effector and the branch.,,6,"7197,6","71,R2",0,1,0,0,1,1,2,x,2
+71,R3,537,TRUE,1,0,0,0,0,0,5,2,1,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,"Auto was slow and didnt move after scoring the coral, twice they tried to score coral and it bounced back out, climbed with coral still in robot",,6,"537,6","71,R3",0,1,1,0,0,0,2,x,2
+72,B1,1507,TRUE,1,0,0,0,0,0,4,5,2,1,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,They had good all levels just a bit slow make about 80 percent,,6,"1507,6","72,B1",0,1,1,0,0,1,2,x,2
+72,B2,3173,TRUE,3,0,0,0,0,0,4,5,2,1,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Missed in net one time. Missed in L4 once. Consistent and fast cycles,,6,"3173,6","72,B2",0,1,1,0,0,1,3,x,3
+72,B3,9312,TRUE,0,0,2,0,0,0,0,0,0,3,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,1,Only tried to score on L1 and missed a lot. At least from what I saw. Always tried to score on the side of the reef I couldnt see,,6,"9312,6","72,B3",0,1,0,0,1,0,1,x,1
+72,R1,179,TRUE,1,1,0,1,0,0,7,2,1,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,2,cleared algae while doing auto. dropped an L4 into L1 during auto.  tried to score in net but failed twice and gave up.,,6,"179,6","72,R1",0,1,1,0,0,0,3,x,2
+72,R2,1847,TRUE,1,0,0,0,0,0,2,3,7,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,Slow intake. Moves around other alliance partners. Climb is hard to align.,,6,"1847,6","72,R2",0,1,0,0,1,0,2,x,2
+72,R3,9484,TRUE,0,0,0,1,0,0,0,4,4,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Missed l4 in auto, took a while to line up to score auto, drove slow",,5,"9484,5","72,R3",0,1,0,0,1,1,2,x,2
+73,B1,4005,TRUE,1,0,0,0,0,0,2,3,2,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,3,"Working on coral, can do L2-L4. Have high accuracy, but takes time on aiming. Climb successfully.",,6,"4005,6","73,B1",0,1,1,0,0,1,2,x,3
+73,B2,694,TRUE,3,0,0,0,0,0,2,4,7,0,4,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Incredibly accurate, fast, and efficient",,6,"694,6","73,B2",0,1,1,0,0,1,3,x,3
+73,B3,7048,TRUE,0,0,0,0,0,0,3,4,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,x,"Can hold algae and coral at the same, very jiggly end effector",,6,"7048,6","73,B3",0,1,1,0,0,0,x,x,x
+73,R1,2648,TRUE,1,0,0,1,0,0,3,5,5,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"They missed every once in awhile, but more often than not they were able to score with faster cycles. They could also possibly score net but missed, auto was wobbly and missed 2nd shot.",,6,"2648,6","73,R1",0,1,1,0,0,1,3,x,2
+73,R2,2129,TRUE,2,0,0,0,0,0,3,4,3,0,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,1,Missed coral often Slow cycle time,,6,"2129,6","73,R2",0,1,0,0,1,1,2,x,1
+73,R3,4967,TRUE,1,0,0,0,0,0,2,3,3,0,2,1,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Had decent cycle times and could quickly score algae, attempted to score algae in auto but missed both",,6,"4967,6","73,R3",0,1,0,0,1,1,2,x,2
+74,B1,6348,TRUE,0,0,0,0,0,0,1,1,0,1,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,x,x,2,"Can work on both algae and coral, takes time on getting algae and try to put it in the net ( failed). Can work on L3-4 coral. Climb successfully.",,6,"6348,6","74,B1",0,1,0,0,1,1,x,x,2
+74,B2,4068,TRUE,3,0,0,0,0,0,2,5,4,0,0,3,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Climb mechanism doesnt always work,,6,"4068,6","74,B2",0,1,0,0,1,1,3,x,3
+74,B3,1425,TRUE,3,0,0,0,0,0,3,3,3,0,2,0,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,3,Extremely fast cycle time due to not needing to turn around because their intake/end effector goes through the robot,,6,"1425,6","74,B3",0,1,1,0,0,1,x,x,3
+74,R1,9301,TRUE,0,0,0,0,0,0,0,0,0,0,2,0,FALSE,TRUE,FALSE,FALSE,FALSE,1,1,2,Scored some alge in the net and just played def after. The auto missed its one shot. It was slow and didnt play def very well.,,6,"9301,6","74,R1",0,1,1,0,0,0,1,1,2
+74,R2,1481,TRUE,1,0,0,0,0,0,4,5,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,1,Missed lots of coral auto failed Dropped algae,,6,"1481,6","74,R2",0,1,1,0,0,0,2,x,1
+74,R3,418,TRUE,3,0,0,0,0,0,3,3,0,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,1,x,1,Had good cycles but had a lot of trouble scoring on L3 and below,,6,"418,6","74,R3",0,1,1,0,0,1,1,x,1
+75,B1,1671,TRUE,1,0,0,0,0,0,4,3,4,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,Working on coral (L2-4) but have lower accuracy. Didnt try climb.,,6,"1671,6","75,B1",0,1,0,0,1,0,x,x,2
+75,B2,6911,TRUE,0,0,0,0,0,2,2,2,1,0,2,5,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Incredible efficient algae claw,,6,"6911,6","75,B2",0,1,0,0,1,1,3,x,3
+75,B3,9432,TRUE,3,0,0,0,0,0,2,7,7,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,3,"Pass through intake so faster cycle time, can manipulate algae and coral, deep climb",,5,"9432,5","75,B3",0,1,1,0,0,1,x,x,3
+75,R1,78,TRUE,2,0,0,0,0,0,4,4,0,1,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"Very fast, but very inaccurate. They missed a lot in both auto and teleop. They also hindered their team a lot, being aggressive and getting in the way.",,6,"78,6","75,R1",0,1,1,0,0,1,3,x,2
+75,R2,494,TRUE,2,0,0,0,0,0,2,2,3,0,2,1,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,1,Miss lots of coral Miss lots of algae in the net Climb failed Auto failed,,6,"494,6","75,R2",0,1,0,0,1,0,2,x,1
+75,R3,5660,TRUE,0,0,0,0,0,0,0,4,4,0,0,4,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,Missed attempted scores in auto but had good cycles otherwise,,6,"5660,6","75,R3",0,1,1,0,0,1,3,x,2
+76,B1,7525,TRUE,2,0,0,1,0,0,1,6,5,2,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Doing fine in auto. Working on coral, can do L2-L4 (L1 are the coral miss in L3), have higher accuracy. Didnt try climb.",,7,"7525,7","76,B1",0,1,0,0,1,0,x,x,2
+76,B2,4500,TRUE,3,0,0,0,0,0,2,5,0,4,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,Robot folds up to climb,,7,"4500,7","76,B2",0,1,1,0,0,1,3,x,2
+76,B3,9280,TRUE,0,0,0,0,0,0,3,1,0,0,2,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,x,"Pass through intake, slow overall speed, auto was broken.",,7,"9280,7","76,B3",0,1,0,0,1,0,x,x,x
+76,R1,4421,TRUE,0,0,0,0,0,0,4,4,3,1,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,2,"L4 is iffy in auto and teleop, but L3 and L2 are consistent. Auto missed a lot.",,7,"4421,7","76,R1",0,1,1,0,0,0,3,x,2
+76,R2,9032,TRUE,1,0,0,0,0,1,2,3,2,0,0,2,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,Did not miss at all Slow cycle time,,6,"9032,6","76,R2",0,1,0,0,1,1,2,x,3
+76,R3,8575,TRUE,0,2,0,0,0,0,0,2,5,2,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Had fast cycles and was good at scoring on the lower levels,,7,"8575,7","76,R3",0,1,0,0,1,1,3,x,3
+77,B1,7257,TRUE,2,0,0,0,0,0,5,6,3,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Doing fine in auto. Working on coral, sometimes takes time on getting coral. Have high accuracy. Climb fast.",,7,"7257,7","77,B1",0,1,1,0,0,0,3,x,3
+77,B2,2724,TRUE,0,0,1,0,0,0,0,4,5,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,3,Looks unable to score on L4. Algae intake doubles as coral funnel,,7,"2724,7","77,B2",0,1,1,0,0,1,2,x,3
+77,B3,1369,TRUE,1,0,0,0,0,0,0,0,0,0,2,4,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,1,"Didnt attempt any algae besides during autos, kept over shooting algae",,7,"1369,7","77,B3",0,1,0,0,1,0,x,x,1
+77,R1,7034,TRUE,3,0,0,0,0,0,3,4,3,2,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,"Decent speed cycles, but very accurate, auto does a flawless 3 piece L4. Only missed once in teleop on L1.",,7,"7034,7","77,R1",0,1,0,0,1,0,3,x,3
+77,R2,8738,TRUE,3,0,0,0,0,0,2,4,1,1,0,1,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,1,"Missed L1, L2, L3, and L4 Algae missed processor every single time",,7,"8738,7","77,R2",0,1,0,0,1,0,2,x,1
+77,R3,3256,TRUE,0,0,0,1,0,0,0,3,4,2,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Missed algae in auto but had good cycles and decent accuracy on the lower levels,,7,"3256,7","77,R3",0,1,0,0,1,1,2,x,2
+78,B1,4607,TRUE,1,0,0,0,0,2,3,6,5,0,0,4,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Doing well in auto. Can work on both coral (L2-4) and algae. Do everything smooth and fast. Climb fast.,,7,"4607,7","78,B1",0,1,1,0,0,1,3,x,3
+78,B2,4013,TRUE,0,0,0,0,0,0,0,0,0,0,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,2,2,Seems better for algae than coral,,7,"4013,7","78,B2",0,1,0,0,1,1,2,2,2
+78,B3,4415,TRUE,2,0,0,0,0,0,6,2,4,0,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,2,"Very fast cycle time, ground intake processor for the other team",,7,"4415,7","78,B3",0,1,1,0,0,1,x,x,2
+78,R1,3255,TRUE,2,0,0,0,0,0,5,0,1,0,0,7,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"It was perfect with the alge and net shots, its coral shots were good, but they missed a few times. They also toppled over when climbing.",,7,"3255,7","78,R1",0,1,0,0,1,1,3,x,3
+78,R2,10260,TRUE,0,0,0,1,0,0,0,0,0,5,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,x,Driving is clunky and slow Just a kit bot  They should not have made it this far  Robot will just drag down other teams scores during qualification,,7,"10260,7","78,R2",0,1,0,0,1,0,1,x,x
+78,R3,5968,TRUE,1,0,0,0,0,0,2,2,0,0,2,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,1,It missed a score in the processor and had extremely slow cycles,,7,"5968,7","78,R3",0,1,0,0,1,0,1,x,1
+79,B1,4613,TRUE,0,1,0,0,0,1,0,11,5,1,0,2,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,x,failed 1 coral 2 algae. robot was hindered by its team mates blocking it. focused on filling lower levels of the reef.,,7,"4613,7","79,B1",0,1,1,0,0,0,x,x,x
+79,B2,6832,TRUE,0,0,0,0,0,0,0,0,0,2,0,0,TRUE,FALSE,FALSE,FALSE,FALSE,1,x,1,Tank bot. L1 only. too fast and the coral sometimes bounces out of the trough. Got disabled at coral station,,7,"6832,7","79,B2",1,1,0,0,0,0,1,x,1
+79,B3,6146,TRUE,0,0,0,1,0,0,7,0,0,1,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,"Elevator/ end effector is very big and hard to maneuver, takes a while to line up for scoring, missed a few l4",,7,"6146,7","79,B3",0,1,1,0,0,0,2,x,2
+79,R1,6424,TRUE,3,0,0,0,0,0,6,0,0,0,1,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Very fast during teleop, very efficient cycle, lines up to the reef very quickly. Takes a long to climb, only has a 3 coral auto",,7,"6424,7","79,R1",0,1,1,0,0,0,x,x,3
+79,R2,3284,TRUE,0,0,0,0,0,0,0,0,0,16,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,x,x,Tried algea but didnt manage to score any in processor or net lost control of the algea when they scored an l1 they described a different t l1,,7,"3284,7","79,R2",0,1,0,0,1,1,1,x,x
+79,R3,10291,TRUE,0,0,0,1,0,0,0,7,2,1,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,3,"Doesnt miss, but has slow movement and elevator. I dont think elevator goes to L4. Can score algae. Ground intake. Very consistent. Ok cycles.",,7,"10291,7","79,R3",0,1,1,0,0,1,2,x,3
+80,B1,1507,TRUE,1,0,0,0,0,0,2,2,0,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,3,2,successful auto. picked up two algae and threw i at the other side to block them. slow cycle but did pretty well at disrupting the other team.,,7,"1507,7","80,B1",0,1,1,0,0,1,2,3,2
+80,B2,2630,TRUE,3,0,0,0,0,0,4,4,2,0,0,4,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Fast climb. Very fast cycles. Sometimes the algae will bounce out. Slowest part is in taking at the coral station.,,7,"2630,7","80,B2",0,1,1,0,0,1,3,x,3
+80,B3,4451,TRUE,2,0,0,0,0,0,0,7,8,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,"Very fast cycle time, drove around fast, didnt get in teammates way, lined up to score very fast",,8,"4451,8","80,B3",0,1,0,0,1,0,3,x,3
+80,R1,302,TRUE,1,0,0,0,0,0,3,2,1,0,0,5,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,3,"Very good for high scoring as they focus primarily on the upper levels of the reef, and scoring in the net. Helped teammate get off an algae",,7,"302,7","80,R1",0,1,0,0,1,0,x,x,3
+80,R2,1833,TRUE,3,0,0,0,0,0,1,5,9,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Got beached got off easily when their alliance partner came to help fast l2 cycles. Reliable for L3 scoring, quick cycle times, and good accuracy",,7,"1833,7","80,R2",0,1,1,0,0,0,3,x,3
+80,R3,8808,TRUE,1,0,0,0,0,0,2,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,2,2,"Very slow ground intake, movement, and elevator. Very finicky outtake. Ok accuracy, but sometimes takes lots of time to aim. Defense is ok but not the best strategy for it. Defended most of game until the very end.",,7,"8808,7","80,R3",0,1,0,0,1,0,1,2,2
+81,B1,537,TRUE,1,0,0,0,0,0,3,1,1,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,successful auto. robot seemed uncoordinated in the match and was missing shots.,,7,"537,7","81,B1",0,1,0,0,1,0,2,x,2
+81,B2,900,TRUE,3,0,0,0,0,0,2,2,7,0,0,0,TRUE,FALSE,FALSE,TRUE,FALSE,3,x,2,Fast cycles. Was disabled for first half. Algae got stuck in between them and coral station during auto.,,7,"900,7","81,B2",1,1,0,0,1,0,3,x,2
+81,B3,9199,TRUE,1,0,0,0,0,0,3,2,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Missed a coral intake during auto and missed a coral in auto, took a while for them to knock off some algae,",,7,"9199,7","81,B3",0,1,0,0,1,1,2,x,2
+81,R1,10698,TRUE,0,0,0,0,0,0,1,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,1,x,"Very slow during both auto and teleop, tried to play defense during teleop, but because of their lack of speed, it didnt do much",,7,"10698,7","81,R1",0,1,0,0,1,0,x,1,x
+81,R2,4005,TRUE,1,0,0,0,0,0,5,0,1,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,"Not the worst, not the best. Decent at scoring, but cycle times are slow, and a lot of time is wasted when they're trying to aim. Very little difficulty intaking from station",,7,"4005,7","81,R2",0,1,1,0,0,0,2,x,2
+81,R3,4786,TRUE,2,0,0,0,0,0,3,6,6,1,0,2,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"Very fast cycles, very consistent, can score anything anywhere, no ground intake.",,7,"4786,7","81,R3",0,1,0,0,1,1,3,x,3
+82,B1,3297,TRUE,1,0,0,0,0,0,0,0,0,0,0,2,FALSE,TRUE,FALSE,FALSE,FALSE,x,2,x,successful auto. played defense after autonomous and scoring in the net.,,7,"3297,7","82,B1",0,1,1,0,0,0,x,2,x
+82,B2,2648,TRUE,3,0,0,0,0,0,8,1,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,Fell off cage. Missed all of the algae into the net. Fast coral cycles,,7,"2648,7","82,B2",0,1,0,0,1,1,3,x,2
+82,B3,9484,TRUE,0,0,0,0,0,0,0,6,1,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Got in their teammates way a lot, auto moved a little then didnt do anything, had trouble knocking algae off reef",,6,"9484,6","82,B3",0,1,0,0,1,1,2,x,2
+82,R1,418,TRUE,3,0,0,0,0,0,1,6,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,3,"Somewhat slow cycle time, but very accurate. Very slow climb",,7,"418,7","82,R1",0,1,0,0,1,0,x,x,3
+82,R2,3492,TRUE,1,0,0,0,0,0,0,2,5,2,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,"Cycle time is a bit slow, and aiming takes a little chunk of time, but they are reliable for lower level scoring on the reef. Does not struggle with intaking from station",,7,"3492,7","82,R2",0,1,0,0,1,0,3,x,3
+82,R3,1796,TRUE,4,0,0,0,0,0,1,3,2,0,4,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Very very fast cycles. No ground intake but very efficient station intake. Can score anything anywhere, scored two algae in BOTH processors. Good against defense. Fast movement and elevator.",,7,"1796,7","82,R3",0,1,1,0,0,1,3,x,3
+83,B1,2056,TRUE,4,0,0,0,0,0,7,7,0,0,2,6,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,sucessful auto. cleared reef an scored in net. got lots of coral after clearing algae. didnt attempt climb.,,7,"2056,7","83,B1",0,1,0,0,1,1,3,x,3
+83,B2,6348,TRUE,0,0,0,0,0,0,1,5,1,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Auto didnt drive far enough forward. Always went to their coral station. Missed one algae into processor.,,7,"6348,7","83,B2",0,1,0,0,1,1,2,x,2
+83,B3,9312,TRUE,0,0,0,0,0,0,0,0,8,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,1,"Missed a coral in auto then just sat by intake, missed a lot of l2 shots, got in their teammates way once",,7,"9312,7","83,B3",0,1,1,0,0,0,2,x,1
+83,R1,226,TRUE,2,0,0,0,0,0,1,3,2,0,0,1,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,3,"Very versatile, as it can score in the reef and the net. Got stuck on an algae for most of teleop",,7,"226,7","83,R1",0,1,0,0,1,0,x,x,3
+83,R2,6995,TRUE,1,0,0,0,0,2,3,3,2,0,2,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Reliable for higher levels scoring, great accuracy, quick cycle time, and good net scoring",,7,"6995,7","83,R2",0,1,1,0,0,0,3,x,3
+83,R3,9432,TRUE,3,0,0,0,0,0,2,6,5,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"Very accurate on coral, but barge algae accuracy is bad. Very fast cycles for coral. Great coral robot. Ok/bad algae robot.",,6,"9432,6","83,R3",0,1,1,0,0,1,3,x,2
+84,B1,3891,TRUE,0,0,0,1,0,0,1,3,3,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,1,droped coral into L1 during auto. robot seemed confused as to where to score. L4 shot lots of the time shoots the coral across the reef and into L1 sometimes. parked just in time no attempt to climb.,,7,"3891,7","84,B1",0,1,0,0,1,0,2,x,1
+84,B2,1671,TRUE,1,0,0,1,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,3,x,Defended after auto. Very pro active and doesnt just wait for them to come to the coral station,,7,"1671,7","84,B2",0,1,0,0,1,0,x,3,x
+84,B3,7197,TRUE,2,0,0,0,0,0,4,3,5,0,3,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,"Missed a coral a couple times, didnt miss any algae scoring, hit a teammate once",,7,"7197,7","84,B3",0,1,0,0,1,1,3,x,2
+84,R1,3792,TRUE,0,0,0,3,0,0,0,0,0,4,4,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Very fast and accurate, but can only score in lower point things like L1 and the coral processor",,7,"3792,7","84,R1",0,1,1,0,0,0,x,x,3
+84,R2,179,TRUE,2,0,0,0,0,0,0,0,0,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,1,x,3,"Very accurate robot, but they were having a plethora of issues with intaking algae and coral. Wasted a ton of time in the match and didn't contribute much to their alliances score...",,7,"179,7","84,R2",0,1,1,0,0,1,1,x,3
+84,R3,694,TRUE,4,0,0,0,0,0,2,8,3,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Fast cycles, can score anything anywhere, no ground intake.",,7,"694,7","84,R3",0,1,1,0,0,1,3,x,3
+85,B1,6909,TRUE,0,0,0,1,0,0,0,0,5,3,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,3,"It only scored L1 and 2, was average speed.",,7,"6909,7","85,B1",0,1,1,0,0,0,2,x,3
+85,B2,6083,TRUE,,,,,,,,,,,,,,,,,,x,x,x,,,7,"6083,7","85,B2",0,1,0,0,0,0,x,x,x
+85,B3,2438,TRUE,,,,,,,,,,,,,,,,,,x,x,x,,,7,"2438,7","85,B3",0,1,0,0,0,0,x,x,x
+85,R1,1425,TRUE,1,0,0,0,0,0,2,2,3,1,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,They had slow cycle bad algae was able to do all levels but stuggled,,7,"1425,7","85,R1",0,1,0,0,1,1,2,x,2
+85,R2,1847,TRUE,1,0,0,0,0,0,2,3,2,3,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,1,Terrible accuracy Climb failed Single coral auto Slow cycle time Poor low coral accuracy; Sometimes cycle time was on the slower side,,7,"1847,7","85,R2",0,1,0,0,1,0,2,x,1
+85,R3,5660,TRUE,1,0,0,1,0,0,3,3,2,0,0,4,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Had fast cycles and consistent algae scoring, Seems to have a few accuracy problems. Short auto and rarely goes for L4. Maybe be because other bots were handling it",,7,"5660,7","85,R3",0,1,1,0,0,1,3,x,3
+86,B1,1481,TRUE,1,0,0,0,0,0,2,1,0,1,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,It was slow and inaccurate for a good chunk of the shots.,,7,"1481,7","86,B1",0,1,0,0,1,1,2,x,2
+86,B2,649,TRUE,,,,,,,,,,,,,,,,,,x,x,x,,,7,"649,7","86,B2",0,1,0,0,0,0,x,x,x
+86,B3,78,TRUE,,,,,,,,,,,,,,,,,,x,x,x,,,7,"78,7","86,B3",0,1,0,0,0,0,x,x,x
+86,R1,6017,TRUE,0,0,0,0,0,0,0,0,0,1,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,1,1,"They played D horribly, just sat at the coral station",,7,"6017,7","86,R1",0,1,0,0,1,1,1,1,1
+86,R2,7048,TRUE,1,0,0,0,0,0,5,4,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,"Auto was supposed to be 2 L4. Missed one L4 during game. Good against defense bots. Okay cycles. Missed a lot of coral, especially in high levels.",,7,"7048,7","86,R2",0,1,0,0,1,0,2,x,2
+86,R3,1731,TRUE,2,0,0,0,0,0,4,5,0,1,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,3,"Got algae stuck in coral intake for round 20 seconds, but had very fast cycles. Really great at putting coral on the reef and can grab algae off the reef, but cant throw it into the net well. It did once and it was a great throw, but the other five-ish throws never left the out-take",,7,"1731,7","86,R3",0,1,1,0,0,1,2,x,3
+87,B1,4655,TRUE,2,0,0,0,0,0,2,0,0,0,0,4,FALSE,FALSE,FALSE,TRUE,TRUE,2,2,2,"The auto was a good 2 piece, during teleop they got coral stuck in the robot, so they went for alge, but after a few shots the just played def.",,7,"4655,7","87,B1",0,1,0,0,1,1,2,2,2
+87,B2,9301,TRUE,0,0,0,0,0,0,0,0,0,9,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,3,Just a kit bot with a climb,,7,"9301,7","87,B2",0,1,1,0,0,0,2,x,3
+87,B3,3173,TRUE,3,0,0,0,0,0,2,7,0,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,1,2,Attempted defense for round 40 ish seconds but was ineffective as they just went to the other station,,7,"3173,7","87,B3",0,1,1,0,0,1,2,1,2
+87,R1,494,TRUE,2,0,0,0,0,0,2,4,4,0,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,3,Solid algae and coral on all levels well rounded ggood at everything but no processer,,7,"494,7","87,R1",0,1,1,0,0,1,2,x,3
+87,R2,1678,TRUE,4,0,0,0,0,0,2,5,6,2,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Fast and accurate cycles.,,7,"1678,7","87,R2",0,1,1,0,0,1,3,x,3
+87,R3,4967,TRUE,0,0,0,0,0,0,2,1,0,0,4,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Put two algae into the enemy processor to force co-op ranking point. Smooth fast Cycle times, Auto didnt work",,7,"4967,7","87,R3",0,1,1,0,0,1,3,x,3
+88,B1,2129,TRUE,3,0,0,0,0,0,3,5,3,0,2,0,FALSE,FALSE,FALSE,FALSE,FALSE,3,x,3,"It was a really good bot, but there was a player playing really good def that stoped them from scoring more. Their auto is also a very good 3 piece.",,7,"2129,7","88,B1",0,1,0,0,0,0,3,x,3
+88,B2,8738,TRUE,0,0,0,0,0,0,4,2,1,0,0,2,TRUE,FALSE,FALSE,FALSE,TRUE,2,x,1,"3, coral auto but failed each one Got stuck on an algae Coral scoring was poorly placed Missed a lot",,8,"8738,8","88,B2",1,1,0,0,0,1,2,x,1
+88,B3,6832,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,1,x,Attempted defense but was ultimately too late to block intakes every time,,8,"6832,8","88,B3",0,1,0,0,1,0,x,1,x
+88,R1,6911,TRUE,1,0,0,0,0,1,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,x,2,x,"They did ok in auto but then got jammed with coral, they played defense very actively moving blocked some good intakes",,7,"6911,7","88,R1",0,1,0,0,0,1,x,2,x
+88,R2,4068,TRUE,3,0,0,0,0,0,7,3,0,0,0,2,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Missed coral in L4 one time. Consistent cycles,,7,"4068,7","88,R2",0,1,0,0,1,1,3,x,3
+88,R3,10260,TRUE,0,0,0,1,0,0,0,0,0,9,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,2,One coral auto Fitbit. No climb. No algae stuff. Can only score in trough.,,8,"10260,8","88,R3",0,1,0,0,1,0,1,x,2
+89,B1,2724,TRUE,0,2,0,0,0,2,0,3,4,1,1,1,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"They are amazing with alge, even in their auto, their coral shots are slow though.",,8,"2724,8","89,B1",0,1,0,0,1,1,3,x,3
+89,B2,8575,TRUE,0,0,0,0,0,0,4,3,3,1,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Relatively accurate, high scoring and low scoring can score algae",,8,"8575,8","89,B2",0,1,0,0,1,1,2,x,2
+89,B3,302,TRUE,3,0,0,0,0,0,9,0,3,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Had fast cycles and consistent scoring on L4,,8,"302,8","89,B3",0,1,1,0,0,1,3,x,3
+89,R1,5968,TRUE,1,0,0,0,0,0,1,2,1,1,0,0,TRUE,FALSE,FALSE,FALSE,FALSE,1,x,1,They played ok cycling but then disabled from collision I think,,8,"5968,8","89,R1",1,1,0,0,0,0,1,x,1
+89,R2,9032,TRUE,1,0,0,0,0,0,2,0,0,0,0,4,FALSE,FALSE,FALSE,FALSE,TRUE,2,x,3,Auto ended at the reef.,,7,"9032,7","89,R2",0,1,0,0,0,1,2,x,3
+89,R3,4613,TRUE,0,1,0,0,0,1,0,9,7,1,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Ground intake, similar to our bunnybots intake. Cant get up to L4. Can throw algae on its own, powerful motors, struggles to aim",,8,"4613,8","89,R3",0,1,1,0,0,1,3,x,3
+90,B1,3284,FALSE,0,0,0,0,0,1,0,0,0,0,0,8,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,"Its only an alge not, it does a good job at it. Missed only once or twice, decent speed.",,8,"3284,8","90,B1",0,0,0,0,1,1,2,x,3
+90,B2,3256,TRUE,2,0,0,0,0,0,4,6,4,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,"Good accuracy, fast cycle Time Three-Coral Auto",,8,"3256,8","90,B2",0,1,0,0,1,1,3,x,2
+90,B3,4607,TRUE,1,0,0,0,0,0,3,8,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,Average cycle time but could effectively clear the reef,,8,"4607,8","90,B3",0,1,0,0,1,1,2,x,3
+90,R1,418,TRUE,2,0,0,0,0,0,2,4,7,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,"They made all shots, they have all levels and algae like us. Their deep is iffy almost on the ground",,8,"418,8","90,R1",0,1,0,0,1,1,2,x,3
+90,R2,900,TRUE,2,0,0,1,0,0,3,5,4,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,2,"Missed coral 4 times during tele. Auto was supposed to be 3 L4, the third one fell down to L1. Could intake coral despite there being algea in between. Fast cycles.",,8,"900,8","90,R2",0,1,0,0,1,0,3,x,2
+90,R3,1507,TRUE,1,0,0,0,0,0,2,1,2,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,3,"Can take algae off the reef and score it in the net, but elevator seems to be having issues",,8,"1507,8","90,R3",0,1,1,0,0,1,2,x,3
+91,B1,6424,TRUE,3,0,0,0,0,0,5,2,1,0,2,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Can score very accurately on most levels of the reef, but has a relatively slow cycle time. Climbed very early which might mean stronger climb?",,8,"6424,8","91,B1",0,1,1,0,0,0,x,x,3
+91,B2,3255,TRUE,1,0,0,0,0,2,3,6,3,1,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Definitely one of the best. Efficiently scores coral and algae, can score a small chunk of points as they are able to remove algae from reef and score coral at the same time. Very reliable for reef filling",,8,"3255,8","91,B2",0,1,1,0,0,1,3,x,3
+91,B3,4500,TRUE,1,0,0,0,0,0,0,3,5,4,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"Missed a few L3s, not good auto alignment. Decent cycles, decent on L2-3, bad on L1. Ok on L4. No algae.",,8,"4500,8","91,B3",0,1,1,0,0,1,2,x,2
+91,R1,2056,TRUE,5,0,0,0,0,0,3,4,8,0,2,8,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Doing so well in auto. Can work on both coral and algae, working so smooth and fast. Have high accuracy, climb fast and successfully.",,8,"2056,8","91,R1",0,1,1,0,0,1,3,x,3
+91,R2,9484,TRUE,0,0,0,0,0,0,0,4,4,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,2,Climbing takes precision,,7,"9484,7","91,R2",0,1,0,0,1,0,3,x,2
+91,R3,537,TRUE,1,0,0,0,0,0,4,4,1,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Little robot, deep climb, very consistent with a good cycle time",,8,"537,8","91,R3",0,1,0,0,1,0,x,x,2
+92,B1,1369,TRUE,1,0,0,0,0,1,0,0,0,0,2,3,FALSE,FALSE,FALSE,FALSE,FALSE,x,x,2,"Primarily algae focused strategy, but had some trouble shooting it into the net during both auto and teleop.",,8,"1369,8","92,B1",0,1,0,0,0,0,x,x,2
+92,B2,4005,TRUE,0,0,0,1,0,0,4,4,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Only missed a couple game pieces, cycle time is a bit on the slower side, more reliable for L3- L2 scoring due to their struggles with aiming for L4",,8,"4005,8","92,B2",0,1,1,0,0,0,3,x,3
+92,B3,2630,TRUE,2,0,0,0,0,0,4,6,7,1,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,Missed 3 L4s in auto and 4 L4s In teleop but still scored many coral. Can do algae too. No ground intake. Very fast cycles. Has potential without missing to score about 25 or so coral.,,8,"2630,8","92,B3",0,1,1,0,0,1,3,x,2
+92,R1,6146,TRUE,0,0,0,1,0,0,2,7,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Working on corals, can work on L3-4, have higher accuracy. Climb successfully.",,8,"6146,8","92,R1",0,1,0,0,1,0,x,x,2
+92,R2,3792,TRUE,0,0,0,2,0,0,0,0,0,5,9,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Better for algae than coral, can only score in L1",,8,"3792,8","92,R2",0,1,1,0,0,1,3,x,3
+92,R3,6348,TRUE,0,0,0,0,0,0,8,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,x,"Very slow cycle time, kept ejecting coral, very very consistent, very quick deep climb",,8,"6348,8","92,R3",0,1,0,0,1,0,x,x,x
+93,B1,8808,TRUE,1,0,0,0,0,0,4,3,2,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Very slow to cycle in both auto and teleop, but somewhat accurate. Very unstable because of its weight",,8,"8808,8","93,B1",0,1,0,0,1,0,x,x,2
+93,B3,10291,TRUE,0,1,0,0,0,0,0,3,4,0,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,1,x,2,"Missed many L3s. No L4. No algae. Very slow cycles, movement, and elevator.",,8,"10291,8","93,B3",0,1,0,0,0,1,1,x,2
+93,R1,1847,TRUE,0,0,0,0,0,0,1,4,3,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,"Working on corals, can do L2-4, and have higher accuracy. Climb successfully.",,8,"1847,8","93,R1",0,1,1,0,0,0,2,x,2
+93,R2,2648,TRUE,2,0,0,0,0,0,6,1,4,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Can hold algae but cannot reach barge,,8,"2648,8","93,R2",0,1,1,0,0,1,3,x,3
+93,R3,9432,TRUE,2,0,0,0,0,0,1,5,1,0,0,3,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,x,"Can manipulate algae and coral, very consistent",,7,"9432,7","93,R3",0,1,1,0,0,0,x,x,x
+94,B1,6083,TRUE,1,0,0,0,0,0,2,2,2,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,1,2,"Mediocre auto, looks a bit rough. The driver takes things very slow, motions are not quick, and random harmful/inefficient moves were made. Gave up on scoring and went to play defense. The opposing bots avoided the bot extremely easily, defence had no effect.",,8,"6083,8","94,B1",0,1,0,0,1,0,2,1,2
+94,B2,78,TRUE,1,0,0,0,0,0,0,1,4,0,0,2,FALSE,TRUE,FALSE,TRUE,TRUE,2,x,2,"I missed a few seconds because I was looking at the wrong robot. Most reliable for L3-L2 scoring, unable to do L4- missed every piece they tried to score. Okay at net scoring, missed most of them. Good speed",,8,"78,8","94,B2",0,1,1,0,1,1,2,x,2
+94,B3,6995,TRUE,3,0,0,0,0,0,3,4,0,0,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Attempted several shots to the net and missed but had a fast ground intake and could quickly clear the reef,,8,"6995,8","94,B3",0,1,0,0,1,1,2,x,2
+94,R1,1833,TRUE,3,0,0,0,0,0,1,4,4,8,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Doing well in auto. Working on coral ( all level).Can pick them up from the ground and put it on L1. Do things fast and well. Climb fast.,,8,"1833,8","94,R1",0,1,0,0,1,1,3,x,3
+94,R2,4786,TRUE,2,0,0,0,0,0,3,4,2,0,1,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,Scores on l4 very easily and can put algae in processor,,8,"4786,8","94,R2",0,1,0,0,1,1,3,x,2
+94,R3,179,TRUE,0,0,0,0,0,0,3,4,3,0,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,3,"Auto was broken, very fast cycle time, ground intake, deep climb.",,8,"179,8","94,R3",0,1,1,0,0,1,x,x,3
+95,B1,4421,TRUE,3,0,0,0,0,0,1,0,0,0,0,0,TRUE,FALSE,FALSE,TRUE,FALSE,x,x,3,"Had a really good 3 cycle auto, but robot malfunctioned in the transition to teleop, and was disabled until the end of teleop",,8,"4421,8","95,B1",1,1,0,0,1,0,x,x,3
+95,B2,9312,TRUE,0,0,1,0,0,0,0,0,7,3,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,"Good cycle time, very reliable for L2-L1 scoring. Didn't miss very many of their game pieces when scoring. Heavily reliant on lower level scoring (doesn't have L3 or L4 capabilities)",,8,"9312,8","95,B2",0,1,0,0,1,0,3,x,3
+95,B3,7257,TRUE,2,0,0,0,0,0,5,4,1,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,Missed a couple but generally pretty consistent and not wobbly. Slow movement and elevator. Finicky outtake.,,8,"7257,8","95,B3",0,1,1,0,0,1,2,x,2
+95,R1,3492,TRUE,1,0,0,0,0,0,0,4,3,2,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Working on corals, can do L2-4. Have lower accuracy. Didnt try to climb.",,8,"3492,8","95,R1",0,1,0,0,1,0,x,x,2
+95,R2,4415,TRUE,2,0,0,0,0,0,9,2,0,0,0,3,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Puts algae into barge by throwing it. Might bounce out,,8,"4415,8","95,R2",0,1,0,0,1,1,2,x,2
+95,R3,9301,TRUE,0,0,0,0,0,0,0,0,0,6,3,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,"Only scores in processor and L1, small robot, deep climb",,8,"9301,8","95,R3",0,1,1,0,0,0,x,x,2
+96,B1,7197,TRUE,2,0,0,0,0,0,1,3,0,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,3,x,"Very slow cycling in both auto and teleop, got a coral stuck in their elevator halfway through teleop, and had to play defense. I like their orca :)",,8,"7197,8","96,B1",0,1,0,0,1,0,x,3,x
+96,B2,494,TRUE,2,0,0,0,0,0,3,3,6,0,1,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,"Very balanced robot. Reliable for decently quick and accurate scoring, can handle lower levels pretty easily, and doesn't have problems with intaking at station. Does take a little bit to aim",,8,"494,8","96,B2",0,1,0,0,1,0,3,x,3
+96,B3,4013,TRUE,1,0,0,0,0,0,0,1,1,0,1,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,x,1,Has trouble with coral intake and outtake. Very finicky. Slow movement and elevator and cycles.,,8,"4013,8","96,B3",0,1,0,0,1,1,1,x,1
+96,R1,1481,TRUE,1,0,0,0,0,0,2,4,2,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"Working on corals, have higher accuracy. Can do L2-4. Climbing fast and successfully.",,8,"1481,8","96,R1",0,1,1,0,0,1,2,x,2
+96,R2,2438,TRUE,2,0,0,0,0,0,1,5,4,2,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,Auto scores 3 L4 but sometimes misses 1st,,8,"2438,8","96,R2",0,1,0,0,1,1,3,x,2
+96,R3,1796,TRUE,4,0,0,0,0,0,3,1,5,0,1,2,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,3,"Has a 5 coral auto but only got 4, fan manipulate both game pieces, deep climb",,8,"1796,8","96,R3",0,1,1,0,0,1,x,x,3
+97,B1,1678,TRUE,,,,,,,,,,,,,FALSE,FALSE,FALSE,FALSE,TRUE,2,x,3,They can do all levels including net,,8,"1678,8","97,B1",0,1,0,0,0,1,2,x,3
+97,B2,7048,TRUE,1,0,0,0,0,0,3,2,2,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,x,1,Got high centered slowed down in driving for like ten seconds could be robot or not knowing where to go,,8,"7048,8","97,B2",0,1,0,0,0,0,2,x,1
+97,B3,3297,TRUE,1,0,0,0,0,1,2,1,3,0,3,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"Alright little bot, not the best, not the worst. A bit rickety, driving is alright though.",,8,"3297,8","97,B3",0,1,1,0,0,1,2,x,2
+97,R1,6909,TRUE,0,0,0,0,0,0,0,0,2,5,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,1,no attempt to score in auto. this robot couldnt score much becasue their L3 fell to L1 their l2 and L1 were quite innaccurate.,,8,"6909,8","97,R1",0,1,1,0,0,0,2,x,1
+97,R2,226,TRUE,2,0,0,0,0,0,4,5,4,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Fast algae removal. Fast intake. Very fast alignment,,8,"226,8","97,R2",0,1,1,0,0,1,3,x,3
+97,R3,6911,TRUE,1,0,0,0,0,1,0,0,0,0,2,4,FALSE,FALSE,FALSE,FALSE,TRUE,2,x,1,"Algae bounded out of net in auto, also bounded out and missed multiple times during teleop, got stuck on algae but got rescued by teammate",,8,"6911,8","97,R3",0,1,0,0,0,1,2,x,1
+98,B2,5660,TRUE,2,0,0,0,0,0,2,4,4,1,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,x,The l1 was supposed to be l2 but they hit the branch and fell down.,,8,"5660,8","98,B2",0,1,1,0,0,1,2,x,x
+98,B3,4068,TRUE,3,0,0,0,0,0,3,4,6,0,0,3,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"A capable robot, does it's job fairly well, and can adapt to suit many needs. The robot moves about the field with some intent.",,8,"4068,8","98,B3",0,1,0,0,1,1,3,x,3
+98,R1,4451,TRUE,1,0,0,0,0,2,1,5,5,3,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,good auto.focused on cycling lower corals.went to barge with 20 secs left. was hindered by team mates taking up space on reef and coral stations.,,9,"4451,9","98,R1",0,1,1,0,0,0,3,x,3
+98,R2,4967,TRUE,2,0,0,0,0,0,3,2,6,1,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Algae throw into net is not accurate. Fast coral scoring. Fast intake and handoff. Started browning out on way to cage. L2 and l3 may be off( couldnt see on other side of the reef),,8,"4967,8","98,R2",0,1,0,0,1,1,2,x,2
+98,R3,1731,TRUE,3,0,0,0,0,0,2,5,5,1,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Knocked a coral off during auto, missed a net shot in teleop, fast cycle time, didnt get in teammates way",,8,"1731,8","98,R3",0,1,1,0,0,1,3,x,3
+99,B1,3891,TRUE,0,0,0,0,0,0,0,7,1,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,"They have good accuracy in tele, they can do all levels ok cycle time slow alignment",,8,"3891,8","99,B1",0,1,0,0,1,0,2,x,2
+99,B2,1425,TRUE,3,0,0,0,0,0,1,1,6,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,x,Tried processor for ~ 15 seconds then gave up and tried net but it bounced out before going to fill in the reef,,8,"1425,8","99,B2",0,1,1,0,0,0,2,x,x
+99,B3,4655,TRUE,3,0,0,0,0,0,4,3,1,0,1,4,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Three coral auto, fast cycle time, can throw algae into net consistently. Ground algae intake",,8,"4655,8","99,B3",0,1,1,0,0,1,3,x,3
+99,R1,2129,TRUE,3,0,0,0,0,0,4,6,4,0,1,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,failed 4 coral auto. overall very fast cycle bot. cleared algae but only scored one at the end for coopertition. no attempt to climb,,8,"2129,8","99,R1",0,1,0,0,1,1,3,x,3
+99,R2,9280,TRUE,1,0,0,0,0,0,3,2,4,1,1,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,L1 is not accurate. Algae is a bit high so it gets stuck on lip of processor. Drives slowly,,8,"9280,8","99,R2",0,1,0,0,1,1,2,x,2
+99,R3,6017,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,1,1,1,"Missed one coral at start of match, defense didnt stop robots from intaking coral much, did 2 pinning fouls on blue",,8,"6017,8","99,R3",0,1,1,0,0,0,1,1,1
+100,B1,10698,TRUE,0,0,0,0,0,0,2,0,0,0,0,0,TRUE,FALSE,FALSE,FALSE,FALSE,1,x,1,They played auto moving off the line. Then score 2 and disabled when scoring it was very slow alignment,,8,"10698,8","100,B1",1,1,0,0,0,0,1,x,1
+100,B3,649,TRUE,0,0,0,0,0,0,4,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,3,"Has ground intake, doesnt seem too consistent.",,8,"649,8","100,B3",0,1,1,0,0,0,2,x,3
+100,B3,3173,TRUE,3,0,0,0,0,0,0,5,1,0,2,0,FALSE,TRUE,FALSE,FALSE,TRUE,1,x,x,Started having trouble driving with about a minute left it went in and out stopping to turning without a method struggled with elevator as well,,8,"3173,8","100,B3",0,1,1,0,0,1,1,x,x
+100,R1,1671,TRUE,0,0,0,0,0,0,2,3,3,0,1,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,1 coral auto failed. scored some but failed to score in the net. went to barge with 26 seconds extra and failed to climb.,,8,"1671,8","100,R1",0,1,0,0,1,1,2,x,2
+100,R2,694,TRUE,3,0,0,0,0,0,4,5,6,1,1,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Very fast. Very fast climb. Very fast scoring and intake. Fast algae collection and scoring.,,8,"694,8","100,R2",0,1,1,0,0,1,3,x,3
+100,R3,694,TRUE,3,0,0,0,0,0,3,6,6,1,1,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Missed 2 algae shots, didnt miss any coral, very fast cycle time, almost got 4 coral auto, drove fast",,9,"694,9","100,R3",0,1,1,0,0,1,3,x,3
+101,B1,8808,TRUE,1,0,0,0,0,0,2,3,2,1,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"They missed a few, a weird alignment but can go all  Levels ground intake",,9,"8808,9","101,B1",0,1,0,0,1,1,2,x,2
+101,B2,5968,TRUE,1,0,0,1,0,0,3,3,2,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,x,2,Missed putting coral in reef 3 times. Auto was supposed to be 2L4s second one fell down to L1. Slow elevator and cycles were on the slower side but the consistency was okay.,,9,"5968,9","101,B2",0,1,0,0,0,0,2,x,2
+101,B3,2648,TRUE,1,0,0,0,0,0,4,4,2,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,Tried to Deep Climb but couldnt. Has a grabber for algae but algae kept falling out when lifting.,,9,"2648,9","101,B3",0,1,0,0,1,1,3,x,2
+101,R1,6832,TRUE,0,0,0,1,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,x,1,x,good auto. got disabled after trying defense.,,9,"6832,9","101,R1",0,1,0,0,0,0,x,1,x
+101,R2,900,TRUE,3,0,0,0,0,0,9,5,2,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Fast intake thanks to big funnel. Very accurate alignment.,,9,"900,9","101,R2",0,1,0,0,1,1,3,x,3
+101,R3,3792,TRUE,0,0,0,2,0,0,0,0,0,8,4,0,FALSE,FALSE,FALSE,FALSE,TRUE,2,x,1,"Missed a coral l1 in auto, climbed but fell, worked well around teammates, very fast cycle time for l1",,9,"3792,9","101,R3",0,1,0,0,0,1,2,x,1
+102,B1,3256,TRUE,2,0,0,0,0,0,6,4,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,3,They have all levels and have good alignment,,9,"3256,9","102,B1",0,1,1,0,0,0,2,x,3
+102,B2,1369,TRUE,1,0,0,0,0,2,0,0,0,0,2,2,FALSE,FALSE,FALSE,FALSE,TRUE,1,x,2,Missed in processor 4 times. Dropped 4 algae while driving toward the barge and spent a long time trying to pick them up.,,9,"1369,9","102,B2",0,1,0,0,0,1,1,x,2
+102,B3,1847,TRUE,0,0,0,0,0,0,0,4,5,1,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,Two coral auto that missed twice. Had accuracy and alignment issues at the start,,9,"1847,9","102,B3",0,1,1,0,0,0,2,x,2
+102,R1,8575,TRUE,0,2,0,0,0,0,0,8,1,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,good auto. good for L3 but cant do L2 consistently. removed one algae in auto.,,9,"8575,9","102,R1",0,1,0,0,1,1,3,x,2
+102,R2,3284,TRUE,0,0,0,0,0,1,0,0,0,1,0,4,FALSE,FALSE,FALSE,TRUE,TRUE,2,2,2,"Can only score l1. Can only get algae from reef, not ground. Went to play defense and was okay.",,9,"3284,9","102,R2",0,1,0,0,1,1,2,2,2
+102,R3,6995,TRUE,1,0,0,0,0,0,11,3,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,2,"Failed to intake a coral during auto so only scored 1, missed a few l4 but then locked in, worked well around teammates, fast ground intake cycle time",,9,"6995,9","102,R3",0,1,1,0,0,0,3,x,2
+103,B1,9432,TRUE,2,0,0,0,0,0,4,4,5,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Doing well in auto. Can work on both algae and coral. Aiming fast and have high accuracy. Climb fast.,,8,"9432,8","103,B1",0,1,1,0,0,1,3,x,3
+103,B2,4415,TRUE,1,0,0,0,0,2,2,2,3,0,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Algae claw is better for processor than barge,,9,"4415,9","103,B2",0,1,0,0,1,1,3,x,3
+103,B3,418,TRUE,0,0,0,0,0,0,3,3,3,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Broken auto,fast cycle time, can manipulate both game pieces",,9,"418,9","103,B3",0,1,0,0,1,0,x,x,2
+103,R1,537,TRUE,1,0,0,0,0,0,3,5,2,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,3,"It wasnt fast, but it was able to make shots pretty well.",,9,"537,9","103,R1",0,1,1,0,0,0,2,x,3
+103,R2,4005,TRUE,1,0,0,0,0,0,0,0,0,0,1,0,FALSE,FALSE,FALSE,TRUE,TRUE,1,1,1,Got one coil in auto Immediately got a coral stuck in robot Not good at algae,,9,"4005,9","103,R2",0,1,0,0,1,1,1,1,1
+103,R3,1833,TRUE,2,0,0,0,0,0,0,0,7,6,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,3,Mostly scored on lower levels and was very fast with quick cycles,,9,"1833,9","103,R3",0,1,1,0,0,1,2,x,3
+104,B1,2438,TRUE,2,0,0,0,0,0,3,6,4,3,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"Doing fine in auto. Working on corals, have high accuracy. Can do L2-4. Didnt try climbing.",,9,"2438,9","104,B1",0,1,0,0,1,1,3,x,3
+104,B2,7034,TRUE,2,0,0,0,0,0,5,6,2,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Coral cycling takes 4.7 seconds,,8,"7034,8","104,B2",0,1,0,0,1,1,3,x,3
+104,B3,78,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,2,x,"defense clearly not their strength. They did okay, didn't get penalties, but robots could get around them without too much difficulty",,9,"78,9","104,B3",0,1,0,0,1,0,x,2,x
+104,R1,9032,TRUE,1,0,0,0,0,1,11,0,0,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"It was quick and only missed once, it could also score in the net with no misses.",,8,"9032,8","104,R1",0,1,0,0,1,1,3,x,3
+104,R2,10260,TRUE,0,0,0,0,0,0,0,0,0,6,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,2,Its a kit bot  It shouldnt be at worlds,,9,"10260,9","104,R2",0,1,0,0,1,0,1,x,2
+104,R3,9484,TRUE,0,0,0,0,0,0,0,0,1,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,2,A coral got stuck below the outtake and broke the elevator. Had intake problems before breaking down completely and going to endgame,,8,"9484,8","104,R3",0,1,0,0,1,0,1,x,2
+105,B1,6911,TRUE,1,0,0,0,0,2,0,0,0,0,2,6,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,x,"Doing well in auto. Mostly work on algae. Can hold it well and put them in net, also in process. Climb successfully.",,9,"6911,9","105,B1",0,1,1,0,0,1,3,x,x
+105,B2,7048,TRUE,1,0,0,0,0,0,4,4,3,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,1,Missed quite a few coral. Unable to interact with algae,,9,"7048,9","105,B2",0,1,1,0,0,0,2,x,1
+105,B3,1481,TRUE,2,0,0,0,0,0,3,2,0,3,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,Slow cycle time but extremely consistent,,9,"1481,9","105,B3",0,1,1,0,0,0,x,x,2
+105,R1,2630,TRUE,2,0,0,0,0,0,4,4,2,3,0,5,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,"Very fast, and it has crazy fast cycles, but it misses a fair amount. It can score everywhere but processor as far as I can tell.",,9,"2630,9","105,R1",0,1,0,0,1,1,3,x,2
+105,R2,7257,TRUE,2,0,0,0,0,0,1,4,3,1,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,Filled the reef Didnt miss at all  Fast cycle time,,9,"7257,9","105,R2",0,1,1,0,0,0,3,x,3
+105,R3,179,TRUE,1,1,0,0,0,0,1,3,3,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,1,x,2,Missed a couple shots on the lower levels while still being rather slow,,9,"179,9","105,R3",0,1,1,0,0,0,1,x,2
+106,B1,8738,TRUE,3,0,0,0,0,0,1,5,4,0,0,2,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Working well in auto. Can work on both coral and algae. Can do all level of coral but have more miss on L1. Didnt try to climb.,,9,"8738,9","106,B1",0,1,0,0,1,1,3,x,3
+106,B2,4967,TRUE,0,0,0,0,0,1,0,4,5,1,2,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"Algae intake is also coral outtake, but coral intake so a funnel",,9,"4967,9","106,B2",0,1,1,0,0,1,3,x,2
+106,B3,4607,TRUE,1,0,0,0,0,0,4,4,0,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,x,"Can manipulate both game pieces, very fact cycle time, deep climb.",,9,"4607,9","106,B3",0,1,1,0,0,1,x,x,x
+106,R1,4421,TRUE,3,0,0,0,0,0,1,0,0,0,2,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,3,3,"Very good 3 piece auto, fast cycles, can score in processor and remove alge, but that was on the slower side. For some reason it played def after a bit.",,9,"4421,9","106,R1",0,1,1,0,0,0,3,3,3
+106,R2,494,TRUE,2,0,0,0,0,0,2,3,2,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,2,Poor coral placement,,9,"494,9","106,R2",0,1,0,0,1,0,2,x,2
+106,R3,6348,TRUE,0,0,0,0,0,0,1,3,1,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,1,x,2,Missed a few shots and was very slow in getting algae off the reef,,9,"6348,9","106,R3",0,1,0,0,1,1,1,x,2
+107,B1,1678,TRUE,2,0,0,0,0,0,5,7,7,0,3,4,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Working fine in auto. Can work on both coral and algae. Can pick up coral on the ground, aiming fast and have high accuracy. Doing everything fast and well. Climbed.",,9,"1678,9","107,B1",0,1,1,0,0,1,3,x,3
+107,B2,5660,TRUE,3,0,0,0,0,0,1,4,5,0,0,4,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Very fast algae intake, coral outtake is very precise and scores almost every time. Unable to score L1",,9,"5660,9","107,B2",0,1,1,0,0,1,3,x,3
+107,B3,6017,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,2,x,"Had no auto or game pieces, played defense the whole time",,9,"6017,9","107,B3",0,0,1,0,0,0,x,2,x
+107,R1,4786,TRUE,3,0,0,0,0,0,1,5,6,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Very fast and accurate cycles with zero misses, including a 3 coral auto.",,9,"4786,9","107,R1",0,1,1,0,0,1,3,x,3
+107,R2,1796,TRUE,3,0,0,0,0,0,3,3,1,0,0,5,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,1,Good algae accuracy  Descored a bunch of coral  Elevator bugged out,,9,"1796,9","107,R2",0,1,1,0,0,1,3,x,1
+107,R3,1507,TRUE,1,0,0,0,0,0,2,3,2,0,2,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,Missed its attempts into the net and had average cycles,,9,"1507,9","107,R3",0,1,1,0,0,0,2,x,2
+108,B1,4613,TRUE,0,0,0,0,0,2,0,9,4,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,2,Doing fine in auto. Can work on both algae and coral. Sometimes overshoot (to the net). Have higher accuracy. Didnt climb successfully (might need more time),,9,"4613,9","108,B1",0,1,0,0,1,1,3,x,2
+108,B2,226,TRUE,0,0,0,0,0,0,5,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Kept missing on L2. Algae arm sometimes throws it over the barge,,9,"226,9","108,B2",0,1,0,0,1,1,2,x,2
+108,B3,10698,TRUE,0,0,0,0,0,0,6,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,x,"Arcade drive, no coral auto just goes forwards very consistent",,9,"10698,9","108,B3",0,1,1,0,0,0,x,x,x
+108,R1,4068,TRUE,3,0,0,0,0,0,3,2,1,0,0,5,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"It has a good 3 piece auto and is able to remove and score alge in the net with minimal effort, only missing a few times.",,9,"4068,9","108,R1",0,1,0,0,1,1,3,x,3
+108,R2,3891,TRUE,0,0,0,0,0,0,0,8,0,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,3,Very consistent L3 scoring Fast cycle time,,9,"3891,9","108,R2",0,1,0,0,1,0,2,x,3
+108,R3,9280,TRUE,0,0,0,0,0,0,5,0,2,1,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,1,x,1,Missed several shots and couldnt climb,,9,"9280,9","108,R3",0,1,0,0,0,0,1,x,1
+109,B1,6146,TRUE,0,0,0,0,0,0,5,0,0,1,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,1,failed 2 coral. near the end started dropping all their coral and one fell into L1.,,9,"6146,9","109,B1",0,1,1,0,0,0,2,x,1
+109,B2,2724,TRUE,0,1,0,0,0,2,0,6,2,0,0,4,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,Accurate algae net scoring. Ran out of time right as they climbed. Fast ground intake,,9,"2724,9","109,B2",0,1,0,0,1,1,2,x,3
+109,B3,4013,FALSE,0,0,0,0,0,0,0,0,0,0,2,0,FALSE,FALSE,FALSE,FALSE,TRUE,2,1,2,"Auto didnt do anything, scored in processor then played defense but other team could get around them",,9,"4013,9","109,B3",0,0,0,0,0,1,2,1,2
+109,R1,7525,TRUE,2,0,0,0,0,0,3,0,0,2,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,2,2,"Very zippy, but lacking in solid accuracy.  The robot had some tech problems during teleop and had to play defense",,8,"7525,8","109,R1",0,1,0,0,1,0,x,2,2
+109,R2,4451,TRUE,2,0,0,0,0,0,3,2,1,0,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Might be wrong score, since I'm not sure if I was looking at the right robot for a bit of the match.. Good cycle time, accurate scoring that didn't miss very often, reliable for higher level scoring",,10,"4451,10","109,R2",0,1,1,0,0,1,3,x,3
+109,R3,9301,TRUE,0,0,0,1,0,0,0,0,0,9,2,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,"Missed a few, and has decent cycles. Only L1 and processor. Essentially smaller perimeter kit bot with processor and deep climb. No ground intake.",,9,"9301,9","109,R3",0,1,1,0,0,0,2,x,2
+110,B1,10291,TRUE,0,1,0,0,0,0,0,1,2,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,1,x,1,failed 1 coral 1 algae. this robot struggled to properly intake and kept eating and spitting out coral. also scored coral often bounced. the drive speed was also quite slow.,,9,"10291,9","110,B1",0,1,1,0,0,0,1,x,1
+110,B2,9199,TRUE,2,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,x,1,1,Coral got stuck beneath elevator and never came out so they went to play defense but just drove back and forth.,,8,"9199,8","110,B2",0,1,0,0,1,1,x,1,1
+110,B3,1671,TRUE,1,0,0,0,0,0,4,1,1,2,1,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Missed 2 coral in auto, missed a few in teleop, medium speed cycle time",,9,"1671,9","110,B3",0,1,0,0,1,1,2,x,2
+110,R1,1425,TRUE,2,0,0,0,0,0,1,3,6,1,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"A very well rounded coral scorer with a good speed, and relatively high accuracy.",,9,"1425,9","110,R1",0,1,1,0,0,0,x,x,3
+110,R2,2056,TRUE,0,0,0,0,0,0,2,5,1,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Oh my gosh. So sorry, missed a lot of the match, got distracted with helping a guest with finding a seat. Then I lost the robot.. 100% my fault. From what I saw, good efficency, accuracy is great, reliable for all around scoring for coral",,9,"2056,9","110,R2",0,1,1,0,0,0,3,x,3
+110,R3,3297,TRUE,1,0,0,0,0,1,0,0,0,0,1,4,FALSE,TRUE,FALSE,FALSE,TRUE,1,x,2,"Missed a few algae in net. Mainly does algae. Slow cycles, movement, and arm speed. Can do anything anywhere.",,9,"3297,9","110,R3",0,1,1,0,0,1,1,x,2
+111,B1,6083,TRUE,1,0,0,0,0,0,2,1,2,0,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,good auto. kind of slow drive speed. kept switching between processor and coral. kept scoring till the last second.,,9,"6083,9","111,B1",0,1,0,0,1,1,2,x,3
+111,B2,3255,TRUE,1,0,0,0,0,0,4,5,1,0,0,5,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Very fast climb. Moves very slowly to align. Can get algae while going up to score coral.,,9,"3255,9","111,B2",0,1,1,0,0,1,3,x,3
+111,B3,3492,TRUE,1,0,0,0,0,0,0,5,3,1,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,x,2,"Fast cycle time, missed a few coral scores, had a little trouble intaking coral",,9,"3492,9","111,B3",0,1,0,0,0,0,2,x,2
+111,R1,7197,TRUE,2,0,0,0,0,0,4,2,4,1,1,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,2,"Can handle both game pieces, but is only really optimized for coral on L4 through L2. I like their orca :)",,9,"7197,9","111,R1",0,1,0,0,1,0,x,x,2
+111,R2,3173,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,x,x,x,The robot was not on the field during the match. Unsure what happened or why,,9,"3173,9","111,R2",0,0,0,0,0,0,x,x,x
+111,R3,302,TRUE,3,0,0,0,0,0,3,4,1,0,1,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,Has trouble on L2. But L3 and L4 are very strong as well as processor and barge. Can score anything anywhere. Good cycles.,,9,"302,9","111,R3",0,1,1,0,0,1,3,x,2
+112,B1,4500,TRUE,3,0,0,0,0,0,1,6,4,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,"good auto. locked in on cycling mid match, before was kinda slow. bounced out some coral when scoring. removed a single algae at the start.",,9,"4500,9","112,B1",0,1,1,0,0,1,3,x,2
+112,B2,4655,TRUE,3,0,0,0,0,0,2,2,4,0,2,1,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,Fast alignment. Easy intake thanks to funnel. Fast climb.  Cycles arent that fast,,9,"4655,9","112,B2",0,1,1,0,0,1,2,x,2
+112,B3,6909,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,1,1,1,"Auto didnt do anything except move, had lots of trouble intaking coral it would come in at angle or not intake at all, missed any shots they did take, drove slow, committed 3 fouls on red team",,9,"6909,9","112,B3",0,1,0,0,0,0,1,1,1
+112,R1,9312,TRUE,0,0,0,2,0,0,0,0,1,4,1,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,"Only focuses on the lower scoring opportunities, and has a lower than average accuracy because they are slightly unstable",,9,"9312,9","112,R1",0,1,1,0,0,0,x,x,2
+112,R2,1731,TRUE,3,0,0,0,0,0,3,6,2,1,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Great cycle time, efficiently scores, well balanced robot",,9,"1731,9","112,R2",0,1,1,0,0,1,3,x,3
+112,R3,694,TRUE,3,0,0,0,0,0,3,6,4,2,1,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Very very fast cycles. Can score anything anywhere. Ground intake for only L1. Station for L2-L4. Very consistent. Doesnt miss.,,10,"694,10","112,R3",0,1,1,0,0,1,3,x,3
+113,B1,2129,TRUE,1,0,0,0,0,0,2,5,4,1,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,failed 3 coral. removed a single algae and that was to make room. kept cyling till the last moment. no attempt to climb.,,9,"2129,9","113,B1",0,1,0,0,1,1,3,x,3
+113,B2,9032,TRUE,1,0,0,0,0,1,2,2,3,1,0,3,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Fast ground coral intake. Algae is accurate. Quick. Never stops to figure out what to do,,9,"9032,9","113,B2",0,1,0,0,1,1,2,x,2
+113,B3,179,TRUE,1,1,0,0,0,0,2,4,5,1,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Missed a coral in auto, auto goes around back of reef, fast ground intake, work well with teammates",,10,"179,10","113,B3",0,1,1,0,0,1,3,x,3
+113,R1,4415,TRUE,1,0,0,0,0,0,2,2,5,0,0,5,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Broke down during auto, but preformed very well during teleop, as they were able to score very well on the reef, and into the net",,10,"4415,10","113,R1",0,1,1,0,0,0,x,x,3
+113,R2,6424,TRUE,3,0,0,0,0,0,3,6,3,0,3,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Very efficient robot, reliable for quickly filling the reef and scoring on all levels. Climb is pretty quick",,9,"6424,9","113,R2",0,1,1,0,0,0,3,x,3
+113,R3,649,TRUE,1,0,0,0,0,0,2,2,0,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,1,x,1,Missed about half. Very slow cycles. Cant get coral out of robot if it gets in it. No algae. Ground intake. Slow movement.,,9,"649,9","113,R3",0,1,1,0,0,1,1,x,1
+114,B1,6832,TRUE,0,0,0,0,0,0,0,0,0,2,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,1,failed 1 coral. seemed very confused and seemed to just wander during the match. didnt really seem to be able to do much with coral falling out while it drives and scores. did not attempt to climb.,,10,"6832,10","114,B1",0,1,0,0,1,0,1,x,1
+114,B2,7048,TRUE,2,0,0,0,0,0,7,4,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,Takes time to align climb. Climb doesnt go very high. Very accurate l4 scoring. Easy intake from coral station,,10,"7048,10","114,B2",0,1,1,0,0,0,3,x,3
+114,B3,3256,TRUE,1,0,0,0,0,0,2,5,1,0,0,2,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,"Missed a coral in auto, missed a few algae shots, had a little trouble intaking coral, hit teammates once but not their fault",,10,"3256,10","114,B3",0,1,1,0,0,0,2,x,2
+114,R2,9484,TRUE,0,0,0,0,0,0,1,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,x,"Not quite disabled, but they were having pretty bad problems with their robot. It was moving very slowly, and it looked like they couldn't move their elevator. Did not score a single piece besides that one coral on L4",,9,"9484,9","114,R2",0,1,0,0,1,0,x,x,x
+114,R3,4607,TRUE,3,0,0,0,0,0,3,5,1,0,0,4,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Fast cycles. Fast movement. Can score anything anywhere. No ground intake.,,10,"4607,10","114,R3",0,1,1,0,0,1,3,x,3
+115,B1,5660,TRUE,3,0,0,0,0,0,5,5,5,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,It missed only once and could score everywhere but the processor. Fast cycles.,,10,"5660,10","115,B1",0,1,1,0,0,1,3,x,3
+115,B2,4421,TRUE,0,0,0,0,0,0,2,1,2,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,1,Poor accuracy Poor coral placement Slow cycle time Climb completely snapped off Auto failed twice,,10,"4421,10","115,B2",0,1,0,0,1,1,2,x,1
+115,B3,3284,TRUE,0,0,0,1,0,1,0,0,0,12,0,7,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,Very good at scoring in L1 and in the net with use of ground intake,,10,"3284,10","115,B3",0,1,0,0,1,1,3,x,3
+115,R1,1833,TRUE,3,0,0,0,0,0,0,4,4,2,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Good cycles on all levels,,10,"1833,10","115,R1",0,1,0,0,1,1,2,x,2
+115,R2,1481,TRUE,1,0,0,0,0,0,2,4,3,1,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,3,"Auto also (barely)removed one algae. The L1 score in tele was an accident, it was meant to be L4. A bit slow but consistent.",,10,"1481,10","115,R2",0,1,1,0,0,1,2,x,3
+115,R3,2648,TRUE,1,0,0,0,0,0,2,3,3,0,0,2,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Two coral auto. Stability issues that screwed up the auto,,10,"2648,10","115,R3",0,1,1,0,0,1,3,x,3
+116,B1,900,TRUE,2,0,0,0,0,0,2,3,5,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,1,"They were fast, but they missed a ton of shots on the reef in both auto and teleop.",,10,"900,10","116,B1",0,1,0,0,1,0,2,x,1
+116,B2,1796,TRUE,4,0,0,0,0,0,3,2,1,0,2,2,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,3,Very fast cycle time Good algae scoring Consistent L4 and L3 scoring Hit the net twice,,10,"1796,10","116,B2",0,1,1,0,0,1,2,x,3
+116,B3,10260,TRUE,0,0,0,1,0,0,0,0,0,3,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,1,3,"Just a kit bot, attempted defense by blocking a coral station but was ineffective due to ground intakes",,10,"10260,10","116,B3",0,1,0,0,1,0,1,1,3
+116,R1,4613,TRUE,0,0,0,0,0,2,0,9,6,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,x,x,x,They had super fast cycles up to L3 and algae in both,,10,"4613,10","116,R1",0,1,0,0,1,1,x,x,x
+116,R2,1369,TRUE,1,0,0,0,0,0,0,0,0,0,0,3,FALSE,FALSE,FALSE,FALSE,TRUE,1,x,2,"Missed in net 2 times. Auto was supposed to be 2 L4 but for the second one the coral didnt intake. Went to the other alliance to collect algae, then came back and then went to a he other alliance again: not consistent at all.",,10,"1369,10","116,R2",0,1,0,0,0,1,1,x,2
+116,R3,6995,TRUE,1,0,0,0,0,0,9,2,1,0,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Great boy. Driver had some alignment issues at the start but quickly recovered. Auto could have been longer, but no one fed it coral. Accidentally watched 4613 for a tad",,10,"6995,10","116,R3",0,1,1,0,0,1,3,x,3
+117,B1,537,TRUE,0,0,0,0,0,0,1,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,2,x,"Auto moved forward, then they played def the whole time. Their def was ok, they got in the way, but werent really amazing at it. They scored one at the end though",,10,"537,10","117,B1",0,1,1,0,0,0,x,2,x
+117,B2,1847,TRUE,0,0,0,0,0,0,5,0,0,1,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,1,Missed coral on L4 very often Slow cycle time Intake failed often,,10,"1847,10","117,B2",0,1,1,0,0,1,2,x,1
+117,B3,6911,TRUE,0,0,0,0,0,1,0,0,0,0,0,10,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Very good at grabbing and accurately scoring algae,,10,"6911,10","117,B3",0,1,1,0,0,1,3,x,3
+117,R1,4967,TRUE,3,0,0,0,0,0,7,3,1,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,3,They could cycle slowly and algae was tried in the net but failed,,10,"4967,10","117,R1",0,1,1,0,0,0,2,x,3
+117,R2,3891,TRUE,0,0,0,0,0,0,0,6,3,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,2,x,3,"Auto was supposed to be 2 L4s, missed both and ended with a coral near the coral station. Missed one coral. Continued to cycle in the end game.",,10,"3891,10","117,R2",0,1,0,0,0,0,2,x,3
+117,R3,4013,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,x,2,x,Had some issues it seems like. Didnt intake or out-take at all. Slow and sluggish Auto that missed. Could be technical difficulties,,10,"4013,10","117,R3",0,1,0,0,0,1,x,2,x
+118,B1,1425,TRUE,3,0,0,0,0,0,2,4,6,2,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"They were only missed a few times, but their fast cycles and great 3 piece auto overshadows it.",,10,"1425,10","118,B1",0,1,1,0,0,0,3,x,3
+118,B2,1671,TRUE,1,0,0,0,0,2,4,1,3,0,1,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,Missed a couple times  Algae was good  Inconsistent intake,,10,"1671,10","118,B2",0,1,1,0,0,1,2,x,2
+118,B3,4005,TRUE,2,0,0,0,0,0,2,3,2,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,1,x,3,Very slow cycles,,10,"4005,10","118,B3",0,1,1,0,0,0,1,x,3
+118,R1,4451,TRUE,1,0,0,0,0,0,4,5,1,1,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Good fastcp cycles tried for net and got 50 percent,,11,"4451,11","118,R1",0,1,1,0,0,1,3,x,3
+118,R2,8808,TRUE,1,0,0,0,0,0,2,5,4,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,Missed L2 2 times. Good and consistent cycles.,,10,"8808,10","118,R2",0,1,1,0,0,0,3,x,3
+118,R3,226,TRUE,3,0,0,0,0,0,1,2,2,0,2,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,2,Seems to miss often.,,10,"226,10","118,R3",0,1,1,0,0,0,3,x,2
+119,B1,2438,TRUE,2,0,0,0,0,0,4,5,3,0,1,0,FALSE,FALSE,FALSE,TRUE,FALSE,2,x,3,"It rarely missed, and it was a bit slow, overall good bot though, their auto was almost a 3 piece.",,10,"2438,10","119,B1",0,1,0,0,1,0,2,x,3
+119,B2,6141,TRUE,0,0,0,0,0,0,2,4,3,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,x,Slow cycle time Poor accuracy Possibility to pop algae while Removing it from reef  Climb failed Auto failed,,1,"6141,1","119,B2",0,1,0,0,1,0,x,x,x
+119,B3,3297,TRUE,1,0,0,0,0,0,2,1,0,2,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,2,2,Missed an algae shot In auto by had ok cycles and alright defense,,10,"3297,10","119,B3",0,1,0,0,1,1,2,2,2
+119,R1,6017,TRUE,0,2,2,6,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,x,They had good ground cycles,,10,"6017,10","119,R1",0,1,0,0,1,0,x,x,x
+119,R2,4068,TRUE,3,0,0,0,0,0,4,3,4,1,0,2,FALSE,FALSE,FALSE,FALSE,TRUE,3,x,3,"Missed L4 1 time, missed L2 one time. Missed scoring in the net one time. Pretty fast cycles",,10,"4068,10","119,R2",0,1,0,0,0,1,3,x,3
+119,R3,302,TRUE,3,0,0,0,0,0,2,7,0,0,2,0,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"Good cycle time, very reliable for L2-L1 scoring. Didn't miss very many of their game pieces when scoring. Heavily reliant on lower level scoring (doesn't have L3 or L4 capabilities)",,10,"302,10","119,R3",0,1,0,0,1,1,3,x,3
+120,B1,6348,TRUE,0,0,0,0,0,0,0,1,0,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,x,1,"Robot consistently couldnt score, was slow, auto missed.",,10,"6348,10","120,B1",0,1,0,0,1,0,1,x,1
+120,B2,7525,TRUE,2,0,0,0,0,0,4,2,2,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,1,Poor accuracy Slow cycle time Slow intake time Slow alignment time Missed very often,,9,"7525,9","120,B2",0,1,0,0,1,1,2,x,1
+120,B3,4655,TRUE,3,0,0,0,0,0,3,4,5,0,2,0,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Good accuracy and fast cycles,,10,"4655,10","120,B3",0,1,1,0,0,1,3,x,3
+120,R1,4500,TRUE,2,0,0,0,0,0,2,4,4,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,2,x,2,Good cycling could climb fast,,10,"4500,10","120,R1",0,1,1,0,0,0,2,x,2
+120,R2,4786,TRUE,1,0,0,0,0,2,3,4,1,0,0,1,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,3,Dropped an algae when it was moving toward barge. Okay cycles,,10,"4786,10","120,R2",0,1,0,0,1,1,2,x,3
+120,R3,7197,TRUE,2,0,0,0,0,0,1,2,1,0,1,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,Halfway through an issue occurred and the bot started to play defense,,10,"7197,10","120,R3",0,1,0,0,1,1,2,x,2
+121,B1,78,TRUE,0,0,0,1,0,2,1,4,5,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,"Very fast cycle in both auto and teleop, but it has trouble lining up with the reef to aim. Very quick climb",,10,"78,10","121,B1",0,1,1,0,0,0,x,x,2
+121,B2,418,TRUE,0,0,0,0,0,0,4,2,3,3,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Very efficient scoring, reliable for filling the reef, great L1 scoring capabilities, spends very little time at station",,10,"418,10","121,B2",0,1,1,0,0,0,3,x,3
+121,B3,3173,TRUE,3,0,0,0,0,0,0,4,4,6,2,0,FALSE,FALSE,FALSE,TRUE,FALSE,3,x,3,"Good on all levels. Didnt miss. Ok cycles. Good movement and elevator speed. Can deep climb, just didnt do it in time. No algae.",,10,"3173,10","121,B3",0,1,0,0,1,0,3,x,3
+121,R1,9280,TRUE,1,0,0,0,0,0,5,1,4,0,0,0,FALSE,FALSE,FALSE,FALSE,TRUE,2,x,2,"Working on corals, can do L2-4. Have higher accuracy. Takes time on aiming. Didnt try to climb.",,10,"9280,10","121,R1",0,1,0,0,0,1,2,x,2
+121,R2,5968,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,TRUE,FALSE,FALSE,FALSE,FALSE,x,2,x,2 coral auto. Was disabled whole match,,10,"5968,10","121,R2",1,1,0,0,0,0,x,2,x
+121,R3,10291,TRUE,0,0,0,0,0,0,0,6,4,0,0,0,FALSE,FALSE,FALSE,TRUE,TRUE,x,x,2,"Ground intake, slower cycle time, didnt score on L4",,10,"10291,10","121,R3",0,1,0,0,1,1,x,x,2
+122,B1,7257,TRUE,3,0,0,0,0,0,6,2,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,"Has an okay accuracy, but takes a long time to cycle in both auto and teleop.",,10,"7257,10","122,B1",0,1,1,0,0,0,x,x,2
+122,B2,6909,TRUE,0,0,0,0,0,0,0,2,2,0,0,0,FALSE,TRUE,FALSE,FALSE,TRUE,2,x,2,"Not the best, not the worst. Slow cycle time, wastes a lot of time at station, okay at scoring. Not totally ineffective, but didn't contribute much to their alliance",,10,"6909,10","122,B2",0,1,1,0,0,1,2,x,2
+122,B3,9301,TRUE,0,0,0,1,0,0,0,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,3,x,"Very small and light, but has very good defense strategies and uses them well. Can score coral but chose not to.",,10,"9301,10","122,B3",0,1,1,0,0,0,x,3,x
+122,R1,8575,TRUE,0,2,0,0,0,0,0,4,1,0,1,0,FALSE,FALSE,FALSE,TRUE,TRUE,2,x,2,"Working on coral, L2-3. Dont know if it be able to do other level. Can move algae. Didnt try to climb.",,10,"8575,10","122,R1",0,1,0,0,1,1,2,x,2
+122,R2,3255,TRUE,1,0,0,0,0,0,5,2,1,0,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,Can grab algae while scoring coral,,10,"3255,10","122,R2",0,1,1,0,0,1,3,x,2
+122,R3,3792,TRUE,0,0,0,1,0,0,0,0,0,7,3,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,x,Only scored L1 but was very consistent and can also place algae into processor,,10,"3792,10","122,R3",0,1,1,0,0,0,x,x,x
+123,B1,9199,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,2,x,"Had a very slow, short auto that might have malfunctioned the robot, as they played defensive for all of teleop",,9,"9199,9","123,B1",0,1,1,0,0,0,x,2,x
+123,B2,2630,TRUE,3,0,0,0,0,0,5,0,0,3,0,5,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Extremely efficient robot, very reliable for net scoring and reef filling. Doesn't waste time when algae tries to run away, smooth intake at the station",,10,"2630,10","123,B2",0,1,1,0,0,1,3,x,3
+123,B3,8738,TRUE,2,0,0,1,0,0,2,9,5,0,0,2,FALSE,FALSE,FALSE,TRUE,TRUE,3,x,3,"Very very fast cycles, can score anything anywhere. No ground intake. Very good movement and intake.",,10,"8738,10","123,B3",0,1,0,0,1,1,3,x,3
+123,R1,649,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,3,x,"Since started, it played defense. Can catch good chance. And stop other robots getting corals. Climb successfully.",,10,"649,10","123,R1",0,1,1,0,0,0,x,3,x
+123,R2,1678,TRUE,3,0,0,0,0,0,6,7,0,0,0,4,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,Ground intake for coral,,10,"1678,10","123,R2",0,1,1,0,0,1,3,x,3
+123,R3,9312,TRUE,0,0,2,1,0,0,0,0,1,4,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,1,"Only scores L1 and L2 and can also put, small driver base and has a deep climb",,10,"9312,10","123,R3",0,1,1,0,0,0,x,x,1
+124,B1,2056,TRUE,4,0,0,0,0,0,4,5,5,0,0,4,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Incredibly fast cycling time in both auto and teleop. Can handle both algae and coral, and score both very effectively",,10,"2056,10","124,B1",0,1,1,0,0,0,x,x,3
+124,B2,1507,TRUE,0,0,0,0,1,0,3,5,2,0,0,1,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,"Slow cycle time, good accuracy and intake speed. Sorry if the score is a bit off, I lost the robot a couple times",,10,"1507,10","124,B2",0,1,1,0,0,0,3,x,3
+124,B3,10698,TRUE,0,0,0,0,0,0,1,0,0,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,1,x,"Very very slow, slow arm, slow movement, no ground intake. Very light. No good strategy.",,10,"10698,10","124,B3",0,1,1,0,0,0,x,1,x
+124,R1,3492,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,FALSE,FALSE,x,x,x,"Since it started, try to play defense. But stuck on an algae.",,10,"3492,10","124,R1",0,1,0,0,0,0,x,x,x
+124,R2,7034,TRUE,3,0,0,0,0,0,2,5,5,0,0,0,FALSE,TRUE,FALSE,FALSE,FALSE,3,x,3,Intake did fling coral off to the side once or twice,,9,"7034,9","124,R2",0,1,1,0,0,0,3,x,3
+124,R3,2129,TRUE,2,0,0,0,0,0,3,5,2,0,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,x,x,x,"Slow cycle time, deep climb, can only move coral",,10,"2129,10","124,R3",0,1,0,0,1,0,x,x,x
+125,B1,1731,TRUE,2,0,0,0,0,0,5,6,0,0,0,2,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,2,Has an okay speed and accuracy but can score with both coral and algae. Fail 2 out of their 3 cycles during auto,,10,"1731,10","125,B1",0,1,1,0,0,0,x,x,2
+125,B2,2724,TRUE,0,1,0,0,0,2,0,4,0,0,0,3,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,3,"Quick cycle time, smooth intake and outtake, reliable for L3 scoring and net scoring. Did get a coral stuck horizontally in their intake towards the end",,10,"2724,10","125,B2",0,1,1,0,0,1,3,x,3
+125,B3,6083,TRUE,1,0,0,0,0,0,0,0,0,1,0,0,FALSE,FALSE,FALSE,TRUE,FALSE,1,1,1,Shot 3 L4s and missed all of them. Then got coral stuck inside and went to defense. No good strategies. Slow movement.,,10,"6083,10","125,B3",0,1,0,0,1,0,1,1,1
+125,R1,494,TRUE,2,0,0,0,0,0,1,0,0,0,2,3,FALSE,TRUE,FALSE,FALSE,TRUE,x,x,2,"Doing fine in auto, can work on both algae and coral. Sometimes overshoot the algae. Climb fast and successfully.",,10,"494,10","125,R1",0,1,1,0,0,1,x,x,2
+125,R2,694,TRUE,2,0,0,0,0,0,2,4,5,0,0,1,FALSE,TRUE,FALSE,FALSE,TRUE,3,x,2,Algae arm sometimes throws with too much force,,11,"694,11","125,R2",0,1,1,0,0,1,3,x,2
+125,R3,6424,TRUE,1,0,0,0,1,0,2,5,5,0,1,0,FALSE,TRUE,FALSE,FALSE,FALSE,x,x,3,"Deep climb, very consistent scoring, simple and effective intake",,10,"6424,10","125,R3",0,1,1,0,0,0,x,x,3
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0,"0,0","0,0",0,0,0,0,0,0,,,
