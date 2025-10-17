@@ -1,0 +1,243 @@
+key,comp_level,set_number,match_number,team_key,r1,r2,r3,b1,b2,b3,alliance,a_Proc,a_Net,did_procSide_Auto,did_frontAuto,did_Side_auto,did_Back_auto,a_L4,a_Alg_remove,a_L3,a_L1,a_L2,t_L3,t_L2,t_L1,t_Net,t_L4,t_Incap_time,t_Proc,t_Alg_ground_intake,t_Alg_remove,Climb_status,Match_notes,Scouter_Initials
+2025orwv_qm1,qm,1,1,frc2374,frc2374,frc3636,frc2990,frc997,frc2550,frc5468,red,0,0,0,0,0,1,1,0,0,0,0,1,2,0,0,3,0,0,0,0,parked,Slow driving and manually aligned placement. Not in a slow is smooth and smooth is fast way,EK
+2025orwv_qm1,qm,1,1,frc3636,frc2374,frc3636,frc2990,frc997,frc2550,frc5468,red,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,3,0,0,0,3,none,Overall anything to comment on was mainly just driver/ player error since its first chance,Em
+2025orwv_qm1,qm,1,1,frc2990,frc2374,frc3636,frc2990,frc997,frc2550,frc5468,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,,
+2025orwv_qm1,qm,1,1,frc997,frc2374,frc3636,frc2990,frc997,frc2550,frc5468,blue,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,parked,"Has really slow coral cycles, unreliable when placing coral, only tries to do L4. Can remove algae but takes a couple tries to do so. Auto was just moving forward doesn't do anything.",DS
+2025orwv_qm1,qm,1,1,frc2550,frc2374,frc3636,frc2990,frc997,frc2550,frc5468,blue,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,failed,"Slow, tried to start corsl but failed, had some difficulty with processor",AP
+2025orwv_qm1,qm,1,1,frc5468,frc2374,frc3636,frc2990,frc997,frc2550,frc5468,blue,0,0,1,0,0,0,3,1,0,0,0,6,4,0,0,3,0,0,0,3,deep,"During auto very quick got all attempted 
+Very very quick algae removal less than one sencod done after placing coral swift movement quick intake as well as quick placement takes longest on lvl four went to club and got up with 10 seconds left",AV
+2025orwv_qm10,qm,1,10,frc9999,frc9999,frc3636,frc955,frc9998,frc1425,frc1359,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,parked,"This team is simply a drive train, but a really good defense bot. They never scored anything but attempted to block us (1425). They still lost as there were only 2 red robots scoring on the reef.",AH
+2025orwv_qm10,qm,1,10,frc3636,frc9999,frc3636,frc955,frc9998,frc1425,frc1359,red,0,0,1,0,0,0,2,0,0,0,0,0,0,0,1,1,0,0,0,3,none,"missed first auto, other than that most errors are seemingly just driver fault",em
+2025orwv_qm10,qm,1,10,frc955,frc9999,frc3636,frc955,frc9998,frc1425,frc1359,red,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5,0,0,0,0,none,in the start they did have one alage they removed and they did get a lot of coral on L5 however they did not climb because they were busy with the coral.,PK
+2025orwv_qm10,qm,1,10,frc9998,frc9999,frc3636,frc955,frc9998,frc1425,frc1359,blue,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,parked,"Didn't do anything in auto. Teleop was slow, only plaed 2 coral on l3, and has ground collect.",DS
+2025orwv_qm10,qm,1,10,frc1425,frc9999,frc3636,frc955,frc9998,frc1425,frc1359,blue,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,1,none,,
+2025orwv_qm10,qm,1,10,frc1359,frc9999,frc3636,frc955,frc9998,frc1425,frc1359,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,no show,AW
+2025orwv_qm11,qm,1,11,frc6443,frc6443,frc2733,frc957,frc5468,frc749,frc2990,red,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,
+2025orwv_qm11,qm,1,11,frc2733,frc6443,frc2733,frc957,frc5468,frc749,frc2990,red,0,2,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,0,0,1,none,didn't do much. Kinda drove around aimlessly AMF completed some cycles,np
+2025orwv_qm11,qm,1,11,frc957,frc6443,frc2733,frc957,frc5468,frc749,frc2990,red,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,1,deep,they placed 2 coral in the start and in thetelop they tried to collect alage however they were not able to and also they were good at placing coral on level 5 lastly in the endgame they had a deep climb,PK
+2025orwv_qm11,qm,1,11,frc5468,frc6443,frc2733,frc957,frc5468,frc749,frc2990,blue,0,1,0,0,1,0,2,1,0,0,0,4,0,0,0,6,0,0,0,1,deep,"AUto was really good, swiftly placed 2 coral on L4, but one slipped out of intake. Teleop had a whopping 10 cycles, placing is reliable, fast, and efficient. Can also remove algae pretty quickly. Deep climbed in around 10 seconds.",DS
+2025orwv_qm11,qm,1,11,frc749,frc6443,frc2733,frc957,frc5468,frc749,frc2990,blue,0,0,0,1,0,0,0,0,0,0,0,,,,,,,,,,,,
+2025orwv_qm11,qm,1,11,frc2990,frc6443,frc2733,frc957,frc5468,frc749,frc2990,blue,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,parked,2990 failed their auto and a-stopped. In teleop they were able to get a few ground collects and an l3 but they spent too much time trying to remove an algae.,RP
+2025orwv_qm12,qm,1,12,frc7034,frc7034,frc1540,frc753,frc2521,frc2471,frc2374,red,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,deep,"3 coral auto, missed first coral in auto. had a lot of trouble placing coral on the reef during teleop and had trouble at the source. Good driving smooth fast movement, took a while to line up their climb, started prior to endgame buzer",AP
+2025orwv_qm12,qm,1,12,frc1540,frc7034,frc1540,frc753,frc2521,frc2471,frc2374,red,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,4,0,0,4,2,none,pretty nice ground intake and they had many cycles completed efficiently. However their placement mechanism was a bit shaky,np
+2025orwv_qm12,qm,1,12,frc753,frc7034,frc1540,frc753,frc2521,frc2471,frc2374,red,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,3,deep,in the auto they did not move and they did not place or collect coral or algae in the teleop they had 3 algae removals but they got 9 coral on L5 and during endgame they did a deep climb,
+2025orwv_qm12,qm,1,12,frc2521,frc7034,frc1540,frc753,frc2521,frc2471,frc2374,blue,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,2,5.2,0,0,0,none,"> good coral
+> seems to only be capable of putting down coral, was often holding coral without a place to put it because of algae blocking it
+",IK
+2025orwv_qm12,qm,1,12,frc2471,frc7034,frc1540,frc753,frc2521,frc2471,frc2374,blue,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,5,0,0,0,1,deep,"Attempted 3 coral auto, missed 2 due to floppy mechanism. Fast ground intake, effectively added 5 upper coral, missed 3 additional due to mechanism.  Fast algae removal, successful deep climb",LP
+2025orwv_qm12,qm,1,12,frc2374,frc7034,frc1540,frc753,frc2521,frc2471,frc2374,blue,0,0,1,0,0,0,1,0,0,1,0,2,1,0,0,3,0,0,0,0,none,"2374 did very well in teleop and had got quite a bit of coral. However, they were not able to park in endgame.",RP
+2025orwv_qm13,qm,1,13,frc2635,frc2635,frc9998,frc9999,frc2550,frc9997,frc3636,red,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,2,none,"Had algae remover auto but didnt remove algae. Only did algae during teleop, had a very slow barge placement. Algae fell out of grasp twice. Didnt climb",AP
+2025orwv_qm13,qm,1,13,frc9998,frc2635,frc9998,frc9999,frc2550,frc9997,frc3636,red,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,7,0,0,8,0,parked,Ran many cycles efficiently however towards the last thirty seconds of the match they kinda froze and drove slowly to the cages and parked,np
+2025orwv_qm13,qm,1,13,frc9999,frc2635,frc9998,frc9999,frc2550,frc9997,frc3636,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,shallow,in the auto they were not placing or scoring any coral or algae in teleop they remvoed one alage but did not score coral however they deep climbed during the end of the match,PK
+2025orwv_qm13,qm,1,13,frc2550,frc2635,frc9998,frc9999,frc2550,frc9997,frc3636,blue,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,130.1,0,0,0,none,"> brought coral high to L4 during auto but didn't place
+> was incap rest of match",IK
+2025orwv_qm13,qm,1,13,frc9997,frc2635,frc9998,frc9999,frc2550,frc9997,frc3636,blue,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,5,0,parked,"Simple auto for positioning, no scoring action. Effective algae ground pickup and proc. Parked quickly in auto.",LP
+2025orwv_qm13,qm,1,13,frc3636,frc2635,frc9998,frc9999,frc2550,frc9997,frc3636,blue,0,0,1,0,0,0,2,0,0,1,0,0,0,0,0,3,0,0,0,2,none,3636 was able to get a lot of coral overall even while being defended against most of the time. They sadly were not able to park.,RP
+2025orwv_qm14,qm,1,14,frc1359,frc1359,frc6443,frc2990,frc955,frc749,frc4043,red,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,13.4,0,0,0,failed,"No auto didn't move, Did not score any game pieced, only played defense on the source (was not effective). Started to climb with 30 seconds left and did not end up aligning with the cage. Also was incap for the first part of teleop.",AP
+2025orwv_qm14,qm,1,14,frc6443,frc1359,frc6443,frc2990,frc955,frc749,frc4043,red,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,deep,They kept trying to intake from the station but continuously missed either because of a human player error or an intake error,
+2025orwv_qm14,qm,1,14,frc2990,frc1359,frc6443,frc2990,frc955,frc749,frc4043,red,0,0,0,1,0,0,0,0,0,1,0,3,4,2,0,0,0,0,0,1,none,in teleop they had an alage removal and on the 2nd level they scored 4 algae then they did not climb,PK
+2025orwv_qm14,qm,1,14,frc955,frc1359,frc6443,frc2990,frc955,frc749,frc4043,blue,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,0,0,0,0,none,"> good L4 coral, coral placed a lil delayed at times
+> seems to only be able to place L4 (loses points when they're waiting for another robot to move off available faces)",IK
+2025orwv_qm14,qm,1,14,frc749,frc1359,frc6443,frc2990,frc955,frc749,frc4043,blue,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,85.1,0,0,0,none,They tried in vain to remove an algae in teleop and then died,EK
+2025orwv_qm14,qm,1,14,frc4043,frc1359,frc6443,frc2990,frc955,frc749,frc4043,blue,0,0,1,0,0,0,1,0,0,0,0,3,0,1,0,1,0,0,0,2,none,,
+2025orwv_qm15,qm,1,15,frc2471,frc2471,frc957,frc1540,frc1425,frc997,frc2521,red,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,0,0,4,0,deep,"> great coral
+> ground collect
+> pretty fast",IK
+2025orwv_qm15,qm,1,15,frc957,frc2471,frc957,frc1540,frc1425,frc997,frc2521,red,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,1,0,0,0,1,deep,Maybe inaccurate. My data just disappeared. Naman witnessed it.,AV
+2025orwv_qm15,qm,1,15,frc1540,frc2471,frc957,frc1540,frc1425,frc997,frc2521,red,0,0,0,0,0,1,1,0,0,0,0,0,0,0,4,0,0,0,0,4,parked,"Flaming Chickens mainly focused on getting algae into the barge this round. They first got 1 L4 coral in auto, then got 4 algae into the barge and then climbed immediately. These actions, along with their alliance partners, earned the new high score of the event. ",AH
+2025orwv_qm15,qm,1,15,frc1425,frc2471,frc957,frc1540,frc1425,frc997,frc2521,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,parked,We had some trouble at the beginning as we set the auto on the wrong side and then we were a bit confused and climbed to early,np
+2025orwv_qm15,qm,1,15,frc997,frc2471,frc957,frc1540,frc1425,frc997,frc2521,blue,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,3,0,1,0,1,parked,"No auto, had good coral cycle missed a couple coral in teleop",AP
+2025orwv_qm15,qm,1,15,frc2521,frc2471,frc957,frc1540,frc1425,frc997,frc2521,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,"nothing too notable, seems to be a little bit of a struggle to feed the robot with a human player",EM
+2025orwv_qm16,qm,1,16,frc5468,frc5468,frc753,frc2733,frc2374,frc7034,frc6696,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,,
+2025orwv_qm16,qm,1,16,frc753,frc5468,frc753,frc2733,frc2374,frc7034,frc6696,red,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,deep,"Their entire auto was them going to a coral station, completely blocking it off for the entire period, they are inaccurate and slow with placing, abut their deep climb is very fast and accurate.",AV
+2025orwv_qm16,qm,1,16,frc2733,frc5468,frc753,frc2733,frc2374,frc7034,frc6696,red,0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,5,0,0,0,0,parked,"2733 scored 1 L4 coral in auto. Later in Teleop, they scored mainly on L4 and L3. They did not go for any algae, but they still won with a score of 132.",AH
+2025orwv_qm16,qm,1,16,frc2374,frc5468,frc753,frc2733,frc2374,frc7034,frc6696,blue,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,4,0,0,0,0,none,Did alright in teleop but coral got stuck in their elevator for a bit and made a loud rattling noise,np
+2025orwv_qm16,qm,1,16,frc7034,frc5468,frc753,frc2733,frc2374,frc7034,frc6696,blue,0,0,1,0,0,0,3,0,0,0,0,2,0,0,0,4,0,0,0,0,parked,"Missed one coral during auto, smooth and effective driving. Attempted to climb but ran out of time and parked instead ",AP
+2025orwv_qm16,qm,1,16,frc6696,frc5468,frc753,frc2733,frc2374,frc7034,frc6696,blue,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,4,none,nothing notable? :(,em
+2025orwv_qm17,qm,1,17,frc749,frc749,frc2635,frc6443,frc3636,frc4043,frc9998,red,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,1,shallow,they scored a lot on the 3rd level of the reef and they got one level 5 they removed one algae and during the endgame they did a shallow climb,PK
+2025orwv_qm17,qm,1,17,frc2635,frc749,frc2635,frc6443,frc3636,frc4043,frc9998,red,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,none,"they moved up an inch for auto, and they only do algea, but they aren't even good at it. They spent the entire time getting stuck and the reef and finally pulled two algae of it. They tried to processor once and failed, but they got one in net last second",av
+2025orwv_qm17,qm,1,17,frc6443,frc749,frc2635,frc6443,frc3636,frc4043,frc9998,red,0,0,1,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,failed,"Aembot struggled throughout the match. First, in auto, their 1 coral auto, which was supposed to go to L4, fell but scored on L1. In Teleop, they struggled to get a coral into the robot, even having to go to both stations to attempt. When they tried to climb, their robot fell over, still counting for parking points, but the robot still failed the climb.",AH
+2025orwv_qm17,qm,1,17,frc3636,frc749,frc2635,frc6443,frc3636,frc4043,frc9998,blue,0,0,0,0,1,0,3,0,0,0,0,2,0,0,2,1,0,0,0,3,parked,Pretty nice auto with the coral scored and great coral cycles and algae in net while teleop,np
+2025orwv_qm17,qm,1,17,frc4043,frc749,frc2635,frc6443,frc3636,frc4043,frc9998,blue,0,0,1,0,0,0,1,0,0,0,0,3,0,0,0,2,0,0,0,0,none,Missed a couple of coral in teleop had a hard time getting coral from human player also did not attempt end game,AP
+2025orwv_qm17,qm,1,17,frc9998,frc749,frc2635,frc6443,frc3636,frc4043,frc9998,blue,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,0,none,really good at efficient ground intake for coral,em
+2025orwv_qm18,qm,1,18,frc2550,frc2550,frc1540,frc2521,frc2990,frc1425,frc957,red,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,none,they did not place coral or algae duirng the start during teleop they constilty placed on level 5 and during the endgame they they were not able to park or climb,PK
+2025orwv_qm18,qm,1,18,frc1540,frc2550,frc1540,frc2521,frc2990,frc1425,frc957,red,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,5,deep,"The auto was 1 peice. They removed and tried to do net, but had a 50% accuracy. Climb was good",
+2025orwv_qm18,qm,1,18,frc2521,frc2550,frc1540,frc2521,frc2990,frc1425,frc957,red,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,none,"None in auto, struggled to get a coral in the bot after Teleop, did not park. Not much to say about this match.",AH
+2025orwv_qm18,qm,1,18,frc2990,frc2550,frc1540,frc2521,frc2990,frc1425,frc957,blue,0,0,0,0,0,1,0,0,0,0,0,5,0,1,0,0,0,0,7,0,none,Great ground intake very fast,np
+2025orwv_qm18,qm,1,18,frc1425,frc2550,frc1540,frc2521,frc2990,frc1425,frc957,blue,0,0,1,0,0,0,2,0,0,0,0,2,0,0,0,1,0,0,0,3,deep,"Good auto, missed the last one, missed a lot of coral in teleop got 3",AP
+2025orwv_qm18,qm,1,18,frc957,frc2550,frc1540,frc2521,frc2990,frc1425,frc957,blue,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,4,0,0,0,2,,,
+2025orwv_qm19,qm,1,19,frc1359,frc1359,frc6696,frc753,frc5468,frc9997,frc2471,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.4,0,0,0,parked,they were mostly incapiated,
+2025orwv_qm19,qm,1,19,frc6696,frc1359,frc6696,frc753,frc5468,frc9997,frc2471,red,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,1,parked,"They have a 2 coral auto but human player fumbled, their placement is slow and sometimes inaccurate, and I'm not sure i would pick them. They didn't attempt climbing either.",AV
+2025orwv_qm19,qm,1,19,frc753,frc1359,frc6696,frc753,frc5468,frc9997,frc2471,red,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,1,7.3,0,0,2,failed,"The auto of the droids was uneventful, they moved forward, and instantly A-Stopped. They got an L4 on face 6, then got bottomed out by an algae. Luckily, alliance partner 6696 was able to free them. They then scored 2 L3s before failing their deep climb.",AH
+2025orwv_qm19,qm,1,19,frc5468,frc1359,frc6696,frc753,frc5468,frc9997,frc2471,blue,0,0,0,0,1,0,3,0,0,0,0,1,3,1,0,2,0,0,0,0,deep,Great auto very similar to ours. Great cycles and many coral scored. Very far climb,np
+2025orwv_qm19,qm,1,19,frc9997,frc1359,frc6696,frc753,frc5468,frc9997,frc2471,blue,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,5,0,parked,"Did Co op, tried to score coral but failed and almost tipped over. Mot great driving ",AP
+2025orwv_qm19,qm,1,19,frc2471,frc1359,frc6696,frc753,frc5468,frc9997,frc2471,blue,0,0,1,0,0,0,3,0,0,0,0,2,0,0,0,3,0,0,0,2,parked,very fast overall and has a crazy auto,em
+2025orwv_qm2,qm,1,2,frc9997,frc9997,frc2733,frc1359,frc1540,frc4043,frc1425,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,0,parked,"Kinda just toppled lollipops 🍭
+
+Spent last 30 sec trying to remove algae from reef but to no avail... womp womp ",AM
+2025orwv_qm2,qm,1,2,frc2733,frc9997,frc2733,frc1359,frc1540,frc4043,frc1425,red,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,none,They seemed very very lost but they got one l4 woo!!!!,em
+2025orwv_qm2,qm,1,2,frc1359,frc9997,frc2733,frc1359,frc1540,frc4043,frc1425,red,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,5.6,0,0,5,parked,they did climb but they were incapicated for some time they did pick up a lot of alage and they did collect coral or try to collect the coral they got 12 points,PK
+2025orwv_qm2,qm,1,2,frc1540,frc9997,frc2733,frc1359,frc1540,frc4043,frc1425,blue,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,3,0,0,5,0,none,"Got 1 coral on L4. Focused on cycling L4 and tried to remove algae but failed. Ground collect works relatively well. Didn't park or climb, likely cycles in endgame.",DS
+2025orwv_qm2,qm,1,2,frc4043,frc9997,frc2733,frc1359,frc1540,frc4043,frc1425,blue,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,parked,"Had a coral stuck in them for all of teleop, failed coral placement during auto and failed once during teleop. ",AP
+2025orwv_qm2,qm,1,2,frc1425,frc9997,frc2733,frc1359,frc1540,frc4043,frc1425,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,deep,"during auto had auto to place preloaded coral but no coral in machine then all robots stopped during auto
+During teleop had trouble taking algae off reef as well as coral slid out of robot had trouble with intake went to other side I'd assume to do defense but went back to their side without defense 
+Got up with one second left during endgame
+",AW
+2025orwv_qm20,qm,1,20,frc2374,frc2374,frc2733,frc9999,frc7034,frc955,frc997,red,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,parked,> extreme precision needed for successful coral place (unreliable success rate + takes a longer time),IK
+2025orwv_qm20,qm,1,20,frc2733,frc2374,frc2733,frc9999,frc7034,frc955,frc997,red,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,3,0,0,0,0,,,
+2025orwv_qm20,qm,1,20,frc9999,frc2374,frc2733,frc9999,frc7034,frc955,frc997,red,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,parked,"Auto parks in barge. 9999 is simply a drivebase, thus they defend the blue alliance the whole time, until they get bottomed out by algae, that is. Luckily a blue alliance robot accidentally saved the drivebase. 9999 blocks the human player station to slow down coral placement. To end the match, they park because, what else can they do? Sadly, they lose the match.",AH
+2025orwv_qm20,qm,1,20,frc7034,frc2374,frc2733,frc9999,frc7034,frc955,frc997,blue,0,0,0,0,1,0,3,0,0,0,0,1,0,0,0,3,0,0,0,2,deep,Did well in auto and auto is very similar to ours. Did great in teleop with involvements in algae and coral. They were successfully defended against by the robot with just a drivebase,np
+2025orwv_qm20,qm,1,20,frc955,frc2374,frc2733,frc9999,frc7034,frc955,frc997,blue,0,0,1,0,0,0,1,0,0,0,0,3,1,0,0,5,0,0,0,0,none,"Missed one coral in auto, relatively fast cycles of coral. Accurate placement. ",AP
+2025orwv_qm20,qm,1,20,frc997,frc2374,frc2733,frc9999,frc7034,frc955,frc997,blue,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,parked,"Very slow, looks easy to tip over, did nothing during auto",em
+2025orwv_qm21,qm,1,21,frc1540,frc1540,frc6443,frc9998,frc957,frc2550,frc4043,red,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,6,failed,"> good at removing algae
+> doesn't really score coral",IK
+2025orwv_qm21,qm,1,21,frc6443,frc1540,frc6443,frc9998,frc957,frc2550,frc4043,red,0,0,1,0,0,0,1,0,0,0,0,4,3,0,0,0,0,0,0,0,deep,"Single coral auto. They have very fluent placement, but human player was kinda slow. The climb was also not super fast",AV
+2025orwv_qm21,qm,1,21,frc9998,frc1540,frc6443,frc9998,frc957,frc2550,frc4043,red,0,0,1,0,0,0,1,0,0,0,0,5,0,0,0,2,0,0,0,0,none,"In auto, 9998 scored 1 L4 coral. They then continued to score on L4 and mainly L3 during Teleop. They did miss 2-3 coral during this time. When endgame began, they were still cycling coral, but could not make it to the barge to park.",AH
+2025orwv_qm21,qm,1,21,frc957,frc1540,frc6443,frc9998,frc957,frc2550,frc4043,blue,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,2,0,0,0,1,failed,Decent at everything. Not bad but not great. Their deep climb failed as one of the sides of their bumper was touching the ground,np
+2025orwv_qm21,qm,1,21,frc2550,frc1540,frc6443,frc9998,frc957,frc2550,frc4043,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,parked,,BD
+2025orwv_qm21,qm,1,21,frc4043,frc1540,frc6443,frc9998,frc957,frc2550,frc4043,blue,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,4,0,0,0,3,none,4043 had a good amount of algae removed in a short amount of time. They were also very good with getting coral,RP
+2025orwv_qm22,qm,1,22,frc2471,frc2471,frc1359,frc749,frc1425,frc5468,frc2635,red,0,0,1,0,0,0,3,0,0,0,0,0,1,0,0,5,0,0,0,0,deep,"> clean auto (3 coral)
+> has coral ground pick up
+> efficient coral placements",IK
+2025orwv_qm22,qm,1,22,frc1359,frc2471,frc1359,frc749,frc1425,frc5468,frc2635,red,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,"they moved an inch forward for auto,",
+2025orwv_qm22,qm,1,22,frc749,frc2471,frc1359,frc749,frc1425,frc5468,frc2635,red,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,parked,"Failed 1 coral auto, then attempted to get and algae and failed. They were able to score an L2 and an L3 and rushed to park.",AH
+2025orwv_qm22,qm,1,22,frc1425,frc2471,frc1359,frc749,frc1425,frc5468,frc2635,blue,0,0,0,1,1,0,1,0,0,0,0,2,0,0,0,2,16.3,0,0,0,deep,We had an error in auto and froze at the station. We were frozen in teleop for quite some time however we successfully setup climbed,np
+2025orwv_qm22,qm,1,22,frc5468,frc2471,frc1359,frc749,frc1425,frc5468,frc2635,blue,0,0,1,0,0,0,2,0,0,0,0,3,0,0,0,3,0,0,0,0,parked,,Bd
+2025orwv_qm22,qm,1,22,frc2635,frc2471,frc1359,frc749,frc1425,frc5468,frc2635,blue,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,3,parked,2635 did well with getting algae without error as they only dropped one. I think they would do well with our team as we are more coral focused and this team did algae well.,RP
+2025orwv_qm23,qm,1,23,frc997,frc997,frc753,frc2374,frc9997,frc2990,frc9999,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,parked,"> coral place has to be precise (takes a lot of time + bad accuracy)
+> no auto",IK
+2025orwv_qm23,qm,1,23,frc753,frc997,frc753,frc2374,frc9997,frc2990,frc9999,red,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,deep,they just moved forward in auto. Pretty slow but reliable coral placement and good at climb,AV
+2025orwv_qm23,qm,1,23,frc2374,frc997,frc753,frc2374,frc9997,frc2990,frc9999,red,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,parked,"Missed 1 coral auto, fell into robot. Cycled L4 6 times, then parked in the barge. Overall a nice match for Jesuit Robotics.",AH
+2025orwv_qm23,qm,1,23,frc9997,frc997,frc753,frc2374,frc9997,frc2990,frc9999,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,parked,Played mediocre defense,np
+2025orwv_qm23,qm,1,23,frc2990,frc997,frc753,frc2374,frc9997,frc2990,frc9999,blue,0,0,0,0,0,0,0,0,0,0,0,4,1,2,0,0,0,0,0,2,parked,,Bd
+2025orwv_qm23,qm,1,23,frc9999,frc997,frc753,frc2374,frc9997,frc2990,frc9999,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,parked,9999 didn't do anything in their auto. In teleop they defended pretty well.,RP
+2025orwv_qm24,qm,1,24,frc6696,frc6696,frc2521,frc955,frc2733,frc7034,frc3636,red,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,0,parked,during this match they removed one algae and they placed an alage on L1 in teleop they got 3 coral on L5 however they did not climb they instead parked,PK
+2025orwv_qm24,qm,1,24,frc2521,frc6696,frc2521,frc955,frc2733,frc7034,frc3636,red,0,0,1,0,0,0,2,0,0,0,0,1,0,1,0,2,0,0,0,0,none,"2 coral auto, ran cycles all the way through. Started slow but picked up speed as time went on. The were very inaccurate tho. ",AV
+2025orwv_qm24,qm,1,24,frc955,frc6696,frc2521,frc955,frc2733,frc7034,frc3636,red,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,
+2025orwv_qm24,qm,1,24,frc2733,frc6696,frc2521,frc955,frc2733,frc7034,frc3636,blue,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,3,0,0,0,0,none,Ran slow cycles that weren't very efficient,np
+2025orwv_qm24,qm,1,24,frc7034,frc6696,frc2521,frc955,frc2733,frc7034,frc3636,blue,0,0,0,0,0,0,2,0,0,0,0,5,0,1,0,3,0,0,0,2,deep,,Bd
+2025orwv_qm24,qm,1,24,frc3636,frc6696,frc2521,frc955,frc2733,frc7034,frc3636,blue,0,0,1,0,0,0,1,0,0,0,0,0,0,3,2,0,0,0,0,3,none,3636 had very good algae removal and consistently put them in the barge. Their coral was alright. Overall they are very well rounded they just missed a lot of their coral.,RP
+2025orwv_qm25,qm,1,25,frc9998,frc9998,frc5468,frc957,frc2635,frc1359,frc1540,red,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,none,during the auto mode they removed one algae and also in teleop they removed one algae and they scored one in the net they did not climb,PK
+2025orwv_qm25,qm,1,25,frc5468,frc9998,frc5468,frc957,frc2635,frc1359,frc1540,red,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,7,0,0,0,1,none,Very fast. Speedy speedy zoom zoom. Like lightning mcqueen,
+2025orwv_qm25,qm,1,25,frc957,frc9998,frc5468,frc957,frc2635,frc1359,frc1540,red,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,parked,"Got 2 coral on teleop which looked pretty clean. However, in teleop, they missed every single time they went to place at l4. They tried to deep climb which was already kinda slow, but it lost grip with the cage and fell down ending with a park.",DS
+2025orwv_qm25,qm,1,25,frc2635,frc9998,frc5468,frc957,frc2635,frc1359,frc1540,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,parked,Weren't involved in much and drove around aimlessly,np
+2025orwv_qm25,qm,1,25,frc1359,frc9998,frc5468,frc957,frc2635,frc1359,frc1540,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,deep,,Bd
+2025orwv_qm25,qm,1,25,frc1540,frc9998,frc5468,frc957,frc2635,frc1359,frc1540,blue,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,1,3,failed,had to a-stop in auto. In teleop they got a lot of algae but had to compete for it with another member of the alliance.,RP
+2025orwv_qm26,qm,1,26,frc9999,frc9999,frc4043,frc2471,frc749,frc2374,frc2550,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,this robot never placed or climbed but they did have defense though i think they would make a great partner for defense,PK
+2025orwv_qm26,qm,1,26,frc4043,frc9999,frc4043,frc2471,frc749,frc2374,frc2550,red,0,0,1,0,0,0,1,0,0,0,0,2,0,0,0,2,0,0,0,0,parked,They are slow and mostly reliable. Their auto was a little misaligned but their second price went in,AV
+2025orwv_qm26,qm,1,26,frc2471,frc9999,frc4043,frc2471,frc749,frc2374,frc2550,red,0,0,1,0,0,0,3,0,0,0,0,0,0,1,0,6,0,0,6,1,parked,"Auto was really good, swift, and fast, intaked from the coral station and got 3 coral on l4. During teleop they got a lot of l4 and l3 cycles which they are pretty good at, can ground collect pretty well too. Tried to deep climb, but ended with a park.",DS
+2025orwv_qm26,qm,1,26,frc749,frc9999,frc4043,frc2471,frc749,frc2374,frc2550,blue,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,parked,Weren't very involved or useful as their auto just left the start zone and their teleop only placed one coral and missed a couple,np
+2025orwv_qm26,qm,1,26,frc2374,frc9999,frc4043,frc2471,frc749,frc2374,frc2550,blue,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,none,,Bd
+2025orwv_qm26,qm,1,26,frc2550,frc9999,frc4043,frc2471,frc749,frc2374,frc2550,blue,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,failed,2550 had to a-stop during auto. In teleop had had mediocre coral and had a lot of issues getting the coral on the robot.,RP
+2025orwv_qm27,qm,1,27,frc2733,frc2733,frc6696,frc997,frc753,frc6443,frc3636,red,0,0,0,1,0,0,2,1,2,0,0,3,0,0,0,0,0,0,0,4,none,,
+2025orwv_qm27,qm,1,27,frc6696,frc2733,frc6696,frc997,frc753,frc6443,frc3636,red,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,5.5,0,0,0,none,good 2 coral auto. Broken down after that and froze. SRY i forgot that incap was a thing,AV
+2025orwv_qm27,qm,1,27,frc997,frc2733,frc6696,frc997,frc753,frc6443,frc3636,red,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,4,0,0,0,0,parked,"Just moved forward during auto doesn't do anything. During teleop at first they were a little slow, but then got 6 total coral cycles on l4 and l3, not fast but was relatively consistent. Didn't do anything with algae. Didn't climb, just parked.",DS
+2025orwv_qm27,qm,1,27,frc753,frc2733,frc6696,frc997,frc753,frc6443,frc3636,blue,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,failed,"Mediocre performance as they just left the start zone in auto,",
+2025orwv_qm27,qm,1,27,frc6443,frc2733,frc6696,frc997,frc753,frc6443,frc3636,blue,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,2,failed,"Removed algae then placed on reef, climbed but fell into a prk",bd
+2025orwv_qm27,qm,1,27,frc3636,frc2733,frc6696,frc997,frc753,frc6443,frc3636,blue,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,none,3636 had a fast 3 coral auto. In teleop they got a lot of coral but had some consistency issues.,RP
+2025orwv_qm28,qm,1,28,frc2990,frc2990,frc2521,frc7034,frc955,frc9997,frc1425,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,parked,"good at scoring alage on L4 
+  they did score coral a lot 
+ they were able to park but not climb 
+",PK
+2025orwv_qm28,qm,1,28,frc2521,frc2990,frc2521,frc7034,frc955,frc9997,frc1425,red,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,parked,"tried a lot of times to score in the reef with coral, but took some time and most of the time were inaccurate. ",SK
+2025orwv_qm28,qm,1,28,frc7034,frc2990,frc2521,frc7034,frc955,frc9997,frc1425,red,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,5,0,0,0,0,deep,Deep climbed. Auto was good and got a lot of cycles.,DS
+2025orwv_qm28,qm,1,28,frc955,frc2990,frc2521,frc7034,frc955,frc9997,frc1425,blue,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,5,0,0,0,0,none,Decent auto with two and decent teleop,
+2025orwv_qm28,qm,1,28,frc9997,frc2990,frc2521,frc7034,frc955,frc9997,frc1425,blue,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,
+2025orwv_qm28,qm,1,28,frc1425,frc2990,frc2521,frc7034,frc955,frc9997,frc1425,blue,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,1,failed,,em
+2025orwv_qm29,qm,1,29,frc4043,frc4043,frc2374,frc5468,frc9999,frc1540,frc749,red,0,0,0,0,0,1,2,0,0,0,0,2,1,0,0,3,0,0,0,0,parked,they removed 2 algae during the auto and during the teleop they placed 3 coral on L5 they did not climb,PK
+2025orwv_qm29,qm,1,29,frc2374,frc4043,frc2374,frc5468,frc9999,frc1540,frc749,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,did not play this match. opted out,SK
+2025orwv_qm29,qm,1,29,frc5468,frc4043,frc2374,frc5468,frc9999,frc1540,frc749,red,0,0,1,0,0,0,3,0,0,0,0,5,3,0,0,4,0,0,0,2,deep,"Auto was really good and fast 3 coral on l4. Got a lot of cycles.
+Deep climb was good.",DS
+2025orwv_qm29,qm,1,29,frc9999,frc4043,frc2374,frc5468,frc9999,frc1540,frc749,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,Defense bot that plays decent defense. Pretty mid. Got stuck on algae. Not the first time that's happened today,Np
+2025orwv_qm29,qm,1,29,frc1540,frc4043,frc2374,frc5468,frc9999,frc1540,frc749,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,1,none,,Bd
+2025orwv_qm29,qm,1,29,frc749,frc4043,frc2374,frc5468,frc9999,frc1540,frc749,blue,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,parked,,em
+2025orwv_qm3,qm,1,3,frc6696,frc6696,frc9999,frc6443,frc957,frc7034,frc2635,red,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,3,0,0,0,1,parked,"missed coral during auto but was able to barge. During Tele, had some technical and driver issues for the first have but were able to recover and score. Did not attempt to climb",AM
+2025orwv_qm3,qm,1,3,frc9999,frc6696,frc9999,frc6443,frc957,frc7034,frc2635,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,parked,"all defense, stays still in auto",EM
+2025orwv_qm3,qm,1,3,frc6443,frc6696,frc9999,frc6443,frc957,frc7034,frc2635,red,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,2,deep,"> slow coral placement
+> takes quite a bit of time to climb but can deep climb
+
+(i only saw half of the match)",IK
+2025orwv_qm3,qm,1,3,frc957,frc6696,frc9999,frc6443,frc957,frc7034,frc2635,blue,0,0,0,0,1,0,2,0,0,0,0,5,0,1,0,0,0,0,0,1,parked,"Auto was pretty good can smoothly get 2-3 L4 coral. Took a long time to remove an algae, and had some tough defense on them. Got 5 coral cycles on l3, but took a bit of time to cycle through. Tried to deep climb but took too long. ",DS
+2025orwv_qm3,qm,1,3,frc7034,frc6696,frc9999,frc6443,frc957,frc7034,frc2635,blue,0,0,1,0,0,0,1,0,0,0,0,0,6,2,0,2,0,0,0,0,none,"7034's main goal during the match was to cycle as many coral as possible. They ended up doing more L2's than any other coral scoring method. They handled being defended upon very nicely. They did not climb, they only cycled coral during the entirety of the match, securing the W.",AH
+2025orwv_qm3,qm,1,3,frc2635,frc6696,frc9999,frc6443,frc957,frc7034,frc2635,blue,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,5,parked,"went forward did nothing else
+Takes a lil bit to take algae not tall enough to get in barge and missed multiple times ended up going to processer instead from missed algae on ground did not miss processor the team with weird black bumpers I think 9999 was blocking them from getting algae off floor sometimes made zero attempts to climb",AW
+2025orwv_qm30,qm,1,30,frc3636,frc3636,frc957,frc6696,frc2635,frc2471,frc2733,red,0,0,1,0,0,0,1,0,0,1,0,1,0,0,1,1,1.1,0,0,2,parked,"> coral place very precise 
+           > missed a lot
+> pretty good algae removal + alright barge, consistent altitude",IK
+2025orwv_qm30,qm,1,30,frc957,frc3636,frc957,frc6696,frc2635,frc2471,frc2733,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,parked,"scored a lot points one the 4 the reef, but when they tried to score on level 3 they missed a lot of times. Tried to climb but ran out of time. ",SK
+2025orwv_qm30,qm,1,30,frc6696,frc3636,frc957,frc6696,frc2635,frc2471,frc2733,red,0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,1,0,0,0,1,parked,"Got on coral on l4 in auto. Got some cycles and removed an algae, then parkd.",DS
+2025orwv_qm30,qm,1,30,frc2635,frc3636,frc957,frc6696,frc2635,frc2471,frc2733,blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,none,"Just moved up a bit in auto. The only do algea, and scored net half the time",AV
+2025orwv_qm30,qm,1,30,frc2471,frc3636,frc957,frc6696,frc2635,frc2471,frc2733,blue,0,0,1,0,0,0,3,0,0,0,0,1,0,0,0,6,0,0,0,0,failed,,Bd
+2025orwv_qm30,qm,1,30,frc2733,frc3636,frc957,frc6696,frc2635,frc2471,frc2733,blue,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,2.6,0,0,0,none,"
+",em
+2025orwv_qm31,qm,1,31,frc2521,frc2521,frc753,frc9997,frc955,frc1359,frc2550,red,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,none,"> cycled until end
+> coral placement needs to be precise (wastes time + unreliable)
+> coral put in by human player would sometimes come right out ",IK
+2025orwv_qm31,qm,1,31,frc753,frc2521,frc753,frc9997,frc955,frc1359,frc2550,red,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,parked,tried to climb but only parked. Scored consistently in level 3 nut never scored in level 4. Did nothing for auto,SK
+2025orwv_qm31,qm,1,31,frc9997,frc2521,frc753,frc9997,frc955,frc1359,frc2550,red,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,3,0,0,parked,Didn't do anything in auto. Put 3 algae in processor. Parked.,DS
+2025orwv_qm31,qm,1,31,frc955,frc2521,frc753,frc9997,frc955,frc1359,frc2550,blue,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,8,0,0,0,0,none,"Human player error hindered their auto and they only managed to score one. Nevertheless, they played excellent in teleop and scored an abundance of coral",np
+2025orwv_qm31,qm,1,31,frc1359,frc2521,frc753,frc9997,frc955,frc1359,frc2550,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,failed,,Bd
+2025orwv_qm31,qm,1,31,frc2550,frc2521,frc753,frc9997,frc955,frc1359,frc2550,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21.6,0,0,0,none,I believe their robot broke,em
+2025orwv_qm32,qm,1,32,frc9998,frc9998,frc2990,frc997,frc7034,frc1425,frc6443,red,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,8,8.9,0,0,1,none,"> cycled until the end
+> pretty good/efficient coral placement
+             > had a little bit of incap time but bounced back",IK
+2025orwv_qm32,qm,1,32,frc2990,frc9998,frc2990,frc997,frc7034,frc1425,frc6443,red,0,0,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,6,2,none,,
+2025orwv_qm32,qm,1,32,frc997,frc9998,frc2990,frc997,frc7034,frc1425,frc6443,red,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,Defesnse.,DS
+2025orwv_qm32,qm,1,32,frc7034,frc9998,frc2990,frc997,frc7034,frc1425,frc6443,blue,0,0,0,0,1,0,3,0,0,0,0,1,0,1,0,1,0,0,0,0,deep,"Great and reliable auto, however t they missed quite a few in teleop",np
+2025orwv_qm32,qm,1,32,frc1425,frc9998,frc2990,frc997,frc7034,frc1425,frc6443,blue,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,deep,,
+2025orwv_qm32,qm,1,32,frc6443,frc9998,frc2990,frc997,frc7034,frc1425,frc6443,blue,0,0,0,0,0,1,1,0,0,0,0,3,0,0,0,0,0,0,0,0,deep,,em
+2025orwv_qm4,qm,1,4,frc749,frc749,frc9998,frc2521,frc753,frc2471,frc955,red,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,failed,Driver was unclear on what to do but they were able to attempt to place and collect. they were also pretty slow on their actions and very inaccurate. Attempted to climb,AM
+2025orwv_qm4,qm,1,4,frc9998,frc749,frc9998,frc2521,frc753,frc2471,frc955,red,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,6,1,none,"did nothing during auto, very effective at ground intake instead of solely relying on going back to be fed by a human player",em
+2025orwv_qm4,qm,1,4,frc2521,frc749,frc9998,frc2521,frc753,frc2471,frc955,red,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,18,0,0,0,parked,"> coral intake missed a few times
+> super slow coral placement
+> solid defense, forced other robots to go to other coral station
+> a lot of incap time
+> auto coral place failed, recovered slowly",IK
+2025orwv_qm4,qm,1,4,frc753,frc749,frc9998,frc2521,frc753,frc2471,frc955,blue,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1.7,0,0,2,deep,"Auto was just moving forward and then they A-stopped. In teleop they wasted a lot of time just moving around and only removed 2 algae, can't really do coral well. Did deep climb in around 15 seconds, but not sure if it counted or not.",DS
+2025orwv_qm4,qm,1,4,frc2471,frc749,frc9998,frc2521,frc753,frc2471,frc955,blue,0,0,1,0,0,0,2,0,0,0,0,2,0,0,0,3,0,0,4,1,parked,"Mean Machine was really good at cycling ground coral.  They were able to get 2 coral on L4 in auto, with the third being scored in Teleop. Near the end of Teleop, they attempted to score an algae into the processor but failed. They then parked under the barge. Overall a very good match.",AH
+2025orwv_qm4,qm,1,4,frc955,frc749,frc9998,frc2521,frc753,frc2471,frc955,blue,0,0,0,0,1,0,2,0,0,0,0,3,0,1,0,3,0,0,0,0,parked,"attempted 3 got two ran out of time
+Missed many many times 2521was blocking them from getting coral at one point they went to other coral station over all slow
+Went over with like one second left",AW
+2025orwv_qm5,qm,1,5,frc3636,frc3636,frc997,frc1359,frc9997,frc2374,frc1540,red,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,0,0,0,5,none,,
+2025orwv_qm5,qm,1,5,frc997,frc3636,frc997,frc1359,frc9997,frc2374,frc1540,red,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,parked,"did nothing during auto, handles decently well and only missed 1-2 times",em
+2025orwv_qm5,qm,1,5,frc1359,frc3636,frc997,frc1359,frc9997,frc2374,frc1540,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,142.3,0,0,0,none,"> no auto
+> incap the entire match, no data (was fine in first match)",IK
+2025orwv_qm5,qm,1,5,frc9997,frc3636,frc997,frc1359,frc9997,frc2374,frc1540,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,parked,"Not sure what they did for auto. Did not do much during teleop, and can barely ground collect algae and put it in proc.",DS
+2025orwv_qm5,qm,1,5,frc2374,frc3636,frc997,frc1359,frc9997,frc2374,frc1540,blue,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,none,"Medium slow, not very consistent ",EK
+2025orwv_qm5,qm,1,5,frc1540,frc3636,frc997,frc1359,frc9997,frc2374,frc1540,blue,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,3,0,0,2,2,parked,,
+2025orwv_qm6,qm,1,6,frc2550,frc2550,frc9999,frc1425,frc4043,frc2635,frc6696,red,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,5,0,parked,"Skynet was mainly focused on putting algae into the processor. They were able to successfully put 4 algae into the processor, with the last one being defended by a blue alliance bot. They helped secure the win for the red alliance with a total score of 55 points.",AH
+2025orwv_qm6,qm,1,6,frc9999,frc2550,frc9999,frc1425,frc4043,frc2635,frc6696,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,parked,defense only what a guy,
+2025orwv_qm6,qm,1,6,frc1425,frc2550,frc9999,frc1425,frc4043,frc2635,frc6696,red,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,1,21.1,0,0,2,deep,"> lot of incap time
+> algae level changes were a little slow
+> good auto
+> good climb
+> not a lot of coral cycles (trouble w/ coral intake, kept falling out)",IK
+2025orwv_qm6,qm,1,6,frc4043,frc2550,frc9999,frc1425,frc4043,frc2635,frc6696,blue,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,19.3,0,0,0,none,"Auto coral fell out. Teleop didn't do anything, and they flipped over.",DS
+2025orwv_qm6,qm,1,6,frc2635,frc2550,frc9999,frc1425,frc4043,frc2635,frc6696,blue,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,
+2025orwv_qm6,qm,1,6,frc6696,frc2550,frc9999,frc1425,frc4043,frc2635,frc6696,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2.8,0,0,0,parked,"Went very tiny bit forward
+Incredibly slow only attempted I think once for coral slow confused slow placing im confused what goal was
+Seemed to attempt climb but could not climb ",AW
+2025orwv_qm7,qm,1,7,frc2990,frc2990,frc955,frc2733,frc2471,frc9998,frc7034,red,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,4,3,parked,Hotwired only really focused on L3 as they could do only that and algae removal. This disadvantage caused them to lose the match. In auto they missed their 1 coral. They then cycled removing algae from the reef as well as L3.,AH
+2025orwv_qm7,qm,1,7,frc955,frc2990,frc955,frc2733,frc2471,frc9998,frc7034,red,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,0,0,0,0,none,"missed first auto l4 coral, overall okay performance",em
+2025orwv_qm7,qm,1,7,frc2733,frc2990,frc955,frc2733,frc2471,frc9998,frc7034,red,0,0,0,0,0,1,3,0,0,0,0,2,0,0,0,3,0,0,0,0,none,team 2733 is a team that was placing on l4 but they were able to not climb however i think that they would be good in the match,pk
+2025orwv_qm7,qm,1,7,frc2471,frc2990,frc955,frc2733,frc2471,frc9998,frc7034,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,2,0,deep,"Auto was a bit confusing, just removed one algae. Cycles were pretty slow but can do ground collect. Deep climb was pretty fast and good.",DS
+2025orwv_qm7,qm,1,7,frc9998,frc2990,frc955,frc2733,frc2471,frc9998,frc7034,blue,0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,1,0,0,0,3,none,I think once their drivers get the hang of things they'll get faster. They're slow but their mechanisms aren't,EK
+2025orwv_qm7,qm,1,7,frc7034,frc2990,frc955,frc2733,frc2471,frc9998,frc7034,blue,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,3,0,0,0,1,deep,"quick auto got all attempted
+Teleop slow intake missed couple times over all bit slow
+End game went over with 15 ish secs left got up with 1 sec to spare",AW
+2025orwv_qm8,qm,1,8,frc957,frc957,frc749,frc753,frc6443,frc2521,frc5468,red,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,2,3.5,0,0,0,parked,SWARM spent lots of time waiting for alliance members to clear the coral station. They mainly cycled L4 as much as possible. The alliance struggled to coordinate their coral collection resulting in their loss.,AH
+2025orwv_qm8,qm,1,8,frc749,frc957,frc749,frc753,frc6443,frc2521,frc5468,red,0,0,0,1,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,parked,"Good and calibrated for putting down l3s, possibly unable to do l4 as a side effect?",em
+2025orwv_qm8,qm,1,8,frc753,frc957,frc749,frc753,frc6443,frc2521,frc5468,red,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,shallow,they did not move during the auto and start but in the teleop they got one algae removal and they got a lot of coral on L2 and on L1 and for the endgame they did shallow climb but they did not climb,PK
+2025orwv_qm8,qm,1,8,frc6443,frc957,frc749,frc753,frc6443,frc2521,frc5468,blue,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,deep,"Just moved forward during auto. During teleop they were somewhat good at removing algae, but not really. Got a few coral cycles on L3, but are somewhat slow, not very but not fast. Deep climbed in good time.",DS
+2025orwv_qm8,qm,1,8,frc2521,frc957,frc749,frc753,frc6443,frc2521,frc5468,blue,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,parked,"A bit of communication difficulties very likely, also struggle bussin on coral placement (ramming into in attempt to release coral) but alas...",AM
+2025orwv_qm8,qm,1,8,frc5468,frc957,frc749,frc753,frc6443,frc2521,frc5468,blue,0,0,1,0,0,0,3,0,0,0,0,1,0,0,0,0,7.6,0,0,1,deep,"Quick during auto
+Had trouble with buttons I only started watching at 1:20 sec left at one point got stuck on coral intake I think their arm was up quickish
+5ish sec climb went over with like 23ish sec left",AW
+2025orwv_qm9,qm,1,9,frc6696,frc6696,frc2635,frc2550,frc4043,frc997,frc9997,red,0,0,0,0,1,0,1,0,0,0,0,5,0,0,0,3,0,0,0,1,parked,Cardinal Dynamics were mainly placing on the higher levels with one algae removal. Overall they helped their alliance get the win.,AH
+2025orwv_qm9,qm,1,9,frc2635,frc6696,frc2635,frc2550,frc4043,frc997,frc9997,red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,none,"Frozen during auto, seems very easy to tip over when holding an algae and being extended upwards",em
+2025orwv_qm9,qm,1,9,frc2550,frc6696,frc2635,frc2550,frc4043,frc997,frc9997,red,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,shallow,this robot was able to place coral on L4 but they were not able to place on the other levels but they were able to shallow climb,PK
+2025orwv_qm9,qm,1,9,frc4043,frc6696,frc2635,frc2550,frc4043,frc997,frc9997,blue,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,1,parked,"Only placed one coral on L4. Had really slow cycles and manually places, but got 3 coral on L4. Tried to deep climb but had trouble and just parked.",DS
+2025orwv_qm9,qm,1,9,frc997,frc6696,frc2635,frc2550,frc4043,frc997,frc9997,blue,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,none,"Their elevator is so slow, and they frequently leave it up when driving, so they ALSO drive slow. They spent probably 10 seconds trying to remove algae and failed",
+2025orwv_qm9,qm,1,9,frc9997,frc6696,frc2635,frc2550,frc4043,frc997,frc9997,blue,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,37,1,0,0,parked,"Very very slow went forward nothing else
+Bad intake very slow intake quite unsteady/wobbly took more than 7 sec for procceser over all not very good went to other side got algae got rid of it
+I can't tell if it was having issues or it was purposeful I clicked timer incase went to cages did not seem to attempt to climb",AW
