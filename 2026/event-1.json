@@ -1,0 +1,71 @@
+{
+  "hidden_hints_": [],
+  "data_info_": {
+    "scouted_team_": [],
+    "scouted_match_": [],
+    "match_results_": [],
+    "team_results_": [],
+    "match_formulas_": [],
+    "team_formulas_": []
+  },
+  "dataset_info_": {
+    "datasets_": [
+      {
+        "name": "All",
+        "matches": {
+          "kind": "all",
+          "first": -1,
+          "last": -1
+        },
+        "formula": ""
+      }
+    ]
+  },
+  "picklist_info_": {
+    "picklist_": [],
+    "coaches_picklist_": []
+  },
+  "team_info_": {
+    "teams_": []
+  },
+  "formula_info_": {
+    "formulas_": [],
+    "coach_formulas_": []
+  },
+  "tablet_info_": {
+    "tablets_": [],
+    "teamassignments_": [],
+    "matchassignements_": [],
+    "playoffassignments_": []
+  },
+  "match_info_": {
+    "matches_": []
+  },
+  "graph_info_": {
+    "single_team_configs_": [],
+    "coach_configs_": []
+  },
+  "form_info_": {
+    "matchform_": "match.json"
+  },
+  "team_db_info_": {
+    "col_descs_": []
+  },
+  "match_db_info_": {
+    "col_descs_": []
+  },
+  "playoff_info_": {
+    "alliances": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "outcomes": {}
+  },
+  "locked_": false
+}
